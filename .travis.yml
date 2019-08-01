@@ -1,0 +1,6 @@
+language: php
+before_install:
+  - git config --global url."https://api:$GITHUB_TOKEN@github.com/".insteadOf "https://github.com/"
+  - git config --global url."https://ssh:$GITHUB_TOKEN@github.com/".insteadOf "ssh://git@github.com/"
+  - git config --global url."https://git:$GITHUB_TOKEN@github.com/".insteadOf "git@github.com:"
+script: composer run-script deploy
