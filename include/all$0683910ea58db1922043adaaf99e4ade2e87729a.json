@@ -34,11 +34,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/0.1",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.0.0": {
                 "name": "grades-paca/address",
@@ -73,11 +69,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.0.0",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.0.1": {
                 "name": "grades-paca/address",
@@ -112,11 +104,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.0.1",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.0.2": {
                 "name": "grades-paca/address",
@@ -151,11 +139,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.0.2",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.0.3": {
                 "name": "grades-paca/address",
@@ -190,11 +174,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.0.3",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.0.4": {
                 "name": "grades-paca/address",
@@ -229,11 +209,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.0.4",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.0.5": {
                 "name": "grades-paca/address",
@@ -257,7 +233,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2016-03-01T11:16:21+00:00",
+                "time": "2016-03-01T11:16:10+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -269,11 +245,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.0.5",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.0.6": {
                 "name": "grades-paca/address",
@@ -309,11 +281,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.0.6",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.0.7": {
                 "name": "grades-paca/address",
@@ -349,11 +317,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.0.7",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.0.8": {
                 "name": "grades-paca/address",
@@ -377,7 +341,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2016-03-17T14:58:46+00:00",
+                "time": "2016-03-17T14:58:31+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -389,11 +353,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.0.8",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.0.9": {
                 "name": "grades-paca/address",
@@ -429,11 +389,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.0.9",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.0.x-dev": {
                 "name": "grades-paca/address",
@@ -469,11 +425,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.0.9",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.1.0": {
                 "name": "grades-paca/address",
@@ -509,11 +461,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.1.0",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.1.1": {
                 "name": "grades-paca/address",
@@ -549,11 +497,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.1.1",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.1.2": {
                 "name": "grades-paca/address",
@@ -589,11 +533,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.1.2",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.1.3": {
                 "name": "grades-paca/address",
@@ -629,11 +569,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.1.3",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.1.4": {
                 "name": "grades-paca/address",
@@ -669,11 +605,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.1.4",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.1.5": {
                 "name": "grades-paca/address",
@@ -709,11 +641,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.1.5",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.1.6": {
                 "name": "grades-paca/address",
@@ -749,11 +677,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.1.6",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.1.7": {
                 "name": "grades-paca/address",
@@ -789,11 +713,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.1.7",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.1.x-dev": {
                 "name": "grades-paca/address",
@@ -829,11 +749,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.1.7",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.2.0": {
                 "name": "grades-paca/address",
@@ -858,7 +774,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2016-06-02T10:00:19+00:00",
+                "time": "2016-05-31T13:33:11+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -870,11 +786,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.2.0",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.2.1": {
                 "name": "grades-paca/address",
@@ -911,11 +823,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.2.1",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.2.2": {
                 "name": "grades-paca/address",
@@ -952,11 +860,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.2.2",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.2.3": {
                 "name": "grades-paca/address",
@@ -993,11 +897,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.2.3",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.2.4": {
                 "name": "grades-paca/address",
@@ -1034,11 +934,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.2.4",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.2.5": {
                 "name": "grades-paca/address",
@@ -1075,11 +971,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.2.5",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.2.6": {
                 "name": "grades-paca/address",
@@ -1116,11 +1008,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.2.6",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.2.7": {
                 "name": "grades-paca/address",
@@ -1157,11 +1045,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.2.7",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.2.8": {
                 "name": "grades-paca/address",
@@ -1198,11 +1082,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.2.8",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.2.x-dev": {
                 "name": "grades-paca/address",
@@ -1239,11 +1119,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.2.8",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.0": {
                 "name": "grades-paca/address",
@@ -1280,11 +1156,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.0",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.1": {
                 "name": "grades-paca/address",
@@ -1321,11 +1193,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.1",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.10": {
                 "name": "grades-paca/address",
@@ -1350,7 +1218,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2017-03-14T12:39:34+00:00",
+                "time": "2017-03-14T12:22:06+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1362,11 +1230,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.10",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.11": {
                 "name": "grades-paca/address",
@@ -1403,11 +1267,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.11",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.12": {
                 "name": "grades-paca/address",
@@ -1444,11 +1304,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.12",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.13": {
                 "name": "grades-paca/address",
@@ -1473,7 +1329,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2017-04-06T13:04:02+00:00",
+                "time": "2017-04-06T07:48:17+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1485,11 +1341,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.13",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.14": {
                 "name": "grades-paca/address",
@@ -1526,11 +1378,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.14",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.15": {
                 "name": "grades-paca/address",
@@ -1567,11 +1415,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.15",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.16": {
                 "name": "grades-paca/address",
@@ -1608,11 +1452,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.16",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.17": {
                 "name": "grades-paca/address",
@@ -1649,11 +1489,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.17",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.18": {
                 "name": "grades-paca/address",
@@ -1690,11 +1526,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.18",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.19": {
                 "name": "grades-paca/address",
@@ -1719,7 +1551,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2017-05-10T12:45:38+00:00",
+                "time": "2017-05-10T07:40:19+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1731,11 +1563,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.19",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.2": {
                 "name": "grades-paca/address",
@@ -1760,7 +1588,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2016-10-18T09:03:49+00:00",
+                "time": "2016-04-05T13:05:54+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1772,11 +1600,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.2",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.20": {
                 "name": "grades-paca/address",
@@ -1813,11 +1637,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.20",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.21": {
                 "name": "grades-paca/address",
@@ -1854,11 +1674,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.21",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.22": {
                 "name": "grades-paca/address",
@@ -1895,11 +1711,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.22",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.23": {
                 "name": "grades-paca/address",
@@ -1924,7 +1736,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2017-06-29T08:02:41+00:00",
+                "time": "2017-06-28T14:21:34+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1936,11 +1748,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.23",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.24": {
                 "name": "grades-paca/address",
@@ -1977,11 +1785,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.24",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.25": {
                 "name": "grades-paca/address",
@@ -2006,7 +1810,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2017-07-04T13:03:30+00:00",
+                "time": "2017-07-04T13:02:58+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -2018,11 +1822,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.25",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.26": {
                 "name": "grades-paca/address",
@@ -2059,11 +1859,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.26",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.27": {
                 "name": "grades-paca/address",
@@ -2100,11 +1896,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.27",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.28": {
                 "name": "grades-paca/address",
@@ -2141,11 +1933,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.28",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.29": {
                 "name": "grades-paca/address",
@@ -2182,11 +1970,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.29",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.3": {
                 "name": "grades-paca/address",
@@ -2223,11 +2007,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.3",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.30": {
                 "name": "grades-paca/address",
@@ -2264,11 +2044,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.30",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.31": {
                 "name": "grades-paca/address",
@@ -2305,11 +2081,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.31",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.4": {
                 "name": "grades-paca/address",
@@ -2346,11 +2118,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.4",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.5": {
                 "name": "grades-paca/address",
@@ -2387,11 +2155,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.5",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.6": {
                 "name": "grades-paca/address",
@@ -2428,11 +2192,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.6",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.7": {
                 "name": "grades-paca/address",
@@ -2469,11 +2229,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.7",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.8": {
                 "name": "grades-paca/address",
@@ -2510,11 +2266,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.8",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.9": {
                 "name": "grades-paca/address",
@@ -2551,11 +2303,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.9",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.3.x-dev": {
                 "name": "grades-paca/address",
@@ -2592,11 +2340,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.31",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.4.x-dev": {
                 "name": "grades-paca/address",
@@ -2633,11 +2377,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.3.31",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.0": {
                 "name": "grades-paca/address",
@@ -2662,7 +2402,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2017-06-29T08:11:55+00:00",
+                "time": "2017-05-29T12:48:00+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -2674,11 +2414,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.0",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.1": {
                 "name": "grades-paca/address",
@@ -2715,11 +2451,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.1",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.10": {
                 "name": "grades-paca/address",
@@ -2756,11 +2488,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.10",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.11": {
                 "name": "grades-paca/address",
@@ -2797,11 +2525,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.11",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.12": {
                 "name": "grades-paca/address",
@@ -2838,11 +2562,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.12",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.13": {
                 "name": "grades-paca/address",
@@ -2879,11 +2599,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.13",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.14": {
                 "name": "grades-paca/address",
@@ -2920,11 +2636,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.14",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.15": {
                 "name": "grades-paca/address",
@@ -2961,11 +2673,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.15",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.16": {
                 "name": "grades-paca/address",
@@ -3002,11 +2710,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.16",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.2": {
                 "name": "grades-paca/address",
@@ -3031,7 +2735,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2017-06-29T08:52:27+00:00",
+                "time": "2017-05-29T12:48:00+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -3043,11 +2747,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.2",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.3": {
                 "name": "grades-paca/address",
@@ -3084,11 +2784,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.3",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.4": {
                 "name": "grades-paca/address",
@@ -3125,11 +2821,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.4",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.5": {
                 "name": "grades-paca/address",
@@ -3166,11 +2858,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.5",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.6": {
                 "name": "grades-paca/address",
@@ -3207,11 +2895,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.6",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.7": {
                 "name": "grades-paca/address",
@@ -3248,11 +2932,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.7",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.8": {
                 "name": "grades-paca/address",
@@ -3289,11 +2969,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.8",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.5.9": {
                 "name": "grades-paca/address",
@@ -3330,11 +3006,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.5.9",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.0": {
                 "name": "grades-paca/address",
@@ -3371,11 +3043,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.0",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.1": {
                 "name": "grades-paca/address",
@@ -3412,11 +3080,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.1",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.10": {
                 "name": "grades-paca/address",
@@ -3453,11 +3117,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.10",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.11": {
                 "name": "grades-paca/address",
@@ -3494,11 +3154,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.11",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.12": {
                 "name": "grades-paca/address",
@@ -3535,11 +3191,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.12",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.13": {
                 "name": "grades-paca/address",
@@ -3576,11 +3228,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.13",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.14": {
                 "name": "grades-paca/address",
@@ -3617,11 +3265,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.14",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.15": {
                 "name": "grades-paca/address",
@@ -3658,11 +3302,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.15",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.16": {
                 "name": "grades-paca/address",
@@ -3687,7 +3327,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-08-01T11:25:04+00:00",
+                "time": "2018-07-30T11:19:45+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -3699,11 +3339,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.16",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.17": {
                 "name": "grades-paca/address",
@@ -3728,7 +3364,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-08-23T08:51:16+00:00",
+                "time": "2018-08-23T08:49:31+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -3740,11 +3376,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.17",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.2": {
                 "name": "grades-paca/address",
@@ -3781,11 +3413,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.2",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.3": {
                 "name": "grades-paca/address",
@@ -3822,11 +3450,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.3",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.4": {
                 "name": "grades-paca/address",
@@ -3863,11 +3487,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.4",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.5": {
                 "name": "grades-paca/address",
@@ -3892,7 +3512,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-04-11T17:09:02+00:00",
+                "time": "2018-04-11T17:08:46+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -3904,11 +3524,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.5",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.6": {
                 "name": "grades-paca/address",
@@ -3945,11 +3561,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.6",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.7": {
                 "name": "grades-paca/address",
@@ -3986,11 +3598,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.7",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.8": {
                 "name": "grades-paca/address",
@@ -4027,11 +3635,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.8",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.9": {
                 "name": "grades-paca/address",
@@ -4068,11 +3672,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.9",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.6.x-dev": {
                 "name": "grades-paca/address",
@@ -4097,7 +3697,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-08-23T08:51:16+00:00",
+                "time": "2018-08-23T08:49:31+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -4109,11 +3709,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.6.17",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.7.0": {
                 "name": "grades-paca/address",
@@ -4150,11 +3746,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.7.0",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.7.1": {
                 "name": "grades-paca/address",
@@ -4179,7 +3771,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-09-19T06:27:50+00:00",
+                "time": "2018-09-19T06:26:27+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -4191,11 +3783,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.7.1",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.7.2": {
                 "name": "grades-paca/address",
@@ -4232,11 +3820,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.7.2",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.7.3": {
                 "name": "grades-paca/address",
@@ -4273,11 +3857,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.7.3",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.7.4": {
                 "name": "grades-paca/address",
@@ -4314,11 +3894,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.7.4",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.7.5": {
                 "name": "grades-paca/address",
@@ -4355,11 +3931,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.7.5",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.7.6": {
                 "name": "grades-paca/address",
@@ -4396,11 +3968,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.7.6",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.7.7": {
                 "name": "grades-paca/address",
@@ -4425,7 +3993,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2019-05-20T08:50:47+00:00",
+                "time": "2019-05-20T08:47:03+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -4437,11 +4005,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.7.7",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.7.8": {
                 "name": "grades-paca/address",
@@ -4478,11 +4042,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.7.8",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.7.x-dev": {
                 "name": "grades-paca/address",
@@ -4519,11 +4079,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.7.8",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.0": {
                 "name": "grades-paca/address",
@@ -4560,11 +4116,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.0",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.1": {
                 "name": "grades-paca/address",
@@ -4601,11 +4153,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.1",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.10": {
                 "name": "grades-paca/address",
@@ -4642,11 +4190,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.10",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.11": {
                 "name": "grades-paca/address",
@@ -4683,11 +4227,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.11",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.12": {
                 "name": "grades-paca/address",
@@ -4712,7 +4252,7 @@
                     "oru/translation": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-01T08:25:58+00:00",
+                "time": "2019-07-31T10:17:23+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -4724,11 +4264,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.12",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.2": {
                 "name": "grades-paca/address",
@@ -4753,7 +4289,7 @@
                     "oru/translation": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-02-14T14:40:39+00:00",
+                "time": "2019-02-14T14:36:17+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -4765,11 +4301,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.2",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.3": {
                 "name": "grades-paca/address",
@@ -4794,7 +4326,7 @@
                     "oru/translation": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-02-20T07:30:47+00:00",
+                "time": "2018-11-15T14:49:25+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -4806,11 +4338,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.3",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.4": {
                 "name": "grades-paca/address",
@@ -4847,11 +4375,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.4",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.5": {
                 "name": "grades-paca/address",
@@ -4888,11 +4412,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.5",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.6": {
                 "name": "grades-paca/address",
@@ -4929,11 +4449,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.6",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.7": {
                 "name": "grades-paca/address",
@@ -4970,11 +4486,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.7",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.8": {
                 "name": "grades-paca/address",
@@ -5011,11 +4523,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.8",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "1.8.9": {
                 "name": "grades-paca/address",
@@ -5052,11 +4560,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.9",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "10911.x-dev": {
                 "name": "grades-paca/address",
@@ -5093,11 +4597,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/10911",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "3.0.x-dev": {
                 "name": "grades-paca/address",
@@ -5132,11 +4632,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/3.0",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "dev-master": {
                 "name": "grades-paca/address",
@@ -5161,7 +4657,7 @@
                     "oru/translation": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-01T08:25:58+00:00",
+                "time": "2019-07-31T10:17:23+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -5173,11 +4669,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/1.8.12",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             },
             "dev-capacite": {
                 "name": "grades-paca/address",
@@ -5202,7 +4694,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-11-30T12:44:15+00:00",
+                "time": "2018-11-15T14:49:25+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -5214,11 +4706,7 @@
                         "Oru\\Bundle\\AddressBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'adresses",
-                "support": {
-                    "source": "https://github.com/grades-paca/address/tree/capacite",
-                    "issues": "https://github.com/grades-paca/address/issues"
-                }
+                "description": "Bundle de gestion d'adresses"
             }
         }
     }
