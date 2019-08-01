@@ -1,41 +1,6 @@
 {
     "packages": {
         "grades-paca/address": {
-            "0.1.x-dev": {
-                "name": "grades-paca/address",
-                "version": "0.1.x-dev",
-                "version_normalized": "0.1.9999999.9999999-dev",
-                "target-dir": "Oru/Bundle/AddressBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/address.git",
-                    "reference": "ee49f545c95381cb59a0ea09d2a03cb486520fd8"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/address/zipball/ee49f545c95381cb59a0ea09d2a03cb486520fd8",
-                    "reference": "ee49f545c95381cb59a0ea09d2a03cb486520fd8",
-                    "shasum": ""
-                },
-                "require": {
-                    "oru/lst": "*",
-                    "oru/translation": "*",
-                    "symfony/symfony": ">=2.3,<3.0@dev"
-                },
-                "time": "2015-11-23T17:12:01+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "3.0.x-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\AddressBundle\\": ""
-                    }
-                },
-                "description": "Bundle de gestion d'adresses"
-            },
             "1.0.0": {
                 "name": "grades-paca/address",
                 "version": "1.0.0",
@@ -4586,78 +4551,6 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
                 "time": "2019-06-13T08:57:56+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "3.0.x-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\AddressBundle\\": ""
-                    }
-                },
-                "description": "Bundle de gestion d'adresses"
-            },
-            "10911.x-dev": {
-                "name": "grades-paca/address",
-                "version": "10911.x-dev",
-                "version_normalized": "10911.9999999.9999999.9999999-dev",
-                "target-dir": "Oru/Bundle/AddressBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/address.git",
-                    "reference": "a02d1662cfae6096c35ebfc219ca65f8812d5ddc"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/address/zipball/a02d1662cfae6096c35ebfc219ca65f8812d5ddc",
-                    "reference": "a02d1662cfae6096c35ebfc219ca65f8812d5ddc",
-                    "shasum": ""
-                },
-                "require": {
-                    "oru/design": "~1.3.0",
-                    "oru/install": ">=1.0.5,<3.0",
-                    "oru/lst": "*",
-                    "oru/translation": "*",
-                    "symfony/symfony": ">=2.3,<3.0@dev"
-                },
-                "time": "2016-10-19T11:42:33+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "3.0.x-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\AddressBundle\\": ""
-                    }
-                },
-                "description": "Bundle de gestion d'adresses"
-            },
-            "3.0.x-dev": {
-                "name": "grades-paca/address",
-                "version": "3.0.x-dev",
-                "version_normalized": "3.0.9999999.9999999-dev",
-                "target-dir": "Oru/Bundle/AddressBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/address.git",
-                    "reference": "fe82a9dc070228a52ce44225b4ddb508d27b7cea"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/address/zipball/fe82a9dc070228a52ce44225b4ddb508d27b7cea",
-                    "reference": "fe82a9dc070228a52ce44225b4ddb508d27b7cea",
-                    "shasum": ""
-                },
-                "require": {
-                    "oru/lst": "*",
-                    "oru/translation": "*",
-                    "symfony/symfony": ">=2.3,<3.0@dev"
-                },
-                "time": "2015-09-30T14:50:13+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
