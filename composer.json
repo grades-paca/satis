@@ -1,0 +1,22 @@
+{
+  "name": "gradespaca/satis",
+  "description": "Composer Satis repository reference for Grades PACA.",
+  "type": "project",
+  "homepage": "https://github.com/grades-paca/satis",
+  "require": {
+    "composer/satis": "dev-master"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "André Cardoso",
+      "email": "acardoso@is-sud.fr"
+    }
+  ],
+  "minimum-stability": "dev",
+  "scripts": {
+    "install-deps": "@composer install",
+    "build": "satis build satis.json public --no-interaction",
+    "deploy": "sh deploy.sh"
+  }
+}

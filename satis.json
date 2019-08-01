@@ -1,0 +1,8 @@
+{
+  "name": "grades-paca/satis",
+  "homepage": "https://grades-paca.github.io/satis/",
+  "repositories": [
+    { "type": "vcs", "url": "https://github.com/grades-paca/address.git" }
+  ],
+  "require-all": true
+}
