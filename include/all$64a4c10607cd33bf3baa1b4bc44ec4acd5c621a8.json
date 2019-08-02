@@ -1,8 +1,8 @@
 {
     "packages": {
-        "grades-paca/address": {
+        "grades-paca/bundle-address": {
             "1.0.0": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.0.0",
                 "version_normalized": "1.0.0.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -37,7 +37,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.0.1": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.0.1",
                 "version_normalized": "1.0.1.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -72,7 +72,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.0.2": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.0.2",
                 "version_normalized": "1.0.2.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -107,7 +107,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.0.3": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.0.3",
                 "version_normalized": "1.0.3.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -142,7 +142,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.0.4": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.0.4",
                 "version_normalized": "1.0.4.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -177,7 +177,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.0.5": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.0.5",
                 "version_normalized": "1.0.5.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -213,7 +213,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.0.6": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.0.6",
                 "version_normalized": "1.0.6.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -249,7 +249,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.0.7": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.0.7",
                 "version_normalized": "1.0.7.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -285,7 +285,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.0.8": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.0.8",
                 "version_normalized": "1.0.8.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -321,7 +321,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.0.9": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.0.9",
                 "version_normalized": "1.0.9.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -357,7 +357,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.0.x-dev": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.0.x-dev",
                 "version_normalized": "1.0.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -393,7 +393,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.1.0": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.1.0",
                 "version_normalized": "1.1.0.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -429,7 +429,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.1.1": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.1.1",
                 "version_normalized": "1.1.1.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -465,7 +465,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.1.2": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.1.2",
                 "version_normalized": "1.1.2.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -501,7 +501,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.1.3": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.1.3",
                 "version_normalized": "1.1.3.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -537,7 +537,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.1.4": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.1.4",
                 "version_normalized": "1.1.4.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -573,7 +573,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.1.5": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.1.5",
                 "version_normalized": "1.1.5.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -609,7 +609,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.1.6": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.1.6",
                 "version_normalized": "1.1.6.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -645,7 +645,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.1.7": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.1.7",
                 "version_normalized": "1.1.7.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -681,7 +681,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.1.x-dev": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.1.x-dev",
                 "version_normalized": "1.1.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -717,7 +717,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.2.0": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.2.0",
                 "version_normalized": "1.2.0.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -754,7 +754,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.2.1": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.2.1",
                 "version_normalized": "1.2.1.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -791,7 +791,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.2.2": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.2.2",
                 "version_normalized": "1.2.2.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -828,7 +828,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.2.3": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.2.3",
                 "version_normalized": "1.2.3.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -865,7 +865,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.2.4": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.2.4",
                 "version_normalized": "1.2.4.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -902,7 +902,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.2.5": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.2.5",
                 "version_normalized": "1.2.5.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -939,7 +939,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.2.6": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.2.6",
                 "version_normalized": "1.2.6.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -976,7 +976,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.2.7": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.2.7",
                 "version_normalized": "1.2.7.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1013,7 +1013,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.2.8": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.2.8",
                 "version_normalized": "1.2.8.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1050,7 +1050,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.2.x-dev": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.2.x-dev",
                 "version_normalized": "1.2.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1087,7 +1087,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.0": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.0",
                 "version_normalized": "1.3.0.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1124,7 +1124,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.1": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.1",
                 "version_normalized": "1.3.1.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1161,7 +1161,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.10": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.10",
                 "version_normalized": "1.3.10.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1198,7 +1198,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.11": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.11",
                 "version_normalized": "1.3.11.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1235,7 +1235,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.12": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.12",
                 "version_normalized": "1.3.12.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1272,7 +1272,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.13": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.13",
                 "version_normalized": "1.3.13.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1309,7 +1309,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.14": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.14",
                 "version_normalized": "1.3.14.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1346,7 +1346,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.15": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.15",
                 "version_normalized": "1.3.15.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1383,7 +1383,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.16": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.16",
                 "version_normalized": "1.3.16.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1420,7 +1420,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.17": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.17",
                 "version_normalized": "1.3.17.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1457,7 +1457,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.18": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.18",
                 "version_normalized": "1.3.18.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1494,7 +1494,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.19": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.19",
                 "version_normalized": "1.3.19.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1531,7 +1531,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.2": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.2",
                 "version_normalized": "1.3.2.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1568,7 +1568,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.20": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.20",
                 "version_normalized": "1.3.20.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1605,7 +1605,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.21": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.21",
                 "version_normalized": "1.3.21.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1642,7 +1642,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.22": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.22",
                 "version_normalized": "1.3.22.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1679,7 +1679,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.23": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.23",
                 "version_normalized": "1.3.23.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1716,7 +1716,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.24": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.24",
                 "version_normalized": "1.3.24.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1753,7 +1753,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.25": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.25",
                 "version_normalized": "1.3.25.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1790,7 +1790,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.26": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.26",
                 "version_normalized": "1.3.26.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1827,7 +1827,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.27": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.27",
                 "version_normalized": "1.3.27.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1864,7 +1864,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.28": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.28",
                 "version_normalized": "1.3.28.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1901,7 +1901,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.29": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.29",
                 "version_normalized": "1.3.29.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1938,7 +1938,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.3": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.3",
                 "version_normalized": "1.3.3.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -1975,7 +1975,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.30": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.30",
                 "version_normalized": "1.3.30.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2012,7 +2012,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.31": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.31",
                 "version_normalized": "1.3.31.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2049,7 +2049,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.4": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.4",
                 "version_normalized": "1.3.4.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2086,7 +2086,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.5": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.5",
                 "version_normalized": "1.3.5.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2123,7 +2123,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.6": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.6",
                 "version_normalized": "1.3.6.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2160,7 +2160,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.7": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.7",
                 "version_normalized": "1.3.7.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2197,7 +2197,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.8": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.8",
                 "version_normalized": "1.3.8.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2234,7 +2234,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.9": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.9",
                 "version_normalized": "1.3.9.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2271,7 +2271,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.3.x-dev": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.3.x-dev",
                 "version_normalized": "1.3.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2308,7 +2308,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.4.x-dev": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.4.x-dev",
                 "version_normalized": "1.4.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2345,7 +2345,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.0": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.0",
                 "version_normalized": "1.5.0.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2382,7 +2382,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.1": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.1",
                 "version_normalized": "1.5.1.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2419,7 +2419,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.10": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.10",
                 "version_normalized": "1.5.10.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2456,7 +2456,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.11": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.11",
                 "version_normalized": "1.5.11.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2493,7 +2493,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.12": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.12",
                 "version_normalized": "1.5.12.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2530,7 +2530,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.13": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.13",
                 "version_normalized": "1.5.13.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2567,7 +2567,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.14": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.14",
                 "version_normalized": "1.5.14.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2604,7 +2604,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.15": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.15",
                 "version_normalized": "1.5.15.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2641,7 +2641,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.16": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.16",
                 "version_normalized": "1.5.16.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2678,7 +2678,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.2": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.2",
                 "version_normalized": "1.5.2.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2715,7 +2715,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.3": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.3",
                 "version_normalized": "1.5.3.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2752,7 +2752,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.4": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.4",
                 "version_normalized": "1.5.4.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2789,7 +2789,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.5": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.5",
                 "version_normalized": "1.5.5.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2826,7 +2826,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.6": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.6",
                 "version_normalized": "1.5.6.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2863,7 +2863,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.7": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.7",
                 "version_normalized": "1.5.7.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2900,7 +2900,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.8": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.8",
                 "version_normalized": "1.5.8.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2937,7 +2937,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.5.9": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.5.9",
                 "version_normalized": "1.5.9.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -2974,7 +2974,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.0": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.0",
                 "version_normalized": "1.6.0.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3011,7 +3011,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.1": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.1",
                 "version_normalized": "1.6.1.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3048,7 +3048,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.10": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.10",
                 "version_normalized": "1.6.10.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3085,7 +3085,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.11": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.11",
                 "version_normalized": "1.6.11.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3122,7 +3122,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.12": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.12",
                 "version_normalized": "1.6.12.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3159,7 +3159,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.13": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.13",
                 "version_normalized": "1.6.13.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3196,7 +3196,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.14": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.14",
                 "version_normalized": "1.6.14.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3233,7 +3233,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.15": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.15",
                 "version_normalized": "1.6.15.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3270,7 +3270,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.16": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.16",
                 "version_normalized": "1.6.16.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3307,7 +3307,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.17": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.17",
                 "version_normalized": "1.6.17.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3344,7 +3344,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.2": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.2",
                 "version_normalized": "1.6.2.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3381,7 +3381,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.3": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.3",
                 "version_normalized": "1.6.3.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3418,7 +3418,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.4": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.4",
                 "version_normalized": "1.6.4.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3455,7 +3455,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.5": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.5",
                 "version_normalized": "1.6.5.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3492,7 +3492,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.6": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.6",
                 "version_normalized": "1.6.6.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3529,7 +3529,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.7": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.7",
                 "version_normalized": "1.6.7.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3566,7 +3566,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.8": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.8",
                 "version_normalized": "1.6.8.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3603,7 +3603,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.9": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.9",
                 "version_normalized": "1.6.9.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3640,7 +3640,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.6.x-dev": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.6.x-dev",
                 "version_normalized": "1.6.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3677,7 +3677,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.7.0": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.7.0",
                 "version_normalized": "1.7.0.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3714,7 +3714,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.7.1": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.7.1",
                 "version_normalized": "1.7.1.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3751,7 +3751,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.7.2": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.7.2",
                 "version_normalized": "1.7.2.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3788,7 +3788,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.7.3": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.7.3",
                 "version_normalized": "1.7.3.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3825,7 +3825,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.7.4": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.7.4",
                 "version_normalized": "1.7.4.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3862,7 +3862,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.7.5": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.7.5",
                 "version_normalized": "1.7.5.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3899,7 +3899,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.7.6": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.7.6",
                 "version_normalized": "1.7.6.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3936,7 +3936,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.7.7": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.7.7",
                 "version_normalized": "1.7.7.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -3973,7 +3973,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.7.8": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.7.8",
                 "version_normalized": "1.7.8.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4010,7 +4010,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.7.x-dev": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.7.x-dev",
                 "version_normalized": "1.7.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4047,7 +4047,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.8.0": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.0",
                 "version_normalized": "1.8.0.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4084,7 +4084,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.8.1": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.1",
                 "version_normalized": "1.8.1.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4121,7 +4121,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.8.10": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.10",
                 "version_normalized": "1.8.10.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4158,7 +4158,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.8.11": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.11",
                 "version_normalized": "1.8.11.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4195,19 +4195,19 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.8.12": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.12",
                 "version_normalized": "1.8.12.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/address.git",
-                    "reference": "2bf1e29ac85675116bbfb11bede56dba689b9a31"
+                    "reference": "ea939c68a581d881258a38c451259fddb82e5b09"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/address/zipball/2bf1e29ac85675116bbfb11bede56dba689b9a31",
-                    "reference": "2bf1e29ac85675116bbfb11bede56dba689b9a31",
+                    "url": "https://api.github.com/repos/grades-paca/address/zipball/ea939c68a581d881258a38c451259fddb82e5b09",
+                    "reference": "ea939c68a581d881258a38c451259fddb82e5b09",
                     "shasum": ""
                 },
                 "require": {
@@ -4231,82 +4231,8 @@
                 },
                 "description": "Bundle de gestion d'adresses"
             },
-            "1.8.13": {
-                "name": "grades-paca/address",
-                "version": "1.8.13",
-                "version_normalized": "1.8.13.0",
-                "target-dir": "Oru/Bundle/AddressBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/address.git",
-                    "reference": "d091dc943c3aeb3287ecc89c0ed57968256a10dc"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/address/zipball/d091dc943c3aeb3287ecc89c0ed57968256a10dc",
-                    "reference": "d091dc943c3aeb3287ecc89c0ed57968256a10dc",
-                    "shasum": ""
-                },
-                "require": {
-                    "oru/design": "*",
-                    "oru/install": ">=1.0.5,<3.0",
-                    "oru/lst": ">=1.1.8",
-                    "oru/translation": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0"
-                },
-                "time": "2019-08-01T12:47:17+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0.x-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\AddressBundle\\": ""
-                    }
-                },
-                "description": "Bundle de gestion d'adresses"
-            },
-            "1.8.14": {
-                "name": "grades-paca/address",
-                "version": "1.8.14",
-                "version_normalized": "1.8.14.0",
-                "target-dir": "Oru/Bundle/AddressBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/address.git",
-                    "reference": "0059cb6f431ac8edb9f53d4310f58e86d0369940"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/address/zipball/0059cb6f431ac8edb9f53d4310f58e86d0369940",
-                    "reference": "0059cb6f431ac8edb9f53d4310f58e86d0369940",
-                    "shasum": ""
-                },
-                "require": {
-                    "oru/design": "*",
-                    "oru/install": ">=1.0.5,<3.0",
-                    "oru/lst": ">=1.1.8",
-                    "oru/translation": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0"
-                },
-                "time": "2019-08-01T13:09:36+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0.x-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\AddressBundle\\": ""
-                    }
-                },
-                "description": "Bundle de gestion d'adresses"
-            },
             "1.8.2": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.2",
                 "version_normalized": "1.8.2.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4343,7 +4269,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.8.3": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.3",
                 "version_normalized": "1.8.3.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4380,7 +4306,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.8.4": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.4",
                 "version_normalized": "1.8.4.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4417,7 +4343,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.8.5": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.5",
                 "version_normalized": "1.8.5.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4454,7 +4380,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.8.6": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.6",
                 "version_normalized": "1.8.6.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4491,7 +4417,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.8.7": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.7",
                 "version_normalized": "1.8.7.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4528,7 +4454,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.8.8": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.8",
                 "version_normalized": "1.8.8.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4565,7 +4491,7 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "1.8.9": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.9",
                 "version_normalized": "1.8.9.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
@@ -4602,19 +4528,19 @@
                 "description": "Bundle de gestion d'adresses"
             },
             "dev-master": {
-                "name": "grades-paca/address",
+                "name": "grades-paca/bundle-address",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "target-dir": "Oru/Bundle/AddressBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/address.git",
-                    "reference": "0059cb6f431ac8edb9f53d4310f58e86d0369940"
+                    "reference": "ea939c68a581d881258a38c451259fddb82e5b09"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/address/zipball/0059cb6f431ac8edb9f53d4310f58e86d0369940",
-                    "reference": "0059cb6f431ac8edb9f53d4310f58e86d0369940",
+                    "url": "https://api.github.com/repos/grades-paca/address/zipball/ea939c68a581d881258a38c451259fddb82e5b09",
+                    "reference": "ea939c68a581d881258a38c451259fddb82e5b09",
                     "shasum": ""
                 },
                 "require": {
@@ -4624,48 +4550,11 @@
                     "oru/translation": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-01T13:09:36+00:00",
+                "time": "2019-07-31T10:17:23+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
                         "dev-master": "1.0.x-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\AddressBundle\\": ""
-                    }
-                },
-                "description": "Bundle de gestion d'adresses"
-            },
-            "dev-capacite": {
-                "name": "grades-paca/address",
-                "version": "dev-capacite",
-                "version_normalized": "dev-capacite",
-                "target-dir": "Oru/Bundle/AddressBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/address.git",
-                    "reference": "a22d24dc9efbc0a3b5458ae79b5692d91263d57a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/address/zipball/a22d24dc9efbc0a3b5458ae79b5692d91263d57a",
-                    "reference": "a22d24dc9efbc0a3b5458ae79b5692d91263d57a",
-                    "shasum": ""
-                },
-                "require": {
-                    "oru/design": "*",
-                    "oru/install": ">=1.0.5,<3.0",
-                    "oru/lst": "dev-capacite",
-                    "oru/translation": "*",
-                    "symfony/symfony": ">=2.3,<3.0@dev"
-                },
-                "time": "2018-11-15T14:49:25+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "3.0.x-dev"
                     }
                 },
                 "autoload": {
