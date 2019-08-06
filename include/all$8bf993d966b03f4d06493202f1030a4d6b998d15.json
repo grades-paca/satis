@@ -11896,6 +11896,42 @@
                 },
                 "description": "CRUD bundle"
             },
+            "1.2.2": {
+                "name": "grades-paca/bundle-crud",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "target-dir": "Oru/Bundle/CrudBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-crud.git",
+                    "reference": "15ff73463094e246765464b92967620386a90f65"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-crud/zipball/15ff73463094e246765464b92967620386a90f65",
+                    "reference": "15ff73463094e246765464b92967620386a90f65",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-paginator": "*",
+                    "grades-paca/bundle-translation": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:42:31+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\CrudBundle\\": ""
+                    }
+                },
+                "description": "CRUD bundle"
+            },
             "dev-master": {
                 "name": "grades-paca/bundle-crud",
                 "version": "dev-master",
@@ -11904,21 +11940,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-crud.git",
-                    "reference": "2d86639fc1a82f363d1bcccf32d2ddc5cecd4c89"
+                    "reference": "15ff73463094e246765464b92967620386a90f65"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-crud/zipball/2d86639fc1a82f363d1bcccf32d2ddc5cecd4c89",
-                    "reference": "2d86639fc1a82f363d1bcccf32d2ddc5cecd4c89",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-crud/zipball/15ff73463094e246765464b92967620386a90f65",
+                    "reference": "15ff73463094e246765464b92967620386a90f65",
                     "shasum": ""
                 },
                 "require": {
-                    "oru/listing": "*",
-                    "oru/paginator": "*",
-                    "oru/translation": "*",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-paginator": "*",
+                    "grades-paca/bundle-translation": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-02T08:27:39+00:00",
+                "time": "2019-08-06T10:42:31+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
