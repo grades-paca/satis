@@ -15980,22 +15980,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-error-logger.git",
-                    "reference": "12321c051d0ffbe21b14fc87348deec49a8dfb7d"
+                    "reference": "4d5b640970c89b425ea141a1f46502a068420b7d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/12321c051d0ffbe21b14fc87348deec49a8dfb7d",
-                    "reference": "12321c051d0ffbe21b14fc87348deec49a8dfb7d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/4d5b640970c89b425ea141a1f46502a068420b7d",
+                    "reference": "4d5b640970c89b425ea141a1f46502a068420b7d",
                     "shasum": ""
                 },
                 "require": {
-                    "oru/app": ">=1.0.7",
-                    "oru/mail": "~1.1",
-                    "oru/setting": "~1.0",
+                    "grades-paca/bundle-app": ">=1.0.7",
+                    "grades-paca/bundle-mail": "~1.1",
+                    "grades-paca/bundle-setting": "~1.0",
                     "php": ">=5.4",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-02T11:55:46+00:00",
+                "time": "2019-08-06T10:01:16+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -31866,6 +31866,43 @@
                 },
                 "description": "Plan bleu"
             },
+            "1.5.4": {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.5.4",
+                "version_normalized": "1.5.4.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "5e466bdd701a05c89bd6b4a72a035ab0d53af3cc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/5e466bdd701a05c89bd6b4a72a035ab0d53af3cc",
+                    "reference": "5e466bdd701a05c89bd6b4a72a035ab0d53af3cc",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-attachment": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:04:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu"
+            },
             "dev-master": {
                 "name": "grades-paca/bundle-plan-bleu",
                 "version": "dev-master",
@@ -31874,23 +31911,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
-                    "reference": "7ceff9d5b0b178e5cab48704fce07c30b10fe7f7"
+                    "reference": "5e466bdd701a05c89bd6b4a72a035ab0d53af3cc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/7ceff9d5b0b178e5cab48704fce07c30b10fe7f7",
-                    "reference": "7ceff9d5b0b178e5cab48704fce07c30b10fe7f7",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/5e466bdd701a05c89bd6b4a72a035ab0d53af3cc",
+                    "reference": "5e466bdd701a05c89bd6b4a72a035ab0d53af3cc",
                     "shasum": ""
                 },
                 "require": {
-                    "oru/attachment": "*",
-                    "oru/design": "*",
-                    "oru/form": "*",
-                    "oru/ror3": "*",
-                    "oru/setting": "*",
+                    "grades-paca/bundle-attachment": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-setting": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-02T11:19:32+00:00",
+                "time": "2019-08-06T10:04:36+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
