@@ -31128,6 +31128,41 @@
                 },
                 "description": "Gestion de patients"
             },
+            "1.4.3": {
+                "name": "grades-paca/bundle-patient",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "target-dir": "Oru/Bundle/PatientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-patient.git",
+                    "reference": "f99118efd74dd47c5040cf0e3e681c9fb9782a21"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-patient/zipball/f99118efd74dd47c5040cf0e3e681c9fb9782a21",
+                    "reference": "f99118efd74dd47c5040cf0e3e681c9fb9782a21",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-form": ">=1.3.0",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:40:17+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PatientBundle\\": ""
+                    }
+                },
+                "description": "Gestion de patients"
+            },
             "dev-master": {
                 "name": "grades-paca/bundle-patient",
                 "version": "dev-master",
@@ -31136,20 +31171,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-patient.git",
-                    "reference": "39f3f4af7fe4ad29ad1c7020568a036259bc74ed"
+                    "reference": "f99118efd74dd47c5040cf0e3e681c9fb9782a21"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-patient/zipball/39f3f4af7fe4ad29ad1c7020568a036259bc74ed",
-                    "reference": "39f3f4af7fe4ad29ad1c7020568a036259bc74ed",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-patient/zipball/f99118efd74dd47c5040cf0e3e681c9fb9782a21",
+                    "reference": "f99118efd74dd47c5040cf0e3e681c9fb9782a21",
                     "shasum": ""
                 },
                 "require": {
-                    "oru/form": ">=1.3.0",
-                    "oru/install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-form": ">=1.3.0",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-02T11:15:57+00:00",
+                "time": "2019-08-06T10:40:17+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
