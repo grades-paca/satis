@@ -4231,6 +4231,43 @@
                 },
                 "description": "Bundle de gestion d'adresses"
             },
+            "1.8.13": {
+                "name": "grades-paca/bundle-address",
+                "version": "1.8.13",
+                "version_normalized": "1.8.13.0",
+                "target-dir": "Oru/Bundle/AddressBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-address.git",
+                    "reference": "a5feb34ccc098f4bc6f56a0f662c749185467c1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/a5feb34ccc098f4bc6f56a0f662c749185467c1d",
+                    "reference": "a5feb34ccc098f4bc6f56a0f662c749185467c1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-lst": ">=1.1.8",
+                    "grades-paca/bundle-translation": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T11:00:04+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AddressBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'adresses"
+            },
             "1.8.2": {
                 "name": "grades-paca/bundle-address",
                 "version": "1.8.2",
@@ -4535,22 +4572,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-address.git",
-                    "reference": "ea939c68a581d881258a38c451259fddb82e5b09"
+                    "reference": "a5feb34ccc098f4bc6f56a0f662c749185467c1d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/ea939c68a581d881258a38c451259fddb82e5b09",
-                    "reference": "ea939c68a581d881258a38c451259fddb82e5b09",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/a5feb34ccc098f4bc6f56a0f662c749185467c1d",
+                    "reference": "a5feb34ccc098f4bc6f56a0f662c749185467c1d",
                     "shasum": ""
                 },
                 "require": {
-                    "oru/design": "*",
-                    "oru/install": ">=1.0.5,<3.0",
-                    "oru/lst": ">=1.1.8",
-                    "oru/translation": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-lst": ">=1.1.8",
+                    "grades-paca/bundle-translation": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-07-31T10:17:23+00:00",
+                "time": "2019-08-06T11:00:04+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -4911,6 +4948,41 @@
                 },
                 "description": "Ce bundle écoute les alertes sur les actions sensibles et les envoie par mail."
             },
+            "1.2.2": {
+                "name": "grades-paca/bundle-alert",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-alert.git",
+                    "reference": "a7e1673948b1822236ec198f388a11ccafee4385"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-alert/zipball/a7e1673948b1822236ec198f388a11ccafee4385",
+                    "reference": "a7e1673948b1822236ec198f388a11ccafee4385",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-error-logger": "*",
+                    "grades-paca/bundle-mail": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:55:38+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AlertBundle\\": ""
+                    }
+                },
+                "description": "Ce bundle écoute les alertes sur les actions sensibles et les envoie par mail."
+            },
             "dev-master": {
                 "name": "grades-paca/bundle-alert",
                 "version": "dev-master",
@@ -4918,21 +4990,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-alert.git",
-                    "reference": "689a8eee5589f7464f72e3e17eaa1400a7b27b7f"
+                    "reference": "a7e1673948b1822236ec198f388a11ccafee4385"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-alert/zipball/689a8eee5589f7464f72e3e17eaa1400a7b27b7f",
-                    "reference": "689a8eee5589f7464f72e3e17eaa1400a7b27b7f",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-alert/zipball/a7e1673948b1822236ec198f388a11ccafee4385",
+                    "reference": "a7e1673948b1822236ec198f388a11ccafee4385",
                     "shasum": ""
                 },
                 "require": {
-                    "oru/error_logger": "*",
-                    "oru/mail": "*",
-                    "oru/setting": "*",
+                    "grades-paca/bundle-error-logger": "*",
+                    "grades-paca/bundle-mail": "*",
+                    "grades-paca/bundle-setting": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-02T09:52:51+00:00",
+                "time": "2019-08-06T10:55:38+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -7425,6 +7497,46 @@
                 },
                 "description": "Attachment Bundle"
             },
+            "1.4.4": {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.4.4",
+                "version_normalized": "1.4.4.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "81be29b1fe6b3f43ab5d658632805ac30cb2bef8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/81be29b1fe6b3f43ab5d658632805ac30cb2bef8",
+                    "reference": "81be29b1fe6b3f43ab5d658632805ac30cb2bef8",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "^1.11",
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-schedule": "*",
+                    "intervention/image": "^2.4",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:52:07+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle"
+            },
             "dev-master": {
                 "name": "grades-paca/bundle-attachment",
                 "version": "dev-master",
@@ -7433,25 +7545,25 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-attachment.git",
-                    "reference": "a333381e688744738859d2995d7a7e9fe52bd132"
+                    "reference": "81be29b1fe6b3f43ab5d658632805ac30cb2bef8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/a333381e688744738859d2995d7a7e9fe52bd132",
-                    "reference": "a333381e688744738859d2995d7a7e9fe52bd132",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/81be29b1fe6b3f43ab5d658632805ac30cb2bef8",
+                    "reference": "81be29b1fe6b3f43ab5d658632805ac30cb2bef8",
                     "shasum": ""
                 },
                 "require": {
                     "components/jqueryui": "^1.11",
                     "ext-fileinfo": "*",
                     "ext-gd": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-schedule": "*",
                     "intervention/image": "^2.4",
-                    "oru/design": "*",
-                    "oru/install": ">=1.0.5,<3.0",
-                    "oru/schedule": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-02T09:48:38+00:00",
+                "time": "2019-08-06T10:52:07+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -7945,6 +8057,39 @@
                 },
                 "description": "Bundle de visio-conférence."
             },
+            "1.2.3": {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "c1c817df23d74a3f9b7c505d0626b8eefc987f0f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/c1c817df23d74a3f9b7c505d0626b8eefc987f0f",
+                    "reference": "c1c817df23d74a3f9b7c505d0626b8eefc987f0f",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:58:48+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence."
+            },
             "dev-master": {
                 "name": "grades-paca/bundle-bigbluebutton",
                 "version": "dev-master",
@@ -7953,22 +8098,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
-                    "reference": "f602f2df51ecee032e6c19c4749382a64f6ad1e2"
+                    "reference": "c1c817df23d74a3f9b7c505d0626b8eefc987f0f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/f602f2df51ecee032e6c19c4749382a64f6ad1e2",
-                    "reference": "f602f2df51ecee032e6c19c4749382a64f6ad1e2",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/c1c817df23d74a3f9b7c505d0626b8eefc987f0f",
+                    "reference": "c1c817df23d74a3f9b7c505d0626b8eefc987f0f",
                     "shasum": ""
                 },
                 "require": {
-                    "oru/design": "*",
-                    "oru/form": "*",
-                    "oru/install": ">=1.0.5,<3.0",
-                    "oru/listing": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-02T09:14:54+00:00",
+                "time": "2019-08-06T10:58:48+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -14790,20 +14931,20 @@
                 },
                 "description": "Design bundle"
             },
-            "dev-master": {
+            "1.6.3": {
                 "name": "grades-paca/bundle-design",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.6.3",
+                "version_normalized": "1.6.3.0",
                 "target-dir": "Oru/Bundle/DesignBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-design.git",
-                    "reference": "69b50ef7c2c7884ac7eaea680764ec35ec5fd7d0"
+                    "reference": "912db92b97428700732f10faf613999a9ab26264"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/69b50ef7c2c7884ac7eaea680764ec35ec5fd7d0",
-                    "reference": "69b50ef7c2c7884ac7eaea680764ec35ec5fd7d0",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/912db92b97428700732f10faf613999a9ab26264",
+                    "reference": "912db92b97428700732f10faf613999a9ab26264",
                     "shasum": ""
                 },
                 "require": {
@@ -14814,15 +14955,61 @@
                     "components/jqueryui": "^1.11",
                     "components/modernizr": "^3.5",
                     "friendsofsymfony/jsrouting-bundle": "^2.2",
+                    "grades-paca/bundle-form": ">=1.3.1",
+                    "grades-paca/bundle-install": ">=1.0.3,<3.0",
+                    "grades-paca/bundle-privacy-banner": "*",
                     "ivaynberg/select2": "^4.0",
-                    "oru/form": ">=1.3.1",
-                    "oru/install": ">=1.0.3,<3.0",
-                    "oru/privacy-banner": "*",
                     "suncat/mobile-detect-bundle": "^1.0",
                     "symfony/framework-bundle": "^2.8 || ^3.0",
                     "white-october/pagerfanta-bundle": "^1.0"
                 },
-                "time": "2019-08-02T11:58:57+00:00",
+                "time": "2019-08-06T10:45:06+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle"
+            },
+            "dev-master": {
+                "name": "grades-paca/bundle-design",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "912db92b97428700732f10faf613999a9ab26264"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/912db92b97428700732f10faf613999a9ab26264",
+                    "reference": "912db92b97428700732f10faf613999a9ab26264",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "^3.3",
+                    "components/jquery": "^3.3",
+                    "components/jquery-migrate": "^3.0",
+                    "components/jqueryui": "^1.11",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.2",
+                    "grades-paca/bundle-form": ">=1.3.1",
+                    "grades-paca/bundle-install": ">=1.0.3,<3.0",
+                    "grades-paca/bundle-privacy-banner": "*",
+                    "ivaynberg/select2": "^4.0",
+                    "suncat/mobile-detect-bundle": "^1.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "white-october/pagerfanta-bundle": "^1.0"
+                },
+                "time": "2019-08-06T10:45:06+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -16797,6 +16984,42 @@
                 },
                 "description": "Bundle ESMS pour le ROR 3"
             },
+            "1.3.5": {
+                "name": "grades-paca/bundle-esms",
+                "version": "1.3.5",
+                "version_normalized": "1.3.5.0",
+                "target-dir": "Oru/Bundle/EsmsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-esms.git",
+                    "reference": "eba42bd6c19b8dc892b59304b89ab28bd1ce70ba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/eba42bd6c19b8dc892b59304b89ab28bd1ce70ba",
+                    "reference": "eba42bd6c19b8dc892b59304b89ab28bd1ce70ba",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-form": ">=1.7.2",
+                    "grades-paca/bundle-form-incremental": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T11:01:52+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\EsmsBundle\\": ""
+                    }
+                },
+                "description": "Bundle ESMS pour le ROR 3"
+            },
             "dev-master": {
                 "name": "grades-paca/bundle-esms",
                 "version": "dev-master",
@@ -16805,21 +17028,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-esms.git",
-                    "reference": "5c00b2f39067a076289aa4d731d5e498612864b2"
+                    "reference": "eba42bd6c19b8dc892b59304b89ab28bd1ce70ba"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/5c00b2f39067a076289aa4d731d5e498612864b2",
-                    "reference": "5c00b2f39067a076289aa4d731d5e498612864b2",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/eba42bd6c19b8dc892b59304b89ab28bd1ce70ba",
+                    "reference": "eba42bd6c19b8dc892b59304b89ab28bd1ce70ba",
                     "shasum": ""
                 },
                 "require": {
-                    "oru/form": ">=1.7.2",
-                    "oru/form-incremental": "*",
-                    "oru/setting": "*",
+                    "grades-paca/bundle-form": ">=1.7.2",
+                    "grades-paca/bundle-form-incremental": "*",
+                    "grades-paca/bundle-setting": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-02T09:27:27+00:00",
+                "time": "2019-08-06T11:01:52+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -22106,12 +22329,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "4b24f61e572cc0ecdcbd2370acc6752ed788c6b7"
+                    "reference": "3950d6065c965c908f7af79d8f3ca60a8c0cc125"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/4b24f61e572cc0ecdcbd2370acc6752ed788c6b7",
-                    "reference": "4b24f61e572cc0ecdcbd2370acc6752ed788c6b7",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/3950d6065c965c908f7af79d8f3ca60a8c0cc125",
+                    "reference": "3950d6065c965c908f7af79d8f3ca60a8c0cc125",
                     "shasum": ""
                 },
                 "require": {
@@ -22122,19 +22345,19 @@
                     "ext-json": "*",
                     "ext-openssl": "*",
                     "friendsofsymfony/ckeditor-bundle": "^1.2",
+                    "grades-paca/bundle-denied-field": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-jquery-mask": "*",
+                    "grades-paca/bundle-mail": "*",
+                    "grades-paca/bundle-setting": "*",
                     "lrotherfield/form": "^2.0",
                     "misd/phone-number-bundle": "^1.3",
                     "mso/idna-convert": "^1.1",
-                    "oru/denied-field": "*",
-                    "oru/design": "*",
-                    "oru/install": ">=1.0.5,<3.0",
-                    "oru/jquery-mask": "*",
-                    "oru/mail": "*",
-                    "oru/setting": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0",
                     "tomnomnom/etherpad-lite-client": "^0.1.2"
                 },
-                "time": "2019-08-02T09:55:43+00:00",
+                "time": "2019-08-06T10:54:34+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -36677,6 +36900,44 @@
                 },
                 "description": "Bundle de gestion des paramètres de l'application."
             },
+            "1.2.6": {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "a9e3f8dc4e5ced6f29999feeca9ca7d94f4b4035"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/a9e3f8dc4e5ced6f29999feeca9ca7d94f4b4035",
+                    "reference": "a9e3f8dc4e5ced6f29999feeca9ca7d94f4b4035",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-alert": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-paginator": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:50:10+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application."
+            },
             "dev-master": {
                 "name": "grades-paca/bundle-setting",
                 "version": "dev-master",
@@ -36685,23 +36946,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-setting.git",
-                    "reference": "ba8032d83a88b20d6811c9a15ff77fc4366650b0"
+                    "reference": "a9e3f8dc4e5ced6f29999feeca9ca7d94f4b4035"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/ba8032d83a88b20d6811c9a15ff77fc4366650b0",
-                    "reference": "ba8032d83a88b20d6811c9a15ff77fc4366650b0",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/a9e3f8dc4e5ced6f29999feeca9ca7d94f4b4035",
+                    "reference": "a9e3f8dc4e5ced6f29999feeca9ca7d94f4b4035",
                     "shasum": ""
                 },
                 "require": {
-                    "oru/alert": "*",
-                    "oru/design": "*",
-                    "oru/form": "*",
-                    "oru/listing": "*",
-                    "oru/paginator": "*",
+                    "grades-paca/bundle-alert": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-paginator": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-02T11:32:50+00:00",
+                "time": "2019-08-06T10:50:10+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -37394,6 +37655,40 @@
                 },
                 "description": "Utilisation du service d'analyse d'audience de Google Analytics."
             },
+            "1.1.2": {
+                "name": "grades-paca/bundle-stats",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "target-dir": "Oru/Bundle/StatsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-stats.git",
+                    "reference": "5e3e501b8ded31a3cc72794e4b6e29aa9eec94ee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-stats/zipball/5e3e501b8ded31a3cc72794e4b6e29aa9eec94ee",
+                    "reference": "5e3e501b8ded31a3cc72794e4b6e29aa9eec94ee",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:47:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\StatsBundle\\": ""
+                    }
+                },
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics."
+            },
             "dev-master": {
                 "name": "grades-paca/bundle-stats",
                 "version": "dev-master",
@@ -37402,19 +37697,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-stats.git",
-                    "reference": "424f6ae70780f0a56f4ab3b4fdfdf7a5714996cd"
+                    "reference": "5e3e501b8ded31a3cc72794e4b6e29aa9eec94ee"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-stats/zipball/424f6ae70780f0a56f4ab3b4fdfdf7a5714996cd",
-                    "reference": "424f6ae70780f0a56f4ab3b4fdfdf7a5714996cd",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-stats/zipball/5e3e501b8ded31a3cc72794e4b6e29aa9eec94ee",
+                    "reference": "5e3e501b8ded31a3cc72794e4b6e29aa9eec94ee",
                     "shasum": ""
                 },
                 "require": {
-                    "oru/setting": "*",
+                    "grades-paca/bundle-setting": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-02T09:43:42+00:00",
+                "time": "2019-08-06T10:47:41+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -40594,6 +40889,44 @@
                 },
                 "description": "Gestion des versions d'un applicatif"
             },
+            "2.5.5": {
+                "name": "grades-paca/bundle-version",
+                "version": "2.5.5",
+                "version_normalized": "2.5.5.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "025a23792bae8799ff70c4b2e789386c19af9ce6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/025a23792bae8799ff70c4b2e789386c19af9ce6",
+                    "reference": "025a23792bae8799ff70c4b2e789386c19af9ce6",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "grades-paca/bundle-app": ">=1.0.4",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-web-client": ">=1.1.11",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:57:16+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif"
+            },
             "dev-master": {
                 "name": "grades-paca/bundle-version",
                 "version": "dev-master",
@@ -40602,23 +40935,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-version.git",
-                    "reference": "d02d7d06e4b9143e2c960fe1152a3ef166cdbde9"
+                    "reference": "025a23792bae8799ff70c4b2e789386c19af9ce6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/d02d7d06e4b9143e2c960fe1152a3ef166cdbde9",
-                    "reference": "d02d7d06e4b9143e2c960fe1152a3ef166cdbde9",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/025a23792bae8799ff70c4b2e789386c19af9ce6",
+                    "reference": "025a23792bae8799ff70c4b2e789386c19af9ce6",
                     "shasum": ""
                 },
                 "require": {
                     "arlin2050/redmine-api": "~1.5.0",
-                    "oru/app": ">=1.0.4",
-                    "oru/install": ">=1.0.5,<3.0",
-                    "oru/setting": "*",
-                    "oru/web-client": ">=1.1.11",
+                    "grades-paca/bundle-app": ">=1.0.4",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-web-client": ">=1.1.11",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-08-02T11:49:31+00:00",
+                "time": "2019-08-06T10:57:16+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
