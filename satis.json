@@ -2,6 +2,7 @@
   "name": "grades-paca/satis",
   "homepage": "https://grades-paca.github.io/satis/",
   "repositories": [
+    { "type": "github", "url": "https://github.com/grades-paca/ror.git" },
     { "type": "github", "url": "https://github.com/grades-paca/bundle-address.git" },
     { "type": "github", "url": "https://github.com/grades-paca/bundle-app.git" },
     { "type": "github", "url": "https://github.com/grades-paca/bundle-alert.git" },
