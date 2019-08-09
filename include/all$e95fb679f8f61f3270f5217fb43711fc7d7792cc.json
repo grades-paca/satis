@@ -46469,7 +46469,6 @@
                         "dev-master": "1.0.*"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -46508,7 +46507,6 @@
                         "dev-master": "1.0.-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -46584,7 +46582,6 @@
                         "dev-master": "1.0.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -46622,7 +46619,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -46660,7 +46656,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -46698,7 +46693,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -46736,7 +46730,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -46774,7 +46767,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -46812,7 +46804,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -46850,7 +46841,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -46888,7 +46878,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -46926,7 +46915,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -46964,7 +46952,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -47002,7 +46989,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -47040,7 +47026,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -47078,7 +47063,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -47116,7 +47100,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -47154,7 +47137,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -47192,7 +47174,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -47267,7 +47248,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -47305,7 +47285,6 @@
                         "dev-master": "1.*-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
@@ -47343,7 +47322,6 @@
                         "dev-master": "1.0-dev"
                     }
                 },
-                "installation-source": "dist",
                 "autoload": {
                     "psr-0": {
                         "Oru\\Bundle\\WebClientBundle\\": ""
