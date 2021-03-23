@@ -41,6 +41,7 @@
     { "name" : "grades-paca/bundle-test", "type": "vcs", "url": "https://github.com/grades-paca/bundle-test" },
     { "name" : "grades-paca/bundle-translation", "type": "vcs", "url": "https://github.com/grades-paca/bundle-translation" },
     { "name" : "grades-paca/bundle-version", "type": "vcs", "url": "https://github.com/grades-paca/bundle-version" },
-    { "name" : "grades-paca/bundle-web-client", "type": "vcs", "url": "https://github.com/grades-paca/bundle-web-client" }
+    { "name" : "grades-paca/bundle-web-client", "type": "vcs", "url": "https://github.com/grades-paca/bundle-web-client" },
+    { "name" : "grades-paca/bundle-rass", "type": "vcs", "url": "https://github.com/grades-paca/bundle-rass" }
   ]
 }
