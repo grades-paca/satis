@@ -1,0 +1,2835 @@
+{
+    "packages": {
+        "grades-paca/bundle-design": [
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "7a207b4c5e731a39cea8fac04492858595b51a1b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/7a207b4c5e731a39cea8fac04492858595b51a1b",
+                    "reference": "7a207b4c5e731a39cea8fac04492858595b51a1b",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-10-02T09:08:45+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "b0087ceec0b7f488cbc92e2850c0cba9d22263f0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/b0087ceec0b7f488cbc92e2850c0cba9d22263f0",
+                    "reference": "b0087ceec0b7f488cbc92e2850c0cba9d22263f0",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-10-02T09:08:45+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "2c76ff195ae85e8cb9b2962c3956599496ba3832"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/2c76ff195ae85e8cb9b2962c3956599496ba3832",
+                    "reference": "2c76ff195ae85e8cb9b2962c3956599496ba3832",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-10-08T12:29:23+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "897e07981e77f33c831845a50707182712cc2025"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/897e07981e77f33c831845a50707182712cc2025",
+                    "reference": "897e07981e77f33c831845a50707182712cc2025",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-10-15T14:58:17+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "7e12cd8934ab03814dae52af4adf3378a41381ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/7e12cd8934ab03814dae52af4adf3378a41381ce",
+                    "reference": "7e12cd8934ab03814dae52af4adf3378a41381ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-10-23T11:11:04+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.3",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "00b6104a40afdaf232d2ae5973677507d4c5cfaf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/00b6104a40afdaf232d2ae5973677507d4c5cfaf",
+                    "reference": "00b6104a40afdaf232d2ae5973677507d4c5cfaf",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-10-27T09:49:31+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.4",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "bbbab69deb2a2c30e7220e830290a3d63b5a80b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/bbbab69deb2a2c30e7220e830290a3d63b5a80b1",
+                    "reference": "bbbab69deb2a2c30e7220e830290a3d63b5a80b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-11-06T13:10:05+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.5",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.1.6",
+                "version_normalized": "1.1.6.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "5450b10367124231ea9b191d242457750bf1fdfb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/5450b10367124231ea9b191d242457750bf1fdfb",
+                    "reference": "5450b10367124231ea9b191d242457750bf1fdfb",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-11-13T14:34:08+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.6",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.1.7",
+                "version_normalized": "1.1.7.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "8106e4028b267da614ab40e2c17a93fe0149621c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/8106e4028b267da614ab40e2c17a93fe0149621c",
+                    "reference": "8106e4028b267da614ab40e2c17a93fe0149621c",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-11-16T14:14:13+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.7",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "6f282ce3ce555a9a8b4f51fae5a2ae2e4e5af850"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/6f282ce3ce555a9a8b4f51fae5a2ae2e4e5af850",
+                    "reference": "6f282ce3ce555a9a8b4f51fae5a2ae2e4e5af850",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-11-23T13:09:22+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "111a3b8da3248e7cc08ef06e36825117aef35386"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/111a3b8da3248e7cc08ef06e36825117aef35386",
+                    "reference": "111a3b8da3248e7cc08ef06e36825117aef35386",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-12-01T07:57:44+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "accd993b548f2e912d1fb7f15f568e9afea4bb93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/accd993b548f2e912d1fb7f15f568e9afea4bb93",
+                    "reference": "accd993b548f2e912d1fb7f15f568e9afea4bb93",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oru/install": "~1.0.3",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-12-14T09:19:37+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "bd5f6905d3a1e3b01f0edd1991bbac093ff4d8c1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/bd5f6905d3a1e3b01f0edd1991bbac093ff4d8c1",
+                    "reference": "bd5f6905d3a1e3b01f0edd1991bbac093ff4d8c1",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oru/install": "~1.0.3",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2015-12-15T13:34:38+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "e72f163bb11b33c56a92fe72b3518d2258c69f20"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/e72f163bb11b33c56a92fe72b3518d2258c69f20",
+                    "reference": "e72f163bb11b33c56a92fe72b3518d2258c69f20",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oru/install": "~1.0.3",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2016-03-10T15:37:37+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.4",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "31ddf96a8d764f1a5201143057693de789ab0ca9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/31ddf96a8d764f1a5201143057693de789ab0ca9",
+                    "reference": "31ddf96a8d764f1a5201143057693de789ab0ca9",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oru/install": "~1.0.3",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2016-04-11T10:22:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.5",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "72fd936caab584af4e5f64b5a035314a197828de"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/72fd936caab584af4e5f64b5a035314a197828de",
+                    "reference": "72fd936caab584af4e5f64b5a035314a197828de",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "oru/form": "*",
+                    "oru/install": "~1.0.3",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "pinano/select2-bundle": "3.4.5",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2016-09-09T12:31:26+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.6",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "a9db3434d5f9f8b1b66d8c635810c85749958863"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/a9db3434d5f9f8b1b66d8c635810c85749958863",
+                    "reference": "a9db3434d5f9f8b1b66d8c635810c85749958863",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": "~1.3.0",
+                    "oru/install": "~1.0.3",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2016-06-02T10:06:24+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "146837f97d0f8bdb485dd89be3f9a9f25888905c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/146837f97d0f8bdb485dd89be3f9a9f25888905c",
+                    "reference": "146837f97d0f8bdb485dd89be3f9a9f25888905c",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": "~1.3.1",
+                    "oru/install": "~1.0.3",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2016-06-14T13:01:21+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.1",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.10",
+                "version_normalized": "1.3.10.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "199dfa42c4289ee5e23eb0eb004c1129d136ab7c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/199dfa42c4289ee5e23eb0eb004c1129d136ab7c",
+                    "reference": "199dfa42c4289ee5e23eb0eb004c1129d136ab7c",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2017-01-17T13:36:04+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.10",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.11",
+                "version_normalized": "1.3.11.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "d23273c040dd88c87f15d266f81f6b0c9e38c09a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/d23273c040dd88c87f15d266f81f6b0c9e38c09a",
+                    "reference": "d23273c040dd88c87f15d266f81f6b0c9e38c09a",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2017-01-31T09:08:42+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.11",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.12",
+                "version_normalized": "1.3.12.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "979736dfdd0010b04e21ccdbd95c72cbe69335f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/979736dfdd0010b04e21ccdbd95c72cbe69335f4",
+                    "reference": "979736dfdd0010b04e21ccdbd95c72cbe69335f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2017-01-31T10:20:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.12",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.13",
+                "version_normalized": "1.3.13.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "2907285bae21db1d6b621020abe58578bc07f22f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/2907285bae21db1d6b621020abe58578bc07f22f",
+                    "reference": "2907285bae21db1d6b621020abe58578bc07f22f",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2017-04-06T12:56:02+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.13",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.14",
+                "version_normalized": "1.3.14.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "f5d87d8b8f0cbbed444d124957faa61273361531"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/f5d87d8b8f0cbbed444d124957faa61273361531",
+                    "reference": "f5d87d8b8f0cbbed444d124957faa61273361531",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2017-04-19T12:56:13+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.14",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.15",
+                "version_normalized": "1.3.15.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "ca0a21cd19dab057d0954c4824d6f1d19878ed92"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/ca0a21cd19dab057d0954c4824d6f1d19878ed92",
+                    "reference": "ca0a21cd19dab057d0954c4824d6f1d19878ed92",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2017-05-18T20:06:04+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.15",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.16",
+                "version_normalized": "1.3.16.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "b9e7d72452fbd343d36ba9b3a72c12a38d484abc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/b9e7d72452fbd343d36ba9b3a72c12a38d484abc",
+                    "reference": "b9e7d72452fbd343d36ba9b3a72c12a38d484abc",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2017-12-19T09:15:19+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.16",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.17",
+                "version_normalized": "1.3.17.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "a1f33c245798ec508613975dcb9b9fd1b5471f89"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/a1f33c245798ec508613975dcb9b9fd1b5471f89",
+                    "reference": "a1f33c245798ec508613975dcb9b9fd1b5471f89",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-01-08T13:04:32+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.17",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.18",
+                "version_normalized": "1.3.18.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "2a3ca52b25f78b5b18d9b70017f2ca31428e6005"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/2a3ca52b25f78b5b18d9b70017f2ca31428e6005",
+                    "reference": "2a3ca52b25f78b5b18d9b70017f2ca31428e6005",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-01-24T12:23:28+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.18",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.19",
+                "version_normalized": "1.3.19.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "3106905989c40197d933572f992a68738f1db22f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/3106905989c40197d933572f992a68738f1db22f",
+                    "reference": "3106905989c40197d933572f992a68738f1db22f",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-08-10T12:35:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.19",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "6108e477044edb4c9d2f7635da2063b698c73715"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/6108e477044edb4c9d2f7635da2063b698c73715",
+                    "reference": "6108e477044edb4c9d2f7635da2063b698c73715",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": "~1.3.1",
+                    "oru/install": "~1.0.3",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2016-07-18T13:41:37+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.2",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.3",
+                "version_normalized": "1.3.3.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "b3b0ee623ef2afae773b340ad6bd3e229924e118"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/b3b0ee623ef2afae773b340ad6bd3e229924e118",
+                    "reference": "b3b0ee623ef2afae773b340ad6bd3e229924e118",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": "~1.3.1",
+                    "oru/install": "~1.0.3",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2016-07-22T09:20:57+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.3",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.4",
+                "version_normalized": "1.3.4.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "5c1c44cd01bd1700021889443d9e32ff38b36c9c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/5c1c44cd01bd1700021889443d9e32ff38b36c9c",
+                    "reference": "5c1c44cd01bd1700021889443d9e32ff38b36c9c",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": "~1.3.1",
+                    "oru/install": "~1.0.3",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2016-08-05T14:56:44+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.4",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.5",
+                "version_normalized": "1.3.5.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "f4592cba81345b6f0cc5b4adf12ca32062067751"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/f4592cba81345b6f0cc5b4adf12ca32062067751",
+                    "reference": "f4592cba81345b6f0cc5b4adf12ca32062067751",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": "~1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2016-09-06T08:39:14+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.5",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.6",
+                "version_normalized": "1.3.6.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "e860cbceb8b6e01fc7161e111cffbdea907bdbb7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/e860cbceb8b6e01fc7161e111cffbdea907bdbb7",
+                    "reference": "e860cbceb8b6e01fc7161e111cffbdea907bdbb7",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": "~1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2016-09-09T12:31:37+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.6",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.7",
+                "version_normalized": "1.3.7.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "ff0e0c2dec73a8cfbe68da74b1520220ab3e0390"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/ff0e0c2dec73a8cfbe68da74b1520220ab3e0390",
+                    "reference": "ff0e0c2dec73a8cfbe68da74b1520220ab3e0390",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": "~1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2016-09-27T08:03:30+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.7",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.8",
+                "version_normalized": "1.3.8.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "f3565bd7b2824cb314c4775219d17471d7bc2cf3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/f3565bd7b2824cb314c4775219d17471d7bc2cf3",
+                    "reference": "f3565bd7b2824cb314c4775219d17471d7bc2cf3",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2016-12-15T15:11:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.8",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.3.9",
+                "version_normalized": "1.3.9.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "2116b3d0194eebd89fe20b46860c536492de4316"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/2116b3d0194eebd89fe20b46860c536492de4316",
+                    "reference": "2116b3d0194eebd89fe20b46860c536492de4316",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2017-01-10T09:52:20+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.9",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "687299fea7759f9259a0810d4d561a410ebee3cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/687299fea7759f9259a0810d4d561a410ebee3cf",
+                    "reference": "687299fea7759f9259a0810d4d561a410ebee3cf",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-01-25T09:19:47+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "dbea4326882771012b890ec4a76db92f303b267b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/dbea4326882771012b890ec4a76db92f303b267b",
+                    "reference": "dbea4326882771012b890ec4a76db92f303b267b",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-01-26T09:39:07+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.10",
+                "version_normalized": "1.4.10.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "87ca0cb71b1a6d924ce9d56ad0ab2b8ab9122216"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/87ca0cb71b1a6d924ce9d56ad0ab2b8ab9122216",
+                    "reference": "87ca0cb71b1a6d924ce9d56ad0ab2b8ab9122216",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-09-13T08:45:42+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.10",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.11",
+                "version_normalized": "1.4.11.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "69bc7f189b92bb00da076bbc504fffafaad6765c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/69bc7f189b92bb00da076bbc504fffafaad6765c",
+                    "reference": "69bc7f189b92bb00da076bbc504fffafaad6765c",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-10-26T14:00:04+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.11",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.12",
+                "version_normalized": "1.4.12.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "76d68a4dd9c2c879c85e895ec3c584523b2d6131"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/76d68a4dd9c2c879c85e895ec3c584523b2d6131",
+                    "reference": "76d68a4dd9c2c879c85e895ec3c584523b2d6131",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2019-02-13T12:21:30+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.12",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "2a83f07abe69000225af71000f849755991ecabf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/2a83f07abe69000225af71000f849755991ecabf",
+                    "reference": "2a83f07abe69000225af71000f849755991ecabf",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-01-30T11:46:31+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.2",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "92f1632038fef998e814dad0ad4b710af865a5c5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/92f1632038fef998e814dad0ad4b710af865a5c5",
+                    "reference": "92f1632038fef998e814dad0ad4b710af865a5c5",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-02-08T16:05:25+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.3",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.4",
+                "version_normalized": "1.4.4.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "5c326d5a2e9c356b0b0f2d7fbf08d3af17cc30c1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/5c326d5a2e9c356b0b0f2d7fbf08d3af17cc30c1",
+                    "reference": "5c326d5a2e9c356b0b0f2d7fbf08d3af17cc30c1",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-02-13T15:15:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.4",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.5",
+                "version_normalized": "1.4.5.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "7bab488f815aa485e7bd7ae625aa394904940175"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/7bab488f815aa485e7bd7ae625aa394904940175",
+                    "reference": "7bab488f815aa485e7bd7ae625aa394904940175",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-06-07T08:02:19+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.5",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.6",
+                "version_normalized": "1.4.6.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "28b2393b1b861f73b81ccbe553f0f69615606654"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/28b2393b1b861f73b81ccbe553f0f69615606654",
+                    "reference": "28b2393b1b861f73b81ccbe553f0f69615606654",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-06-25T09:11:10+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.6",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.7",
+                "version_normalized": "1.4.7.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "7f9ee6d20ba2a8c959ad30e25a8086d9db659ff5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/7f9ee6d20ba2a8c959ad30e25a8086d9db659ff5",
+                    "reference": "7f9ee6d20ba2a8c959ad30e25a8086d9db659ff5",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-07-17T11:43:20+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.7",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.8",
+                "version_normalized": "1.4.8.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "7a3a633c5116c766c7409a390181a5be73537b7e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/7a3a633c5116c766c7409a390181a5be73537b7e",
+                    "reference": "7a3a633c5116c766c7409a390181a5be73537b7e",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-08-09T10:15:05+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.8",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.4.9",
+                "version_normalized": "1.4.9.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "65a06c576716d60d1e6c87947c223046b624f392"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/65a06c576716d60d1e6c87947c223046b624f392",
+                    "reference": "65a06c576716d60d1e6c87947c223046b624f392",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "~1.5",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-08-10T12:37:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.9",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "a1170ed8cfcb5e551a461c395a967d958df85ff5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/a1170ed8cfcb5e551a461c395a967d958df85ff5",
+                    "reference": "a1170ed8cfcb5e551a461c395a967d958df85ff5",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jqueryui": "~1.11.0",
+                    "friendsofsymfony/jsrouting-bundle": "^2.0",
+                    "ivaynberg/select2": "~4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "oryzone/boilerplate-bundle": "4.3.*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "white-october/pagerfanta-bundle": "1.0.*"
+                },
+                "time": "2018-12-05T10:03:45+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.5.0",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "d8d7df18bc6caf5446041a98080b41788a1e74e0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/d8d7df18bc6caf5446041a98080b41788a1e74e0",
+                    "reference": "d8d7df18bc6caf5446041a98080b41788a1e74e0",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jquery": "^3.3",
+                    "components/jquery-migrate": "^3.0",
+                    "components/jqueryui": "^1.11",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.2",
+                    "ivaynberg/select2": "^4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.7,<4.0",
+                    "white-october/pagerfanta-bundle": "^1.0"
+                },
+                "time": "2018-12-07T14:49:05+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.5.1",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "f6e130099d3f46741c02491dd8657809275cdf8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/f6e130099d3f46741c02491dd8657809275cdf8f",
+                    "reference": "f6e130099d3f46741c02491dd8657809275cdf8f",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "~3.3",
+                    "components/jquery": "^3.3",
+                    "components/jquery-migrate": "^3.0",
+                    "components/jqueryui": "^1.11",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.2",
+                    "ivaynberg/select2": "^4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "suncat/mobile-detect-bundle": "~0.10",
+                    "symfony/symfony": ">=2.7,<4.0",
+                    "white-october/pagerfanta-bundle": "^1.0"
+                },
+                "time": "2019-01-16T09:43:39+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.5.2",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.6.0",
+                "version_normalized": "1.6.0.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "4192321503817694a5b5ddb1f47b91c9ab89603e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/4192321503817694a5b5ddb1f47b91c9ab89603e",
+                    "reference": "4192321503817694a5b5ddb1f47b91c9ab89603e",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "^3.3",
+                    "components/jquery": "^3.3",
+                    "components/jquery-migrate": "^3.0",
+                    "components/jqueryui": "^1.11",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.2",
+                    "ivaynberg/select2": "^4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "suncat/mobile-detect-bundle": "^1.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "white-october/pagerfanta-bundle": "^1.0"
+                },
+                "time": "2019-02-05T11:59:57+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.6.0",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.6.1",
+                "version_normalized": "1.6.1.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "c03241ded25e27d00711d1befeda6754bc25ea0c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/c03241ded25e27d00711d1befeda6754bc25ea0c",
+                    "reference": "c03241ded25e27d00711d1befeda6754bc25ea0c",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "^3.3",
+                    "components/jquery": "^3.3",
+                    "components/jquery-migrate": "^3.0",
+                    "components/jqueryui": "^1.11",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.2",
+                    "ivaynberg/select2": "^4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "suncat/mobile-detect-bundle": "^1.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "white-october/pagerfanta-bundle": "^1.0"
+                },
+                "time": "2019-02-13T12:22:49+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.6.1",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.6.2",
+                "version_normalized": "1.6.2.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "69b50ef7c2c7884ac7eaea680764ec35ec5fd7d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/69b50ef7c2c7884ac7eaea680764ec35ec5fd7d0",
+                    "reference": "69b50ef7c2c7884ac7eaea680764ec35ec5fd7d0",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "^3.3",
+                    "components/jquery": "^3.3",
+                    "components/jquery-migrate": "^3.0",
+                    "components/jqueryui": "^1.11",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.2",
+                    "ivaynberg/select2": "^4.0",
+                    "oru/form": ">=1.3.1",
+                    "oru/install": ">=1.0.3,<3.0",
+                    "oru/privacy-banner": "*",
+                    "suncat/mobile-detect-bundle": "^1.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "white-october/pagerfanta-bundle": "^1.0"
+                },
+                "time": "2019-08-02T11:58:57+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.6.2",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.6.3",
+                "version_normalized": "1.6.3.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "912db92b97428700732f10faf613999a9ab26264"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/912db92b97428700732f10faf613999a9ab26264",
+                    "reference": "912db92b97428700732f10faf613999a9ab26264",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "^3.3",
+                    "components/jquery": "^3.3",
+                    "components/jquery-migrate": "^3.0",
+                    "components/jqueryui": "^1.11",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.2",
+                    "grades-paca/bundle-form": ">=1.3.1",
+                    "grades-paca/bundle-install": ">=1.0.3,<3.0",
+                    "grades-paca/bundle-privacy-banner": "*",
+                    "ivaynberg/select2": "^4.0",
+                    "suncat/mobile-detect-bundle": "^1.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "white-october/pagerfanta-bundle": "^1.0"
+                },
+                "time": "2019-08-06T10:45:06+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.6.3",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.6.4",
+                "version_normalized": "1.6.4.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "54edd0715c8a87158751baf3cfbe7d6b7d19a041"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/54edd0715c8a87158751baf3cfbe7d6b7d19a041",
+                    "reference": "54edd0715c8a87158751baf3cfbe7d6b7d19a041",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "^3.3",
+                    "components/jquery": "^3.3",
+                    "components/jquery-migrate": "^3.0",
+                    "components/jqueryui": "^1.11",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.2",
+                    "grades-paca/bundle-form": ">=1.3.1",
+                    "grades-paca/bundle-install": ">=1.0.3,<3.0",
+                    "grades-paca/bundle-privacy-banner": "*",
+                    "ivaynberg/select2": "^4.0",
+                    "suncat/mobile-detect-bundle": "^1.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "white-october/pagerfanta-bundle": "^1.0"
+                },
+                "time": "2019-08-09T11:31:23+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.6.4",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.6.5",
+                "version_normalized": "1.6.5.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "f1c7983037895481ed8f0f5a893bdcbcad2405c8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/f1c7983037895481ed8f0f5a893bdcbcad2405c8",
+                    "reference": "f1c7983037895481ed8f0f5a893bdcbcad2405c8",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "^3.3",
+                    "components/jquery": "^3.3",
+                    "components/jquery-migrate": "^3.0",
+                    "components/jqueryui": "^1.11",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.2",
+                    "grades-paca/bundle-form": ">=1.3.1",
+                    "grades-paca/bundle-install": ">=1.0.3,<3.0",
+                    "grades-paca/bundle-privacy-banner": "*",
+                    "ivaynberg/select2": "^4.0",
+                    "suncat/mobile-detect-bundle": "^1.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "white-october/pagerfanta-bundle": "^1.0"
+                },
+                "time": "2020-06-09T07:33:26+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.6.5",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.7.0",
+                "version_normalized": "1.7.0.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "e347cd0743a288efef65111a5268d87f84bdb6cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/e347cd0743a288efef65111a5268d87f84bdb6cf",
+                    "reference": "e347cd0743a288efef65111a5268d87f84bdb6cf",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "^3.3",
+                    "components/jquery": "^3.3",
+                    "components/jquery-migrate": "^3.0",
+                    "components/jqueryui": "^1.12",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.7",
+                    "grades-paca/bundle-form": ">=1.3.1",
+                    "grades-paca/bundle-install": ">=1.0.3",
+                    "grades-paca/bundle-privacy-banner": "*",
+                    "ivaynberg/select2": "^4.0",
+                    "suncat/mobile-detect-bundle": "^1.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-08-24T13:41:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.7.0",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            }
+        ]
+    }
+}

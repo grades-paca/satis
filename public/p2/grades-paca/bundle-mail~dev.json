@@ -1,0 +1,175 @@
+{
+    "packages": {
+        "grades-paca/bundle-mail": [
+            {
+                "name": "grades-paca/bundle-mail",
+                "version": "1.0.x-dev",
+                "version_normalized": "1.0.9999999.9999999-dev",
+                "target-dir": "Oru/Bundle/MailBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-mail.git",
+                    "reference": "d937fdbb43c51f91b88faa9841da3f8427947bb6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/d937fdbb43c51f91b88faa9841da3f8427947bb6",
+                    "reference": "d937fdbb43c51f91b88faa9841da3f8427947bb6",
+                    "shasum": ""
+                },
+                "require": {
+                    "mso/idna-convert": "^1.1",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "whiteoctober/swiftmailerdbbundle": "1.0.*"
+                },
+                "time": "2016-09-29T06:42:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\MailBundle\\": ""
+                    }
+                },
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.0.8",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-mail",
+                "version": "1.1.x-dev",
+                "version_normalized": "1.1.9999999.9999999-dev",
+                "target-dir": "Oru/Bundle/MailBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-mail.git",
+                    "reference": "f072a10fe2cb67c495381be0ff50342090d2d23c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/f072a10fe2cb67c495381be0ff50342090d2d23c",
+                    "reference": "f072a10fe2cb67c495381be0ff50342090d2d23c",
+                    "shasum": ""
+                },
+                "require": {
+                    "mso/idna-convert": "^1.1",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "whiteoctober/swiftmailerdbbundle": "1.0.*"
+                },
+                "time": "2018-11-07T11:10:47+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\MailBundle\\": ""
+                    }
+                },
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.1.13",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-mail",
+                "version": "1.2.x-dev",
+                "version_normalized": "1.2.9999999.9999999-dev",
+                "target-dir": "Oru/Bundle/MailBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-mail.git",
+                    "reference": "3d06d2125a123ec0f0a07e6eec82ca37ce2e2624"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/3d06d2125a123ec0f0a07e6eec82ca37ce2e2624",
+                    "reference": "3d06d2125a123ec0f0a07e6eec82ca37ce2e2624",
+                    "shasum": ""
+                },
+                "require": {
+                    "mso/idna-convert": "^1.1",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev",
+                    "whiteoctober/swiftmailerdbbundle": "1.0.*"
+                },
+                "time": "2019-07-19T07:40:56+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\MailBundle\\": ""
+                    }
+                },
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.2.9",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-mail",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "target-dir": "Oru/Bundle/MailBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-mail.git",
+                    "reference": "c5dd1dba1b293c677d44c69ac71492070662b23e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/c5dd1dba1b293c677d44c69ac71492070662b23e",
+                    "reference": "c5dd1dba1b293c677d44c69ac71492070662b23e",
+                    "shasum": ""
+                },
+                "require": {
+                    "algo26-matthias/idna-convert": "^2.1",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+                    "vkalmuk/swiftmailerdbbundle": "^1.1"
+                },
+                "time": "2021-08-25T07:39:22+00:00",
+                "default-branch": true,
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\MailBundle\\": ""
+                    }
+                },
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.5.0",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "packages": {
+        "grades-paca/bundle-project-humhub": [
+            {
+                "name": "grades-paca/bundle-project-humhub",
+                "version": "1.0.x-dev",
+                "version_normalized": "1.0.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-project-humhub.git",
+                    "reference": "466f5ba00869dfd01c9f8ced7a07c4da53f466eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-project-humhub/zipball/466f5ba00869dfd01c9f8ced7a07c4da53f466eb",
+                    "reference": "466f5ba00869dfd01c9f8ced7a07c4da53f466eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/setting": "*",
+                    "romanpitak/php-rest-client": ">=1.2.0"
+                },
+                "time": "2018-04-10T06:13:07+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\ProjectHumhubBundle\\": ""
+                    }
+                },
+                "description": "Project Humhub connector bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-project-humhub/tree/1.0.13",
+                    "issues": "https://github.com/grades-paca/bundle-project-humhub/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-project-humhub",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-project-humhub.git",
+                    "reference": "1ee2342bd3685d8bdc6ac46556dc39e7bf7de89b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-project-humhub/zipball/1ee2342bd3685d8bdc6ac46556dc39e7bf7de89b",
+                    "reference": "1ee2342bd3685d8bdc6ac46556dc39e7bf7de89b",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-setting": "*",
+                    "romanpitak/php-rest-client": ">=1.2.0"
+                },
+                "time": "2019-08-06T09:58:23+00:00",
+                "default-branch": true,
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\ProjectHumhubBundle\\": ""
+                    }
+                },
+                "description": "Project Humhub connector bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-project-humhub/tree/1.2.5",
+                    "issues": "https://github.com/grades-paca/bundle-project-humhub/issues"
+                }
+            }
+        ]
+    }
+}

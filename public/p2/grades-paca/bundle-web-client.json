@@ -1,0 +1,970 @@
+{
+    "packages": {
+        "grades-paca/bundle-web-client": [
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "09ce867d39c2fa6a4fe0b216c2d8120104d8996d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/09ce867d39c2fa6a4fe0b216c2d8120104d8996d",
+                    "reference": "09ce867d39c2fa6a4fe0b216c2d8120104d8996d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.3",
+                    "symfony/symfony": "2.3.*"
+                },
+                "time": "2015-06-10T07:51:52+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.*"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "056155f338385b23c82c69d766ca856bb0640bd8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/056155f338385b23c82c69d766ca856bb0640bd8",
+                    "reference": "056155f338385b23c82c69d766ca856bb0640bd8",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.3.3",
+                    "symfony/symfony": "2.3.*"
+                },
+                "time": "2015-06-10T07:59:26+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "f5bfc90de66d3a519ac40cdc65dd691194586fa9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/f5bfc90de66d3a519ac40cdc65dd691194586fa9",
+                    "reference": "f5bfc90de66d3a519ac40cdc65dd691194586fa9",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-11-24T14:19:40+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "b98fbfd32a5d89ef5166fd004c6207d5a452ebcd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/b98fbfd32a5d89ef5166fd004c6207d5a452ebcd",
+                    "reference": "b98fbfd32a5d89ef5166fd004c6207d5a452ebcd",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-12-01T14:21:18+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.10",
+                "version_normalized": "1.1.10.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "089d0c92fadf06bb9a012e71fc284b26042f8136"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/089d0c92fadf06bb9a012e71fc284b26042f8136",
+                    "reference": "089d0c92fadf06bb9a012e71fc284b26042f8136",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-31T15:54:31+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.10",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.11",
+                "version_normalized": "1.1.11.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "e7b1d3ab0d0b6a000f9e389d7a9645f58dd7e780"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/e7b1d3ab0d0b6a000f9e389d7a9645f58dd7e780",
+                    "reference": "e7b1d3ab0d0b6a000f9e389d7a9645f58dd7e780",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-02T08:00:19+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.11",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.12",
+                "version_normalized": "1.1.12.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "730d33d751b7307e6a357ca693b5c913f97ef4f7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/730d33d751b7307e6a357ca693b5c913f97ef4f7",
+                    "reference": "730d33d751b7307e6a357ca693b5c913f97ef4f7",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-03T09:11:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.12",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.13",
+                "version_normalized": "1.1.13.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "181b8f8cbcabce70aaaf7109290f96bb9c10a1af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/181b8f8cbcabce70aaaf7109290f96bb9c10a1af",
+                    "reference": "181b8f8cbcabce70aaaf7109290f96bb9c10a1af",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-16T11:43:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.13",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.14",
+                "version_normalized": "1.1.14.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "98af7b63615beef169aafdf642f4b1539c49d2f1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/98af7b63615beef169aafdf642f4b1539c49d2f1",
+                    "reference": "98af7b63615beef169aafdf642f4b1539c49d2f1",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-06-21T06:48:21+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.14",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.15",
+                "version_normalized": "1.1.15.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "d74817cd866ee38399cf9b83ae9f987cdc213fa4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/d74817cd866ee38399cf9b83ae9f987cdc213fa4",
+                    "reference": "d74817cd866ee38399cf9b83ae9f987cdc213fa4",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-07-17T06:46:42+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.15",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.16",
+                "version_normalized": "1.1.16.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "507fec1c7355c77609e3817b9ec44fe49716700f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/507fec1c7355c77609e3817b9ec44fe49716700f",
+                    "reference": "507fec1c7355c77609e3817b9ec44fe49716700f",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2019-07-25T08:46:01+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.16",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "9ac9815f41f90f8bb72331955b1165a584363ff7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/9ac9815f41f90f8bb72331955b1165a584363ff7",
+                    "reference": "9ac9815f41f90f8bb72331955b1165a584363ff7",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-12-11T14:44:16+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "1241ae571e8bf6dc4b648de17e4f40329ed79561"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/1241ae571e8bf6dc4b648de17e4f40329ed79561",
+                    "reference": "1241ae571e8bf6dc4b648de17e4f40329ed79561",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-07-13T10:01:49+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.3",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "524ca38a06017d46b50068ab091a0bda43920d5b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/524ca38a06017d46b50068ab091a0bda43920d5b",
+                    "reference": "524ca38a06017d46b50068ab091a0bda43920d5b",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-11-14T14:52:16+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.4",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "e94e7baafa6a75bd8f11cd868d5bab7d621b6f42"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/e94e7baafa6a75bd8f11cd868d5bab7d621b6f42",
+                    "reference": "e94e7baafa6a75bd8f11cd868d5bab7d621b6f42",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-27T13:19:53+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.5",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.6",
+                "version_normalized": "1.1.6.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "33cf7d4191d7c0e3fd31b3ca7389e0ab5c7212ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/33cf7d4191d7c0e3fd31b3ca7389e0ab5c7212ab",
+                    "reference": "33cf7d4191d7c0e3fd31b3ca7389e0ab5c7212ab",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-27T14:43:42+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.6",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.7",
+                "version_normalized": "1.1.7.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "f1e5b7f044fa082fc403273408e9aec561d0549f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/f1e5b7f044fa082fc403273408e9aec561d0549f",
+                    "reference": "f1e5b7f044fa082fc403273408e9aec561d0549f",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-27T15:39:59+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.7",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.8",
+                "version_normalized": "1.1.8.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "d0e86877ff68c6e0851ecbb8b2e6ce6bf9859be6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/d0e86877ff68c6e0851ecbb8b2e6ce6bf9859be6",
+                    "reference": "d0e86877ff68c6e0851ecbb8b2e6ce6bf9859be6",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-31T08:06:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.8",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.1.9",
+                "version_normalized": "1.1.9.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "d3c24733dc438709b121720b6ffe64fbbd1b37fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/d3c24733dc438709b121720b6ffe64fbbd1b37fc",
+                    "reference": "d3c24733dc438709b121720b6ffe64fbbd1b37fc",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-31T08:13:18+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.1.9",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "32ee9b21ee5f13e1156242f38aa04d5e3ed986d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/32ee9b21ee5f13e1156242f38aa04d5e3ed986d4",
+                    "reference": "32ee9b21ee5f13e1156242f38aa04d5e3ed986d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-06T11:10:57+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "ac335dcfc0c24232d15fea0a1ae3ba95cd17c2cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/ac335dcfc0c24232d15fea0a1ae3ba95cd17c2cf",
+                    "reference": "ac335dcfc0c24232d15fea0a1ae3ba95cd17c2cf",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-07-25T08:48:07+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "b1f84144f66597885fe65a24555d9b2279b4722d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/b1f84144f66597885fe65a24555d9b2279b4722d",
+                    "reference": "b1f84144f66597885fe65a24555d9b2279b4722d",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-02T11:53:15+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "f60785a9cb8b5ce915c1f07800b5a698b0ce7415"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/f60785a9cb8b5ce915c1f07800b5a698b0ce7415",
+                    "reference": "f60785a9cb8b5ce915c1f07800b5a698b0ce7415",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2020-08-18T08:40:47+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "484a7d20598db9e33b15337d58df13ee3921079f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/484a7d20598db9e33b15337d58df13ee3921079f",
+                    "reference": "484a7d20598db9e33b15337d58df13ee3921079f",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2021-01-28T12:17:51+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.2.4",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "cc69f1797e9a0734e9b01e6fa11606838f169f5d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/cc69f1797e9a0734e9b01e6fa11606838f169f5d",
+                    "reference": "cc69f1797e9a0734e9b01e6fa11606838f169f5d",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2021-02-03T11:09:00+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.2.5",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-web-client",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "target-dir": "Oru/Bundle/WebClientBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-web-client.git",
+                    "reference": "7f9dbda1a588b04b436fd61844b3f3ac07b7b163"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/7f9dbda1a588b04b436fd61844b3f3ac07b7b163",
+                    "reference": "7f9dbda1a588b04b436fd61844b3f3ac07b7b163",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-08-25T12:14:56+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\WebClientBundle\\": ""
+                    }
+                },
+                "description": "Client Web (téléchargements...)",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-web-client/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-web-client/issues"
+                }
+            }
+        ]
+    }
+}

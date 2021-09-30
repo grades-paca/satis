@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "grades-paca/bundle-key-store": [
+            {
+                "name": "grades-paca/bundle-key-store",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-key-store.git",
+                    "reference": "796747b0c008b33a6a019b88b081a8f2b4a43a8a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-key-store/zipball/796747b0c008b33a6a019b88b081a8f2b4a43a8a",
+                    "reference": "796747b0c008b33a6a019b88b081a8f2b4a43a8a",
+                    "shasum": ""
+                },
+                "require": {
+                    "stof/doctrine-extensions-bundle": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-08-25T07:19:11+00:00",
+                "default-branch": true,
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\KeyStoreBundle\\": ""
+                    }
+                },
+                "description": "Gestion d'un magasin de certificats",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-key-store/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-key-store/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "grades-paca/bundle-crud": [
+            {
+                "name": "grades-paca/bundle-crud",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "target-dir": "Oru/Bundle/CrudBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-crud.git",
+                    "reference": "15ff73463094e246765464b92967620386a90f65"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-crud/zipball/15ff73463094e246765464b92967620386a90f65",
+                    "reference": "15ff73463094e246765464b92967620386a90f65",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-paginator": "*",
+                    "grades-paca/bundle-translation": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:42:31+00:00",
+                "default-branch": true,
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\CrudBundle\\": ""
+                    }
+                },
+                "description": "CRUD bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-crud/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-crud/issues"
+                }
+            }
+        ]
+    }
+}

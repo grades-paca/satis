@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "grades-paca/bundle-form-incremental": [
+            {
+                "name": "grades-paca/bundle-form-incremental",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "target-dir": "Oru/Bundle/FormIncrementalBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-form-incremental.git",
+                    "reference": "38e9cb8bfc40957ef7665273445fb3213b28e68b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form-incremental/zipball/38e9cb8bfc40957ef7665273445fb3213b28e68b",
+                    "reference": "38e9cb8bfc40957ef7665273445fb3213b28e68b",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-08-25T06:59:31+00:00",
+                "default-branch": true,
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\FormIncrementalBundle\\": ""
+                    }
+                },
+                "description": "Gérer des forms dont les champs évoluent d'une instance à l'autre",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form-incremental/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-form-incremental/issues"
+                }
+            }
+        ]
+    }
+}

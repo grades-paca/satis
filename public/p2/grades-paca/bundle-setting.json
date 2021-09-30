@@ -1,0 +1,1830 @@
+{
+    "packages": {
+        "grades-paca/bundle-setting": [
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "f696cb1fff87fca9b490462c2f8515eae8a03354"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/f696cb1fff87fca9b490462c2f8515eae8a03354",
+                    "reference": "f696cb1fff87fca9b490462c2f8515eae8a03354",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-12-01T08:31:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "8334c0b8665224e8b595f84eb98bf46de83833d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/8334c0b8665224e8b595f84eb98bf46de83833d4",
+                    "reference": "8334c0b8665224e8b595f84eb98bf46de83833d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-01T14:39:57+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.10",
+                "version_normalized": "1.0.10.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "b0183cc76395312f9301e3e06cb5d8df14a1f1ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/b0183cc76395312f9301e3e06cb5d8df14a1f1ce",
+                    "reference": "b0183cc76395312f9301e3e06cb5d8df14a1f1ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-17T13:50:24+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.10",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.11",
+                "version_normalized": "1.0.11.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "a0f864e8acaf36c21f56ba77699b56a8638a47e3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/a0f864e8acaf36c21f56ba77699b56a8638a47e3",
+                    "reference": "a0f864e8acaf36c21f56ba77699b56a8638a47e3",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-23T07:53:40+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.11",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.12",
+                "version_normalized": "1.0.12.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "e31ee8f625aeaf6a56789b4cf00731f823672fa4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/e31ee8f625aeaf6a56789b4cf00731f823672fa4",
+                    "reference": "e31ee8f625aeaf6a56789b4cf00731f823672fa4",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-23T08:29:02+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.12",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.13",
+                "version_normalized": "1.0.13.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "a1f813971c149fd101db0b09f35c7b639fffb441"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/a1f813971c149fd101db0b09f35c7b639fffb441",
+                    "reference": "a1f813971c149fd101db0b09f35c7b639fffb441",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-31T07:22:54+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.13",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.14",
+                "version_normalized": "1.0.14.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "e1f0eab1914416016e18c00051f267290b2637d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/e1f0eab1914416016e18c00051f267290b2637d4",
+                    "reference": "e1f0eab1914416016e18c00051f267290b2637d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-26T10:37:31+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.14",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.15",
+                "version_normalized": "1.0.15.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "f3a774170d75db979f604da47d8271642246949e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/f3a774170d75db979f604da47d8271642246949e",
+                    "reference": "f3a774170d75db979f604da47d8271642246949e",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-05-02T14:35:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.15",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.16",
+                "version_normalized": "1.0.16.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "89bc8fc13c048c6df5131dd10ab8d0f999427d33"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/89bc8fc13c048c6df5131dd10ab8d0f999427d33",
+                    "reference": "89bc8fc13c048c6df5131dd10ab8d0f999427d33",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-08-23T12:08:56+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.16",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.17",
+                "version_normalized": "1.0.17.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "1b7bf26530e09946a9163994e6787bc98aa149e0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/1b7bf26530e09946a9163994e6787bc98aa149e0",
+                    "reference": "1b7bf26530e09946a9163994e6787bc98aa149e0",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-29T06:54:23+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.17",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.18",
+                "version_normalized": "1.0.18.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "b270951097d6d7888fb2e5e91feaf665954b4b00"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/b270951097d6d7888fb2e5e91feaf665954b4b00",
+                    "reference": "b270951097d6d7888fb2e5e91feaf665954b4b00",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-21T10:04:13+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.18",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.19",
+                "version_normalized": "1.0.19.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "148506cdbcaeec1738169c73ed37c4c148363b0f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/148506cdbcaeec1738169c73ed37c4c148363b0f",
+                    "reference": "148506cdbcaeec1738169c73ed37c4c148363b0f",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-04-05T12:18:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.19",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "795b47ed47674de3a3ab309de3b4f993f870ef34"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/795b47ed47674de3a3ab309de3b4f993f870ef34",
+                    "reference": "795b47ed47674de3a3ab309de3b4f993f870ef34",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-01T14:44:05+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.20",
+                "version_normalized": "1.0.20.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "3fee4577c1f7ae68ab719a35c5b3ba0e67b81882"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/3fee4577c1f7ae68ab719a35c5b3ba0e67b81882",
+                    "reference": "3fee4577c1f7ae68ab719a35c5b3ba0e67b81882",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-05-12T08:12:43+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.20",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.21",
+                "version_normalized": "1.0.21.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "b167bb26fa51a58fc5989417035ad29266fa7d08"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/b167bb26fa51a58fc5989417035ad29266fa7d08",
+                    "reference": "b167bb26fa51a58fc5989417035ad29266fa7d08",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-06-29T07:54:11+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.21",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.22",
+                "version_normalized": "1.0.22.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "feea5ae8073e4f3d1c6e9659826aec67b808c27e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/feea5ae8073e4f3d1c6e9659826aec67b808c27e",
+                    "reference": "feea5ae8073e4f3d1c6e9659826aec67b808c27e",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-07-10T14:15:52+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.22",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.23",
+                "version_normalized": "1.0.23.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "5d8bf1d150e8a8c0c429739d5f0a2267ec0f511d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/5d8bf1d150e8a8c0c429739d5f0a2267ec0f511d",
+                    "reference": "5d8bf1d150e8a8c0c429739d5f0a2267ec0f511d",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-08-22T16:01:30+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.23",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.24",
+                "version_normalized": "1.0.24.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "46d81bb2f951f95e8ee038d3adfbbd748e945b15"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/46d81bb2f951f95e8ee038d3adfbbd748e945b15",
+                    "reference": "46d81bb2f951f95e8ee038d3adfbbd748e945b15",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/alert": "~1.0.0",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-12-15T11:09:49+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.24",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.25",
+                "version_normalized": "1.0.25.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "b682d268da09b44a4ad0681c1d2abfc9b461139f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/b682d268da09b44a4ad0681c1d2abfc9b461139f",
+                    "reference": "b682d268da09b44a4ad0681c1d2abfc9b461139f",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/alert": "~1.0.0",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-10-18T08:04:58+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.25",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.26",
+                "version_normalized": "1.0.26.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "3d78af87664ddb1591a87b7494b95c1ace80dcd1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/3d78af87664ddb1591a87b7494b95c1ace80dcd1",
+                    "reference": "3d78af87664ddb1591a87b7494b95c1ace80dcd1",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/alert": "~1.0.0",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-11-05T11:35:13+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.26",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.27",
+                "version_normalized": "1.0.27.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "c499a5e7a3385d91385581fd2b3eb6570836e6be"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/c499a5e7a3385d91385581fd2b3eb6570836e6be",
+                    "reference": "c499a5e7a3385d91385581fd2b3eb6570836e6be",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/alert": "~1.0.0",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-11-05T11:41:05+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.27",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.28",
+                "version_normalized": "1.0.28.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "2ee7017165daff38ee0b748a593d2070e8dcebd2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/2ee7017165daff38ee0b748a593d2070e8dcebd2",
+                    "reference": "2ee7017165daff38ee0b748a593d2070e8dcebd2",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/alert": "~1.0.0",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-11-05T13:13:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.28",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.29",
+                "version_normalized": "1.0.29.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "df39d2de5601af7658156a41ac62b7db751c0365"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/df39d2de5601af7658156a41ac62b7db751c0365",
+                    "reference": "df39d2de5601af7658156a41ac62b7db751c0365",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/alert": "~1.0.0",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-11-05T13:29:07+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.29",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "99b9c0bcc4bf775d0e0340e8d136f5689b02ca0d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/99b9c0bcc4bf775d0e0340e8d136f5689b02ca0d",
+                    "reference": "99b9c0bcc4bf775d0e0340e8d136f5689b02ca0d",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-08T12:31:13+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "bde5b5c6cd2833b8e8515c1e66642511a6967469"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/bde5b5c6cd2833b8e8515c1e66642511a6967469",
+                    "reference": "bde5b5c6cd2833b8e8515c1e66642511a6967469",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-08T14:20:19+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "0a09b54d4615d27d2e613c880b5fa36e41b6afa8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/0a09b54d4615d27d2e613c880b5fa36e41b6afa8",
+                    "reference": "0a09b54d4615d27d2e613c880b5fa36e41b6afa8",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-08T15:00:32+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "e86aadf9668b13efb9362d5dfb85cfb640d604fa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/e86aadf9668b13efb9362d5dfb85cfb640d604fa",
+                    "reference": "e86aadf9668b13efb9362d5dfb85cfb640d604fa",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-09T15:27:04+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.6",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "1e4ff8a10e6b202e303de5ba048578aa43d74689"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/1e4ff8a10e6b202e303de5ba048578aa43d74689",
+                    "reference": "1e4ff8a10e6b202e303de5ba048578aa43d74689",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-12T13:20:31+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.7",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "71fac5ed57e921b51111788139b6bb88e3c09c66"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/71fac5ed57e921b51111788139b6bb88e3c09c66",
+                    "reference": "71fac5ed57e921b51111788139b6bb88e3c09c66",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-12T14:38:30+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.8",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "d912e6c7d43c81ae2df25c9368e0691639f3c2df"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/d912e6c7d43c81ae2df25c9368e0691639f3c2df",
+                    "reference": "d912e6c7d43c81ae2df25c9368e0691639f3c2df",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-18T09:54:30+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.9",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "a7659e03045fd39b2574b4cd4ffa95a84330373f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/a7659e03045fd39b2574b4cd4ffa95a84330373f",
+                    "reference": "a7659e03045fd39b2574b4cd4ffa95a84330373f",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/alert": "~1.0.0",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-25T09:05:02+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "cb70c9c82ac14571989c30aa7ad8abb91aa62955"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/cb70c9c82ac14571989c30aa7ad8abb91aa62955",
+                    "reference": "cb70c9c82ac14571989c30aa7ad8abb91aa62955",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/alert": "~1.0.0",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-25T09:21:21+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "0a56c73a79e15f8e4346179ee3b7f6107846a38f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/0a56c73a79e15f8e4346179ee3b7f6107846a38f",
+                    "reference": "0a56c73a79e15f8e4346179ee3b7f6107846a38f",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/alert": "*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-26T08:51:05+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "2c3171f60dc545c4270853268a90c6ad18cf3bce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/2c3171f60dc545c4270853268a90c6ad18cf3bce",
+                    "reference": "2c3171f60dc545c4270853268a90c6ad18cf3bce",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/alert": "*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-30T11:54:52+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.1.3",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "e45310025e9e9aefd4ae9de5b035432b041a2885"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/e45310025e9e9aefd4ae9de5b035432b041a2885",
+                    "reference": "e45310025e9e9aefd4ae9de5b035432b041a2885",
+                    "shasum": ""
+                },
+                "require": {
+                    "egeloen/ordered-form-bundle": "1.1.*",
+                    "oru/alert": "*",
+                    "oru/design": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-02-15T16:55:02+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.1.4",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "0adc096410a89870d7c283d26b5375eecd30e9cc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/0adc096410a89870d7c283d26b5375eecd30e9cc",
+                    "reference": "0adc096410a89870d7c283d26b5375eecd30e9cc",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/alert": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-06T08:53:50+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "0576bb16cb7760ca8435591855259e9c20dafc94"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/0576bb16cb7760ca8435591855259e9c20dafc94",
+                    "reference": "0576bb16cb7760ca8435591855259e9c20dafc94",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/alert": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-08T10:27:50+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "dd3175ad7147e19a743a4b26c4ce0cfadff13a01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/dd3175ad7147e19a743a4b26c4ce0cfadff13a01",
+                    "reference": "dd3175ad7147e19a743a4b26c4ce0cfadff13a01",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/alert": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-14T15:07:00+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "2fa3d9ebcd709ab44bb132e8a3ce1903f6f97080"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/2fa3d9ebcd709ab44bb132e8a3ce1903f6f97080",
+                    "reference": "2fa3d9ebcd709ab44bb132e8a3ce1903f6f97080",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/alert": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-27T09:00:22+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "3beec4973306466bd113d450a31605fb5a82ff86"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/3beec4973306466bd113d450a31605fb5a82ff86",
+                    "reference": "3beec4973306466bd113d450a31605fb5a82ff86",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/alert": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-03-05T08:25:31+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.2.4",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "ba8032d83a88b20d6811c9a15ff77fc4366650b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/ba8032d83a88b20d6811c9a15ff77fc4366650b0",
+                    "reference": "ba8032d83a88b20d6811c9a15ff77fc4366650b0",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/alert": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/listing": "*",
+                    "oru/paginator": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-02T11:32:50+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.2.5",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "a9e3f8dc4e5ced6f29999feeca9ca7d94f4b4035"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/a9e3f8dc4e5ced6f29999feeca9ca7d94f4b4035",
+                    "reference": "a9e3f8dc4e5ced6f29999feeca9ca7d94f4b4035",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-alert": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-paginator": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:50:10+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.2.6",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "1f4bf83a7cd68967e440b7daab94dcbb4602018e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/1f4bf83a7cd68967e440b7daab94dcbb4602018e",
+                    "reference": "1f4bf83a7cd68967e440b7daab94dcbb4602018e",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-alert": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-paginator": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-28T07:52:23+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.2.7",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "db4b81caa53210c975445e2f1691c8a458bcb3ed"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/db4b81caa53210c975445e2f1691c8a458bcb3ed",
+                    "reference": "db4b81caa53210c975445e2f1691c8a458bcb3ed",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-alert": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-paginator": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-08-25T11:28:47+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            }
+        ]
+    }
+}

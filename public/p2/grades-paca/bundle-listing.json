@@ -1,0 +1,591 @@
+{
+    "packages": {
+        "grades-paca/bundle-listing": [
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "08ac3c5f862f5213cf8ffea05acf6c5bd87728d7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/08ac3c5f862f5213cf8ffea05acf6c5bd87728d7",
+                    "reference": "08ac3c5f862f5213cf8ffea05acf6c5bd87728d7",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-12-01T08:17:42+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "d0986d6b6b702119c0520ff126e309333e51878e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/d0986d6b6b702119c0520ff126e309333e51878e",
+                    "reference": "d0986d6b6b702119c0520ff126e309333e51878e",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-29T07:20:10+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "93e2fbf020fd31c3030e3e14a85fe450febb6810"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/93e2fbf020fd31c3030e3e14a85fe450febb6810",
+                    "reference": "93e2fbf020fd31c3030e3e14a85fe450febb6810",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-11-24T10:19:59+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "64f00ae8683da93ce1c46ec992c2678461e6d172"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/64f00ae8683da93ce1c46ec992c2678461e6d172",
+                    "reference": "64f00ae8683da93ce1c46ec992c2678461e6d172",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-12-19T13:34:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "b46b7a8ad38508fdb8ccdc2001ff1d340c1fc16e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/b46b7a8ad38508fdb8ccdc2001ff1d340c1fc16e",
+                    "reference": "b46b7a8ad38508fdb8ccdc2001ff1d340c1fc16e",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-10T09:47:12+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "3fd5e926ca3224aa3fa01e49ea17331f2cf21a12"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/3fd5e926ca3224aa3fa01e49ea17331f2cf21a12",
+                    "reference": "3fd5e926ca3224aa3fa01e49ea17331f2cf21a12",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-20T10:53:49+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "a379f56c12d52cfd58ca6c1c33865ae80f34f4a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/a379f56c12d52cfd58ca6c1c33865ae80f34f4a3",
+                    "reference": "a379f56c12d52cfd58ca6c1c33865ae80f34f4a3",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-25T10:42:42+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.0.6",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "c138c667f373ae70e134a0f40f21e253d6e575a5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/c138c667f373ae70e134a0f40f21e253d6e575a5",
+                    "reference": "c138c667f373ae70e134a0f40f21e253d6e575a5",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-03-06T09:55:13+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.0.7",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "a88ba86c73d91a04a303e07c69fa2ce6ea2c9425"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/a88ba86c73d91a04a303e07c69fa2ce6ea2c9425",
+                    "reference": "a88ba86c73d91a04a303e07c69fa2ce6ea2c9425",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-26T09:59:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "b248ca081027feda508ef51c883876afe591db15"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/b248ca081027feda508ef51c883876afe591db15",
+                    "reference": "b248ca081027feda508ef51c883876afe591db15",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-31T07:15:49+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "4af779bd1f2385392fc8237368a80b58b308ca27"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/4af779bd1f2385392fc8237368a80b58b308ca27",
+                    "reference": "4af779bd1f2385392fc8237368a80b58b308ca27",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-04-19T08:31:37+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "6493751f206b21341c91972857828f4f005cccff"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/6493751f206b21341c91972857828f4f005cccff",
+                    "reference": "6493751f206b21341c91972857828f4f005cccff",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-06T09:36:12+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "807e29fd769456a6ed556f8f69733bcc88796440"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/807e29fd769456a6ed556f8f69733bcc88796440",
+                    "reference": "807e29fd769456a6ed556f8f69733bcc88796440",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/test": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-02T10:47:52+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "ee0ed79a3fae61269399332e6f54a8f15d8cd168"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/ee0ed79a3fae61269399332e6f54a8f15d8cd168",
+                    "reference": "ee0ed79a3fae61269399332e6f54a8f15d8cd168",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-test": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:19:45+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-listing",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "target-dir": "Oru/Bundle/ListingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-listing.git",
+                    "reference": "55e01b058cfdca7e75b31945947c8d7deee4cb40"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/55e01b058cfdca7e75b31945947c8d7deee4cb40",
+                    "reference": "55e01b058cfdca7e75b31945947c8d7deee4cb40",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-test": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-08-25T07:27:58+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ListingBundle\\": ""
+                    }
+                },
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
+            }
+        ]
+    }
+}

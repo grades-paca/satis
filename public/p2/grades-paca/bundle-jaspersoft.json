@@ -1,0 +1,783 @@
+{
+    "packages": {
+        "grades-paca/bundle-jaspersoft": [
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "e6035ebd7aab99c53294eff2ac2329c04d0ab62d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/e6035ebd7aab99c53294eff2ac2329c04d0ab62d",
+                    "reference": "e6035ebd7aab99c53294eff2ac2329c04d0ab62d",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-06-02T09:54:17+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "eabd79d92223bdb67e6daf4a48a82240c8fa46df"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/eabd79d92223bdb67e6daf4a48a82240c8fa46df",
+                    "reference": "eabd79d92223bdb67e6daf4a48a82240c8fa46df",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-06-03T07:22:15+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "c12a550b79334baf1a0e7ec05241eb5cebd093cc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/c12a550b79334baf1a0e7ec05241eb5cebd093cc",
+                    "reference": "c12a550b79334baf1a0e7ec05241eb5cebd093cc",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-07-01T08:06:26+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "d59a2fc51b55a71c34a5f6a9c4ac1f9dc1426ef6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/d59a2fc51b55a71c34a5f6a9c4ac1f9dc1426ef6",
+                    "reference": "d59a2fc51b55a71c34a5f6a9c4ac1f9dc1426ef6",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-29T06:20:03+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "18cd58709129491ddd1e903acd9ba042f872edb6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/18cd58709129491ddd1e903acd9ba042f872edb6",
+                    "reference": "18cd58709129491ddd1e903acd9ba042f872edb6",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-10-26T08:18:44+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "be85a089e7e54c4726445e424214b00de42a270d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/be85a089e7e54c4726445e424214b00de42a270d",
+                    "reference": "be85a089e7e54c4726445e424214b00de42a270d",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-10-26T13:18:45+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "e767b8525fe8fa983594ec2789fc25fccd51027f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/e767b8525fe8fa983594ec2789fc25fccd51027f",
+                    "reference": "e767b8525fe8fa983594ec2789fc25fccd51027f",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-04-11T14:34:57+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.0.6",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "ddb2993c0f23751935ac410046a2bacd5af92c85"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/ddb2993c0f23751935ac410046a2bacd5af92c85",
+                    "reference": "ddb2993c0f23751935ac410046a2bacd5af92c85",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-04-11T15:00:47+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.0.7",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "79655bd6b4eaace25757023c96a5d946ac9c4574"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/79655bd6b4eaace25757023c96a5d946ac9c4574",
+                    "reference": "79655bd6b4eaace25757023c96a5d946ac9c4574",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-06-22T09:58:07+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.0.8",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "36a5b77b1ba9116c67e9047a440d48c14996abb8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/36a5b77b1ba9116c67e9047a440d48c14996abb8",
+                    "reference": "36a5b77b1ba9116c67e9047a440d48c14996abb8",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-26T09:56:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "da6a7fa8ddd72f3b97ef63550733daef705d5d4b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/da6a7fa8ddd72f3b97ef63550733daef705d5d4b",
+                    "reference": "da6a7fa8ddd72f3b97ef63550733daef705d5d4b",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-06-21T07:09:34+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "60e05e0d9d563b2059b2a2adb11ffa6c7a7306c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/60e05e0d9d563b2059b2a2adb11ffa6c7a7306c9",
+                    "reference": "60e05e0d9d563b2059b2a2adb11ffa6c7a7306c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-09-20T07:54:40+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "506b328ebe88dba880c1b6a40fcdf786e2c0026a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/506b328ebe88dba880c1b6a40fcdf786e2c0026a",
+                    "reference": "506b328ebe88dba880c1b6a40fcdf786e2c0026a",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-11-09T11:46:58+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.1.3",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "cf380045c2f587826966dd4ab410965542337bc4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/cf380045c2f587826966dd4ab410965542337bc4",
+                    "reference": "cf380045c2f587826966dd4ab410965542337bc4",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-12-26T10:55:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.1.4",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "457a14990f96d91f0c409456059821991517300b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/457a14990f96d91f0c409456059821991517300b",
+                    "reference": "457a14990f96d91f0c409456059821991517300b",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-06T09:20:54+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "fd4afe23a91cb3cc24b94d7118b81d25a5632dfd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/fd4afe23a91cb3cc24b94d7118b81d25a5632dfd",
+                    "reference": "fd4afe23a91cb3cc24b94d7118b81d25a5632dfd",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-08T10:24:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "2667773aced060b93e4428807a6db0923f378cec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/2667773aced060b93e4428807a6db0923f378cec",
+                    "reference": "2667773aced060b93e4428807a6db0923f378cec",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-14T14:54:16+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "0ea62676a7598c5c57720910b714435f9cc46563"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/0ea62676a7598c5c57720910b714435f9cc46563",
+                    "reference": "0ea62676a7598c5c57720910b714435f9cc46563",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-02T10:24:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "a4f901a913d6c9dcb2d4cff1bbe931c77565caf6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/a4f901a913d6c9dcb2d4cff1bbe931c77565caf6",
+                    "reference": "a4f901a913d6c9dcb2d4cff1bbe931c77565caf6",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2020-01-09T13:07:51+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.2.4",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "2a084af7308b54f8dbbdb80ad4d556b0499a0d13"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/2a084af7308b54f8dbbdb80ad4d556b0499a0d13",
+                    "reference": "2a084af7308b54f8dbbdb80ad4d556b0499a0d13",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2021-03-23T10:58:04+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.2.5",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "6e3ea4b94a2890bf8daca0bbc9602040731d07f5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/6e3ea4b94a2890bf8daca0bbc9602040731d07f5",
+                    "reference": "6e3ea4b94a2890bf8daca0bbc9602040731d07f5",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-08-25T07:06:08+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jaspersoft/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-jaspersoft/issues"
+                }
+            }
+        ]
+    }
+}

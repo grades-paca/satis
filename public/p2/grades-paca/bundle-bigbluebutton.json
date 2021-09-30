@@ -1,0 +1,573 @@
+{
+    "packages": {
+        "grades-paca/bundle-bigbluebutton": [
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "e0f340950cd6219be1d8e638d6798969791a879c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/e0f340950cd6219be1d8e638d6798969791a879c",
+                    "reference": "e0f340950cd6219be1d8e638d6798969791a879c",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-12-01T07:50:12+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "f866721711e1e380709617b2a169962b5fda7016"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/f866721711e1e380709617b2a169962b5fda7016",
+                    "reference": "f866721711e1e380709617b2a169962b5fda7016",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-12-08T14:38:31+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "459a1dbf8eafd2817e2255d89f69dff9fe05eeb3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/459a1dbf8eafd2817e2255d89f69dff9fe05eeb3",
+                    "reference": "459a1dbf8eafd2817e2255d89f69dff9fe05eeb3",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-01T10:09:05+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "80b6e5ab5870b5f52bbe487ee0eead11bfa84541"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/80b6e5ab5870b5f52bbe487ee0eead11bfa84541",
+                    "reference": "80b6e5ab5870b5f52bbe487ee0eead11bfa84541",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": "~1.0.5",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-01T11:23:02+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "b62b77071a5bcd1427f75959f8be38e094375b0e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/b62b77071a5bcd1427f75959f8be38e094375b0e",
+                    "reference": "b62b77071a5bcd1427f75959f8be38e094375b0e",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": "~1.0.5",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-03T10:22:34+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "797ec38063ca9615a044d9cc963e0e00574634a2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/797ec38063ca9615a044d9cc963e0e00574634a2",
+                    "reference": "797ec38063ca9615a044d9cc963e0e00574634a2",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": "~1.0.5",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-03T11:26:45+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "0b6a6cdd1a574fa069fcd59c3000649112310c71"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/0b6a6cdd1a574fa069fcd59c3000649112310c71",
+                    "reference": "0b6a6cdd1a574fa069fcd59c3000649112310c71",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-06T08:29:27+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.0.6",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "7fb1e0ac5a0f24e1fb6cf1ba18bcaf866f9d0b7a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/7fb1e0ac5a0f24e1fb6cf1ba18bcaf866f9d0b7a",
+                    "reference": "7fb1e0ac5a0f24e1fb6cf1ba18bcaf866f9d0b7a",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-24T15:07:19+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.0.7",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "7ff9142f14e84d3d0e1cf792aaba150e4010379f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/7ff9142f14e84d3d0e1cf792aaba150e4010379f",
+                    "reference": "7ff9142f14e84d3d0e1cf792aaba150e4010379f",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-27T15:44:03+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.0.8",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "131008b7387298da3d634c85d881182c19f86a68"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/131008b7387298da3d634c85d881182c19f86a68",
+                    "reference": "131008b7387298da3d634c85d881182c19f86a68",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-26T09:04:45+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "088bbb9ad01a69d59faf75266c41ebf6d8d960ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/088bbb9ad01a69d59faf75266c41ebf6d8d960ab",
+                    "reference": "088bbb9ad01a69d59faf75266c41ebf6d8d960ab",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-05T11:06:25+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "67a2f0810f948724d16c9ea666e94c2d191b8edd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/67a2f0810f948724d16c9ea666e94c2d191b8edd",
+                    "reference": "67a2f0810f948724d16c9ea666e94c2d191b8edd",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-08T10:18:00+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "f602f2df51ecee032e6c19c4749382a64f6ad1e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/f602f2df51ecee032e6c19c4749382a64f6ad1e2",
+                    "reference": "f602f2df51ecee032e6c19c4749382a64f6ad1e2",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-02T09:14:54+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-bigbluebutton",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "target-dir": "Oru/Bundle/BigBlueButtonBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-bigbluebutton.git",
+                    "reference": "c1c817df23d74a3f9b7c505d0626b8eefc987f0f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-bigbluebutton/zipball/c1c817df23d74a3f9b7c505d0626b8eefc987f0f",
+                    "reference": "c1c817df23d74a3f9b7c505d0626b8eefc987f0f",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:58:48+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BigBlueButtonBundle\\": ""
+                    }
+                },
+                "description": "Bundle de visio-conférence.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
+                }
+            }
+        ]
+    }
+}

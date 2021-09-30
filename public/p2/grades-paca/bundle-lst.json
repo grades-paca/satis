@@ -1,0 +1,1566 @@
+{
+    "packages": {
+        "grades-paca/bundle-lst": [
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "01440dd83501d8b5409db04953dadd01c4dcdf66"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/01440dd83501d8b5409db04953dadd01c4dcdf66",
+                    "reference": "01440dd83501d8b5409db04953dadd01c4dcdf66",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "~2.2.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-12-01T08:20:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "54b6df887f00f8db8f33ef2f48089846f2800ff6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/54b6df887f00f8db8f33ef2f48089846f2800ff6",
+                    "reference": "54b6df887f00f8db8f33ef2f48089846f2800ff6",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "~2.2.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-20T14:53:40+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.0.10",
+                "version_normalized": "1.0.10.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "ac8488cfb781eba58f52829398b1f65664fad8d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/ac8488cfb781eba58f52829398b1f65664fad8d3",
+                    "reference": "ac8488cfb781eba58f52829398b1f65664fad8d3",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "~2.2.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-12T12:46:57+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.0.10",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "0afcba28110da8399c9ff1eb7b1ebdf9d053a50c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/0afcba28110da8399c9ff1eb7b1ebdf9d053a50c",
+                    "reference": "0afcba28110da8399c9ff1eb7b1ebdf9d053a50c",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "~2.2.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-22T14:04:16+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "13d41addcb5341b0bc30e4066976b26ac2d9bf87"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/13d41addcb5341b0bc30e4066976b26ac2d9bf87",
+                    "reference": "13d41addcb5341b0bc30e4066976b26ac2d9bf87",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "~2.2.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-07-28T09:24:26+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "b86e635536ad49a01ddd86ffdf2d9fab625e136d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/b86e635536ad49a01ddd86ffdf2d9fab625e136d",
+                    "reference": "b86e635536ad49a01ddd86ffdf2d9fab625e136d",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "~2.2.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-29T06:40:27+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "5088c2d88297ff348e1c96fe44706b8de843690c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/5088c2d88297ff348e1c96fe44706b8de843690c",
+                    "reference": "5088c2d88297ff348e1c96fe44706b8de843690c",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "~2.2.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-17T15:54:30+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "19589a0bd0942939621ea3e56252da1ca2a288f8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/19589a0bd0942939621ea3e56252da1ca2a288f8",
+                    "reference": "19589a0bd0942939621ea3e56252da1ca2a288f8",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "~2.2.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-04-03T13:52:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.0.6",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "d28804fe30473e9ed82fcf18fd2d097c547279ba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/d28804fe30473e9ed82fcf18fd2d097c547279ba",
+                    "reference": "d28804fe30473e9ed82fcf18fd2d097c547279ba",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "~2.2.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-09-05T11:28:05+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.0.7",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "0e1cc82b17703087540ce73de94e38de49799b6e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/0e1cc82b17703087540ce73de94e38de49799b6e",
+                    "reference": "0e1cc82b17703087540ce73de94e38de49799b6e",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "~2.2.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-09-25T12:21:03+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.0.8",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "9cf9f8d0009992ca002098b485de3d96c40eb0ba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/9cf9f8d0009992ca002098b485de3d96c40eb0ba",
+                    "reference": "9cf9f8d0009992ca002098b485de3d96c40eb0ba",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "~2.2.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-11-08T17:20:02+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.0.9",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "cb4a599cee4e09d74d9e3c6b444fcd46d9e2152e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/cb4a599cee4e09d74d9e3c6b444fcd46d9e2152e",
+                    "reference": "cb4a599cee4e09d74d9e3c6b444fcd46d9e2152e",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-25T07:54:13+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "fbcd75258ff79e4c20b8567f8b2d16d94dd3eb22"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/fbcd75258ff79e4c20b8567f8b2d16d94dd3eb22",
+                    "reference": "fbcd75258ff79e4c20b8567f8b2d16d94dd3eb22",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-26T10:09:25+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.10",
+                "version_normalized": "1.1.10.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "c824e57a8a528036a22529540e885e00b0c1b916"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/c824e57a8a528036a22529540e885e00b0c1b916",
+                    "reference": "c824e57a8a528036a22529540e885e00b0c1b916",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-06-26T13:36:09+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.10",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.11",
+                "version_normalized": "1.1.11.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "422de9f97e329bbee9df643c867ec2ff52470993"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/422de9f97e329bbee9df643c867ec2ff52470993",
+                    "reference": "422de9f97e329bbee9df643c867ec2ff52470993",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-11-21T08:39:01+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.11",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.12",
+                "version_normalized": "1.1.12.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "a4b813b700ba00a9287f9ca728f3ee37df07f368"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/a4b813b700ba00a9287f9ca728f3ee37df07f368",
+                    "reference": "a4b813b700ba00a9287f9ca728f3ee37df07f368",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-11-29T09:25:18+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.12",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.13",
+                "version_normalized": "1.1.13.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "e903ce96ecd13ef481e551cdf610f7c7ea883dca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/e903ce96ecd13ef481e551cdf610f7c7ea883dca",
+                    "reference": "e903ce96ecd13ef481e551cdf610f7c7ea883dca",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2019-05-20T08:45:03+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.13",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.14",
+                "version_normalized": "1.1.14.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "644ecedf9e2635d2988e223a50c708fc640ad60a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/644ecedf9e2635d2988e223a50c708fc640ad60a",
+                    "reference": "644ecedf9e2635d2988e223a50c708fc640ad60a",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2019-07-08T11:06:14+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.14",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "8b8aaccdfb841537fcaa55a67affa4e47a800164"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/8b8aaccdfb841537fcaa55a67affa4e47a800164",
+                    "reference": "8b8aaccdfb841537fcaa55a67affa4e47a800164",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-02-07T10:46:40+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "0b78895ff5bc8d2dde597448c79ea48038f3a2db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/0b78895ff5bc8d2dde597448c79ea48038f3a2db",
+                    "reference": "0b78895ff5bc8d2dde597448c79ea48038f3a2db",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-02-23T15:54:39+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.3",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "a771aef2388fd4671f166c64505722aab465e88b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/a771aef2388fd4671f166c64505722aab465e88b",
+                    "reference": "a771aef2388fd4671f166c64505722aab465e88b",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-03-20T11:49:52+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.4",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "ac636eccd806558256cda9d4b2a074134a51aca5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/ac636eccd806558256cda9d4b2a074134a51aca5",
+                    "reference": "ac636eccd806558256cda9d4b2a074134a51aca5",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-04-10T10:05:39+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.5",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.6",
+                "version_normalized": "1.1.6.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "2a8700f3ca09e5ea6a29c824591628a78cfea1d2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/2a8700f3ca09e5ea6a29c824591628a78cfea1d2",
+                    "reference": "2a8700f3ca09e5ea6a29c824591628a78cfea1d2",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-04-13T14:15:23+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.6",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.7",
+                "version_normalized": "1.1.7.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "c346a1e5dd97fb53908fa2160c5d52277748b861"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/c346a1e5dd97fb53908fa2160c5d52277748b861",
+                    "reference": "c346a1e5dd97fb53908fa2160c5d52277748b861",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-04-16T07:10:21+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.7",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.8",
+                "version_normalized": "1.1.8.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "2aa015cd45336baaa14e77f9dabd06df655ce810"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/2aa015cd45336baaa14e77f9dabd06df655ce810",
+                    "reference": "2aa015cd45336baaa14e77f9dabd06df655ce810",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-04-17T05:51:28+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.8",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.1.9",
+                "version_normalized": "1.1.9.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "bd3d178ac73872a1db720e0229784b109dbc8292"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/bd3d178ac73872a1db720e0229784b109dbc8292",
+                    "reference": "bd3d178ac73872a1db720e0229784b109dbc8292",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-06-01T07:58:54+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.1.9",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "6debb0d358533f5298007cd24e6bf28fb08b2716"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/6debb0d358533f5298007cd24e6bf28fb08b2716",
+                    "reference": "6debb0d358533f5298007cd24e6bf28fb08b2716",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-06T09:45:55+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "2c42a385cee4054147bf4b2363b0679c078c5704"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/2c42a385cee4054147bf4b2363b0679c078c5704",
+                    "reference": "2c42a385cee4054147bf4b2363b0679c078c5704",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-08T10:25:55+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.10",
+                "version_normalized": "1.2.10.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "cd184233e995efcc2651f9a3972b4b91f0c93e2f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/cd184233e995efcc2651f9a3972b4b91f0c93e2f",
+                    "reference": "cd184233e995efcc2651f9a3972b4b91f0c93e2f",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-02T10:54:49+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.10",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.11",
+                "version_normalized": "1.2.11.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "83ff58e624ac8ac0bbf19e0ffaaf7f11288b71eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/83ff58e624ac8ac0bbf19e0ffaaf7f11288b71eb",
+                    "reference": "83ff58e624ac8ac0bbf19e0ffaaf7f11288b71eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "grades-paca/bundle-form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T11:05:09+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.11",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.12",
+                "version_normalized": "1.2.12.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "5d1e1c42cab0e6df885b417d1fd6257272a4853e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/5d1e1c42cab0e6df885b417d1fd6257272a4853e",
+                    "reference": "5d1e1c42cab0e6df885b417d1fd6257272a4853e",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "grades-paca/bundle-form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2020-02-19T09:20:04+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.12",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "0782b3fa269c1f788f2a831e34946423d1952738"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/0782b3fa269c1f788f2a831e34946423d1952738",
+                    "reference": "0782b3fa269c1f788f2a831e34946423d1952738",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-14T14:58:14+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "b0f21305d163bda508862346310548a92b5f41cd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/b0f21305d163bda508862346310548a92b5f41cd",
+                    "reference": "b0f21305d163bda508862346310548a92b5f41cd",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-20T07:23:00+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "289df1ccb61de7dc90b677f95ace3380331165db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/289df1ccb61de7dc90b677f95ace3380331165db",
+                    "reference": "289df1ccb61de7dc90b677f95ace3380331165db",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-03-08T08:14:52+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.4",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "81d30729a0562760d4a3ca35c05191d8928004fb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/81d30729a0562760d4a3ca35c05191d8928004fb",
+                    "reference": "81d30729a0562760d4a3ca35c05191d8928004fb",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-03-15T06:56:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.5",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "74c7b02e9750951e63d13ab68ebdbcc4b624ab60"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/74c7b02e9750951e63d13ab68ebdbcc4b624ab60",
+                    "reference": "74c7b02e9750951e63d13ab68ebdbcc4b624ab60",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-03-19T07:11:17+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.6",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "17763bedd67c755f84e8438f77d24afdcc134d33"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/17763bedd67c755f84e8438f77d24afdcc134d33",
+                    "reference": "17763bedd67c755f84e8438f77d24afdcc134d33",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-04-30T11:26:46+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.7",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.8",
+                "version_normalized": "1.2.8.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "1568148bc45fb99d619ab03b5da3782512f9aa34"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/1568148bc45fb99d619ab03b5da3782512f9aa34",
+                    "reference": "1568148bc45fb99d619ab03b5da3782512f9aa34",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-05-20T08:46:07+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.8",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.2.9",
+                "version_normalized": "1.2.9.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "035841b076c0c099341830af43df3e73e64b4f01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/035841b076c0c099341830af43df3e73e64b4f01",
+                    "reference": "035841b076c0c099341830af43df3e73e64b4f01",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "oru/form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-07-08T11:19:47+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.2.9",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "42e807cf7664efca139c63e6464e30144f2263fe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/42e807cf7664efca139c63e6464e30144f2263fe",
+                    "reference": "42e807cf7664efca139c63e6464e30144f2263fe",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "^3.0",
+                    "grades-paca/bundle-form": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-08-25T07:34:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-lst/issues"
+                }
+            }
+        ]
+    }
+}

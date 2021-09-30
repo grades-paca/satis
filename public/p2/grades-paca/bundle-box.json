@@ -1,0 +1,1579 @@
+{
+    "packages": {
+        "grades-paca/bundle-box": [
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "b32598d6f703d2be4e7036a09efb8d0f762b6bb3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/b32598d6f703d2be4e7036a09efb8d0f762b6bb3",
+                    "reference": "b32598d6f703d2be4e7036a09efb8d0f762b6bb3",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-10-29T10:55:47+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "6f488f3a014dc19f5875deca4847bf6fee464159"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/6f488f3a014dc19f5875deca4847bf6fee464159",
+                    "reference": "6f488f3a014dc19f5875deca4847bf6fee464159",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-12-01T07:51:59+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "95150d9b5a66390cbd88294c6cc2a011382a31f1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/95150d9b5a66390cbd88294c6cc2a011382a31f1",
+                    "reference": "95150d9b5a66390cbd88294c6cc2a011382a31f1",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": "~1.0.5",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-01T11:26:10+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.10",
+                "version_normalized": "1.1.10.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "0fe9d9e1df224ac6ca1c2d186019f3a05233b243"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/0fe9d9e1df224ac6ca1c2d186019f3a05233b243",
+                    "reference": "0fe9d9e1df224ac6ca1c2d186019f3a05233b243",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-27T15:45:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.10",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.11",
+                "version_normalized": "1.1.11.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "3e1a9870e33999e8c9013ec88ff2b3e77344630f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/3e1a9870e33999e8c9013ec88ff2b3e77344630f",
+                    "reference": "3e1a9870e33999e8c9013ec88ff2b3e77344630f",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-30T15:17:07+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.11",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.12",
+                "version_normalized": "1.1.12.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "9aa22219e7dec7d91fb55fd1751821f7d6987a46"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/9aa22219e7dec7d91fb55fd1751821f7d6987a46",
+                    "reference": "9aa22219e7dec7d91fb55fd1751821f7d6987a46",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-03-09T09:51:27+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.12",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.13",
+                "version_normalized": "1.1.13.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "7711e528514dacde2ec690e03c50fb7f8286f4d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/7711e528514dacde2ec690e03c50fb7f8286f4d4",
+                    "reference": "7711e528514dacde2ec690e03c50fb7f8286f4d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-05-12T08:55:46+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.13",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "582fd5284d7b12d027c5af33f66090f97918164e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/582fd5284d7b12d027c5af33f66090f97918164e",
+                    "reference": "582fd5284d7b12d027c5af33f66090f97918164e",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": "~1.0.5",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-03T11:27:54+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "951eb4dd06b83102917fba7b7ddf24e529c38b8c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/951eb4dd06b83102917fba7b7ddf24e529c38b8c",
+                    "reference": "951eb4dd06b83102917fba7b7ddf24e529c38b8c",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/install": "~1.0.5",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-26T13:37:55+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.3",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "378e15c0255e1b1abd3d05b2165095ae6257869f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/378e15c0255e1b1abd3d05b2165095ae6257869f",
+                    "reference": "378e15c0255e1b1abd3d05b2165095ae6257869f",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": "~1.0.5",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-05-02T14:44:28+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.4",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "e96215cb383594adb3fe402ab603c158a033c8da"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/e96215cb383594adb3fe402ab603c158a033c8da",
+                    "reference": "e96215cb383594adb3fe402ab603c158a033c8da",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": "~1.0.5",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-08-03T14:16:02+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.5",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.6",
+                "version_normalized": "1.1.6.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "3e12be07dbf3f543ff81c429cc3434bf6eb425fd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/3e12be07dbf3f543ff81c429cc3434bf6eb425fd",
+                    "reference": "3e12be07dbf3f543ff81c429cc3434bf6eb425fd",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-06T08:32:38+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.6",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.7",
+                "version_normalized": "1.1.7.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "363a9bf27a688f7be7e8ca93f74ba911c4409ab4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/363a9bf27a688f7be7e8ca93f74ba911c4409ab4",
+                    "reference": "363a9bf27a688f7be7e8ca93f74ba911c4409ab4",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-29T06:11:05+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.7",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.8",
+                "version_normalized": "1.1.8.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "5ce8ecc5b512d85474176b906da157344140a257"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/5ce8ecc5b512d85474176b906da157344140a257",
+                    "reference": "5ce8ecc5b512d85474176b906da157344140a257",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-17T16:59:25+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.8",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.1.9",
+                "version_normalized": "1.1.9.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "9be937255a4a4ce9a43b8c53677919171ceff957"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/9be937255a4a4ce9a43b8c53677919171ceff957",
+                    "reference": "9be937255a4a4ce9a43b8c53677919171ceff957",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-24T14:56:48+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.9",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "c0ea6ae9baf2051cd1e4939dc8e9108ce9e15455"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/c0ea6ae9baf2051cd1e4939dc8e9108ce9e15455",
+                    "reference": "c0ea6ae9baf2051cd1e4939dc8e9108ce9e15455",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "1.4.*@dev",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-26T09:06:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "4e233ae3fe781baae5af8b6280ab8dc3ae4b4e3d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/4e233ae3fe781baae5af8b6280ab8dc3ae4b4e3d",
+                    "reference": "4e233ae3fe781baae5af8b6280ab8dc3ae4b4e3d",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.5",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-29T11:36:56+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "040ff893247246cf8bf115d81dc5518ee824a562"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/040ff893247246cf8bf115d81dc5518ee824a562",
+                    "reference": "040ff893247246cf8bf115d81dc5518ee824a562",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.5",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-30T11:34:57+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "55bc044d643e3b2900ca2bffaf7dacf681e39aa1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/55bc044d643e3b2900ca2bffaf7dacf681e39aa1",
+                    "reference": "55bc044d643e3b2900ca2bffaf7dacf681e39aa1",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.5",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-03-23T10:44:10+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "622e2c7a71ef4872ce9f545f12b154b32e3f7d8b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/622e2c7a71ef4872ce9f545f12b154b32e3f7d8b",
+                    "reference": "622e2c7a71ef4872ce9f545f12b154b32e3f7d8b",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.5",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2019-07-25T10:29:33+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.2.4",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "e31f2945be43e749ad5b6e431ce347011107b508"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/e31f2945be43e749ad5b6e431ce347011107b508",
+                    "reference": "e31f2945be43e749ad5b6e431ce347011107b508",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.5",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "~1.4",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2019-07-25T11:20:28+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.2.5",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "42738965f68e5a51dd51b9f215d712992dafc1c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/42738965f68e5a51dd51b9f215d712992dafc1c4",
+                    "reference": "42738965f68e5a51dd51b9f215d712992dafc1c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "oru/design": "*",
+                    "oru/form": ">=1.2.14",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-05T11:08:56+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "51bfa73ad32f269d2297440a1b434a3606a69497"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/51bfa73ad32f269d2297440a1b434a3606a69497",
+                    "reference": "51bfa73ad32f269d2297440a1b434a3606a69497",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "oru/design": "*",
+                    "oru/form": ">=1.7.2",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-14T14:45:25+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.1",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.10",
+                "version_normalized": "1.3.10.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "0601db77451376af03a1f1632d51c73c4b3ba68e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/0601db77451376af03a1f1632d51c73c4b3ba68e",
+                    "reference": "0601db77451376af03a1f1632d51c73c4b3ba68e",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": ">=1.7.2",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-lst": "*",
+                    "grades-paca/bundle-patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2020-05-25T08:56:15+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.10",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.11",
+                "version_normalized": "1.3.11.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "59fc94a79d6a7acdb7137eeb4d4150453f914c39"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/59fc94a79d6a7acdb7137eeb4d4150453f914c39",
+                    "reference": "59fc94a79d6a7acdb7137eeb4d4150453f914c39",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": ">=1.7.2",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-lst": "*",
+                    "grades-paca/bundle-patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2020-05-25T09:22:13+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.11",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.12",
+                "version_normalized": "1.3.12.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "a22859136d9f2064aaf48dc1658e88725c29a927"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/a22859136d9f2064aaf48dc1658e88725c29a927",
+                    "reference": "a22859136d9f2064aaf48dc1658e88725c29a927",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": ">=1.7.2",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-lst": "*",
+                    "grades-paca/bundle-patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2020-10-14T07:03:17+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.12",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "ef2181980a0dd739440faf7d120611966f6ba98a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/ef2181980a0dd739440faf7d120611966f6ba98a",
+                    "reference": "ef2181980a0dd739440faf7d120611966f6ba98a",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "oru/design": "*",
+                    "oru/form": ">=1.7.2",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-04-30T09:53:59+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.2",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.3",
+                "version_normalized": "1.3.3.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "d4a96bb066bc5fa8c4fa7fbea311f51c649745ba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/d4a96bb066bc5fa8c4fa7fbea311f51c649745ba",
+                    "reference": "d4a96bb066bc5fa8c4fa7fbea311f51c649745ba",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "oru/design": "*",
+                    "oru/form": ">=1.7.2",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-07-25T10:43:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.3",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.4",
+                "version_normalized": "1.3.4.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "d6741f2cd030474bce7836051e194b751da646ba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/d6741f2cd030474bce7836051e194b751da646ba",
+                    "reference": "d6741f2cd030474bce7836051e194b751da646ba",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "oru/design": "*",
+                    "oru/form": ">=1.7.2",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-07-25T11:23:12+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.4",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.5",
+                "version_normalized": "1.3.5.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "6983e7435986e3c7a0429853e866020b0b70e65c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/6983e7435986e3c7a0429853e866020b0b70e65c",
+                    "reference": "6983e7435986e3c7a0429853e866020b0b70e65c",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "oru/design": "*",
+                    "oru/form": ">=1.7.2",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-07-26T06:44:28+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.5",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.6",
+                "version_normalized": "1.3.6.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "0fe2ba4380078e80aac1ec18573791c1189277d6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/0fe2ba4380078e80aac1ec18573791c1189277d6",
+                    "reference": "0fe2ba4380078e80aac1ec18573791c1189277d6",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "oru/design": "*",
+                    "oru/form": ">=1.7.2",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/listing": "*",
+                    "oru/lst": "*",
+                    "oru/patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-02T08:40:54+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.6",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.7",
+                "version_normalized": "1.3.7.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "53d6da0753b12da56320c9b50410ddfa3250ad01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/53d6da0753b12da56320c9b50410ddfa3250ad01",
+                    "reference": "53d6da0753b12da56320c9b50410ddfa3250ad01",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": ">=1.7.2",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-lst": "*",
+                    "grades-paca/bundle-patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:10:44+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.7",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.8",
+                "version_normalized": "1.3.8.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "6cd3c30d6a2c70ad0147fddcfb0d7557d6e4c2bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/6cd3c30d6a2c70ad0147fddcfb0d7557d6e4c2bf",
+                    "reference": "6cd3c30d6a2c70ad0147fddcfb0d7557d6e4c2bf",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": ">=1.7.2",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-lst": "*",
+                    "grades-paca/bundle-patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-09T07:36:55+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.8",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.3.9",
+                "version_normalized": "1.3.9.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "b437613f98cd2dabebeaf4cf300bff2f88d5b9e1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/b437613f98cd2dabebeaf4cf300bff2f88d5b9e1",
+                    "reference": "b437613f98cd2dabebeaf4cf300bff2f88d5b9e1",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": ">=1.7.2",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-lst": "*",
+                    "grades-paca/bundle-patient": "*",
+                    "sonata-project/exporter": "1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-11-28T06:45:50+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.9",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-box",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "target-dir": "Oru/Bundle/BoxBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-box.git",
+                    "reference": "48bf9cd954b1253d351a1f402f74a632288ab50e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/48bf9cd954b1253d351a1f402f74a632288ab50e",
+                    "reference": "48bf9cd954b1253d351a1f402f74a632288ab50e",
+                    "shasum": ""
+                },
+                "require": {
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": ">=1.7.2",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-lst": "*",
+                    "grades-paca/bundle-patient": "*",
+                    "sonata-project/exporter": "^2.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-08-24T10:10:47+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\BoxBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
+            }
+        ]
+    }
+}

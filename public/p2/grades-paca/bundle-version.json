@@ -1,0 +1,1428 @@
+{
+    "packages": {
+        "grades-paca/bundle-version": [
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "6b1df90a0d8173ff00eddff4c35f2d94455b488e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/6b1df90a0d8173ff00eddff4c35f2d94455b488e",
+                    "reference": "6b1df90a0d8173ff00eddff4c35f2d94455b488e",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-11-23T10:29:40+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "4fd88eb686f9c44983be690a86a2dca7e74ee025"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/4fd88eb686f9c44983be690a86a2dca7e74ee025",
+                    "reference": "4fd88eb686f9c44983be690a86a2dca7e74ee025",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-12-01T09:30:15+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "a8e2f4965a4baafdf3bcda3913ea2fdfcacda90c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/a8e2f4965a4baafdf3bcda3913ea2fdfcacda90c",
+                    "reference": "a8e2f4965a4baafdf3bcda3913ea2fdfcacda90c",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-22T09:41:59+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "ee80142baab0f5bab2dc322ba46db5503ab74c12"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/ee80142baab0f5bab2dc322ba46db5503ab74c12",
+                    "reference": "ee80142baab0f5bab2dc322ba46db5503ab74c12",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/install": "~1.0.5",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-01T11:42:00+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "0e680bcf0abfae242ffcd31a273d92826873fb46"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/0e680bcf0abfae242ffcd31a273d92826873fb46",
+                    "reference": "0e680bcf0abfae242ffcd31a273d92826873fb46",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/install": "~1.0.5",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-03T11:36:43+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "d3af079246a2f98f2a1e73dc86d4bc5f238ba6b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/d3af079246a2f98f2a1e73dc86d4bc5f238ba6b1",
+                    "reference": "d3af079246a2f98f2a1e73dc86d4bc5f238ba6b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/install": "~1.0.5",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-15T08:45:59+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.0.4",
+                "version_normalized": "2.0.4.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "9db767c8daa732f3bfc2bb4018f64883876d5707"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/9db767c8daa732f3bfc2bb4018f64883876d5707",
+                    "reference": "9db767c8daa732f3bfc2bb4018f64883876d5707",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "dev-master",
+                    "oru/install": "~1.0.5",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-06-20T09:01:09+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "1ca7b794d2427cae11bc0a78416f43cc53a46c75"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/1ca7b794d2427cae11bc0a78416f43cc53a46c75",
+                    "reference": "1ca7b794d2427cae11bc0a78416f43cc53a46c75",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/install": "~1.0.5",
+                    "oru/web-client": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-07-13T10:03:26+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.0.6",
+                "version_normalized": "2.0.6.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "1844b662b60f05b2b498f7bc37ded76857428425"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/1844b662b60f05b2b498f7bc37ded76857428425",
+                    "reference": "1844b662b60f05b2b498f7bc37ded76857428425",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/install": "~1.0.5",
+                    "oru/web-client": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-07-15T12:01:31+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.0.6",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.0.7",
+                "version_normalized": "2.0.7.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "dd221ea87bb67f11a1ca16e6bc329f180d9867b9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/dd221ea87bb67f11a1ca16e6bc329f180d9867b9",
+                    "reference": "dd221ea87bb67f11a1ca16e6bc329f180d9867b9",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/install": "~1.0.5",
+                    "oru/web-client": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-08-02T09:03:08+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.0.7",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.0.8",
+                "version_normalized": "2.0.8.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "53eff166278c18f413a5b6328e6654266efccac1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/53eff166278c18f413a5b6328e6654266efccac1",
+                    "reference": "53eff166278c18f413a5b6328e6654266efccac1",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/web-client": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-06T08:47:25+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.0.8",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "3c91a3ec6e53baefe3b4f1bf11a518a6393cfdeb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/3c91a3ec6e53baefe3b4f1bf11a518a6393cfdeb",
+                    "reference": "3c91a3ec6e53baefe3b4f1bf11a518a6393cfdeb",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/web-client": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-10-06T07:51:10+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "5617f975bb23bb0fbbe70e8529cb3997f6ac61e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/5617f975bb23bb0fbbe70e8529cb3997f6ac61e2",
+                    "reference": "5617f975bb23bb0fbbe70e8529cb3997f6ac61e2",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/web-client": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-10-20T14:37:03+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "f72eb7a81b104009d3089a2ae79eb214b6c8f439"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/f72eb7a81b104009d3089a2ae79eb214b6c8f439",
+                    "reference": "f72eb7a81b104009d3089a2ae79eb214b6c8f439",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/web-client": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-11-17T13:42:18+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.1.3",
+                "version_normalized": "2.1.3.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "3d506983b49ce18cbb3425de1602cd721149caf3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/3d506983b49ce18cbb3425de1602cd721149caf3",
+                    "reference": "3d506983b49ce18cbb3425de1602cd721149caf3",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-02T08:56:03+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.1.3",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "4d96ed120b1b05a39e5b25ec0f2022d3c7bc67de"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/4d96ed120b1b05a39e5b25ec0f2022d3c7bc67de",
+                    "reference": "4d96ed120b1b05a39e5b25ec0f2022d3c7bc67de",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-02T08:58:51+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "b711ebbf1233940245000e148deb58f9be2d7ebe"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/b711ebbf1233940245000e148deb58f9be2d7ebe",
+                    "reference": "b711ebbf1233940245000e148deb58f9be2d7ebe",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-12-06T08:57:04+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "747eeb82e281eeb966b07cff7409c59203591ec8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/747eeb82e281eeb966b07cff7409c59203591ec8",
+                    "reference": "747eeb82e281eeb966b07cff7409c59203591ec8",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-18T11:20:02+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "52a79e99050d2113010861db2c9d44df9a31c4ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/52a79e99050d2113010861db2c9d44df9a31c4ca",
+                    "reference": "52a79e99050d2113010861db2c9d44df9a31c4ca",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-22T11:31:48+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.4.0",
+                "version_normalized": "2.4.0.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "136e8128810d833947929f5e9bbb62cdb94b1049"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/136e8128810d833947929f5e9bbb62cdb94b1049",
+                    "reference": "136e8128810d833947929f5e9bbb62cdb94b1049",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-26T10:34:38+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.4.1",
+                "version_normalized": "2.4.1.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "9b57466bab654e814827013cc8062662323f8e42"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/9b57466bab654e814827013cc8062662323f8e42",
+                    "reference": "9b57466bab654e814827013cc8062662323f8e42",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-31T11:43:53+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.4.2",
+                "version_normalized": "2.4.2.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "2a04ef27b67bdde60761c04ae2852ac07f60582a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/2a04ef27b67bdde60761c04ae2852ac07f60582a",
+                    "reference": "2a04ef27b67bdde60761c04ae2852ac07f60582a",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-03-12T16:31:26+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.4.2",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.4.3",
+                "version_normalized": "2.4.3.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "1312247a0e56cda282aa6e15c881ea52dabcc346"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/1312247a0e56cda282aa6e15c881ea52dabcc346",
+                    "reference": "1312247a0e56cda282aa6e15c881ea52dabcc346",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-06-27T14:22:40+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.4.3",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.4.4",
+                "version_normalized": "2.4.4.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "04ea7c97e2e7c162b91b214a178cf5c4b9e61866"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/04ea7c97e2e7c162b91b214a178cf5c4b9e61866",
+                    "reference": "04ea7c97e2e7c162b91b214a178cf5c4b9e61866",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-11-09T10:55:13+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.4.4",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.4.5",
+                "version_normalized": "2.4.5.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "5d123d82519bc7c172ab01fedd4b5681e9e06b0b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/5d123d82519bc7c172ab01fedd4b5681e9e06b0b",
+                    "reference": "5d123d82519bc7c172ab01fedd4b5681e9e06b0b",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2019-04-02T06:46:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.4.5",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.5.0",
+                "version_normalized": "2.5.0.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "7e34302cfbd2d2ed3e2e1cb4670c88bde50157b2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/7e34302cfbd2d2ed3e2e1cb4670c88bde50157b2",
+                    "reference": "7e34302cfbd2d2ed3e2e1cb4670c88bde50157b2",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-06T11:09:18+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.5.0",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.5.1",
+                "version_normalized": "2.5.1.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "905cf156ef1379ad154215b01d452f42a88aa8e1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/905cf156ef1379ad154215b01d452f42a88aa8e1",
+                    "reference": "905cf156ef1379ad154215b01d452f42a88aa8e1",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-04-02T06:48:17+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.5.1",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.5.2",
+                "version_normalized": "2.5.2.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "7a346c79c25fe17769cbdac00d1fa05cf44f070d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/7a346c79c25fe17769cbdac00d1fa05cf44f070d",
+                    "reference": "7a346c79c25fe17769cbdac00d1fa05cf44f070d",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-07-23T11:05:31+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.5.2",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.5.3",
+                "version_normalized": "2.5.3.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "4052a670f2664be0ad85b769a5887c841663f57c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/4052a670f2664be0ad85b769a5887c841663f57c",
+                    "reference": "4052a670f2664be0ad85b769a5887c841663f57c",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-07-26T10:18:37+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.5.3",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.5.4",
+                "version_normalized": "2.5.4.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "d02d7d06e4b9143e2c960fe1152a3ef166cdbde9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/d02d7d06e4b9143e2c960fe1152a3ef166cdbde9",
+                    "reference": "d02d7d06e4b9143e2c960fe1152a3ef166cdbde9",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "oru/app": ">=1.0.4",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/setting": "*",
+                    "oru/web-client": ">=1.1.11",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-02T11:49:31+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.5.4",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.5.5",
+                "version_normalized": "2.5.5.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "025a23792bae8799ff70c4b2e789386c19af9ce6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/025a23792bae8799ff70c4b2e789386c19af9ce6",
+                    "reference": "025a23792bae8799ff70c4b2e789386c19af9ce6",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "grades-paca/bundle-app": ">=1.0.4",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-web-client": ">=1.1.11",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:57:16+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.5.5",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.5.6",
+                "version_normalized": "2.5.6.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "294c7a8384afe631b85f5620c5ca72add378bedf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/294c7a8384afe631b85f5620c5ca72add378bedf",
+                    "reference": "294c7a8384afe631b85f5620c5ca72add378bedf",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "grades-paca/bundle-app": ">=1.0.4",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-web-client": ">=1.1.11",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-10-17T10:02:15+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.5.6",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.5.7",
+                "version_normalized": "2.5.7.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "f3e935aabfd1bed5b498c0016755f96ebbc82e9b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/f3e935aabfd1bed5b498c0016755f96ebbc82e9b",
+                    "reference": "f3e935aabfd1bed5b498c0016755f96ebbc82e9b",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "grades-paca/bundle-app": ">=1.0.4",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-web-client": ">=1.1.11",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-11-04T14:56:23+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.5.7",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.5.8",
+                "version_normalized": "2.5.8.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "bb7628e78b0103cf7cdb3239f7a2dbb0e09924b3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/bb7628e78b0103cf7cdb3239f7a2dbb0e09924b3",
+                    "reference": "bb7628e78b0103cf7cdb3239f7a2dbb0e09924b3",
+                    "shasum": ""
+                },
+                "require": {
+                    "arlin2050/redmine-api": "~1.5.0",
+                    "grades-paca/bundle-app": ">=1.0.4",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-web-client": ">=1.1.11",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2020-04-24T10:54:30+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.5.8",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "2.6.0",
+                "version_normalized": "2.6.0.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "4c2af18f32fde69bfb234df253e9485114a50626"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/4c2af18f32fde69bfb234df253e9485114a50626",
+                    "reference": "4c2af18f32fde69bfb234df253e9485114a50626",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-app": ">=1.0.4",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-web-client": ">=1.1.11",
+                    "kbsali/redmine-api": "^1.8",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-08-25T12:13:37+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/2.6.0",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            }
+        ]
+    }
+}

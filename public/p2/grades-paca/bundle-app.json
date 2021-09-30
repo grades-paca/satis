@@ -1,0 +1,1050 @@
+{
+    "packages": {
+        "grades-paca/bundle-app": [
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "db32c19d69bc9d6fad2810f5f1ef00c7dcdebdf2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/db32c19d69bc9d6fad2810f5f1ef00c7dcdebdf2",
+                    "reference": "db32c19d69bc9d6fad2810f5f1ef00c7dcdebdf2",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-29T11:54:13+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "6b445f70a7ca1deda563495d22d1774bbc8e7cee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/6b445f70a7ca1deda563495d22d1774bbc8e7cee",
+                    "reference": "6b445f70a7ca1deda563495d22d1774bbc8e7cee",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-29T12:08:14+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.10",
+                "version_normalized": "1.0.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "7f41621f2aa7cba79dd03cc21dfc239b9475d64a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/7f41621f2aa7cba79dd03cc21dfc239b9475d64a",
+                    "reference": "7f41621f2aa7cba79dd03cc21dfc239b9475d64a",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-12-13T10:20:48+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.10",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.11",
+                "version_normalized": "1.0.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "fbbf636055c15ecacdcb9fe914d320445b6ec5c8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/fbbf636055c15ecacdcb9fe914d320445b6ec5c8",
+                    "reference": "fbbf636055c15ecacdcb9fe914d320445b6ec5c8",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-12-13T13:01:34+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.11",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.12",
+                "version_normalized": "1.0.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "9f30abcedf96864b98dca1400c3200865ca4eda7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/9f30abcedf96864b98dca1400c3200865ca4eda7",
+                    "reference": "9f30abcedf96864b98dca1400c3200865ca4eda7",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-12-19T12:45:43+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.12",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.13",
+                "version_normalized": "1.0.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "687a70e9440153bd4937208849c25509e3ae40d1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/687a70e9440153bd4937208849c25509e3ae40d1",
+                    "reference": "687a70e9440153bd4937208849c25509e3ae40d1",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-12-20T13:23:48+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.13",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.14",
+                "version_normalized": "1.0.14.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "10dd962646b3aabe8a0fe886261432e29d177c41"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/10dd962646b3aabe8a0fe886261432e29d177c41",
+                    "reference": "10dd962646b3aabe8a0fe886261432e29d177c41",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-12-20T15:15:58+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.14",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.15",
+                "version_normalized": "1.0.15.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "fc23cef5fed64b2ada3d3830f0b16ac9865b0a20"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/fc23cef5fed64b2ada3d3830f0b16ac9865b0a20",
+                    "reference": "fc23cef5fed64b2ada3d3830f0b16ac9865b0a20",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-03-30T12:05:43+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.15",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.16",
+                "version_normalized": "1.0.16.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "632c5230406032ff61b56799a3406f489042d2a8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/632c5230406032ff61b56799a3406f489042d2a8",
+                    "reference": "632c5230406032ff61b56799a3406f489042d2a8",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-03-30T12:49:08+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.16",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.17",
+                "version_normalized": "1.0.17.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "c57777364fa2836fbe0a02244cc1bf0c87c85947"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/c57777364fa2836fbe0a02244cc1bf0c87c85947",
+                    "reference": "c57777364fa2836fbe0a02244cc1bf0c87c85947",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-04-12T14:19:26+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.17",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.18",
+                "version_normalized": "1.0.18.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "dc7455ee02cd3f17c26d9094d06cac498c31cc0e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/dc7455ee02cd3f17c26d9094d06cac498c31cc0e",
+                    "reference": "dc7455ee02cd3f17c26d9094d06cac498c31cc0e",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-04-25T11:50:06+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.18",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.19",
+                "version_normalized": "1.0.19.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "98599825d6a48df5b6db409662fbd9b76ed46d03"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/98599825d6a48df5b6db409662fbd9b76ed46d03",
+                    "reference": "98599825d6a48df5b6db409662fbd9b76ed46d03",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-05-02T09:30:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.19",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "702bf5b72531e67c02a922fb391296fd852bd5dd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/702bf5b72531e67c02a922fb391296fd852bd5dd",
+                    "reference": "702bf5b72531e67c02a922fb391296fd852bd5dd",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-11-04T13:37:01+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.20",
+                "version_normalized": "1.0.20.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "d5038500ac6d30bf4d3b0223fafb06b36235a5d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/d5038500ac6d30bf4d3b0223fafb06b36235a5d0",
+                    "reference": "d5038500ac6d30bf4d3b0223fafb06b36235a5d0",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-05-29T09:26:53+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.20",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.21",
+                "version_normalized": "1.0.21.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "e79148c2b4d515c54d37deb32ea763affaf8dba8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/e79148c2b4d515c54d37deb32ea763affaf8dba8",
+                    "reference": "e79148c2b4d515c54d37deb32ea763affaf8dba8",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-16T10:58:25+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.21",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.22",
+                "version_normalized": "1.0.22.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "77100d7826eed06fdf9457d0504753ac8e73cfb8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/77100d7826eed06fdf9457d0504753ac8e73cfb8",
+                    "reference": "77100d7826eed06fdf9457d0504753ac8e73cfb8",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-04-18T12:17:53+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.22",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.23",
+                "version_normalized": "1.0.23.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "d693e2e607ebbf7d63ad71bc8bd4fe4df07b1f35"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/d693e2e607ebbf7d63ad71bc8bd4fe4df07b1f35",
+                    "reference": "d693e2e607ebbf7d63ad71bc8bd4fe4df07b1f35",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-12-03T10:06:08+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.23",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "c6939b158916cfde000d4312350a1dee2155a969"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/c6939b158916cfde000d4312350a1dee2155a969",
+                    "reference": "c6939b158916cfde000d4312350a1dee2155a969",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-11-17T08:56:03+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "a420420d24eeb600ae65327ef3990667369523b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/a420420d24eeb600ae65327ef3990667369523b0",
+                    "reference": "a420420d24eeb600ae65327ef3990667369523b0",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-11-17T11:18:00+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "8a3c38031f2c8a7c3e62e23b1250dc49fd4d2dd2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/8a3c38031f2c8a7c3e62e23b1250dc49fd4d2dd2",
+                    "reference": "8a3c38031f2c8a7c3e62e23b1250dc49fd4d2dd2",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-11-18T07:48:00+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "4002d1b46f1786e83d01f88ada93c17e077a2a17"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/4002d1b46f1786e83d01f88ada93c17e077a2a17",
+                    "reference": "4002d1b46f1786e83d01f88ada93c17e077a2a17",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-11-18T09:01:34+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.6",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "27c682791d3e92f8f45eca3a510abcbcfcd50481"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/27c682791d3e92f8f45eca3a510abcbcfcd50481",
+                    "reference": "27c682791d3e92f8f45eca3a510abcbcfcd50481",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-11-18T14:27:48+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.7",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "81f811db35b510f3567ab6ba4d004f69b192a026"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/81f811db35b510f3567ab6ba4d004f69b192a026",
+                    "reference": "81f811db35b510f3567ab6ba4d004f69b192a026",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-11-18T15:58:22+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.8",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "cfdf213ff1225840db15c449256e57a69ec8a425"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/cfdf213ff1225840db15c449256e57a69ec8a425",
+                    "reference": "cfdf213ff1225840db15c449256e57a69ec8a425",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-12-12T12:01:42+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.0.9",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "5cbdf39537df7ce39c1a71fe7f54c7216de848cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/5cbdf39537df7ce39c1a71fe7f54c7216de848cf",
+                    "reference": "5cbdf39537df7ce39c1a71fe7f54c7216de848cf",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-05T10:49:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "2845f163be92c87edfc2d74b6b608057ebdd3c58"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/2845f163be92c87edfc2d74b6b608057ebdd3c58",
+                    "reference": "2845f163be92c87edfc2d74b6b608057ebdd3c58",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-02T08:47:11+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "b635c4ca5c08b8abfcbeebbe9497b2fe4ddd10ec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/b635c4ca5c08b8abfcbeebbe9497b2fe4ddd10ec",
+                    "reference": "b635c4ca5c08b8abfcbeebbe9497b2fe4ddd10ec",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-09-17T09:27:38+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "db2e0fa7fc392152992a5ea5c7950f1f36c6a08e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/db2e0fa7fc392152992a5ea5c7950f1f36c6a08e",
+                    "reference": "db2e0fa7fc392152992a5ea5c7950f1f36c6a08e",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2020-08-18T10:59:33+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "f74cccbc796faba69693567316e5cbc78cd0392c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/f74cccbc796faba69693567316e5cbc78cd0392c",
+                    "reference": "f74cccbc796faba69693567316e5cbc78cd0392c",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-08-24T09:13:21+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-app/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-app/issues"
+                }
+            }
+        ]
+    }
+}

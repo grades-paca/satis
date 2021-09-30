@@ -1,0 +1,1118 @@
+{
+    "packages": {
+        "grades-paca/bundle-plan-bleu": [
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "2495b5a184be3df6d6ff8511077b31b8385f8ae9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/2495b5a184be3df6d6ff8511077b31b8385f8ae9",
+                    "reference": "2495b5a184be3df6d6ff8511077b31b8385f8ae9",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-12-01T08:24:30+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "c31fa0d4e7918d7dc689cd82272931734529c697"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/c31fa0d4e7918d7dc689cd82272931734529c697",
+                    "reference": "c31fa0d4e7918d7dc689cd82272931734529c697",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-01T14:56:10+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "f684268c5b8cecfedc40bbdd62018f260f39ba79"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/f684268c5b8cecfedc40bbdd62018f260f39ba79",
+                    "reference": "f684268c5b8cecfedc40bbdd62018f260f39ba79",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-04T14:37:47+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "9daf918db57acfa221a6a202a99a0e9f527d8408"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/9daf918db57acfa221a6a202a99a0e9f527d8408",
+                    "reference": "9daf918db57acfa221a6a202a99a0e9f527d8408",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-02-09T15:38:07+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "a900b465b426cea6b91ad8096ca162af6dd01205"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/a900b465b426cea6b91ad8096ca162af6dd01205",
+                    "reference": "a900b465b426cea6b91ad8096ca162af6dd01205",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-06T12:25:54+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "5b16ac10fc0f2b299f851e93145b1de618f788c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/5b16ac10fc0f2b299f851e93145b1de618f788c9",
+                    "reference": "5b16ac10fc0f2b299f851e93145b1de618f788c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-29T13:40:26+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "a3746230e45e154cf218d779e637ac1fb18c5f8d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/a3746230e45e154cf218d779e637ac1fb18c5f8d",
+                    "reference": "a3746230e45e154cf218d779e637ac1fb18c5f8d",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-29T14:08:02+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.0.6",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "a894866dd82f4732cb3f287200135a04d930736f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/a894866dd82f4732cb3f287200135a04d930736f",
+                    "reference": "a894866dd82f4732cb3f287200135a04d930736f",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/design": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-06-07T09:50:05+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.0.7",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "3b23536b3a7b934d6f78844a3fd16ad12452dac7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/3b23536b3a7b934d6f78844a3fd16ad12452dac7",
+                    "reference": "3b23536b3a7b934d6f78844a3fd16ad12452dac7",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-06-15T08:54:22+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.0.8",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "68b0573b2ac3a108e28b75fa52e5aecefd58eb82"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/68b0573b2ac3a108e28b75fa52e5aecefd58eb82",
+                    "reference": "68b0573b2ac3a108e28b75fa52e5aecefd58eb82",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-06-15T09:07:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.0.9",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "aa58171374d34e6e4451549ca6505edc63f0d9c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/aa58171374d34e6e4451549ca6505edc63f0d9c4",
+                    "reference": "aa58171374d34e6e4451549ca6505edc63f0d9c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-08-02T12:23:45+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "a0301d4ee6486c9adf956fa3e9a72b80a4f7108d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/a0301d4ee6486c9adf956fa3e9a72b80a4f7108d",
+                    "reference": "a0301d4ee6486c9adf956fa3e9a72b80a4f7108d",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-15T07:21:14+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "c749c8d734bfa072c442e72a736b967678e00432"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/c749c8d734bfa072c442e72a736b967678e00432",
+                    "reference": "c749c8d734bfa072c442e72a736b967678e00432",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-15T09:13:19+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "44f388a4cc9ad1067cdfe2ad1409a846c7eb7929"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/44f388a4cc9ad1067cdfe2ad1409a846c7eb7929",
+                    "reference": "44f388a4cc9ad1067cdfe2ad1409a846c7eb7929",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-29T06:49:52+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.1.3",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "ee6ebfcfe35180ac7136961ce883afc95104743b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/ee6ebfcfe35180ac7136961ce883afc95104743b",
+                    "reference": "ee6ebfcfe35180ac7136961ce883afc95104743b",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-10-11T11:22:09+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "93ddbb1f5bbeead177c5b265cfc0db82f14b1386"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/93ddbb1f5bbeead177c5b265cfc0db82f14b1386",
+                    "reference": "93ddbb1f5bbeead177c5b265cfc0db82f14b1386",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-17T15:50:57+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.3.1",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "79684f5b20cc2ae05eda425aa61234ebcaf6bb2f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/79684f5b20cc2ae05eda425aa61234ebcaf6bb2f",
+                    "reference": "79684f5b20cc2ae05eda425aa61234ebcaf6bb2f",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-26T10:22:15+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "2a19457a0eef791352b7b0e14fc228ac08544640"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/2a19457a0eef791352b7b0e14fc228ac08544640",
+                    "reference": "2a19457a0eef791352b7b0e14fc228ac08544640",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-06T10:06:03+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.5.0",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "e87e80d2f994f7968802344dca2224d3ff428da9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/e87e80d2f994f7968802344dca2224d3ff428da9",
+                    "reference": "e87e80d2f994f7968802344dca2224d3ff428da9",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-08T10:29:34+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.5.1",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "1d032dd92eed4ff2de332a76c3f9496bc0061257"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/1d032dd92eed4ff2de332a76c3f9496bc0061257",
+                    "reference": "1d032dd92eed4ff2de332a76c3f9496bc0061257",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-14T15:03:43+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.5.2",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.5.3",
+                "version_normalized": "1.5.3.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "7ceff9d5b0b178e5cab48704fce07c30b10fe7f7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/7ceff9d5b0b178e5cab48704fce07c30b10fe7f7",
+                    "reference": "7ceff9d5b0b178e5cab48704fce07c30b10fe7f7",
+                    "shasum": ""
+                },
+                "require": {
+                    "oru/attachment": "*",
+                    "oru/design": "*",
+                    "oru/form": "*",
+                    "oru/ror3": "*",
+                    "oru/setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-02T11:19:32+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.5.3",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.5.4",
+                "version_normalized": "1.5.4.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "5e466bdd701a05c89bd6b4a72a035ab0d53af3cc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/5e466bdd701a05c89bd6b4a72a035ab0d53af3cc",
+                    "reference": "5e466bdd701a05c89bd6b4a72a035ab0d53af3cc",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-attachment": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:04:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.5.4",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.5.5",
+                "version_normalized": "1.5.5.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "a4ac10d1a197f50b0458c7b2726c31b9fc4b87aa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/a4ac10d1a197f50b0458c7b2726c31b9fc4b87aa",
+                    "reference": "a4ac10d1a197f50b0458c7b2726c31b9fc4b87aa",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-attachment": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2020-03-19T15:21:33+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.5.5",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.5.6",
+                "version_normalized": "1.5.6.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "dc308675b6889686dc10999ec6b29241625bae99"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/dc308675b6889686dc10999ec6b29241625bae99",
+                    "reference": "dc308675b6889686dc10999ec6b29241625bae99",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-attachment": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2020-05-25T09:50:25+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.5.6",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.5.7",
+                "version_normalized": "1.5.7.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "7005abecbf3f4c5178f76dc6de0e6d7aba75ed06"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/7005abecbf3f4c5178f76dc6de0e6d7aba75ed06",
+                    "reference": "7005abecbf3f4c5178f76dc6de0e6d7aba75ed06",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-attachment": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2020-06-09T12:57:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.5.7",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.5.8",
+                "version_normalized": "1.5.8.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "128fba62b75dffd95a7bb5a203d1fb7522621431"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/128fba62b75dffd95a7bb5a203d1fb7522621431",
+                    "reference": "128fba62b75dffd95a7bb5a203d1fb7522621431",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-attachment": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2020-06-30T08:53:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.5.8",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.6.0",
+                "version_normalized": "1.6.0.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "cf3bc60cc3ff1f1e22f9510969f330e89d0caa59"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/cf3bc60cc3ff1f1e22f9510969f330e89d0caa59",
+                    "reference": "cf3bc60cc3ff1f1e22f9510969f330e89d0caa59",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-attachment": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-08-25T08:30:37+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.6.0",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            }
+        ]
+    }
+}

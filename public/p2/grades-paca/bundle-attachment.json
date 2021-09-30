@@ -1,0 +1,2022 @@
+{
+    "packages": {
+        "grades-paca/bundle-attachment": [
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "15da6caa27bae00aa40d8dd5981bf6ff9b30c1b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/15da6caa27bae00aa40d8dd5981bf6ff9b30c1b1",
+                    "reference": "15da6caa27bae00aa40d8dd5981bf6ff9b30c1b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-10-22T09:17:58+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "487749b1703edec189d0932e758a798a2c21c4d5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/487749b1703edec189d0932e758a798a2c21c4d5",
+                    "reference": "487749b1703edec189d0932e758a798a2c21c4d5",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-11-06T13:12:40+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "3821d3f14854da27fb27389f9e8e6e2763c5ba4e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/3821d3f14854da27fb27389f9e8e6e2763c5ba4e",
+                    "reference": "3821d3f14854da27fb27389f9e8e6e2763c5ba4e",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-12-01T07:48:19+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "1ad8e2f566c1c155276f523f8f41486ceff17e88"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/1ad8e2f566c1c155276f523f8f41486ceff17e88",
+                    "reference": "1ad8e2f566c1c155276f523f8f41486ceff17e88",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": "~1.0.5",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-01T11:19:56+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.10",
+                "version_normalized": "1.1.10.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "c0600f90886d308ff6f12aec6a85a55604cbd67f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/c0600f90886d308ff6f12aec6a85a55604cbd67f",
+                    "reference": "c0600f90886d308ff6f12aec6a85a55604cbd67f",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": "~1.0.5",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-14T07:55:45+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.10",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.11",
+                "version_normalized": "1.1.11.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "40db6fc38b180d7f96e3cec6aac3ac9e93909bcd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/40db6fc38b180d7f96e3cec6aac3ac9e93909bcd",
+                    "reference": "40db6fc38b180d7f96e3cec6aac3ac9e93909bcd",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": "~1.0.5",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-05-02T07:08:08+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.11",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.12",
+                "version_normalized": "1.1.12.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "72193af19c2dcb76c0acf542cb7bec293cc73ef3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/72193af19c2dcb76c0acf542cb7bec293cc73ef3",
+                    "reference": "72193af19c2dcb76c0acf542cb7bec293cc73ef3",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-06T08:19:51+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.12",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.13",
+                "version_normalized": "1.1.13.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "f6d4ce5b70a7aa42c0b86f8c4c7e246ee5625464"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/f6d4ce5b70a7aa42c0b86f8c4c7e246ee5625464",
+                    "reference": "f6d4ce5b70a7aa42c0b86f8c4c7e246ee5625464",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-09-06T09:55:21+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.13",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "239232ae6f7b79f89566fc80c00c9daaa3964a7d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/239232ae6f7b79f89566fc80c00c9daaa3964a7d",
+                    "reference": "239232ae6f7b79f89566fc80c00c9daaa3964a7d",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": "~1.0.5",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-03T11:23:15+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "e3317143e8af501765b19041abf2a7dbde5bc18b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/e3317143e8af501765b19041abf2a7dbde5bc18b",
+                    "reference": "e3317143e8af501765b19041abf2a7dbde5bc18b",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": "~1.0.5",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-25T10:35:39+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.3",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "47145079f1f1665153b6d8476504b6a4e6a11ef3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/47145079f1f1665153b6d8476504b6a4e6a11ef3",
+                    "reference": "47145079f1f1665153b6d8476504b6a4e6a11ef3",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": "~1.0.5",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-30T14:13:27+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.4",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "16d4bd15603aa2acb80028424292c927b33cb0c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/16d4bd15603aa2acb80028424292c927b33cb0c9",
+                    "reference": "16d4bd15603aa2acb80028424292c927b33cb0c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": "~1.0.5",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-30T16:55:34+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.5",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.6",
+                "version_normalized": "1.1.6.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "32261df21a8ed7e31ec3fa03c4574e3deb197b8e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/32261df21a8ed7e31ec3fa03c4574e3deb197b8e",
+                    "reference": "32261df21a8ed7e31ec3fa03c4574e3deb197b8e",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": "~1.0.5",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-05T12:02:04+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.6",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.7",
+                "version_normalized": "1.1.7.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "6d99bb35fb959118e4bcb645f4e715d749509aa2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/6d99bb35fb959118e4bcb645f4e715d749509aa2",
+                    "reference": "6d99bb35fb959118e4bcb645f4e715d749509aa2",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": "~1.0.5",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-06T10:07:23+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.7",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.8",
+                "version_normalized": "1.1.8.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "b05ea5348e47dc46468f8ee68dd2c08f28d215b2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/b05ea5348e47dc46468f8ee68dd2c08f28d215b2",
+                    "reference": "b05ea5348e47dc46468f8ee68dd2c08f28d215b2",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": "~1.0.5",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-08T08:49:03+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.8",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.1.9",
+                "version_normalized": "1.1.9.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "f8ae9c3a3b32153f250be4049fdafab233cc8b56"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/f8ae9c3a3b32153f250be4049fdafab233cc8b56",
+                    "reference": "f8ae9c3a3b32153f250be4049fdafab233cc8b56",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": "~1.0.5",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-12T09:23:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.1.9",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "181c1565287e623fa361e33e5c720a8aaa24e381"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/181c1565287e623fa361e33e5c720a8aaa24e381",
+                    "reference": "181c1565287e623fa361e33e5c720a8aaa24e381",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-10-06T07:40:18+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "dd822c37ea49c73385e0792a7b791cdb73a9abb3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/dd822c37ea49c73385e0792a7b791cdb73a9abb3",
+                    "reference": "dd822c37ea49c73385e0792a7b791cdb73a9abb3",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-20T13:51:58+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.10",
+                "version_normalized": "1.2.10.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "991f6a8a7ba0f8ac949340457ad94643d1030c2d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/991f6a8a7ba0f8ac949340457ad94643d1030c2d",
+                    "reference": "991f6a8a7ba0f8ac949340457ad94643d1030c2d",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-03-06T09:56:01+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.10",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.11",
+                "version_normalized": "1.2.11.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "b480aa2aa38513f64660a7fe2bd1f98df5a0d405"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/b480aa2aa38513f64660a7fe2bd1f98df5a0d405",
+                    "reference": "b480aa2aa38513f64660a7fe2bd1f98df5a0d405",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-06-12T08:39:20+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.11",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.12",
+                "version_normalized": "1.2.12.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "649a3e327e52e1b9ebf8e99a2872c79d2be8c821"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/649a3e327e52e1b9ebf8e99a2872c79d2be8c821",
+                    "reference": "649a3e327e52e1b9ebf8e99a2872c79d2be8c821",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-11-30T10:36:18+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.12",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.13",
+                "version_normalized": "1.2.13.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "e869ad1096acd4bb7ceb52717ba08f469fb09f70"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/e869ad1096acd4bb7ceb52717ba08f469fb09f70",
+                    "reference": "e869ad1096acd4bb7ceb52717ba08f469fb09f70",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-12-05T14:40:37+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.13",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.14",
+                "version_normalized": "1.2.14.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "beecc6fb065be471e463093a4d9d635761cfac70"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/beecc6fb065be471e463093a4d9d635761cfac70",
+                    "reference": "beecc6fb065be471e463093a4d9d635761cfac70",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-09T09:25:56+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.14",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "454c748132dfd4a1c2021942c45ccb57975d1411"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/454c748132dfd4a1c2021942c45ccb57975d1411",
+                    "reference": "454c748132dfd4a1c2021942c45ccb57975d1411",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-20T14:30:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "19385c0a3810c53ebc8f9ec602654cf2366bba61"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/19385c0a3810c53ebc8f9ec602654cf2366bba61",
+                    "reference": "19385c0a3810c53ebc8f9ec602654cf2366bba61",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-21T14:53:49+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "41d59514aeb7295d588a7bcf737ed1a273d363c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/41d59514aeb7295d588a7bcf737ed1a273d363c9",
+                    "reference": "41d59514aeb7295d588a7bcf737ed1a273d363c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-21T15:42:19+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.4",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "85e3bb9e9566fdc9f9ef381702a72daaecffb9b2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/85e3bb9e9566fdc9f9ef381702a72daaecffb9b2",
+                    "reference": "85e3bb9e9566fdc9f9ef381702a72daaecffb9b2",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-27T14:00:50+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.5",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "38ff1344cb985a6a0594df31f2aee18b5251696f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/38ff1344cb985a6a0594df31f2aee18b5251696f",
+                    "reference": "38ff1344cb985a6a0594df31f2aee18b5251696f",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-27T15:34:49+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.6",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "a256f83c1dbcd4ad9cb6c30739452cd6dbb7ae63"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/a256f83c1dbcd4ad9cb6c30739452cd6dbb7ae63",
+                    "reference": "a256f83c1dbcd4ad9cb6c30739452cd6dbb7ae63",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-02-28T16:46:12+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.7",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.8",
+                "version_normalized": "1.2.8.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "b3990b0b53afdcf47340c7dfc5ad1e90543f9131"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/b3990b0b53afdcf47340c7dfc5ad1e90543f9131",
+                    "reference": "b3990b0b53afdcf47340c7dfc5ad1e90543f9131",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-03-01T09:07:40+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.8",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.2.9",
+                "version_normalized": "1.2.9.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "1bb4e473e2f71e141c82eaafce3610d3b34018ff"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/1bb4e473e2f71e141c82eaafce3610d3b34018ff",
+                    "reference": "1bb4e473e2f71e141c82eaafce3610d3b34018ff",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-03-03T13:21:00+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.2.9",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "15d87d53e904def021de35060fed09e010718c66"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/15d87d53e904def021de35060fed09e010718c66",
+                    "reference": "15d87d53e904def021de35060fed09e010718c66",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-26T09:01:58+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "bebd67ca8c871492642417d9a62e2d3656d027b4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/bebd67ca8c871492642417d9a62e2d3656d027b4",
+                    "reference": "bebd67ca8c871492642417d9a62e2d3656d027b4",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-30T11:52:37+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.3.1",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "795528caac69ab94c78d1619170c2a351763dacd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/795528caac69ab94c78d1619170c2a351763dacd",
+                    "reference": "795528caac69ab94c78d1619170c2a351763dacd",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-02-15T10:13:12+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.3.2",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.3.3",
+                "version_normalized": "1.3.3.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "586742cc9b07b555f17e1846ba825202d54332a6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/586742cc9b07b555f17e1846ba825202d54332a6",
+                    "reference": "586742cc9b07b555f17e1846ba825202d54332a6",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-02-20T07:44:05+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.3.3",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.3.4",
+                "version_normalized": "1.3.4.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "e2337469d4218feb230b05dc2d591f4073cb7481"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/e2337469d4218feb230b05dc2d591f4073cb7481",
+                    "reference": "e2337469d4218feb230b05dc2d591f4073cb7481",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-04-27T10:02:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.3.4",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.3.5",
+                "version_normalized": "1.3.5.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "170d17a11d9101143f21361dba0c8ec4bb8ef916"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/170d17a11d9101143f21361dba0c8ec4bb8ef916",
+                    "reference": "170d17a11d9101143f21361dba0c8ec4bb8ef916",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-08-10T12:42:50+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.3.5",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.3.6",
+                "version_normalized": "1.3.6.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "58696ea9ebdab9752a34a45fe3ee149ebc0eda86"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/58696ea9ebdab9752a34a45fe3ee149ebc0eda86",
+                    "reference": "58696ea9ebdab9752a34a45fe3ee149ebc0eda86",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "~1.11.0",
+                    "intervention/image": "^2.3",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-09-13T08:30:44+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.3.6",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "e80b50dfc2c047bacc98e254a3d3aff84bef8137"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/e80b50dfc2c047bacc98e254a3d3aff84bef8137",
+                    "reference": "e80b50dfc2c047bacc98e254a3d3aff84bef8137",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "^1.11",
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "intervention/image": "^2.4",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-05T10:56:39+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "4f520d0f09416b806e2f3666766d24856ac97784"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/4f520d0f09416b806e2f3666766d24856ac97784",
+                    "reference": "4f520d0f09416b806e2f3666766d24856ac97784",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "^1.11",
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "intervention/image": "^2.4",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-27T08:56:54+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "3ce18ba72ccb9bebbccabd67334356db756e6dc9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/3ce18ba72ccb9bebbccabd67334356db756e6dc9",
+                    "reference": "3ce18ba72ccb9bebbccabd67334356db756e6dc9",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "^1.11",
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "intervention/image": "^2.4",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-07-26T10:27:21+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.4.2",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "a333381e688744738859d2995d7a7e9fe52bd132"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/a333381e688744738859d2995d7a7e9fe52bd132",
+                    "reference": "a333381e688744738859d2995d7a7e9fe52bd132",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "^1.11",
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "intervention/image": "^2.4",
+                    "oru/design": "*",
+                    "oru/install": ">=1.0.5,<3.0",
+                    "oru/schedule": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-02T09:48:38+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.4.3",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.4.4",
+                "version_normalized": "1.4.4.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "81be29b1fe6b3f43ab5d658632805ac30cb2bef8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/81be29b1fe6b3f43ab5d658632805ac30cb2bef8",
+                    "reference": "81be29b1fe6b3f43ab5d658632805ac30cb2bef8",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "^1.11",
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-schedule": "*",
+                    "intervention/image": "^2.4",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-06T10:52:07+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.4.4",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.4.5",
+                "version_normalized": "1.4.5.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "ba2032d0d5a4cd63d836acab2d5baa1c6cf334f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/ba2032d0d5a4cd63d836acab2d5baa1c6cf334f3",
+                    "reference": "ba2032d0d5a4cd63d836acab2d5baa1c6cf334f3",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "^1.11",
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-schedule": "*",
+                    "intervention/image": "^2.4",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-08-09T11:22:26+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.4.5",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.4.6",
+                "version_normalized": "1.4.6.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "fb66ccfab65e11c786fab6b9635fb707b731162f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/fb66ccfab65e11c786fab6b9635fb707b731162f",
+                    "reference": "fb66ccfab65e11c786fab6b9635fb707b731162f",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "^1.11",
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "ext-sockets": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-schedule": "*",
+                    "intervention/image": "^2.4",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "xenolope/quahog": "2.*"
+                },
+                "time": "2020-06-30T11:58:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.4.6",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.4.7",
+                "version_normalized": "1.4.7.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "3801bb8f06d65a79655edb71f9cc185f80aabe3e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/3801bb8f06d65a79655edb71f9cc185f80aabe3e",
+                    "reference": "3801bb8f06d65a79655edb71f9cc185f80aabe3e",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "^1.11",
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "ext-sockets": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-schedule": "*",
+                    "intervention/image": "^2.4",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "xenolope/quahog": "2.*"
+                },
+                "time": "2020-07-17T15:48:01+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.4.7",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.4.8",
+                "version_normalized": "1.4.8.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "624d9da9c1441e51eab0ebf21178ef1bb1a629de"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/624d9da9c1441e51eab0ebf21178ef1bb1a629de",
+                    "reference": "624d9da9c1441e51eab0ebf21178ef1bb1a629de",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "^1.11",
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "ext-sockets": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-schedule": "*",
+                    "intervention/image": "^2.4",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "xenolope/quahog": "2.*"
+                },
+                "time": "2021-01-20T08:01:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.4.8",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "71effa768a114da18afaca6bdfd4cdc8432e4f6d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/71effa768a114da18afaca6bdfd4cdc8432e4f6d",
+                    "reference": "71effa768a114da18afaca6bdfd4cdc8432e4f6d",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/jqueryui": "^1.12",
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "ext-sockets": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-schedule": "*",
+                    "intervention/image": "^2.6",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+                    "xenolope/quahog": "^3.0"
+                },
+                "time": "2021-08-24T10:02:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.5.0",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            }
+        ]
+    }
+}
