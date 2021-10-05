@@ -4,7 +4,7 @@
   "type": "project",
   "homepage": "https://github.com/grades-paca/satis",
   "require": {
-    "composer/satis": "dev-master"
+    "composer/satis": "dev-main"
   },
   "license": "MIT",
   "authors": [
