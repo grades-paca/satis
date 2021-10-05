@@ -9,12 +9,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-rass.git",
-                    "reference": "4d9674f905496ea491246b01b3571b4cdf6fdfaf"
+                    "reference": "725333dbb828ba82e93f11b17663f9070cf15aaa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/4d9674f905496ea491246b01b3571b4cdf6fdfaf",
-                    "reference": "4d9674f905496ea491246b01b3571b4cdf6fdfaf",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/725333dbb828ba82e93f11b17663f9070cf15aaa",
+                    "reference": "725333dbb828ba82e93f11b17663f9070cf15aaa",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                     "php": ">=7.0",
                     "symfony/framework-bundle": "~3.4"
                 },
-                "time": "2021-09-23T12:29:11+00:00",
+                "time": "2021-10-05T07:08:52+00:00",
                 "default-branch": true,
                 "type": "symfony-bundle",
                 "autoload": {
@@ -38,7 +38,7 @@
                 ],
                 "description": "Symfony ATOSRassBundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/4.0.2",
+                    "source": "https://github.com/grades-paca/bundle-rass/tree/4.0.5",
                     "issues": "https://github.com/grades-paca/bundle-rass/issues"
                 }
             }
