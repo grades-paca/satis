@@ -48,12 +48,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-attachment.git",
-                    "reference": "71effa768a114da18afaca6bdfd4cdc8432e4f6d"
+                    "reference": "6e059929b64a8ffd256fe91731d2a4ab03a5eb0b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/71effa768a114da18afaca6bdfd4cdc8432e4f6d",
-                    "reference": "71effa768a114da18afaca6bdfd4cdc8432e4f6d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/6e059929b64a8ffd256fe91731d2a4ab03a5eb0b",
+                    "reference": "6e059929b64a8ffd256fe91731d2a4ab03a5eb0b",
                     "shasum": ""
                 },
                 "require": {
@@ -68,7 +68,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "xenolope/quahog": "^3.0"
                 },
-                "time": "2021-08-24T10:02:29+00:00",
+                "time": "2021-10-18T09:48:03+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -83,7 +83,7 @@
                 },
                 "description": "Attachment Bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.5.0",
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.5.1",
                     "issues": "https://github.com/grades-paca/bundle-attachment/issues"
                 }
             }

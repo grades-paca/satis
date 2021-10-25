@@ -825,6 +825,46 @@
                     "source": "https://github.com/grades-paca/bundle-esms/tree/1.4.0",
                     "issues": "https://github.com/grades-paca/bundle-esms/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-esms",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "target-dir": "Oru/Bundle/EsmsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-esms.git",
+                    "reference": "c352f7529cccfa71584bd4e0f29e8fad4ea6ca10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/c352f7529cccfa71584bd4e0f29e8fad4ea6ca10",
+                    "reference": "c352f7529cccfa71584bd4e0f29e8fad4ea6ca10",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-form": ">=1.7.2",
+                    "grades-paca/bundle-form-incremental": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-10-18T11:02:17+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\EsmsBundle\\": ""
+                    }
+                },
+                "description": "Bundle ESMS pour le ROR 3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-esms/tree/1.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-esms/issues"
+                }
             }
         ]
     }

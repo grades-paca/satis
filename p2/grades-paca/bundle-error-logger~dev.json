@@ -49,12 +49,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-error-logger.git",
-                    "reference": "74729b7fd8f1b7e0ca7535366c8ce685da9593ce"
+                    "reference": "12578222635fa507165a389b3e8ddb475604ae0c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/74729b7fd8f1b7e0ca7535366c8ce685da9593ce",
-                    "reference": "74729b7fd8f1b7e0ca7535366c8ce685da9593ce",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/12578222635fa507165a389b3e8ddb475604ae0c",
+                    "reference": "12578222635fa507165a389b3e8ddb475604ae0c",
                     "shasum": ""
                 },
                 "require": {
@@ -63,7 +63,7 @@
                     "grades-paca/bundle-setting": "~1.0",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-24T13:48:05+00:00",
+                "time": "2021-10-18T10:08:46+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -78,7 +78,7 @@
                 },
                 "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.5.0",
+                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.5.1",
                     "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
                 }
             }
