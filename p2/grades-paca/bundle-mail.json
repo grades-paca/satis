@@ -1797,6 +1797,48 @@
                     "source": "https://github.com/grades-paca/bundle-mail/tree/1.5.1",
                     "issues": "https://github.com/grades-paca/bundle-mail/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-mail",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
+                "target-dir": "Oru/Bundle/MailBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-mail.git",
+                    "reference": "921ee4f189f6441fb433edd9f0034078f2c2793a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/921ee4f189f6441fb433edd9f0034078f2c2793a",
+                    "reference": "921ee4f189f6441fb433edd9f0034078f2c2793a",
+                    "shasum": ""
+                },
+                "require": {
+                    "algo26-matthias/idna-convert": "^2.1",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+                    "vkalmuk/swiftmailerdbbundle": "^1.1"
+                },
+                "time": "2021-11-10T14:49:16+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\MailBundle\\": ""
+                    }
+                },
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.5.2",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             }
         ]
     }

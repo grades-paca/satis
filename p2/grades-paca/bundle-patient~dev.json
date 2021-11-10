@@ -87,12 +87,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-patient.git",
-                    "reference": "013d128fb20ab0ef56d7fac105b981f006c4db28"
+                    "reference": "7861127eaa50260144f3af78a9a4c22b2a69a880"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-patient/zipball/013d128fb20ab0ef56d7fac105b981f006c4db28",
-                    "reference": "013d128fb20ab0ef56d7fac105b981f006c4db28",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-patient/zipball/7861127eaa50260144f3af78a9a4c22b2a69a880",
+                    "reference": "7861127eaa50260144f3af78a9a4c22b2a69a880",
                     "shasum": ""
                 },
                 "require": {
@@ -100,7 +100,7 @@
                     "grades-paca/bundle-install": ">=1.0.5",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-25T08:26:29+00:00",
+                "time": "2021-11-10T14:56:33+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -115,7 +115,7 @@
                 },
                 "description": "Gestion de patients",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-patient/tree/1.5.0",
+                    "source": "https://github.com/grades-paca/bundle-patient/tree/1.5.1",
                     "issues": "https://github.com/grades-paca/bundle-patient/issues"
                 }
             }

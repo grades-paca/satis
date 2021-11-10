@@ -1473,6 +1473,46 @@
                     "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.5.1",
                     "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-error-logger",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
+                "target-dir": "Oru/Bundle/ErrorLoggerBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-error-logger.git",
+                    "reference": "857a9aaa736ec55095ff13b270b7d822f822853f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/857a9aaa736ec55095ff13b270b7d822f822853f",
+                    "reference": "857a9aaa736ec55095ff13b270b7d822f822853f",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-app": ">=1.0.7",
+                    "grades-paca/bundle-mail": "~1.4",
+                    "grades-paca/bundle-setting": "~1.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2021-11-10T14:43:37+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ErrorLoggerBundle\\": ""
+                    }
+                },
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.5.2",
+                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
+                }
             }
         ]
     }

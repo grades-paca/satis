@@ -217,12 +217,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
-                    "reference": "cf3bc60cc3ff1f1e22f9510969f330e89d0caa59"
+                    "reference": "bb52445967ce444f3613b37bcbfd0ed54cfed085"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/cf3bc60cc3ff1f1e22f9510969f330e89d0caa59",
-                    "reference": "cf3bc60cc3ff1f1e22f9510969f330e89d0caa59",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/bb52445967ce444f3613b37bcbfd0ed54cfed085",
+                    "reference": "bb52445967ce444f3613b37bcbfd0ed54cfed085",
                     "shasum": ""
                 },
                 "require": {
@@ -232,7 +232,7 @@
                     "grades-paca/bundle-setting": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-25T08:30:37+00:00",
+                "time": "2021-11-10T14:57:10+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -247,7 +247,7 @@
                 },
                 "description": "Plan bleu",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.6.0",
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.6.1",
                     "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
                 }
             },

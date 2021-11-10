@@ -9,12 +9,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-translation.git",
-                    "reference": "9f7fd2f6d729b374e7cf3797bdb69d78eb30a793"
+                    "reference": "1910408ab9e58f70b1f45c8dfa31a384717f17a4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-translation/zipball/9f7fd2f6d729b374e7cf3797bdb69d78eb30a793",
-                    "reference": "9f7fd2f6d729b374e7cf3797bdb69d78eb30a793",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-translation/zipball/1910408ab9e58f70b1f45c8dfa31a384717f17a4",
+                    "reference": "1910408ab9e58f70b1f45c8dfa31a384717f17a4",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                     "grades-paca/bundle-test": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-10-19T08:16:40+00:00",
+                "time": "2021-11-10T15:07:08+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -38,7 +38,7 @@
                 },
                 "description": "Traductions du ROR via ORM",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-translation/tree/1.4.1",
+                    "source": "https://github.com/grades-paca/bundle-translation/tree/1.4.2",
                     "issues": "https://github.com/grades-paca/bundle-translation/issues"
                 }
             }

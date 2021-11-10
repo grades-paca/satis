@@ -99,12 +99,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-box.git",
-                    "reference": "48bf9cd954b1253d351a1f402f74a632288ab50e"
+                    "reference": "e29791b5eee1930701707cb327a0af19adacc8f4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/48bf9cd954b1253d351a1f402f74a632288ab50e",
-                    "reference": "48bf9cd954b1253d351a1f402f74a632288ab50e",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/e29791b5eee1930701707cb327a0af19adacc8f4",
+                    "reference": "e29791b5eee1930701707cb327a0af19adacc8f4",
                     "shasum": ""
                 },
                 "require": {
@@ -118,7 +118,7 @@
                     "sonata-project/exporter": "^2.7",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-24T10:10:47+00:00",
+                "time": "2021-11-10T14:40:07+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -133,7 +133,7 @@
                 },
                 "description": "Bundle de gestion d'oruboxs.",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-box/tree/1.4.0",
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.4.1",
                     "issues": "https://github.com/grades-paca/bundle-box/issues"
                 }
             },

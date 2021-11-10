@@ -245,12 +245,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-design.git",
-                    "reference": "e347cd0743a288efef65111a5268d87f84bdb6cf"
+                    "reference": "86fbc081620b1bcfdf8982d00e5116eba7ec51e9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/e347cd0743a288efef65111a5268d87f84bdb6cf",
-                    "reference": "e347cd0743a288efef65111a5268d87f84bdb6cf",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/86fbc081620b1bcfdf8982d00e5116eba7ec51e9",
+                    "reference": "86fbc081620b1bcfdf8982d00e5116eba7ec51e9",
                     "shasum": ""
                 },
                 "require": {
@@ -265,10 +265,10 @@
                     "grades-paca/bundle-install": ">=1.0.3",
                     "grades-paca/bundle-privacy-banner": "*",
                     "ivaynberg/select2": "^4.0",
-                    "suncat/mobile-detect-bundle": "^1.0",
+                    "suncat/mobile-detect-bundle": "^1.1",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-24T13:41:29+00:00",
+                "time": "2021-11-10T14:42:46+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -283,7 +283,7 @@
                 },
                 "description": "Design bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.7.0",
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.7.1",
                     "issues": "https://github.com/grades-paca/bundle-design/issues"
                 }
             }

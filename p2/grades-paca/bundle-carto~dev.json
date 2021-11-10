@@ -229,12 +229,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "10d4de1f12b7c8caf96a1669c4bd7121ad5cf693"
+                    "reference": "54f3b27b627030739f2227d23620f69798f1709f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/10d4de1f12b7c8caf96a1669c4bd7121ad5cf693",
-                    "reference": "10d4de1f12b7c8caf96a1669c4bd7121ad5cf693",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/54f3b27b627030739f2227d23620f69798f1709f",
+                    "reference": "54f3b27b627030739f2227d23620f69798f1709f",
                     "shasum": ""
                 },
                 "require": {
@@ -248,7 +248,7 @@
                     "grades-paca/bundle-web-client": ">=1.1.7",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-09-23T09:38:18+00:00",
+                "time": "2021-11-10T14:41:04+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -263,7 +263,7 @@
                 },
                 "description": "Carto du ror3",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.1",
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.2",
                     "issues": "https://github.com/grades-paca/bundle-carto/issues"
                 }
             },

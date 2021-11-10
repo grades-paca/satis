@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-key-store.git",
-                    "reference": "796747b0c008b33a6a019b88b081a8f2b4a43a8a"
+                    "reference": "171395bc06e676afb6c2f1e93bba4722cd629c2c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-key-store/zipball/796747b0c008b33a6a019b88b081a8f2b4a43a8a",
-                    "reference": "796747b0c008b33a6a019b88b081a8f2b4a43a8a",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-key-store/zipball/171395bc06e676afb6c2f1e93bba4722cd629c2c",
+                    "reference": "171395bc06e676afb6c2f1e93bba4722cd629c2c",
                     "shasum": ""
                 },
                 "require": {
                     "stof/doctrine-extensions-bundle": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-25T07:19:11+00:00",
+                "time": "2021-11-10T14:46:57+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -35,7 +35,7 @@
                 },
                 "description": "Gestion d'un magasin de certificats",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-key-store/tree/1.2.0",
+                    "source": "https://github.com/grades-paca/bundle-key-store/tree/1.2.1",
                     "issues": "https://github.com/grades-paca/bundle-key-store/issues"
                 }
             }
