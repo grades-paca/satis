@@ -1,48 +1,5 @@
 {
     "packages": {
-        "grades-paca/bundle-otp": [
-            {
-                "name": "grades-paca/bundle-otp",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
-                "target-dir": "Oru/Bundle/OtpBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-otp.git",
-                    "reference": "f250754c018d21a79bb54c74a494885c53741439"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-otp/zipball/f250754c018d21a79bb54c74a494885c53741439",
-                    "reference": "f250754c018d21a79bb54c74a494885c53741439",
-                    "shasum": ""
-                },
-                "require": {
-                    "grades-paca/bundle-mail": "*",
-                    "grades-paca/bundle-sms": "*",
-                    "grades-paca/bundle-translation": "*",
-                    "spomky-labs/otphp": "^8.0",
-                    "symfony/framework-bundle": "^2.8 || ^3.0"
-                },
-                "time": "2021-11-10T14:55:11+00:00",
-                "default-branch": true,
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\OtpBundle\\": ""
-                    }
-                },
-                "description": "Gestion de l'authentification via OTP",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-otp/tree/1.3.1",
-                    "issues": "https://github.com/grades-paca/bundle-otp/issues"
-                }
-            }
-        ]
+        "grades-paca/bundle-otp": []
     }
 }
