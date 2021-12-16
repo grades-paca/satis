@@ -9983,24 +9983,24 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "b6be54b5d9be6f536fa0fc4c64ecfd3f05f74580"
+                    "reference": "8fa96bb7cdba8a9707c3af0d802455ec8016b391"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/b6be54b5d9be6f536fa0fc4c64ecfd3f05f74580",
-                    "reference": "b6be54b5d9be6f536fa0fc4c64ecfd3f05f74580",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/8fa96bb7cdba8a9707c3af0d802455ec8016b391",
+                    "reference": "8fa96bb7cdba8a9707c3af0d802455ec8016b391",
                     "shasum": ""
                 },
                 "require": {
                     "atos/bundle-rass": "^4.0",
-                    "beberlei/doctrineextensions": "^1.0",
+                    "beberlei/doctrineextensions": "^1.2",
                     "course-hero/wse-php": "~2.0.0",
                     "debril/rss-atom-bundle": "~2.3",
-                    "doctrine/doctrine-bundle": "^1.6",
-                    "doctrine/doctrine-fixtures-bundle": "~2.4",
-                    "doctrine/doctrine-migrations-bundle": "^1.3",
-                    "doctrine/orm": "^2.5",
-                    "egulias/email-validator": "~1.2",
+                    "doctrine/doctrine-bundle": "^1.12",
+                    "doctrine/doctrine-fixtures-bundle": "^3.3",
+                    "doctrine/doctrine-migrations-bundle": "^2.2",
+                    "doctrine/migrations": "^2.2",
+                    "elasticsearch/elasticsearch": "^6.7",
                     "ext-curl": "*",
                     "ext-dom": "*",
                     "ext-iconv": "*",
@@ -10015,23 +10015,21 @@
                     "ext-xmlreader": "*",
                     "ext-zip": "*",
                     "ext-zlib": "*",
-                    "friendsofsymfony/ckeditor-bundle": "1.2.1",
-                    "friendsofsymfony/elastica-bundle": "^3.2",
+                    "friendsofsymfony/elastica-bundle": "^5.2",
                     "friendsofsymfony/oauth-server-bundle": "^1.6",
-                    "friendsofsymfony/user-bundle": "^2.0",
+                    "friendsofsymfony/user-bundle": "^2.1",
                     "goodby/csv": "~1.3.0",
                     "grades-paca/bundle-address": "^1.8",
                     "grades-paca/bundle-alert": "^1.2",
-                    "grades-paca/bundle-app": "^1.1",
+                    "grades-paca/bundle-app": "^1.2",
                     "grades-paca/bundle-attachment": "^1.4",
                     "grades-paca/bundle-box": "^1.3",
                     "grades-paca/bundle-carto": "^1.6",
-                    "grades-paca/bundle-crud": "^1.2",
-                    "grades-paca/bundle-denied-field": "^1.1",
+                    "grades-paca/bundle-denied-field": "^1.2",
                     "grades-paca/bundle-design": "^1.6",
-                    "grades-paca/bundle-error-logger": "^1.3",
+                    "grades-paca/bundle-error-logger": "^1.4",
                     "grades-paca/bundle-esms": "^1.3",
-                    "grades-paca/bundle-form": "^1.7",
+                    "grades-paca/bundle-form": "^1.8",
                     "grades-paca/bundle-form-incremental": "^1.1",
                     "grades-paca/bundle-install": "^1.2",
                     "grades-paca/bundle-jaspersoft": "^1.2",
@@ -10040,14 +10038,14 @@
                     "grades-paca/bundle-listing": "^1.2",
                     "grades-paca/bundle-log": "^1.2",
                     "grades-paca/bundle-lst": "^1.2",
-                    "grades-paca/bundle-mail": "^1.3",
+                    "grades-paca/bundle-mail": "^1.4",
                     "grades-paca/bundle-otp": "^1.2",
                     "grades-paca/bundle-paginator": "^1.2",
                     "grades-paca/bundle-patient": "^1.4",
                     "grades-paca/bundle-plan-bleu": "^1.5",
                     "grades-paca/bundle-privacy-banner": "^1.1",
                     "grades-paca/bundle-project-humhub": "^1.2",
-                    "grades-paca/bundle-rest-soap": "^1.1",
+                    "grades-paca/bundle-rest-soap": "^1.2",
                     "grades-paca/bundle-schedule": "^1.4",
                     "grades-paca/bundle-setting": "^1.2",
                     "grades-paca/bundle-sms": "^1.2",
@@ -10058,47 +10056,49 @@
                     "grades-paca/bundle-translation": "^1.2",
                     "grades-paca/bundle-version": "^2.5",
                     "grades-paca/bundle-web-client": "^1.2",
-                    "incenteev/composer-parameter-handler": "^2.0",
+                    "incenteev/composer-parameter-handler": "^2.1",
                     "jasig/phpcas": "^1.3",
-                    "jenssegers/agent": "^2.5",
+                    "jenssegers/agent": "^2.6",
+                    "jms/serializer": "1.14.1",
                     "jumbojett/openid-connect-php": "^0.9.2",
-                    "leafo/lessphp": "^0.5",
                     "liuggio/excelbundle": "~2.1",
                     "lox/xhprof": "dev-master",
-                    "moment/moment": "^2.10",
+                    "marcusschwarz/lesserphp": "^0.5",
+                    "moment/moment": "^2.27",
                     "nelmio/api-doc-bundle": "^2.0",
-                    "php": ">=5.5.0",
+                    "php": "^7.1.0",
                     "romanpitak/php-rest-client": "~1.2.2",
-                    "sabre/vobject": "~4.1",
-                    "sensio/distribution-bundle": "^5.0.19",
-                    "sensio/framework-extra-bundle": "^3.0.2",
-                    "simplepie/simplepie": "^1.3",
-                    "simplethings/entity-audit-bundle": "^1.0",
-                    "stof/doctrine-extensions-bundle": "^1.2",
+                    "sabre/vobject": "~4.3",
+                    "sensio/distribution-bundle": "^5.0.25",
+                    "sensio/framework-extra-bundle": "^3.0",
+                    "simplepie/simplepie": "^1.5",
+                    "sonata-project/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.3",
                     "suncat/mobile-detect-bundle": "1.0.5",
-                    "symfony/assetic-bundle": "~2.0",
-                    "symfony/framework-bundle": "^2.8 || ^3.0",
-                    "symfony/monolog-bundle": "^3.1.0",
-                    "symfony/polyfill-apcu": "^1.0",
-                    "symfony/security-acl": "^3.0",
-                    "symfony/swiftmailer-bundle": "^2.3.10",
+                    "symfony/assetic-bundle": "~2.8",
+                    "symfony/framework-bundle": "^3.4",
+                    "symfony/monolog-bundle": "^3.5",
+                    "symfony/polyfill-apcu": "^1.18",
+                    "symfony/security-acl": "^3.1",
+                    "symfony/swiftmailer-bundle": "^3.3",
+                    "symfony/symfony": "^3.4",
                     "synaq/zasa-bundle": "^2.3",
-                    "twig/extensions": "^1.0",
+                    "twig/extensions": "^1.5",
                     "uecode/api-key-bundle": "^3.0",
-                    "willdurand/js-translation-bundle": "^2.6",
+                    "willdurand/js-translation-bundle": "^3.0",
                     "zbateson/mail-mime-parser": "^0.2.5"
                 },
                 "require-dev": {
                     "friendsofphp/php-cs-fixer": "~2",
-                    "jakub-onderka/php-parallel-lint": "^0.9.2",
-                    "nikic/php-parser": "^3.1",
-                    "phpro/grumphp": "^0.12.0",
-                    "phpstan/phpstan": "^0.9",
-                    "phpunit/phpunit": "^5",
-                    "sensio/generator-bundle": "^3.0",
-                    "symfony/phpunit-bridge": "^3.0"
+                    "nikic/php-parser": "^4.0",
+                    "php-parallel-lint/php-parallel-lint": "^0.9.2",
+                    "phpro/grumphp": "^0.16.0",
+                    "phpstan/phpstan": "^0.12",
+                    "phpunit/phpunit": "^7.5",
+                    "symfony/maker-bundle": "^1.20",
+                    "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-10-28T14:21:22+00:00",
+                "time": "2021-12-16T09:14:56+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -12237,12 +12237,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "78abfe0017e605f6d4552febd6d263d06ca371ba"
+                    "reference": "ffe03c515a2afc302bd525f1d011392b55d0b331"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/78abfe0017e605f6d4552febd6d263d06ca371ba",
-                    "reference": "78abfe0017e605f6d4552febd6d263d06ca371ba",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/ffe03c515a2afc302bd525f1d011392b55d0b331",
+                    "reference": "ffe03c515a2afc302bd525f1d011392b55d0b331",
                     "shasum": ""
                 },
                 "require": {
@@ -12351,7 +12351,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-11-08T10:33:06+00:00",
+                "time": "2021-12-16T08:30:28+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -12647,12 +12647,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "13d1e35e856e1a265d25666ca71438826b6dcf10"
+                    "reference": "c6589dbcedd90aa35250fb52b7fef98f84dbbdf5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/13d1e35e856e1a265d25666ca71438826b6dcf10",
-                    "reference": "13d1e35e856e1a265d25666ca71438826b6dcf10",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/c6589dbcedd90aa35250fb52b7fef98f84dbbdf5",
+                    "reference": "c6589dbcedd90aa35250fb52b7fef98f84dbbdf5",
                     "shasum": ""
                 },
                 "require": {
@@ -12761,7 +12761,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-11-26T11:20:40+00:00",
+                "time": "2021-12-16T08:34:43+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -12852,12 +12852,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "8f9e6f6f1b2a7ff58d62eac095c06d65e4aaed38"
+                    "reference": "48ed825b36787d1225dbcc15c76412c79843f6aa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/8f9e6f6f1b2a7ff58d62eac095c06d65e4aaed38",
-                    "reference": "8f9e6f6f1b2a7ff58d62eac095c06d65e4aaed38",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/48ed825b36787d1225dbcc15c76412c79843f6aa",
+                    "reference": "48ed825b36787d1225dbcc15c76412c79843f6aa",
                     "shasum": ""
                 },
                 "require": {
@@ -12966,7 +12966,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-11-19T09:44:28+00:00",
+                "time": "2021-12-16T08:21:09+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -16131,12 +16131,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "f0d9bfb09085308226d27e2a87445b14365a4df2"
+                    "reference": "1e77a1c9f476332142e73a4b36de50c0f0d3094c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/f0d9bfb09085308226d27e2a87445b14365a4df2",
-                    "reference": "f0d9bfb09085308226d27e2a87445b14365a4df2",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/1e77a1c9f476332142e73a4b36de50c0f0d3094c",
+                    "reference": "1e77a1c9f476332142e73a4b36de50c0f0d3094c",
                     "shasum": ""
                 },
                 "require": {
@@ -16245,7 +16245,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-11-12T11:11:50+00:00",
+                "time": "2021-12-16T08:39:07+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -23301,6 +23301,1441 @@
             },
             {
                 "name": "grades-paca/ror",
+                "version": "221882.x-dev",
+                "version_normalized": "221882.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "6e0adc95ded3840297e03c1da0bae0716fdd1253"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/6e0adc95ded3840297e03c1da0bae0716fdd1253",
+                    "reference": "6e0adc95ded3840297e03c1da0bae0716fdd1253",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.0",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.6",
+                    "doctrine/doctrine-fixtures-bundle": "~2.4",
+                    "doctrine/doctrine-migrations-bundle": "^1.3",
+                    "doctrine/orm": "^2.5",
+                    "egulias/email-validator": "~1.2",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/ckeditor-bundle": "1.2.1",
+                    "friendsofsymfony/elastica-bundle": "^3.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.0",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.1",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-crud": "^1.2",
+                    "grades-paca/bundle-denied-field": "^1.1",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.3",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.7",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.3",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.1",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.0",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.5",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "leafo/lessphp": "^0.5",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "moment/moment": "^2.10",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": ">=5.5.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.1",
+                    "sensio/distribution-bundle": "^5.0.19",
+                    "sensio/framework-extra-bundle": "^3.0.2",
+                    "simplepie/simplepie": "^1.3",
+                    "simplethings/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.2",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "symfony/monolog-bundle": "^3.1.0",
+                    "symfony/polyfill-apcu": "^1.0",
+                    "symfony/security-acl": "^3.0",
+                    "symfony/swiftmailer-bundle": "^2.3.10",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.0",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^2.6",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "nikic/php-parser": "^3.1",
+                    "phpro/grumphp": "^0.12.0",
+                    "phpstan/phpstan": "^0.9",
+                    "phpunit/phpunit": "^5",
+                    "sensio/generator-bundle": "^3.0",
+                    "symfony/phpunit-bridge": "^3.0"
+                },
+                "time": "2021-12-06T09:51:30+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/221882",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "222279.x-dev",
+                "version_normalized": "222279.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "5f411292447c064b4096d60b9ad1c85c1c764c0e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/5f411292447c064b4096d60b9ad1c85c1c764c0e",
+                    "reference": "5f411292447c064b4096d60b9ad1c85c1c764c0e",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.0",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.6",
+                    "doctrine/doctrine-fixtures-bundle": "~2.4",
+                    "doctrine/doctrine-migrations-bundle": "^1.3",
+                    "doctrine/orm": "^2.5",
+                    "egulias/email-validator": "~1.2",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/ckeditor-bundle": "1.2.1",
+                    "friendsofsymfony/elastica-bundle": "^3.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.0",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.1",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-crud": "^1.2",
+                    "grades-paca/bundle-denied-field": "^1.1",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.3",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.7",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.3",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.1",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.0",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.5",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "leafo/lessphp": "^0.5",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "moment/moment": "^2.10",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": ">=5.5.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.1",
+                    "sensio/distribution-bundle": "^5.0.19",
+                    "sensio/framework-extra-bundle": "^3.0.2",
+                    "simplepie/simplepie": "^1.3",
+                    "simplethings/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.2",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "symfony/monolog-bundle": "^3.1.0",
+                    "symfony/polyfill-apcu": "^1.0",
+                    "symfony/security-acl": "^3.0",
+                    "symfony/swiftmailer-bundle": "^2.3.10",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.0",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^2.6",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "nikic/php-parser": "^3.1",
+                    "phpro/grumphp": "^0.12.0",
+                    "phpstan/phpstan": "^0.9",
+                    "phpunit/phpunit": "^5",
+                    "sensio/generator-bundle": "^3.0",
+                    "symfony/phpunit-bridge": "^3.0"
+                },
+                "time": "2021-12-02T13:29:20+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/222279",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "222664.x-dev",
+                "version_normalized": "222664.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "99d334a604b51fba283ac0f313c007c677d3caa0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/99d334a604b51fba283ac0f313c007c677d3caa0",
+                    "reference": "99d334a604b51fba283ac0f313c007c677d3caa0",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.0",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.6",
+                    "doctrine/doctrine-fixtures-bundle": "~2.4",
+                    "doctrine/doctrine-migrations-bundle": "^1.3",
+                    "doctrine/orm": "^2.5",
+                    "egulias/email-validator": "~1.2",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/ckeditor-bundle": "1.2.1",
+                    "friendsofsymfony/elastica-bundle": "^3.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.0",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.1",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-crud": "^1.2",
+                    "grades-paca/bundle-denied-field": "^1.1",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.3",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.7",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.3",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.1",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.0",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.5",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "leafo/lessphp": "^0.5",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "moment/moment": "^2.10",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": ">=5.5.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.1",
+                    "sensio/distribution-bundle": "^5.0.19",
+                    "sensio/framework-extra-bundle": "^3.0.2",
+                    "simplepie/simplepie": "^1.3",
+                    "simplethings/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.2",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "symfony/monolog-bundle": "^3.1.0",
+                    "symfony/polyfill-apcu": "^1.0",
+                    "symfony/security-acl": "^3.0",
+                    "symfony/swiftmailer-bundle": "^2.3.10",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.0",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^2.6",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "nikic/php-parser": "^3.1",
+                    "phpro/grumphp": "^0.12.0",
+                    "phpstan/phpstan": "^0.9",
+                    "phpunit/phpunit": "^5",
+                    "sensio/generator-bundle": "^3.0",
+                    "symfony/phpunit-bridge": "^3.0"
+                },
+                "time": "2021-12-14T08:05:19+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/222664",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "222673.x-dev",
+                "version_normalized": "222673.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "7970d23ea139cc7f0b757247331ce677157584b6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/7970d23ea139cc7f0b757247331ce677157584b6",
+                    "reference": "7970d23ea139cc7f0b757247331ce677157584b6",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.2",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.12",
+                    "doctrine/doctrine-fixtures-bundle": "^3.3",
+                    "doctrine/doctrine-migrations-bundle": "^2.2",
+                    "doctrine/migrations": "^2.2",
+                    "elasticsearch/elasticsearch": "^6.7",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/elastica-bundle": "^5.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.1",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.2",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-denied-field": "^1.2",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.4",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.8",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.4",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.2",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.1",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.6",
+                    "jms/serializer": "1.14.1",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "marcusschwarz/lesserphp": "^0.5",
+                    "moment/moment": "^2.27",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": "^7.1.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.3",
+                    "sensio/distribution-bundle": "^5.0.25",
+                    "sensio/framework-extra-bundle": "^3.0",
+                    "simplepie/simplepie": "^1.5",
+                    "sonata-project/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.3",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.8",
+                    "symfony/framework-bundle": "^3.4",
+                    "symfony/monolog-bundle": "^3.5",
+                    "symfony/polyfill-apcu": "^1.18",
+                    "symfony/security-acl": "^3.1",
+                    "symfony/swiftmailer-bundle": "^3.3",
+                    "symfony/symfony": "^3.4",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.5",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^3.0",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "nikic/php-parser": "^4.0",
+                    "php-parallel-lint/php-parallel-lint": "^0.9.2",
+                    "phpro/grumphp": "^0.16.0",
+                    "phpstan/phpstan": "^0.12",
+                    "phpunit/phpunit": "^7.5",
+                    "symfony/maker-bundle": "^1.20",
+                    "symfony/phpunit-bridge": "^5.1"
+                },
+                "time": "2021-12-07T11:35:42+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/222673",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "222674.x-dev",
+                "version_normalized": "222674.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "6a345c47bf4a39967aa264f6fac8af301e153536"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/6a345c47bf4a39967aa264f6fac8af301e153536",
+                    "reference": "6a345c47bf4a39967aa264f6fac8af301e153536",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.2",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.12",
+                    "doctrine/doctrine-fixtures-bundle": "^3.3",
+                    "doctrine/doctrine-migrations-bundle": "^2.2",
+                    "doctrine/migrations": "^2.2",
+                    "elasticsearch/elasticsearch": "^6.7",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/elastica-bundle": "^5.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.1",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.2",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-denied-field": "^1.2",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.4",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.8",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.4",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.2",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.1",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.6",
+                    "jms/serializer": "1.14.1",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "marcusschwarz/lesserphp": "^0.5",
+                    "moment/moment": "^2.27",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": "^7.1.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.3",
+                    "sensio/distribution-bundle": "^5.0.25",
+                    "sensio/framework-extra-bundle": "^3.0",
+                    "simplepie/simplepie": "^1.5",
+                    "sonata-project/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.3",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.8",
+                    "symfony/framework-bundle": "^3.4",
+                    "symfony/monolog-bundle": "^3.5",
+                    "symfony/polyfill-apcu": "^1.18",
+                    "symfony/security-acl": "^3.1",
+                    "symfony/swiftmailer-bundle": "^3.3",
+                    "symfony/symfony": "^3.4",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.5",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^3.0",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "nikic/php-parser": "^4.0",
+                    "php-parallel-lint/php-parallel-lint": "^0.9.2",
+                    "phpro/grumphp": "^0.16.0",
+                    "phpstan/phpstan": "^0.12",
+                    "phpunit/phpunit": "^7.5",
+                    "symfony/maker-bundle": "^1.20",
+                    "symfony/phpunit-bridge": "^5.1"
+                },
+                "time": "2021-12-07T11:33:34+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/222674",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "222675.x-dev",
+                "version_normalized": "222675.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "4a239aefe94058089654b3ab5dceecc9050e9bb8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/4a239aefe94058089654b3ab5dceecc9050e9bb8",
+                    "reference": "4a239aefe94058089654b3ab5dceecc9050e9bb8",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.2",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.12",
+                    "doctrine/doctrine-fixtures-bundle": "^3.3",
+                    "doctrine/doctrine-migrations-bundle": "^2.2",
+                    "doctrine/migrations": "^2.2",
+                    "elasticsearch/elasticsearch": "^6.7",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/elastica-bundle": "^5.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.1",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.2",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-denied-field": "^1.2",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.4",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.8",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.4",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.2",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.1",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.6",
+                    "jms/serializer": "1.14.1",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "marcusschwarz/lesserphp": "^0.5",
+                    "moment/moment": "^2.27",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": "^7.1.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.3",
+                    "sensio/distribution-bundle": "^5.0.25",
+                    "sensio/framework-extra-bundle": "^3.0",
+                    "simplepie/simplepie": "^1.5",
+                    "sonata-project/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.3",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.8",
+                    "symfony/framework-bundle": "^3.4",
+                    "symfony/monolog-bundle": "^3.5",
+                    "symfony/polyfill-apcu": "^1.18",
+                    "symfony/security-acl": "^3.1",
+                    "symfony/swiftmailer-bundle": "^3.3",
+                    "symfony/symfony": "^3.4",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.5",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^3.0",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "nikic/php-parser": "^4.0",
+                    "php-parallel-lint/php-parallel-lint": "^0.9.2",
+                    "phpro/grumphp": "^0.16.0",
+                    "phpstan/phpstan": "^0.12",
+                    "phpunit/phpunit": "^7.5",
+                    "symfony/maker-bundle": "^1.20",
+                    "symfony/phpunit-bridge": "^5.1"
+                },
+                "time": "2021-12-14T07:51:36+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/222675",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "223090.x-dev",
+                "version_normalized": "223090.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "2b63284cf26ada2fca4c62ba1a07eb38e6a4c3b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/2b63284cf26ada2fca4c62ba1a07eb38e6a4c3b0",
+                    "reference": "2b63284cf26ada2fca4c62ba1a07eb38e6a4c3b0",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.2",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.12",
+                    "doctrine/doctrine-fixtures-bundle": "^3.3",
+                    "doctrine/doctrine-migrations-bundle": "^2.2",
+                    "doctrine/migrations": "^2.2",
+                    "elasticsearch/elasticsearch": "^6.7",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/elastica-bundle": "^5.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.1",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.2",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-denied-field": "^1.2",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.4",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.8",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.4",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.2",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.1",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.6",
+                    "jms/serializer": "1.14.1",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "marcusschwarz/lesserphp": "^0.5",
+                    "moment/moment": "^2.27",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": "^7.1.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.3",
+                    "sensio/distribution-bundle": "^5.0.25",
+                    "sensio/framework-extra-bundle": "^3.0",
+                    "simplepie/simplepie": "^1.5",
+                    "sonata-project/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.3",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.8",
+                    "symfony/framework-bundle": "^3.4",
+                    "symfony/monolog-bundle": "^3.5",
+                    "symfony/polyfill-apcu": "^1.18",
+                    "symfony/security-acl": "^3.1",
+                    "symfony/swiftmailer-bundle": "^3.3",
+                    "symfony/symfony": "^3.4",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.5",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^3.0",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "nikic/php-parser": "^4.0",
+                    "php-parallel-lint/php-parallel-lint": "^0.9.2",
+                    "phpro/grumphp": "^0.16.0",
+                    "phpstan/phpstan": "^0.12",
+                    "phpunit/phpunit": "^7.5",
+                    "symfony/maker-bundle": "^1.20",
+                    "symfony/phpunit-bridge": "^5.1"
+                },
+                "time": "2021-12-09T10:53:44+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/223090",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
                 "version": "25749.x-dev",
                 "version_normalized": "25749.9999999.9999999.9999999-dev",
                 "source": {
@@ -25061,7 +26496,7 @@
                 },
                 "description": "Projet ROR v3",
                 "support": {
-                    "source": "https://github.com/grades-paca/ror/tree/3.8.58",
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.56",
                     "issues": "https://github.com/grades-paca/ror/issues"
                 }
             },
@@ -25266,212 +26701,7 @@
                 },
                 "description": "Projet ROR v3",
                 "support": {
-                    "source": "https://github.com/grades-paca/ror/tree/3.8.58",
-                    "issues": "https://github.com/grades-paca/ror/issues"
-                }
-            },
-            {
-                "name": "grades-paca/ror",
-                "version": "3.8.58.x-dev",
-                "version_normalized": "3.8.58.9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "5e878812e690ce06a0891945346c4ab4f74a3954"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/5e878812e690ce06a0891945346c4ab4f74a3954",
-                    "reference": "5e878812e690ce06a0891945346c4ab4f74a3954",
-                    "shasum": ""
-                },
-                "require": {
-                    "beberlei/doctrineextensions": "^1.0",
-                    "course-hero/wse-php": "~2.0.0",
-                    "debril/rss-atom-bundle": "~2.3",
-                    "doctrine/doctrine-bundle": "^1.6",
-                    "doctrine/doctrine-fixtures-bundle": "~2.4",
-                    "doctrine/doctrine-migrations-bundle": "^1.3",
-                    "doctrine/orm": "^2.5",
-                    "egulias/email-validator": "~1.2",
-                    "ext-curl": "*",
-                    "ext-dom": "*",
-                    "ext-iconv": "*",
-                    "ext-intl": "*",
-                    "ext-json": "*",
-                    "ext-openssl": "*",
-                    "ext-pdo": "*",
-                    "ext-simplexml": "*",
-                    "ext-soap": "*",
-                    "ext-sockets": "*",
-                    "ext-ssh2": "*",
-                    "ext-xmlreader": "*",
-                    "ext-zip": "*",
-                    "ext-zlib": "*",
-                    "friendsofsymfony/ckeditor-bundle": "1.2.1",
-                    "friendsofsymfony/elastica-bundle": "^3.2",
-                    "friendsofsymfony/oauth-server-bundle": "^1.6",
-                    "friendsofsymfony/user-bundle": "^2.0",
-                    "goodby/csv": "~1.3.0",
-                    "grades-paca/bundle-address": "^1.8",
-                    "grades-paca/bundle-alert": "^1.2",
-                    "grades-paca/bundle-app": "^1.1",
-                    "grades-paca/bundle-attachment": "^1.4",
-                    "grades-paca/bundle-box": "^1.3",
-                    "grades-paca/bundle-carto": "^1.6",
-                    "grades-paca/bundle-crud": "^1.2",
-                    "grades-paca/bundle-denied-field": "^1.1",
-                    "grades-paca/bundle-design": "^1.6",
-                    "grades-paca/bundle-error-logger": "^1.3",
-                    "grades-paca/bundle-esms": "^1.3",
-                    "grades-paca/bundle-form": "^1.7",
-                    "grades-paca/bundle-form-incremental": "^1.1",
-                    "grades-paca/bundle-install": "^1.2",
-                    "grades-paca/bundle-jaspersoft": "^1.2",
-                    "grades-paca/bundle-jquery-mask": "^1.1",
-                    "grades-paca/bundle-key-store": "^1.1",
-                    "grades-paca/bundle-listing": "^1.2",
-                    "grades-paca/bundle-log": "^1.2",
-                    "grades-paca/bundle-lst": "^1.2",
-                    "grades-paca/bundle-mail": "^1.3",
-                    "grades-paca/bundle-otp": "^1.2",
-                    "grades-paca/bundle-paginator": "^1.2",
-                    "grades-paca/bundle-patient": "^1.4",
-                    "grades-paca/bundle-plan-bleu": "^1.5",
-                    "grades-paca/bundle-privacy-banner": "^1.1",
-                    "grades-paca/bundle-project-humhub": "^1.2",
-                    "grades-paca/bundle-rest-soap": "^1.1",
-                    "grades-paca/bundle-schedule": "^1.4",
-                    "grades-paca/bundle-setting": "^1.2",
-                    "grades-paca/bundle-sms": "^1.2",
-                    "grades-paca/bundle-stats": "^1.1",
-                    "grades-paca/bundle-tag": "^1.2",
-                    "grades-paca/bundle-task": "^1.2",
-                    "grades-paca/bundle-test": "^1.2",
-                    "grades-paca/bundle-translation": "^1.2",
-                    "grades-paca/bundle-version": "^2.5",
-                    "grades-paca/bundle-web-client": "^1.2",
-                    "incenteev/composer-parameter-handler": "^2.0",
-                    "jasig/phpcas": "^1.3",
-                    "jenssegers/agent": "^2.5",
-                    "jumbojett/openid-connect-php": "^0.9.2",
-                    "leafo/lessphp": "^0.5",
-                    "liuggio/excelbundle": "~2.1",
-                    "lox/xhprof": "dev-master",
-                    "moment/moment": "^2.10",
-                    "nelmio/api-doc-bundle": "^2.0",
-                    "php": ">=5.5.0",
-                    "romanpitak/php-rest-client": "~1.2.2",
-                    "sabre/vobject": "~4.1",
-                    "sensio/distribution-bundle": "^5.0.19",
-                    "sensio/framework-extra-bundle": "^3.0.2",
-                    "simplepie/simplepie": "^1.3",
-                    "simplethings/entity-audit-bundle": "^1.0",
-                    "stof/doctrine-extensions-bundle": "^1.2",
-                    "suncat/mobile-detect-bundle": "1.0.5",
-                    "symfony/assetic-bundle": "~2.0",
-                    "symfony/framework-bundle": "^2.8 || ^3.0",
-                    "symfony/monolog-bundle": "^3.1.0",
-                    "symfony/polyfill-apcu": "^1.0",
-                    "symfony/security-acl": "^3.0",
-                    "symfony/swiftmailer-bundle": "^2.3.10",
-                    "synaq/zasa-bundle": "^2.3",
-                    "twig/extensions": "^1.0",
-                    "uecode/api-key-bundle": "^3.0",
-                    "willdurand/js-translation-bundle": "^2.6",
-                    "zbateson/mail-mime-parser": "^0.2.5"
-                },
-                "require-dev": {
-                    "friendsofphp/php-cs-fixer": "~2",
-                    "jakub-onderka/php-parallel-lint": "^0.9.2",
-                    "nikic/php-parser": "^3.1",
-                    "phpro/grumphp": "^0.12.0",
-                    "phpstan/phpstan": "^0.9",
-                    "phpunit/phpunit": "^5",
-                    "sensio/generator-bundle": "^3.0",
-                    "symfony/phpunit-bridge": "^3.0"
-                },
-                "time": "2021-11-10T09:28:18+00:00",
-                "type": "project",
-                "extra": {
-                    "symfony-app-dir": "app",
-                    "symfony-bin-dir": "bin",
-                    "symfony-web-dir": "web",
-                    "symfony-assets-install": "symlink",
-                    "incenteev-parameters": {
-                        "file": "app/config/parameters.yml"
-                    }
-                },
-                "autoload": {
-                    "psr-4": {
-                        "": "src/"
-                    },
-                    "classmap": [
-                        "app/AppKernel.php",
-                        "app/AppCache.php"
-                    ],
-                    "files": [
-                        "src/functions.php"
-                    ]
-                },
-                "scripts": {
-                    "update-git": [
-                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
-                    ],
-                    "pre-install-cmd": [
-                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
-                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
-                    ],
-                    "pre-update-cmd": [
-                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
-                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
-                    ],
-                    "post-install-cmd": [
-                        "@ror-scripts"
-                    ],
-                    "post-update-cmd": [
-                        "@ror-scripts"
-                    ],
-                    "ror-scripts": [
-                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
-                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
-                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
-                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
-                        "php app/console oru:maintenance:lock --no-interaction",
-                        "php app/console fos:js-routing:dump",
-                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
-                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
-                        "yarn install",
-                        "yarn build",
-                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
-                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
-                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
-                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
-                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
-                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
-                        "php app/console bazinga:js-translation:dump --format=js",
-                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
-                        "php app/console oru:setting:purge --env=prod",
-                        "php app/console oru:setting:dump --env=dev",
-                        "php app/console oru:pole:repair",
-                        "php app/console oru:maintenance:unlock --no-interaction",
-                        "php app/console oru:schedule:check",
-                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
-                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
-                        "php app/console oru:import:init",
-                        "php app/console oru:page:update",
-                        "php app/console oru:fieldvalidity_description:update",
-                        "php app/console oru:meta-fields:update",
-                        "php app/console oru:validation:update",
-                        "php app/console oru:wsexchange:extract -e prod",
-                        "php app/console oru:ror:unite-idnat -e prod",
-                        "php app/console ckeditor:install --clear=skip",
-                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
-                    ]
-                },
-                "description": "Projet ROR v3",
-                "support": {
-                    "source": "https://github.com/grades-paca/ror/tree/3.8.58",
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.56",
                     "issues": "https://github.com/grades-paca/ror/issues"
                 }
             },
@@ -25482,12 +26712,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "5e878812e690ce06a0891945346c4ab4f74a3954"
+                    "reference": "b3ea2a2c0541568daf4f072e12143723c1a972da"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/5e878812e690ce06a0891945346c4ab4f74a3954",
-                    "reference": "5e878812e690ce06a0891945346c4ab4f74a3954",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/b3ea2a2c0541568daf4f072e12143723c1a972da",
+                    "reference": "b3ea2a2c0541568daf4f072e12143723c1a972da",
                     "shasum": ""
                 },
                 "require": {
@@ -25596,7 +26826,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2021-11-10T09:28:18+00:00",
+                "time": "2021-12-06T13:45:53+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -25687,12 +26917,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "19aea0e62da4b27e86305f2e83b73b259419c7fd"
+                    "reference": "e272c87a30a6865cfa3c3039284d754c375bd156"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/19aea0e62da4b27e86305f2e83b73b259419c7fd",
-                    "reference": "19aea0e62da4b27e86305f2e83b73b259419c7fd",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/e272c87a30a6865cfa3c3039284d754c375bd156",
+                    "reference": "e272c87a30a6865cfa3c3039284d754c375bd156",
                     "shasum": ""
                 },
                 "require": {
@@ -25801,7 +27031,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-11-26T09:44:26+00:00",
+                "time": "2021-12-13T06:16:17+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -25881,7 +27111,7 @@
                 },
                 "description": "Projet ROR v3",
                 "support": {
-                    "source": "https://github.com/grades-paca/ror/tree/3.9",
+                    "source": "https://github.com/grades-paca/ror/tree/3.9.0",
                     "issues": "https://github.com/grades-paca/ror/issues"
                 }
             },
@@ -26097,12 +27327,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "f0449021f4db1309119c457f052833537791668e"
+                    "reference": "8fdd6aabae8e89a2d2bcecccb749afaa939fd055"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/f0449021f4db1309119c457f052833537791668e",
-                    "reference": "f0449021f4db1309119c457f052833537791668e",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/8fdd6aabae8e89a2d2bcecccb749afaa939fd055",
+                    "reference": "8fdd6aabae8e89a2d2bcecccb749afaa939fd055",
                     "shasum": ""
                 },
                 "require": {
@@ -26211,7 +27441,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-11-18T08:06:19+00:00",
+                "time": "2021-12-16T08:25:04+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -26302,12 +27532,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "ea8c28eeb5181293c7b2ed480b1187cf60c1d249"
+                    "reference": "702dc2f8cac19ccf206dee942f5b7e5027d6e2d2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/ea8c28eeb5181293c7b2ed480b1187cf60c1d249",
-                    "reference": "ea8c28eeb5181293c7b2ed480b1187cf60c1d249",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/702dc2f8cac19ccf206dee942f5b7e5027d6e2d2",
+                    "reference": "702dc2f8cac19ccf206dee942f5b7e5027d6e2d2",
                     "shasum": ""
                 },
                 "require": {
@@ -26416,7 +27646,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-11-12T09:55:13+00:00",
+                "time": "2021-12-16T08:28:34+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -27911,6 +29141,211 @@
             },
             {
                 "name": "grades-paca/ror",
+                "version": "dev-152229_a",
+                "version_normalized": "dev-152229_a",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "a8c3d7743d2d74a43049cb9717b1cabdfa614b0c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/a8c3d7743d2d74a43049cb9717b1cabdfa614b0c",
+                    "reference": "a8c3d7743d2d74a43049cb9717b1cabdfa614b0c",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.2",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.12",
+                    "doctrine/doctrine-fixtures-bundle": "^3.3",
+                    "doctrine/doctrine-migrations-bundle": "^2.2",
+                    "doctrine/migrations": "^2.2",
+                    "elasticsearch/elasticsearch": "^6.7",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/elastica-bundle": "^5.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.1",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.2",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-denied-field": "^1.2",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.4",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.8",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.4",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.2",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.1",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.6",
+                    "jms/serializer": "1.14.1",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "marcusschwarz/lesserphp": "^0.5",
+                    "moment/moment": "^2.27",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": "^7.1.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.3",
+                    "sensio/distribution-bundle": "^5.0.25",
+                    "sensio/framework-extra-bundle": "^3.0",
+                    "simplepie/simplepie": "^1.5",
+                    "sonata-project/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.3",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.8",
+                    "symfony/framework-bundle": "^3.4",
+                    "symfony/monolog-bundle": "^3.5",
+                    "symfony/polyfill-apcu": "^1.18",
+                    "symfony/security-acl": "^3.1",
+                    "symfony/swiftmailer-bundle": "^3.3",
+                    "symfony/symfony": "^3.4",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.5",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^3.0",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "nikic/php-parser": "^4.0",
+                    "php-parallel-lint/php-parallel-lint": "^0.9.2",
+                    "phpro/grumphp": "^0.16.0",
+                    "phpstan/phpstan": "^0.12",
+                    "phpunit/phpunit": "^7.5",
+                    "symfony/maker-bundle": "^1.20",
+                    "symfony/phpunit-bridge": "^5.1"
+                },
+                "time": "2021-12-09T13:59:57+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/152229_a",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
                 "version": "dev-154329_b",
                 "version_normalized": "dev-154329_b",
                 "source": {
@@ -28111,6 +29546,211 @@
                 "description": "Projet ROR v3",
                 "support": {
                     "source": "https://github.com/grades-paca/ror/tree/154329_b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "dev-154329_c",
+                "version_normalized": "dev-154329_c",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "075d63ef3cf21789105aa83545eaeae3e663bab4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/075d63ef3cf21789105aa83545eaeae3e663bab4",
+                    "reference": "075d63ef3cf21789105aa83545eaeae3e663bab4",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.2",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.12",
+                    "doctrine/doctrine-fixtures-bundle": "^3.3",
+                    "doctrine/doctrine-migrations-bundle": "^2.2",
+                    "doctrine/migrations": "^2.2",
+                    "elasticsearch/elasticsearch": "^6.7",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/elastica-bundle": "^5.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.1",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.2",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-denied-field": "^1.2",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.4",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.8",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.4",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.2",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.1",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.6",
+                    "jms/serializer": "1.14.1",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "marcusschwarz/lesserphp": "^0.5",
+                    "moment/moment": "^2.27",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": "^7.1.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.3",
+                    "sensio/distribution-bundle": "^5.0.25",
+                    "sensio/framework-extra-bundle": "^3.0",
+                    "simplepie/simplepie": "^1.5",
+                    "sonata-project/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.3",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.8",
+                    "symfony/framework-bundle": "^3.4",
+                    "symfony/monolog-bundle": "^3.5",
+                    "symfony/polyfill-apcu": "^1.18",
+                    "symfony/security-acl": "^3.1",
+                    "symfony/swiftmailer-bundle": "^3.3",
+                    "symfony/symfony": "^3.4",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.5",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^3.0",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "nikic/php-parser": "^4.0",
+                    "php-parallel-lint/php-parallel-lint": "^0.9.2",
+                    "phpro/grumphp": "^0.16.0",
+                    "phpstan/phpstan": "^0.12",
+                    "phpunit/phpunit": "^7.5",
+                    "symfony/maker-bundle": "^1.20",
+                    "symfony/phpunit-bridge": "^5.1"
+                },
+                "time": "2021-12-09T12:09:15+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/154329_c",
                     "issues": "https://github.com/grades-paca/ror/issues"
                 }
             },
@@ -29545,6 +31185,211 @@
                 "description": "Projet ROR v3",
                 "support": {
                     "source": "https://github.com/grades-paca/ror/tree/174505_c",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "dev-174505_d",
+                "version_normalized": "dev-174505_d",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "70dda111edf514ac0b96a824dbd68999714dbeb2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/70dda111edf514ac0b96a824dbd68999714dbeb2",
+                    "reference": "70dda111edf514ac0b96a824dbd68999714dbeb2",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.2",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.12",
+                    "doctrine/doctrine-fixtures-bundle": "^3.3",
+                    "doctrine/doctrine-migrations-bundle": "^2.2",
+                    "doctrine/migrations": "^2.2",
+                    "elasticsearch/elasticsearch": "^6.7",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/elastica-bundle": "^5.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.1",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.2",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-denied-field": "^1.2",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.4",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.8",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.4",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.2",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.1",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.6",
+                    "jms/serializer": "1.14.1",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "marcusschwarz/lesserphp": "^0.5",
+                    "moment/moment": "^2.27",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": "^7.1.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.3",
+                    "sensio/distribution-bundle": "^5.0.25",
+                    "sensio/framework-extra-bundle": "^3.0",
+                    "simplepie/simplepie": "^1.5",
+                    "sonata-project/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.3",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.8",
+                    "symfony/framework-bundle": "^3.4",
+                    "symfony/monolog-bundle": "^3.5",
+                    "symfony/polyfill-apcu": "^1.18",
+                    "symfony/security-acl": "^3.1",
+                    "symfony/swiftmailer-bundle": "^3.3",
+                    "symfony/symfony": "^3.4",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.5",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^3.0",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "nikic/php-parser": "^4.0",
+                    "php-parallel-lint/php-parallel-lint": "^0.9.2",
+                    "phpro/grumphp": "^0.16.0",
+                    "phpstan/phpstan": "^0.12",
+                    "phpunit/phpunit": "^7.5",
+                    "symfony/maker-bundle": "^1.20",
+                    "symfony/phpunit-bridge": "^5.1"
+                },
+                "time": "2021-12-10T10:45:34+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/174505_d",
                     "issues": "https://github.com/grades-paca/ror/issues"
                 }
             },
@@ -34470,6 +36315,211 @@
             },
             {
                 "name": "grades-paca/ror",
+                "version": "dev-217876_a",
+                "version_normalized": "dev-217876_a",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "f6bbbeba956c56b565260b1b87fbd3b63000996e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/f6bbbeba956c56b565260b1b87fbd3b63000996e",
+                    "reference": "f6bbbeba956c56b565260b1b87fbd3b63000996e",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.0",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.6",
+                    "doctrine/doctrine-fixtures-bundle": "~2.4",
+                    "doctrine/doctrine-migrations-bundle": "^1.3",
+                    "doctrine/orm": "^2.5",
+                    "egulias/email-validator": "~1.2",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/ckeditor-bundle": "1.2.1",
+                    "friendsofsymfony/elastica-bundle": "^3.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.0",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.1",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-crud": "^1.2",
+                    "grades-paca/bundle-denied-field": "^1.1",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.3",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.7",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.3",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.1",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.0",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.5",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "leafo/lessphp": "^0.5",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "moment/moment": "^2.10",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": ">=5.5.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.1",
+                    "sensio/distribution-bundle": "^5.0.19",
+                    "sensio/framework-extra-bundle": "^3.0.2",
+                    "simplepie/simplepie": "^1.3",
+                    "simplethings/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.2",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "symfony/monolog-bundle": "^3.1.0",
+                    "symfony/polyfill-apcu": "^1.0",
+                    "symfony/security-acl": "^3.0",
+                    "symfony/swiftmailer-bundle": "^2.3.10",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.0",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^2.6",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "nikic/php-parser": "^3.1",
+                    "phpro/grumphp": "^0.12.0",
+                    "phpstan/phpstan": "^0.9",
+                    "phpunit/phpunit": "^5",
+                    "sensio/generator-bundle": "^3.0",
+                    "symfony/phpunit-bridge": "^3.0"
+                },
+                "time": "2021-12-02T13:40:45+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/217876_a",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
                 "version": "dev-218252_b",
                 "version_normalized": "dev-218252_b",
                 "source": {
@@ -34670,6 +36720,211 @@
                 "description": "Projet ROR v3",
                 "support": {
                     "source": "https://github.com/grades-paca/ror/tree/218252_b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "dev-218959_a",
+                "version_normalized": "dev-218959_a",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "8bcf4e1e2246574949588f692ebdfad210555c0c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/8bcf4e1e2246574949588f692ebdfad210555c0c",
+                    "reference": "8bcf4e1e2246574949588f692ebdfad210555c0c",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.2",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.12",
+                    "doctrine/doctrine-fixtures-bundle": "^3.3",
+                    "doctrine/doctrine-migrations-bundle": "^2.2",
+                    "doctrine/migrations": "^2.2",
+                    "elasticsearch/elasticsearch": "^6.7",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/elastica-bundle": "^5.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.1",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.2",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-denied-field": "^1.2",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.4",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.8",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.4",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.2",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.1",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.6",
+                    "jms/serializer": "1.14.1",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "marcusschwarz/lesserphp": "^0.5",
+                    "moment/moment": "^2.27",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": "^7.1.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.3",
+                    "sensio/distribution-bundle": "^5.0.25",
+                    "sensio/framework-extra-bundle": "^3.0",
+                    "simplepie/simplepie": "^1.5",
+                    "sonata-project/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.3",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.8",
+                    "symfony/framework-bundle": "^3.4",
+                    "symfony/monolog-bundle": "^3.5",
+                    "symfony/polyfill-apcu": "^1.18",
+                    "symfony/security-acl": "^3.1",
+                    "symfony/swiftmailer-bundle": "^3.3",
+                    "symfony/symfony": "^3.4",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.5",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^3.0",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "nikic/php-parser": "^4.0",
+                    "php-parallel-lint/php-parallel-lint": "^0.9.2",
+                    "phpro/grumphp": "^0.16.0",
+                    "phpstan/phpstan": "^0.12",
+                    "phpunit/phpunit": "^7.5",
+                    "symfony/maker-bundle": "^1.20",
+                    "symfony/phpunit-bridge": "^5.1"
+                },
+                "time": "2021-12-09T11:36:14+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/218959_a",
                     "issues": "https://github.com/grades-paca/ror/issues"
                 }
             },
@@ -37097,6 +39352,211 @@
                 "description": "Projet ROR v3",
                 "support": {
                     "source": "https://github.com/grades-paca/ror/tree/3.8.55_master",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "dev-3.8.58branch",
+                "version_normalized": "dev-3.8.58branch",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "5e878812e690ce06a0891945346c4ab4f74a3954"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/5e878812e690ce06a0891945346c4ab4f74a3954",
+                    "reference": "5e878812e690ce06a0891945346c4ab4f74a3954",
+                    "shasum": ""
+                },
+                "require": {
+                    "beberlei/doctrineextensions": "^1.0",
+                    "course-hero/wse-php": "~2.0.0",
+                    "debril/rss-atom-bundle": "~2.3",
+                    "doctrine/doctrine-bundle": "^1.6",
+                    "doctrine/doctrine-fixtures-bundle": "~2.4",
+                    "doctrine/doctrine-migrations-bundle": "^1.3",
+                    "doctrine/orm": "^2.5",
+                    "egulias/email-validator": "~1.2",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "friendsofsymfony/ckeditor-bundle": "1.2.1",
+                    "friendsofsymfony/elastica-bundle": "^3.2",
+                    "friendsofsymfony/oauth-server-bundle": "^1.6",
+                    "friendsofsymfony/user-bundle": "^2.0",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.8",
+                    "grades-paca/bundle-alert": "^1.2",
+                    "grades-paca/bundle-app": "^1.1",
+                    "grades-paca/bundle-attachment": "^1.4",
+                    "grades-paca/bundle-box": "^1.3",
+                    "grades-paca/bundle-carto": "^1.6",
+                    "grades-paca/bundle-crud": "^1.2",
+                    "grades-paca/bundle-denied-field": "^1.1",
+                    "grades-paca/bundle-design": "^1.6",
+                    "grades-paca/bundle-error-logger": "^1.3",
+                    "grades-paca/bundle-esms": "^1.3",
+                    "grades-paca/bundle-form": "^1.7",
+                    "grades-paca/bundle-form-incremental": "^1.1",
+                    "grades-paca/bundle-install": "^1.2",
+                    "grades-paca/bundle-jaspersoft": "^1.2",
+                    "grades-paca/bundle-jquery-mask": "^1.1",
+                    "grades-paca/bundle-key-store": "^1.1",
+                    "grades-paca/bundle-listing": "^1.2",
+                    "grades-paca/bundle-log": "^1.2",
+                    "grades-paca/bundle-lst": "^1.2",
+                    "grades-paca/bundle-mail": "^1.3",
+                    "grades-paca/bundle-otp": "^1.2",
+                    "grades-paca/bundle-paginator": "^1.2",
+                    "grades-paca/bundle-patient": "^1.4",
+                    "grades-paca/bundle-plan-bleu": "^1.5",
+                    "grades-paca/bundle-privacy-banner": "^1.1",
+                    "grades-paca/bundle-project-humhub": "^1.2",
+                    "grades-paca/bundle-rest-soap": "^1.1",
+                    "grades-paca/bundle-schedule": "^1.4",
+                    "grades-paca/bundle-setting": "^1.2",
+                    "grades-paca/bundle-sms": "^1.2",
+                    "grades-paca/bundle-stats": "^1.1",
+                    "grades-paca/bundle-tag": "^1.2",
+                    "grades-paca/bundle-task": "^1.2",
+                    "grades-paca/bundle-test": "^1.2",
+                    "grades-paca/bundle-translation": "^1.2",
+                    "grades-paca/bundle-version": "^2.5",
+                    "grades-paca/bundle-web-client": "^1.2",
+                    "incenteev/composer-parameter-handler": "^2.0",
+                    "jasig/phpcas": "^1.3",
+                    "jenssegers/agent": "^2.5",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "leafo/lessphp": "^0.5",
+                    "liuggio/excelbundle": "~2.1",
+                    "lox/xhprof": "dev-master",
+                    "moment/moment": "^2.10",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": ">=5.5.0",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "~4.1",
+                    "sensio/distribution-bundle": "^5.0.19",
+                    "sensio/framework-extra-bundle": "^3.0.2",
+                    "simplepie/simplepie": "^1.3",
+                    "simplethings/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.2",
+                    "suncat/mobile-detect-bundle": "1.0.5",
+                    "symfony/assetic-bundle": "~2.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0",
+                    "symfony/monolog-bundle": "^3.1.0",
+                    "symfony/polyfill-apcu": "^1.0",
+                    "symfony/security-acl": "^3.0",
+                    "symfony/swiftmailer-bundle": "^2.3.10",
+                    "synaq/zasa-bundle": "^2.3",
+                    "twig/extensions": "^1.0",
+                    "uecode/api-key-bundle": "^3.0",
+                    "willdurand/js-translation-bundle": "^2.6",
+                    "zbateson/mail-mime-parser": "^0.2.5"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "~2",
+                    "jakub-onderka/php-parallel-lint": "^0.9.2",
+                    "nikic/php-parser": "^3.1",
+                    "phpro/grumphp": "^0.12.0",
+                    "phpstan/phpstan": "^0.9",
+                    "phpunit/phpunit": "^5",
+                    "sensio/generator-bundle": "^3.0",
+                    "symfony/phpunit-bridge": "^3.0"
+                },
+                "time": "2021-11-10T09:28:18+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-app-dir": "app",
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "web",
+                    "symfony-assets-install": "symlink",
+                    "incenteev-parameters": {
+                        "file": "app/config/parameters.yml"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "": "src/"
+                    },
+                    "classmap": [
+                        "app/AppKernel.php",
+                        "app/AppCache.php"
+                    ],
+                    "files": [
+                        "src/functions.php"
+                    ]
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::initProject",
+                        "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::clearCache",
+                        "php app/console oru:maintenance:lock --no-interaction",
+                        "php app/console fos:js-routing:dump",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installAssets",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "yarn install",
+                        "yarn build",
+                        "Oru\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::installRequirementsFile",
+                        "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::createDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
+                        "php app/console bazinga:js-translation:dump --format=js",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev",
+                        "php app/console oru:pole:repair",
+                        "php app/console oru:maintenance:unlock --no-interaction",
+                        "php app/console oru:schedule:check",
+                        "php app/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php app/console oru:credentials:collection-warm-cache --env=prod ",
+                        "php app/console oru:import:init",
+                        "php app/console oru:page:update",
+                        "php app/console oru:fieldvalidity_description:update",
+                        "php app/console oru:meta-fields:update",
+                        "php app/console oru:validation:update",
+                        "php app/console oru:wsexchange:extract -e prod",
+                        "php app/console oru:ror:unite-idnat -e prod",
+                        "php app/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                    ]
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.56",
                     "issues": "https://github.com/grades-paca/ror/issues"
                 }
             },
