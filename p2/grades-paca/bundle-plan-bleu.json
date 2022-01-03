@@ -1074,6 +1074,47 @@
             },
             {
                 "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.5.9",
+                "version_normalized": "1.5.9.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "9d645ddcf0666579e70ddca27dfef22b093da5a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/9d645ddcf0666579e70ddca27dfef22b093da5a4",
+                    "reference": "9d645ddcf0666579e70ddca27dfef22b093da5a4",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-attachment": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2022-01-03T10:42:14+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.5.9",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
                 "version": "1.6.0",
                 "version_normalized": "1.6.0.0",
                 "target-dir": "Oru/Bundle/PlanBleuBundle",
