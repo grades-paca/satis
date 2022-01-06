@@ -4654,6 +4654,47 @@
             },
             {
                 "name": "grades-paca/bundle-address",
+                "version": "1.8.19",
+                "version_normalized": "1.8.19.0",
+                "target-dir": "Oru/Bundle/AddressBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-address.git",
+                    "reference": "62f9176fbb7da3d7d2568577dad3e1d1bab07219"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/62f9176fbb7da3d7d2568577dad3e1d1bab07219",
+                    "reference": "62f9176fbb7da3d7d2568577dad3e1d1bab07219",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
+                    "grades-paca/bundle-lst": ">=1.1.8",
+                    "grades-paca/bundle-translation": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2022-01-06T10:26:46+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AddressBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'adresses",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-address/tree/1.8.19",
+                    "issues": "https://github.com/grades-paca/bundle-address/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-address",
                 "version": "1.8.2",
                 "version_normalized": "1.8.2.0",
                 "target-dir": "Oru/Bundle/AddressBundle",
