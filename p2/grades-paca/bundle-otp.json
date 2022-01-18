@@ -862,6 +862,47 @@
             },
             {
                 "name": "grades-paca/bundle-otp",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "target-dir": "Oru/Bundle/OtpBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-otp.git",
+                    "reference": "efdcfa92c97e705e124a48e38f9c97874cbe5751"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-otp/zipball/efdcfa92c97e705e124a48e38f9c97874cbe5751",
+                    "reference": "efdcfa92c97e705e124a48e38f9c97874cbe5751",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-mail": "*",
+                    "grades-paca/bundle-sms": "*",
+                    "grades-paca/bundle-translation": "*",
+                    "spomky-labs/otphp": "^8.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2022-01-18T06:57:32+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\OtpBundle\\": ""
+                    }
+                },
+                "description": "Gestion de l'authentification via OTP",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-otp/tree/1.2.5",
+                    "issues": "https://github.com/grades-paca/bundle-otp/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-otp",
                 "version": "1.3.0",
                 "version_normalized": "1.3.0.0",
                 "target-dir": "Oru/Bundle/OtpBundle",
