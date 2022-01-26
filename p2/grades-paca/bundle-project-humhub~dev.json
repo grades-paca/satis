@@ -20,7 +20,7 @@
                     "oru/setting": "*",
                     "romanpitak/php-rest-client": ">=1.2.0"
                 },
-                "time": "2018-04-10T06:13:07+00:00",
+                "time": "2018-04-09T11:15:29+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -32,11 +32,7 @@
                         "Oru\\Bundle\\ProjectHumhubBundle\\": ""
                     }
                 },
-                "description": "Project Humhub connector bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-project-humhub/tree/1.0.13",
-                    "issues": "https://github.com/grades-paca/bundle-project-humhub/issues"
-                }
+                "description": "Project Humhub connector bundle"
             },
             {
                 "name": "grades-paca/bundle-project-humhub",
@@ -70,11 +66,7 @@
                         "Oru\\Bundle\\ProjectHumhubBundle\\": ""
                     }
                 },
-                "description": "Project Humhub connector bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-project-humhub/tree/1.2.5",
-                    "issues": "https://github.com/grades-paca/bundle-project-humhub/issues"
-                }
+                "description": "Project Humhub connector bundle"
             }
         ]
     }

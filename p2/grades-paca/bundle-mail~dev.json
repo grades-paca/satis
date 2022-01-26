@@ -37,11 +37,7 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.0.8",
-                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
-                }
+                "description": "Gestion des mails"
             },
             {
                 "name": "grades-paca/bundle-mail",
@@ -79,11 +75,7 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.1.13",
-                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
-                }
+                "description": "Gestion des mails"
             },
             {
                 "name": "grades-paca/bundle-mail",
@@ -121,11 +113,7 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.2.9",
-                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
-                }
+                "description": "Gestion des mails"
             },
             {
                 "name": "grades-paca/bundle-mail",
@@ -164,11 +152,7 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.5.2",
-                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
-                }
+                "description": "Gestion des mails"
             }
         ]
     }

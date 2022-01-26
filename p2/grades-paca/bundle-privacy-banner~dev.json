@@ -33,11 +33,7 @@
                         "Oru\\Bundle\\PrivacyBannerBundle\\": ""
                     }
                 },
-                "description": "This bundle adds privacy cookie banner.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-privacy-banner/tree/1.2.0",
-                    "issues": "https://github.com/grades-paca/bundle-privacy-banner/issues"
-                }
+                "description": "This bundle adds privacy cookie banner."
             }
         ]
     }

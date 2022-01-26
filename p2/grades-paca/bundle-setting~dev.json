@@ -37,11 +37,7 @@
                         "Oru\\Bundle\\SettingBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des paramètres de l'application.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.29",
-                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
-                }
+                "description": "Bundle de gestion des paramètres de l'application."
             },
             {
                 "name": "grades-paca/bundle-setting",
@@ -80,11 +76,7 @@
                         "Oru\\Bundle\\SettingBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des paramètres de l'application.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.3.2",
-                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
-                }
+                "description": "Bundle de gestion des paramètres de l'application."
             }
         ]
     }
