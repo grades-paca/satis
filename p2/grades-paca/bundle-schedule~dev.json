@@ -77,12 +77,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "ca50180648452f4c36d8740f1d6d8e0dbd4ab5c3"
+                    "reference": "0c7f1e25881c8844506800df3b9b084d8d46f318"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/ca50180648452f4c36d8740f1d6d8e0dbd4ab5c3",
-                    "reference": "ca50180648452f4c36d8740f1d6d8e0dbd4ab5c3",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/0c7f1e25881c8844506800df3b9b084d8d46f318",
+                    "reference": "0c7f1e25881c8844506800df3b9b084d8d46f318",
                     "shasum": ""
                 },
                 "require": {
@@ -91,7 +91,7 @@
                     "grades-paca/bundle-listing": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2022-02-10T14:07:23+00:00",
+                "time": "2021-09-22T10:27:05+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -130,6 +130,42 @@
                 "extra": {
                     "branch-alias": {
                         "dev-master": "1.0.*-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ScheduleBundle\\": ""
+                    }
+                },
+                "description": "Planificateur de taches "
+            },
+            {
+                "name": "grades-paca/bundle-schedule",
+                "version": "61138.x-dev",
+                "version_normalized": "61138.9999999.9999999.9999999-dev",
+                "target-dir": "Oru/Bundle/ScheduleBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-schedule.git",
+                    "reference": "6080e94921143a296ef694dcb674ef49c65d6a90"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/6080e94921143a296ef694dcb674ef49c65d6a90",
+                    "reference": "6080e94921143a296ef694dcb674ef49c65d6a90",
+                    "shasum": ""
+                },
+                "require": {
+                    "dragonmantank/cron-expression": "2.2",
+                    "grades-paca/bundle-app": ">=1.0.9",
+                    "grades-paca/bundle-listing": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2022-02-10T14:01:44+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
                     }
                 },
                 "autoload": {

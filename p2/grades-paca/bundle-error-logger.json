@@ -1361,6 +1361,42 @@
                     }
                 },
                 "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
+            },
+            {
+                "name": "grades-paca/bundle-error-logger",
+                "version": "1.5.3",
+                "version_normalized": "1.5.3.0",
+                "target-dir": "Oru/Bundle/ErrorLoggerBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-error-logger.git",
+                    "reference": "2ee57e74d422356e319d669851cb8dcd583a9c97"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/2ee57e74d422356e319d669851cb8dcd583a9c97",
+                    "reference": "2ee57e74d422356e319d669851cb8dcd583a9c97",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-app": ">=1.0.7",
+                    "grades-paca/bundle-mail": "~1.4",
+                    "grades-paca/bundle-setting": "~1.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-02-14T16:52:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ErrorLoggerBundle\\": ""
+                    }
+                },
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             }
         ]
     }
