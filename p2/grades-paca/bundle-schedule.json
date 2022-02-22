@@ -1685,6 +1685,42 @@
             },
             {
                 "name": "grades-paca/bundle-schedule",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
+                "target-dir": "Oru/Bundle/ScheduleBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-schedule.git",
+                    "reference": "6399594ede2492f95601db905509004ada41ca90"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/6399594ede2492f95601db905509004ada41ca90",
+                    "reference": "6399594ede2492f95601db905509004ada41ca90",
+                    "shasum": ""
+                },
+                "require": {
+                    "dragonmantank/cron-expression": "2.2",
+                    "grades-paca/bundle-app": ">=1.0.9",
+                    "grades-paca/bundle-listing": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2022-02-22T08:56:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ScheduleBundle\\": ""
+                    }
+                },
+                "description": "Planificateur de taches "
+            },
+            {
+                "name": "grades-paca/bundle-schedule",
                 "version": "1.6.0",
                 "version_normalized": "1.6.0.0",
                 "target-dir": "Oru/Bundle/ScheduleBundle",

@@ -77,12 +77,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "0c7f1e25881c8844506800df3b9b084d8d46f318"
+                    "reference": "6399594ede2492f95601db905509004ada41ca90"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/0c7f1e25881c8844506800df3b9b084d8d46f318",
-                    "reference": "0c7f1e25881c8844506800df3b9b084d8d46f318",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/6399594ede2492f95601db905509004ada41ca90",
+                    "reference": "6399594ede2492f95601db905509004ada41ca90",
                     "shasum": ""
                 },
                 "require": {
@@ -91,7 +91,7 @@
                     "grades-paca/bundle-listing": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2021-09-22T10:27:05+00:00",
+                "time": "2022-02-22T08:56:36+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -183,12 +183,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "570e9a33130e279276d08a2e88bb9c23349b29e9"
+                    "reference": "abb3bbb7f0b217556102f5a45ba11d892b4b01c2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/570e9a33130e279276d08a2e88bb9c23349b29e9",
-                    "reference": "570e9a33130e279276d08a2e88bb9c23349b29e9",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/abb3bbb7f0b217556102f5a45ba11d892b4b01c2",
+                    "reference": "abb3bbb7f0b217556102f5a45ba11d892b4b01c2",
                     "shasum": ""
                 },
                 "require": {
@@ -197,7 +197,7 @@
                     "grades-paca/bundle-listing": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-11-10T14:58:24+00:00",
+                "time": "2022-02-22T09:01:39+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
