@@ -47,12 +47,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-install.git",
-                    "reference": "d2cb2acd8e30827d35161b7b7b6642c24258764d"
+                    "reference": "4ada686bd72b7ae71d76d2efd9288299343b1d4c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-install/zipball/d2cb2acd8e30827d35161b7b7b6642c24258764d",
-                    "reference": "d2cb2acd8e30827d35161b7b7b6642c24258764d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-install/zipball/4ada686bd72b7ae71d76d2efd9288299343b1d4c",
+                    "reference": "4ada686bd72b7ae71d76d2efd9288299343b1d4c",
                     "shasum": ""
                 },
                 "require": {
