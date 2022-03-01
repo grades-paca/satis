@@ -41,19 +41,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-project-humhub.git",
-                    "reference": "1ee2342bd3685d8bdc6ac46556dc39e7bf7de89b"
+                    "reference": "c257e4bfa4cd2c38add58b75d53bcc8d79cee4aa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-project-humhub/zipball/1ee2342bd3685d8bdc6ac46556dc39e7bf7de89b",
-                    "reference": "1ee2342bd3685d8bdc6ac46556dc39e7bf7de89b",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-project-humhub/zipball/c257e4bfa4cd2c38add58b75d53bcc8d79cee4aa",
+                    "reference": "c257e4bfa4cd2c38add58b75d53bcc8d79cee4aa",
                     "shasum": ""
                 },
                 "require": {
                     "grades-paca/bundle-setting": "*",
                     "romanpitak/php-rest-client": ">=1.2.0"
                 },
-                "time": "2019-08-06T09:58:23+00:00",
+                "time": "2022-03-01T10:22:13+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

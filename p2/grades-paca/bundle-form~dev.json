@@ -424,12 +424,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "57181ed3141215085731ade9d711e09fd917b2f9"
+                    "reference": "f49189992e0f6883e1f241886bb2ae67e5bb5c70"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/57181ed3141215085731ade9d711e09fd917b2f9",
-                    "reference": "57181ed3141215085731ade9d711e09fd917b2f9",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/f49189992e0f6883e1f241886bb2ae67e5bb5c70",
+                    "reference": "f49189992e0f6883e1f241886bb2ae67e5bb5c70",
                     "shasum": ""
                 },
                 "require": {
@@ -447,12 +447,11 @@
                     "grades-paca/bundle-jquery-mask": "*",
                     "grades-paca/bundle-mail": "*",
                     "grades-paca/bundle-setting": "*",
-                    "lrotherfield/form": "^2.0",
                     "odolbeau/phone-number-bundle": "^3.0",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
-                    "tomnomnom/etherpad-lite-client": "^0.1.2"
+                    "shapecode/hidden-entity-type-bundle": "^5.1",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-11-10T14:44:58+00:00",
+                "time": "2022-03-01T09:11:17+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

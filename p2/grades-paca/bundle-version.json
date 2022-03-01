@@ -1253,12 +1253,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-version.git",
-                    "reference": "4c2af18f32fde69bfb234df253e9485114a50626"
+                    "reference": "ea880daea82d94fac61da688f0ce6ec43f10cdf6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/4c2af18f32fde69bfb234df253e9485114a50626",
-                    "reference": "4c2af18f32fde69bfb234df253e9485114a50626",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/ea880daea82d94fac61da688f0ce6ec43f10cdf6",
+                    "reference": "ea880daea82d94fac61da688f0ce6ec43f10cdf6",
                     "shasum": ""
                 },
                 "require": {
@@ -1269,7 +1269,7 @@
                     "kbsali/redmine-api": "^1.8",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-25T12:13:37+00:00",
+                "time": "2022-03-01T11:07:44+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

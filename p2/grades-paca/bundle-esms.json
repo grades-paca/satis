@@ -714,12 +714,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-esms.git",
-                    "reference": "b8160ec19dd0b276d9607e88edfb61b825741641"
+                    "reference": "2a2e35b877134b7d1e4b013265ef0151e39ed505"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/b8160ec19dd0b276d9607e88edfb61b825741641",
-                    "reference": "b8160ec19dd0b276d9607e88edfb61b825741641",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/2a2e35b877134b7d1e4b013265ef0151e39ed505",
+                    "reference": "2a2e35b877134b7d1e4b013265ef0151e39ed505",
                     "shasum": ""
                 },
                 "require": {
@@ -728,79 +728,7 @@
                     "grades-paca/bundle-setting": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-24T13:54:58+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\EsmsBundle\\": ""
-                    }
-                },
-                "description": "Bundle ESMS pour le ROR 3"
-            },
-            {
-                "name": "grades-paca/bundle-esms",
-                "version": "1.4.1",
-                "version_normalized": "1.4.1.0",
-                "target-dir": "Oru/Bundle/EsmsBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-esms.git",
-                    "reference": "c352f7529cccfa71584bd4e0f29e8fad4ea6ca10"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/c352f7529cccfa71584bd4e0f29e8fad4ea6ca10",
-                    "reference": "c352f7529cccfa71584bd4e0f29e8fad4ea6ca10",
-                    "shasum": ""
-                },
-                "require": {
-                    "grades-paca/bundle-form": ">=1.7.2",
-                    "grades-paca/bundle-form-incremental": "*",
-                    "grades-paca/bundle-setting": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
-                },
-                "time": "2021-10-18T11:02:17+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\EsmsBundle\\": ""
-                    }
-                },
-                "description": "Bundle ESMS pour le ROR 3"
-            },
-            {
-                "name": "grades-paca/bundle-esms",
-                "version": "1.4.2",
-                "version_normalized": "1.4.2.0",
-                "target-dir": "Oru/Bundle/EsmsBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-esms.git",
-                    "reference": "2022fd0a9dbf0f05f47eb12ea68a660c7b7b277d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/2022fd0a9dbf0f05f47eb12ea68a660c7b7b277d",
-                    "reference": "2022fd0a9dbf0f05f47eb12ea68a660c7b7b277d",
-                    "shasum": ""
-                },
-                "require": {
-                    "grades-paca/bundle-form": ">=1.7.2",
-                    "grades-paca/bundle-form-incremental": "*",
-                    "grades-paca/bundle-setting": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
-                },
-                "time": "2021-11-10T14:44:25+00:00",
+                "time": "2022-03-01T09:02:22+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

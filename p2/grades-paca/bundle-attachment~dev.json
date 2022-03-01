@@ -44,16 +44,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-attachment.git",
-                    "reference": "3a7f1a3954f3f37fe4772c30f05a60095cf0ae31"
+                    "reference": "006e8d511ad6c4f2cff90a7084ff6e47e297d4fc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/3a7f1a3954f3f37fe4772c30f05a60095cf0ae31",
-                    "reference": "3a7f1a3954f3f37fe4772c30f05a60095cf0ae31",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/006e8d511ad6c4f2cff90a7084ff6e47e297d4fc",
+                    "reference": "006e8d511ad6c4f2cff90a7084ff6e47e297d4fc",
                     "shasum": ""
                 },
                 "require": {
-                    "components/jqueryui": "^1.12",
                     "ext-fileinfo": "*",
                     "ext-gd": "*",
                     "ext-sockets": "*",
@@ -64,7 +63,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "xenolope/quahog": "^3.0"
                 },
-                "time": "2022-02-14T15:53:59+00:00",
+                "time": "2022-02-28T15:31:21+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

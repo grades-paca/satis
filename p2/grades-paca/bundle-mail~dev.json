@@ -123,12 +123,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-mail.git",
-                    "reference": "a0081c753a8dd0edb77d214f628d1652302475db"
+                    "reference": "554e9302988e2e44d610a021bc2afbfe9bb8a3fe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/a0081c753a8dd0edb77d214f628d1652302475db",
-                    "reference": "a0081c753a8dd0edb77d214f628d1652302475db",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/554e9302988e2e44d610a021bc2afbfe9bb8a3fe",
+                    "reference": "554e9302988e2e44d610a021bc2afbfe9bb8a3fe",
                     "shasum": ""
                 },
                 "require": {
@@ -139,7 +139,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "vkalmuk/swiftmailerdbbundle": "dev-master"
                 },
-                "time": "2022-02-01T14:21:16+00:00",
+                "time": "2022-03-01T09:49:09+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

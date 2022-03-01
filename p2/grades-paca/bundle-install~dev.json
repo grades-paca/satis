@@ -47,12 +47,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-install.git",
-                    "reference": "b591e11e531ce3b71f1e660d70d6d9383905e7f3"
+                    "reference": "d2cb2acd8e30827d35161b7b7b6642c24258764d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-install/zipball/b591e11e531ce3b71f1e660d70d6d9383905e7f3",
-                    "reference": "b591e11e531ce3b71f1e660d70d6d9383905e7f3",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-install/zipball/d2cb2acd8e30827d35161b7b7b6642c24258764d",
+                    "reference": "d2cb2acd8e30827d35161b7b7b6642c24258764d",
                     "shasum": ""
                 },
                 "require": {
@@ -60,7 +60,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "teqneers/php-stream-wrapper-for-git": "^2.0"
                 },
-                "time": "2021-12-01T14:44:50+00:00",
+                "time": "2022-03-01T09:19:29+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

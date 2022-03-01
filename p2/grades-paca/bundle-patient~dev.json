@@ -79,12 +79,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-patient.git",
-                    "reference": "7861127eaa50260144f3af78a9a4c22b2a69a880"
+                    "reference": "0ed1136e31735d1ab0b63e414d61acd3d899828f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-patient/zipball/7861127eaa50260144f3af78a9a4c22b2a69a880",
-                    "reference": "7861127eaa50260144f3af78a9a4c22b2a69a880",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-patient/zipball/0ed1136e31735d1ab0b63e414d61acd3d899828f",
+                    "reference": "0ed1136e31735d1ab0b63e414d61acd3d899828f",
                     "shasum": ""
                 },
                 "require": {
@@ -92,7 +92,7 @@
                     "grades-paca/bundle-install": ">=1.0.5",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-11-10T14:56:33+00:00",
+                "time": "2022-03-01T09:56:11+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

@@ -5257,12 +5257,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "5b62793e2f1eddb6a1ad8ee3d00c66d318eb75f0"
+                    "reference": "f49189992e0f6883e1f241886bb2ae67e5bb5c70"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/5b62793e2f1eddb6a1ad8ee3d00c66d318eb75f0",
-                    "reference": "5b62793e2f1eddb6a1ad8ee3d00c66d318eb75f0",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/f49189992e0f6883e1f241886bb2ae67e5bb5c70",
+                    "reference": "f49189992e0f6883e1f241886bb2ae67e5bb5c70",
                     "shasum": ""
                 },
                 "require": {
@@ -5280,62 +5280,11 @@
                     "grades-paca/bundle-jquery-mask": "*",
                     "grades-paca/bundle-mail": "*",
                     "grades-paca/bundle-setting": "*",
-                    "lrotherfield/form": "^2.0",
                     "odolbeau/phone-number-bundle": "^3.0",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
-                    "tomnomnom/etherpad-lite-client": "^0.1.2"
+                    "shapecode/hidden-entity-type-bundle": "^5.1",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-25T06:56:47+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\FormBundle\\": ""
-                    }
-                },
-                "description": "Surcharge des formulaires"
-            },
-            {
-                "name": "grades-paca/bundle-form",
-                "version": "1.9.1",
-                "version_normalized": "1.9.1.0",
-                "target-dir": "Oru/Bundle/FormBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "57181ed3141215085731ade9d711e09fd917b2f9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/57181ed3141215085731ade9d711e09fd917b2f9",
-                    "reference": "57181ed3141215085731ade9d711e09fd917b2f9",
-                    "shasum": ""
-                },
-                "require": {
-                    "algo26-matthias/idna-convert": "^2.1",
-                    "egeloen/ordered-form-bundle": "^3.0",
-                    "excelwebzone/recaptcha-bundle": "^1.5",
-                    "exercise/htmlpurifier-bundle": "*",
-                    "ext-intl": "*",
-                    "ext-json": "*",
-                    "ext-openssl": "*",
-                    "friendsofsymfony/ckeditor-bundle": "^2.2",
-                    "grades-paca/bundle-denied-field": "*",
-                    "grades-paca/bundle-design": "*",
-                    "grades-paca/bundle-install": ">=1.0.5",
-                    "grades-paca/bundle-jquery-mask": "*",
-                    "grades-paca/bundle-mail": "*",
-                    "grades-paca/bundle-setting": "*",
-                    "lrotherfield/form": "^2.0",
-                    "odolbeau/phone-number-bundle": "^3.0",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
-                    "tomnomnom/etherpad-lite-client": "^0.1.2"
-                },
-                "time": "2021-11-10T14:44:58+00:00",
+                "time": "2022-03-01T09:11:17+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

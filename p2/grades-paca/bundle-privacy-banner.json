@@ -141,18 +141,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-privacy-banner.git",
-                    "reference": "d9327f2f45c31d9ed566d065b3b1e13eac1e9895"
+                    "reference": "67a286b08878be83459413c6eec0a234b2d10649"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-privacy-banner/zipball/d9327f2f45c31d9ed566d065b3b1e13eac1e9895",
-                    "reference": "d9327f2f45c31d9ed566d065b3b1e13eac1e9895",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-privacy-banner/zipball/67a286b08878be83459413c6eec0a234b2d10649",
+                    "reference": "67a286b08878be83459413c6eec0a234b2d10649",
                     "shasum": ""
                 },
                 "require": {
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-25T08:43:02+00:00",
+                "time": "2022-03-01T10:03:31+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

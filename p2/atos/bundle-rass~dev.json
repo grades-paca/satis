@@ -3,42 +3,6 @@
         "atos/bundle-rass": [
             {
                 "name": "atos/bundle-rass",
-                "version": "dev-feat/fetch-rass-json-files-without-parsing",
-                "version_normalized": "dev-feat/fetch-rass-json-files-without-parsing",
-                "target-dir": "ATOS/RassBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-rass.git",
-                    "reference": "b0050a4212a998cd1224856ed01575e0092918d1"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/b0050a4212a998cd1224856ed01575e0092918d1",
-                    "reference": "b0050a4212a998cd1224856ed01575e0092918d1",
-                    "shasum": ""
-                },
-                "require": {
-                    "grades-paca/bundle-setting": "*",
-                    "halaxa/json-machine": "0.6.*",
-                    "php": ">=7.0",
-                    "symfony/framework-bundle": "~3.4"
-                },
-                "time": "2022-01-31T09:03:56+00:00",
-                "type": "symfony-bundle",
-                "autoload": {
-                    "psr-0": {
-                        "ATOS\\RassBundle": ""
-                    }
-                },
-                "authors": [
-                    {
-                        "name": "ATOS"
-                    }
-                ],
-                "description": "Symfony ATOSRassBundle"
-            },
-            {
-                "name": "atos/bundle-rass",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "target-dir": "ATOS/RassBundle",

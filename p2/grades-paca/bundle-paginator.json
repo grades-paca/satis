@@ -499,12 +499,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-paginator.git",
-                    "reference": "56ac18eaa285cc85b509f51fd617f86676f15314"
+                    "reference": "80409c8884f20ee18de7d9b727236cca930399cb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/56ac18eaa285cc85b509f51fd617f86676f15314",
-                    "reference": "56ac18eaa285cc85b509f51fd617f86676f15314",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/80409c8884f20ee18de7d9b727236cca930399cb",
+                    "reference": "80409c8884f20ee18de7d9b727236cca930399cb",
                     "shasum": ""
                 },
                 "require": {
@@ -512,42 +512,7 @@
                     "knplabs/knp-paginator-bundle": "^5.6",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-25T08:15:24+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\PaginatorBundle\\": ""
-                    }
-                },
-                "description": "Paginator bundle"
-            },
-            {
-                "name": "grades-paca/bundle-paginator",
-                "version": "1.3.1",
-                "version_normalized": "1.3.1.0",
-                "target-dir": "Oru/Bundle/PaginatorBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-paginator.git",
-                    "reference": "f0d30de12e84a5681f4ed0d7c77206c9371a4db6"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/f0d30de12e84a5681f4ed0d7c77206c9371a4db6",
-                    "reference": "f0d30de12e84a5681f4ed0d7c77206c9371a4db6",
-                    "shasum": ""
-                },
-                "require": {
-                    "grades-paca/bundle-listing": "*",
-                    "knplabs/knp-paginator-bundle": "^5.6",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
-                },
-                "time": "2021-11-10T14:55:52+00:00",
+                "time": "2022-03-01T09:54:14+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

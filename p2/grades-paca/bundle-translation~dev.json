@@ -9,12 +9,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-translation.git",
-                    "reference": "1910408ab9e58f70b1f45c8dfa31a384717f17a4"
+                    "reference": "0ce2515586f7450d3795f99d0bf54cfb5a65ef4d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-translation/zipball/1910408ab9e58f70b1f45c8dfa31a384717f17a4",
-                    "reference": "1910408ab9e58f70b1f45c8dfa31a384717f17a4",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-translation/zipball/0ce2515586f7450d3795f99d0bf54cfb5a65ef4d",
+                    "reference": "0ce2515586f7450d3795f99d0bf54cfb5a65ef4d",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                     "grades-paca/bundle-test": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-11-10T15:07:08+00:00",
+                "time": "2022-03-01T11:03:46+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

@@ -394,90 +394,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-listing.git",
-                    "reference": "6493751f206b21341c91972857828f4f005cccff"
+                    "reference": "91acff3e948a9c078ef2fc92f7f8d38dd7f123f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/6493751f206b21341c91972857828f4f005cccff",
-                    "reference": "6493751f206b21341c91972857828f4f005cccff",
-                    "shasum": ""
-                },
-                "require": {
-                    "oru/design": "*",
-                    "oru/test": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0"
-                },
-                "time": "2019-02-06T09:36:12+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "3.0.x-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\ListingBundle\\": ""
-                    }
-                },
-                "description": "Results lists"
-            },
-            {
-                "name": "grades-paca/bundle-listing",
-                "version": "1.2.1",
-                "version_normalized": "1.2.1.0",
-                "target-dir": "Oru/Bundle/ListingBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-listing.git",
-                    "reference": "807e29fd769456a6ed556f8f69733bcc88796440"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/807e29fd769456a6ed556f8f69733bcc88796440",
-                    "reference": "807e29fd769456a6ed556f8f69733bcc88796440",
-                    "shasum": ""
-                },
-                "require": {
-                    "oru/design": "*",
-                    "oru/test": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0"
-                },
-                "time": "2019-08-02T10:47:52+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\ListingBundle\\": ""
-                    }
-                },
-                "description": "Results lists"
-            },
-            {
-                "name": "grades-paca/bundle-listing",
-                "version": "1.2.2",
-                "version_normalized": "1.2.2.0",
-                "target-dir": "Oru/Bundle/ListingBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-listing.git",
-                    "reference": "ee0ed79a3fae61269399332e6f54a8f15d8cd168"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/ee0ed79a3fae61269399332e6f54a8f15d8cd168",
-                    "reference": "ee0ed79a3fae61269399332e6f54a8f15d8cd168",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/91acff3e948a9c078ef2fc92f7f8d38dd7f123f9",
+                    "reference": "91acff3e948a9c078ef2fc92f7f8d38dd7f123f9",
                     "shasum": ""
                 },
                 "require": {
                     "grades-paca/bundle-design": "*",
                     "grades-paca/bundle-test": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2019-08-06T10:19:45+00:00",
+                "time": "2022-03-01T09:32:06+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

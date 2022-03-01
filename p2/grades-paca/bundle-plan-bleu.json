@@ -1013,12 +1013,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
-                    "reference": "cf3bc60cc3ff1f1e22f9510969f330e89d0caa59"
+                    "reference": "ffe13f43382c2515f68e062785332ddc5de8d4b3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/cf3bc60cc3ff1f1e22f9510969f330e89d0caa59",
-                    "reference": "cf3bc60cc3ff1f1e22f9510969f330e89d0caa59",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/ffe13f43382c2515f68e062785332ddc5de8d4b3",
+                    "reference": "ffe13f43382c2515f68e062785332ddc5de8d4b3",
                     "shasum": ""
                 },
                 "require": {
@@ -1028,44 +1028,7 @@
                     "grades-paca/bundle-setting": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-25T08:30:37+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\PlanBleuBundle\\": ""
-                    }
-                },
-                "description": "Plan bleu"
-            },
-            {
-                "name": "grades-paca/bundle-plan-bleu",
-                "version": "1.6.1",
-                "version_normalized": "1.6.1.0",
-                "target-dir": "Oru/Bundle/PlanBleuBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
-                    "reference": "bb52445967ce444f3613b37bcbfd0ed54cfed085"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/bb52445967ce444f3613b37bcbfd0ed54cfed085",
-                    "reference": "bb52445967ce444f3613b37bcbfd0ed54cfed085",
-                    "shasum": ""
-                },
-                "require": {
-                    "grades-paca/bundle-attachment": "*",
-                    "grades-paca/bundle-design": "*",
-                    "grades-paca/bundle-form": "*",
-                    "grades-paca/bundle-setting": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
-                },
-                "time": "2021-11-10T14:57:10+00:00",
+                "time": "2022-03-01T09:58:16+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

@@ -76,18 +76,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-web-client.git",
-                    "reference": "7f9dbda1a588b04b436fd61844b3f3ac07b7b163"
+                    "reference": "35c5b92493ff055bbf090801ed160f85e21b6972"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/7f9dbda1a588b04b436fd61844b3f3ac07b7b163",
-                    "reference": "7f9dbda1a588b04b436fd61844b3f3ac07b7b163",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-web-client/zipball/35c5b92493ff055bbf090801ed160f85e21b6972",
+                    "reference": "35c5b92493ff055bbf090801ed160f85e21b6972",
                     "shasum": ""
                 },
                 "require": {
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-25T12:14:56+00:00",
+                "time": "2022-03-01T11:10:52+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

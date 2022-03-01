@@ -173,52 +173,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-key-store.git",
-                    "reference": "796747b0c008b33a6a019b88b081a8f2b4a43a8a"
+                    "reference": "738b62e2919c4303b07c189dcd0feff9c94bf972"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-key-store/zipball/796747b0c008b33a6a019b88b081a8f2b4a43a8a",
-                    "reference": "796747b0c008b33a6a019b88b081a8f2b4a43a8a",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-key-store/zipball/738b62e2919c4303b07c189dcd0feff9c94bf972",
+                    "reference": "738b62e2919c4303b07c189dcd0feff9c94bf972",
                     "shasum": ""
                 },
                 "require": {
                     "stof/doctrine-extensions-bundle": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2021-08-25T07:19:11+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-4": {
-                        "Oru\\Bundle\\KeyStoreBundle\\": ""
-                    }
-                },
-                "description": "Gestion d'un magasin de certificats"
-            },
-            {
-                "name": "grades-paca/bundle-key-store",
-                "version": "1.2.1",
-                "version_normalized": "1.2.1.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-key-store.git",
-                    "reference": "171395bc06e676afb6c2f1e93bba4722cd629c2c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-key-store/zipball/171395bc06e676afb6c2f1e93bba4722cd629c2c",
-                    "reference": "171395bc06e676afb6c2f1e93bba4722cd629c2c",
-                    "shasum": ""
-                },
-                "require": {
-                    "stof/doctrine-extensions-bundle": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
-                },
-                "time": "2021-11-10T14:46:57+00:00",
+                "time": "2022-03-01T09:34:09+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
