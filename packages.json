@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$305a23fe5711e299807d4fbf9a43ddd309e4b08a.json": {
-            "sha1": "305a23fe5711e299807d4fbf9a43ddd309e4b08a"
+        "include/all$3bbcaae9321767b55c3fac46985a7895fa229b86.json": {
+            "sha1": "3bbcaae9321767b55c3fac46985a7895fa229b86"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -47,7 +47,6 @@
         "grades-paca/bundle-translation",
         "grades-paca/bundle-version",
         "grades-paca/bundle-web-client",
-        "grades-paca/ror",
-        "oru/design"
+        "grades-paca/ror"
     ]
 }
