@@ -424,12 +424,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "f49189992e0f6883e1f241886bb2ae67e5bb5c70"
+                    "reference": "230ad19a160f24610074c80275ec28c299d497fd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/f49189992e0f6883e1f241886bb2ae67e5bb5c70",
-                    "reference": "f49189992e0f6883e1f241886bb2ae67e5bb5c70",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/230ad19a160f24610074c80275ec28c299d497fd",
+                    "reference": "230ad19a160f24610074c80275ec28c299d497fd",
                     "shasum": ""
                 },
                 "require": {
