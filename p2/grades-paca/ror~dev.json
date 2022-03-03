@@ -8815,12 +8815,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "ec5a2e1a917237dfcc6304237723aeaa93c5b895"
+                    "reference": "f44819035ac9d646367092025966174e70211b94"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/ec5a2e1a917237dfcc6304237723aeaa93c5b895",
-                    "reference": "ec5a2e1a917237dfcc6304237723aeaa93c5b895",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/f44819035ac9d646367092025966174e70211b94",
+                    "reference": "f44819035ac9d646367092025966174e70211b94",
                     "shasum": ""
                 },
                 "require": {
@@ -8958,7 +8958,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-03-01T13:34:09+00:00",
+                "time": "2022-03-03T08:37:52+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -9063,12 +9063,12 @@
                     "pre-install-cmd": [
                         "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser",
-                        "php bin/requirements-checker"
+                        "php bin/requirements-checker &> /dev/null"
                     ],
                     "pre-update-cmd": [
                         "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser",
-                        "php bin/requirements-checker"
+                        "php bin/requirements-checker &> /dev/null"
                     ],
                     "post-install-cmd": [
                         "@ror-scripts"
@@ -9077,6 +9077,7 @@
                         "@ror-scripts"
                     ],
                     "ror-scripts": [
+                        "Oru\\Bundle\\RorAppBundle\\Composer\\ScriptHandler::initProject",
                         "php bin/console cache:clear",
                         "php bin/console oru:maintenance:lock --no-interaction",
                         "php bin/console fos:js-routing:dump --format=json --target=public/js/fos_js_routes.json",
@@ -10125,12 +10126,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "59a40af422a0a896cb9178bfaaad10ded2b3bb49"
+                    "reference": "610851cdb9fdb6ff9d4caeb9b8c8167071a27e2e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/59a40af422a0a896cb9178bfaaad10ded2b3bb49",
-                    "reference": "59a40af422a0a896cb9178bfaaad10ded2b3bb49",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/610851cdb9fdb6ff9d4caeb9b8c8167071a27e2e",
+                    "reference": "610851cdb9fdb6ff9d4caeb9b8c8167071a27e2e",
                     "shasum": ""
                 },
                 "require": {
@@ -10239,7 +10240,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2022-02-25T08:05:38+00:00",
+                "time": "2022-03-03T07:26:21+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
