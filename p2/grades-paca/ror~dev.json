@@ -8815,12 +8815,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "aeb457730d0d5e98d5a4a4d69093aa660160ab1d"
+                    "reference": "61e1cc775d9eb4d8947ec0990a0574e85615cca9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/aeb457730d0d5e98d5a4a4d69093aa660160ab1d",
-                    "reference": "aeb457730d0d5e98d5a4a4d69093aa660160ab1d",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/61e1cc775d9eb4d8947ec0990a0574e85615cca9",
+                    "reference": "61e1cc775d9eb4d8947ec0990a0574e85615cca9",
                     "shasum": ""
                 },
                 "require": {
@@ -8958,7 +8958,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-03-09T09:39:19+00:00",
+                "time": "2022-03-09T10:50:32+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -27051,12 +27051,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "0aadde4fe6566919f51e0fa5e55dd0f6a973d588"
+                    "reference": "b3cabdae0e13410e3c2c5805ccd840ba0bff6cd3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/0aadde4fe6566919f51e0fa5e55dd0f6a973d588",
-                    "reference": "0aadde4fe6566919f51e0fa5e55dd0f6a973d588",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/b3cabdae0e13410e3c2c5805ccd840ba0bff6cd3",
+                    "reference": "b3cabdae0e13410e3c2c5805ccd840ba0bff6cd3",
                     "shasum": ""
                 },
                 "require": {
@@ -27165,7 +27165,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2022-01-26T08:28:18+00:00",
+                "time": "2022-03-09T11:05:25+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
@@ -27226,8 +27226,6 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::clearProdCache",
                         "php app/console bazinga:js-translation:dump --format=js",
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::installProdAssetic",
-                        "php app/console oru:setting:purge --env=prod",
-                        "php app/console oru:setting:dump --env=dev",
                         "php app/console oru:pole:repair",
                         "php app/console oru:maintenance:unlock --no-interaction",
                         "php app/console oru:schedule:check",
@@ -27241,7 +27239,9 @@
                         "php app/console oru:wsexchange:extract -e prod",
                         "php app/console oru:ror:unite-idnat -e prod",
                         "php app/console ckeditor:install --clear=skip",
-                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate",
+                        "php app/console oru:setting:purge --env=prod",
+                        "php app/console oru:setting:dump --env=dev"
                     ]
                 },
                 "description": "Projet ROR v3"
