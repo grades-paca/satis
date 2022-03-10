@@ -83,12 +83,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-rest-soap.git",
-                    "reference": "663400efbfcfefa1742f5769c06b47fb5d7bd3ec"
+                    "reference": "9e4b66d12cc8e2d444cdfb4adae07d8a0cd59d3f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-rest-soap/zipball/663400efbfcfefa1742f5769c06b47fb5d7bd3ec",
-                    "reference": "663400efbfcfefa1742f5769c06b47fb5d7bd3ec",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rest-soap/zipball/9e4b66d12cc8e2d444cdfb4adae07d8a0cd59d3f",
+                    "reference": "9e4b66d12cc8e2d444cdfb4adae07d8a0cd59d3f",
                     "shasum": ""
                 },
                 "require": {
@@ -98,7 +98,7 @@
                     "nelmio/api-doc-bundle": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-03-10T10:25:12+00:00",
+                "time": "2022-03-10T10:52:09+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
