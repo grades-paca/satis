@@ -370,6 +370,43 @@
                     }
                 },
                 "description": "Intégration de Soap au bundle FOSRestBundle"
+            },
+            {
+                "name": "grades-paca/bundle-rest-soap",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
+                "target-dir": "Oru/Bundle/RestSoapBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-rest-soap.git",
+                    "reference": "bf6f5e87543563efa4becbe8b251cb76bd540963"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rest-soap/zipball/bf6f5e87543563efa4becbe8b251cb76bd540963",
+                    "reference": "bf6f5e87543563efa4becbe8b251cb76bd540963",
+                    "shasum": ""
+                },
+                "require": {
+                    "besimple/soap": "0.5.0",
+                    "friendsofsymfony/rest-bundle": "^3.0",
+                    "jms/serializer-bundle": "*",
+                    "nelmio/api-doc-bundle": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-03-10T09:16:53+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\RestSoapBundle\\": ""
+                    }
+                },
+                "description": "Intégration de Soap au bundle FOSRestBundle"
             }
         ]
     }
