@@ -219,18 +219,18 @@
             },
             {
                 "name": "grades-paca/bundle-design",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "214068.x-dev",
+                "version_normalized": "214068.9999999.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/DesignBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-design.git",
-                    "reference": "e32b681995b3636cc4a48c5669fd4fc811a10dc7"
+                    "reference": "f5f5c8b9d060a9bd866e1942263b60066b7e8bc7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/e32b681995b3636cc4a48c5669fd4fc811a10dc7",
-                    "reference": "e32b681995b3636cc4a48c5669fd4fc811a10dc7",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/f5f5c8b9d060a9bd866e1942263b60066b7e8bc7",
+                    "reference": "f5f5c8b9d060a9bd866e1942263b60066b7e8bc7",
                     "shasum": ""
                 },
                 "require": {
@@ -244,7 +244,48 @@
                     "suncat/mobile-detect-bundle": "^1.1",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-03-09T13:42:43+00:00",
+                "time": "2022-03-21T09:10:23+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle"
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "c50dfd63d6ecc416275ff0e7734821a4e38a70e9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/c50dfd63d6ecc416275ff0e7734821a4e38a70e9",
+                    "reference": "c50dfd63d6ecc416275ff0e7734821a4e38a70e9",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/bootstrap": "^3.3",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.7",
+                    "grades-paca/bundle-form": ">=1.3.1",
+                    "grades-paca/bundle-install": ">=1.0.3",
+                    "grades-paca/bundle-privacy-banner": "*",
+                    "suncat/mobile-detect-bundle": "^1.1",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-03-21T09:12:47+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
