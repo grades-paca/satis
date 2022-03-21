@@ -8815,12 +8815,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "e6da0b9f3d1a81e9dc6f4e203f08240ade13bbf0"
+                    "reference": "2c98fd6a8009068601d9fbb37c99f19a163ed6e9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/e6da0b9f3d1a81e9dc6f4e203f08240ade13bbf0",
-                    "reference": "e6da0b9f3d1a81e9dc6f4e203f08240ade13bbf0",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/2c98fd6a8009068601d9fbb37c99f19a163ed6e9",
+                    "reference": "2c98fd6a8009068601d9fbb37c99f19a163ed6e9",
                     "shasum": ""
                 },
                 "require": {
@@ -8900,6 +8900,7 @@
                     "moment/moment": "^2.0",
                     "nelmio/api-doc-bundle": "^2.0",
                     "php": "^7.4.0",
+                    "phpdocumentor/reflection-docblock": "^5.3",
                     "phpoffice/phpspreadsheet": "^1.20",
                     "romanpitak/php-rest-client": "~1.2.2",
                     "sabre/vobject": "^4.3",
@@ -8958,7 +8959,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-03-18T10:12:58+00:00",
+                "time": "2022-03-21T11:28:35+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
