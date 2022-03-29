@@ -2712,6 +2712,51 @@
                     "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.2",
                     "issues": "https://github.com/grades-paca/bundle-carto/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-carto",
+                "version": "1.7.3",
+                "version_normalized": "1.7.3.0",
+                "target-dir": "Oru/Bundle/CartoBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-carto.git",
+                    "reference": "c46a44563cf41b4ff11f53929302358756630f1c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/c46a44563cf41b4ff11f53929302358756630f1c",
+                    "reference": "c46a44563cf41b4ff11f53929302358756630f1c",
+                    "shasum": ""
+                },
+                "require": {
+                    "creof/doctrine2-spatial": "^1.2",
+                    "ext-gd": "*",
+                    "ext-mapscript": "*",
+                    "ext-pgsql": "*",
+                    "grades-paca/bundle-design": "^1.3",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-web-client": ">=1.1.7",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-03-29T10:38:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\CartoBundle\\": ""
+                    }
+                },
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.3",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             }
         ]
     }
