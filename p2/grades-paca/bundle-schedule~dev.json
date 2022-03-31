@@ -237,6 +237,46 @@
             },
             {
                 "name": "grades-paca/bundle-schedule",
+                "version": "dev-1.6.3.victor",
+                "version_normalized": "dev-1.6.3.victor",
+                "target-dir": "Oru/Bundle/ScheduleBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-schedule.git",
+                    "reference": "4a42b204ed8c647896d2da1c5b6eaf505d5cd6dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/4a42b204ed8c647896d2da1c5b6eaf505d5cd6dc",
+                    "reference": "4a42b204ed8c647896d2da1c5b6eaf505d5cd6dc",
+                    "shasum": ""
+                },
+                "require": {
+                    "dragonmantank/cron-expression": "^3.0",
+                    "grades-paca/bundle-app": ">=1.0.9",
+                    "grades-paca/bundle-listing": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-03-29T12:00:08+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ScheduleBundle\\": ""
+                    }
+                },
+                "description": "Planificateur de taches ",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-schedule/tree/1.6.3.victor",
+                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-schedule",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "target-dir": "Oru/Bundle/ScheduleBundle",
