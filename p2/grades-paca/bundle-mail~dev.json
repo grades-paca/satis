@@ -177,12 +177,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-mail.git",
-                    "reference": "554e9302988e2e44d610a021bc2afbfe9bb8a3fe"
+                    "reference": "829baea41a34ba6830473c3a78e0ba1f3d1b3d44"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/554e9302988e2e44d610a021bc2afbfe9bb8a3fe",
-                    "reference": "554e9302988e2e44d610a021bc2afbfe9bb8a3fe",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/829baea41a34ba6830473c3a78e0ba1f3d1b3d44",
+                    "reference": "829baea41a34ba6830473c3a78e0ba1f3d1b3d44",
                     "shasum": ""
                 },
                 "require": {
@@ -193,7 +193,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "vkalmuk/swiftmailerdbbundle": "dev-master"
                 },
-                "time": "2022-03-01T09:49:09+00:00",
+                "time": "2022-04-04T13:34:57+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -208,7 +208,7 @@
                 },
                 "description": "Gestion des mails",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.5.0",
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.6.0",
                     "issues": "https://github.com/grades-paca/bundle-mail/issues"
                 }
             }
