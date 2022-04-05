@@ -129,6 +129,48 @@
             },
             {
                 "name": "grades-paca/bundle-mail",
+                "version": "1.5.x-dev",
+                "version_normalized": "1.5.9999999.9999999-dev",
+                "target-dir": "Oru/Bundle/MailBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-mail.git",
+                    "reference": "23190c48483908240207abdc7e3544390cbac3c1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/23190c48483908240207abdc7e3544390cbac3c1",
+                    "reference": "23190c48483908240207abdc7e3544390cbac3c1",
+                    "shasum": ""
+                },
+                "require": {
+                    "algo26-matthias/idna-convert": "^2.1",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+                    "vkalmuk/swiftmailerdbbundle": "dev-master"
+                },
+                "time": "2022-04-05T06:44:03+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\MailBundle\\": ""
+                    }
+                },
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.5.1",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-mail",
                 "version": "22.1.1.x-dev",
                 "version_normalized": "22.1.1.9999999-dev",
                 "target-dir": "Oru/Bundle/MailBundle",
@@ -171,18 +213,18 @@
             },
             {
                 "name": "grades-paca/bundle-mail",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "232792.x-dev",
+                "version_normalized": "232792.9999999.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/MailBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-mail.git",
-                    "reference": "829baea41a34ba6830473c3a78e0ba1f3d1b3d44"
+                    "reference": "9b321ef7fdbbcab76476a5e59328e76bdc9a4ed0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/829baea41a34ba6830473c3a78e0ba1f3d1b3d44",
-                    "reference": "829baea41a34ba6830473c3a78e0ba1f3d1b3d44",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/9b321ef7fdbbcab76476a5e59328e76bdc9a4ed0",
+                    "reference": "9b321ef7fdbbcab76476a5e59328e76bdc9a4ed0",
                     "shasum": ""
                 },
                 "require": {
@@ -193,7 +235,49 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "vkalmuk/swiftmailerdbbundle": "dev-master"
                 },
-                "time": "2022-04-04T13:34:57+00:00",
+                "time": "2022-04-05T06:28:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\MailBundle\\": ""
+                    }
+                },
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/232792",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-mail",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "target-dir": "Oru/Bundle/MailBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-mail.git",
+                    "reference": "58f615eb18e6047fa6aa6240b7712bba0b4d9548"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/58f615eb18e6047fa6aa6240b7712bba0b4d9548",
+                    "reference": "58f615eb18e6047fa6aa6240b7712bba0b4d9548",
+                    "shasum": ""
+                },
+                "require": {
+                    "algo26-matthias/idna-convert": "^2.1",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+                    "vkalmuk/swiftmailerdbbundle": "dev-master"
+                },
+                "time": "2022-04-05T06:49:38+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -208,7 +292,7 @@
                 },
                 "description": "Gestion des mails",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.6.0",
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.6.1",
                     "issues": "https://github.com/grades-paca/bundle-mail/issues"
                 }
             }
