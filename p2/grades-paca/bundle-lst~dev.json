@@ -48,19 +48,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-lst.git",
-                    "reference": "68c1a0b4457c3ab060e8c7d4aedc62f3ea088f1d"
+                    "reference": "d8be4e399d02516d15dfb33a63fd8fb96c311460"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/68c1a0b4457c3ab060e8c7d4aedc62f3ea088f1d",
-                    "reference": "68c1a0b4457c3ab060e8c7d4aedc62f3ea088f1d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/d8be4e399d02516d15dfb33a63fd8fb96c311460",
+                    "reference": "d8be4e399d02516d15dfb33a63fd8fb96c311460",
                     "shasum": ""
                 },
                 "require": {
                     "grades-paca/bundle-form": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-03-23T15:31:25+00:00",
+                "time": "2022-04-11T08:56:09+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -75,7 +75,7 @@
                 },
                 "description": "Bundle permettant la gestion des listes de choix",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.3.1",
+                    "source": "https://github.com/grades-paca/bundle-lst/tree/1.3.2",
                     "issues": "https://github.com/grades-paca/bundle-lst/issues"
                 }
             }
