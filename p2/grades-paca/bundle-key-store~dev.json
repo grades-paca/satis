@@ -33,11 +33,7 @@
                         "Oru\\Bundle\\KeyStoreBundle\\": ""
                     }
                 },
-                "description": "Gestion d'un magasin de certificats",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-key-store/tree/1.2.0",
-                    "issues": "https://github.com/grades-paca/bundle-key-store/issues"
-                }
+                "description": "Gestion d'un magasin de certificats"
             }
         ]
     }

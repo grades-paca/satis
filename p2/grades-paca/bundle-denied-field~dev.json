@@ -32,11 +32,7 @@
                         "Oru\\Bundle\\DeniedFieldBundle\\": ""
                     }
                 },
-                "description": "Gestion des droits sur les propriétés des entités",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-denied-field/tree/1.2.0",
-                    "issues": "https://github.com/grades-paca/bundle-denied-field/issues"
-                }
+                "description": "Gestion des droits sur les propriétés des entités"
             }
         ]
     }
