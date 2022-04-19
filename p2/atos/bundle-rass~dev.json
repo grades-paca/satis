@@ -36,7 +36,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOSRassBundle"
+                "description": "Symfony ATOSRassBundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-rass/tree/4.3.1",
+                    "issues": "https://github.com/grades-paca/bundle-rass/issues"
+                }
             }
         ]
     }
