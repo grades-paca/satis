@@ -3,27 +3,69 @@
         "grades-paca/bundle-sms": [
             {
                 "name": "grades-paca/bundle-sms",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-filtre_truncate_SF4",
+                "version_normalized": "dev-filtre_truncate_SF4",
                 "target-dir": "Oru/Bundle/SmsBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-sms.git",
-                    "reference": "f19743ed0777e3472823dea222f91e3447f4f835"
+                    "reference": "70212825345c88bd464257ec706ee19e4f80162f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-sms/zipball/f19743ed0777e3472823dea222f91e3447f4f835",
-                    "reference": "f19743ed0777e3472823dea222f91e3447f4f835",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-sms/zipball/70212825345c88bd464257ec706ee19e4f80162f",
+                    "reference": "70212825345c88bd464257ec706ee19e4f80162f",
                     "shasum": ""
                 },
                 "require": {
                     "grades-paca/bundle-install": "*",
                     "grades-paca/bundle-listing": "*",
                     "grades-paca/bundle-setting": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+                    "twig/string-extra": "^3.3"
                 },
-                "time": "2022-03-01T10:46:21+00:00",
+                "time": "2022-04-20T09:50:09+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SmsBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des SMS",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-sms/tree/filtre_truncate_SF4",
+                    "issues": "https://github.com/grades-paca/bundle-sms/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-sms",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "target-dir": "Oru/Bundle/SmsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-sms.git",
+                    "reference": "a6e979b5530adff89c0389a2ab081bc63093d17c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-sms/zipball/a6e979b5530adff89c0389a2ab081bc63093d17c",
+                    "reference": "a6e979b5530adff89c0389a2ab081bc63093d17c",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-install": "*",
+                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+                    "twig/string-extra": "^3.3"
+                },
+                "time": "2022-04-20T10:04:45+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -36,7 +78,11 @@
                         "Oru\\Bundle\\SmsBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des SMS"
+                "description": "Bundle de gestion des SMS",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-sms/tree/1.3.2",
+                    "issues": "https://github.com/grades-paca/bundle-sms/issues"
+                }
             }
         ]
     }

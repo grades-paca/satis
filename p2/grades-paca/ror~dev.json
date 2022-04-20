@@ -121,7 +121,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2020-01-28T10:24:50+00:00",
+                "time": "2020-01-28T10:27:07+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -198,7 +198,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/135112",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -397,7 +401,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/135136",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -596,7 +604,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/139532",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -718,7 +730,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2019-10-15T16:14:19+00:00",
+                "time": "2019-10-15T16:20:31+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -795,7 +807,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/139674",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -994,7 +1010,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/147285",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -1193,7 +1213,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/148906",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -1392,7 +1416,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/148906",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -1514,7 +1542,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2020-02-21T07:36:09+00:00",
+                "time": "2020-02-21T08:00:07+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -1591,7 +1619,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/149209",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -1792,7 +1824,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/152229",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -1991,7 +2027,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/152394",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -2113,7 +2153,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2020-03-24T14:06:33+00:00",
+                "time": "2020-03-24T14:24:53+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -2190,7 +2230,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/153198",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -2313,7 +2357,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2020-08-18T06:39:18+00:00",
+                "time": "2020-08-18T07:27:01+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -2391,7 +2435,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/157225",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -2513,7 +2561,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2020-05-27T12:49:33+00:00",
+                "time": "2020-05-28T11:13:39+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -2591,7 +2639,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/159123",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -2714,7 +2766,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2021-04-23T07:57:01+00:00",
+                "time": "2021-07-05T09:48:00+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -2792,7 +2844,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/160096",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -2994,7 +3050,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/161164",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -3116,7 +3176,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2020-06-30T06:33:46+00:00",
+                "time": "2020-07-01T07:40:24+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -3194,7 +3254,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/162423",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -3502,7 +3566,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/174642",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -3702,7 +3770,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/182979",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -3903,7 +3975,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/185451",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -4104,7 +4180,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/207415",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -4305,7 +4385,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/208161",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -4428,7 +4512,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-09-06T09:20:50+00:00",
+                "time": "2021-09-06T09:23:34+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -4506,7 +4590,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/211009",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -4707,7 +4795,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/211528",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -5015,7 +5107,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/214068_beta2",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -5216,7 +5312,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/215333",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -5417,7 +5517,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/215336",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -5570,7 +5674,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-03-15T08:59:32+00:00",
+                "time": "2022-03-24T09:16:51+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -5725,7 +5829,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/215450",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -5878,7 +5986,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-02-14T10:14:09+00:00",
+                "time": "2022-03-24T08:39:33+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -6033,7 +6141,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/217380",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -6249,7 +6361,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/22.00.04",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -6258,12 +6374,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "9c1464c54096fa811b0195336dfd6bf1e38201af"
+                    "reference": "9bd688a083e7ffc3fdadb71c819177a2208379cf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/9c1464c54096fa811b0195336dfd6bf1e38201af",
-                    "reference": "9c1464c54096fa811b0195336dfd6bf1e38201af",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/9bd688a083e7ffc3fdadb71c819177a2208379cf",
+                    "reference": "9bd688a083e7ffc3fdadb71c819177a2208379cf",
                     "shasum": ""
                 },
                 "require": {
@@ -6324,7 +6440,7 @@
                     "grades-paca/bundle-privacy-banner": "^1.2",
                     "grades-paca/bundle-project-humhub": "^1.3",
                     "grades-paca/bundle-rest-soap": "^1.3",
-                    "grades-paca/bundle-schedule": "^1.6",
+                    "grades-paca/bundle-schedule": "^1.7",
                     "grades-paca/bundle-setting": "^1.3",
                     "grades-paca/bundle-sms": "^1.3",
                     "grades-paca/bundle-stats": "^1.2",
@@ -6402,7 +6518,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-04-19T09:12:13+00:00",
+                "time": "2022-04-20T13:22:31+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -6557,7 +6673,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/22.1",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -6758,7 +6878,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/224157",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -6959,7 +7083,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/226851",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -7160,7 +7288,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/227203",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -7468,7 +7600,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/227940",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -7669,7 +7805,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/229016",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -7792,7 +7932,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2022-03-18T09:52:25+00:00",
+                "time": "2022-03-18T17:02:27+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -7870,7 +8010,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/229184",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -8071,7 +8215,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/229200",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -8379,7 +8527,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/229251",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -8388,12 +8540,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "cfe67e40a7fe5f90f611c091d2817a365447954c"
+                    "reference": "d071a31210079b2daea6a4d7bc0483e103340a60"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/cfe67e40a7fe5f90f611c091d2817a365447954c",
-                    "reference": "cfe67e40a7fe5f90f611c091d2817a365447954c",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/d071a31210079b2daea6a4d7bc0483e103340a60",
+                    "reference": "d071a31210079b2daea6a4d7bc0483e103340a60",
                     "shasum": ""
                 },
                 "require": {
@@ -8532,7 +8684,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-03-29T10:04:01+00:00",
+                "time": "2022-04-20T12:22:33+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -8687,7 +8839,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/229253",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -8888,7 +9044,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/229606",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -9196,7 +9356,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/229658",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -9504,7 +9668,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/230804",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -9705,7 +9873,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/230855",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -9921,7 +10093,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/231453",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -10229,7 +10405,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/231951",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -10537,7 +10717,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/232792",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -10845,7 +11029,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/233097",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -11153,21 +11341,25 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/233159",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
-                "version": "233235.x-dev",
-                "version_normalized": "233235.9999999.9999999.9999999-dev",
+                "version": "233186.x-dev",
+                "version_normalized": "233186.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "a04dbe7aec1df7cb8639116846fd038ab4f83ca7"
+                    "reference": "f067483be47a4f7072a658321be892d57be21f17"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/a04dbe7aec1df7cb8639116846fd038ab4f83ca7",
-                    "reference": "a04dbe7aec1df7cb8639116846fd038ab4f83ca7",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/f067483be47a4f7072a658321be892d57be21f17",
+                    "reference": "f067483be47a4f7072a658321be892d57be21f17",
                     "shasum": ""
                 },
                 "require": {
@@ -11204,7 +11396,7 @@
                     "grades-paca/bundle-address": "^1.9",
                     "grades-paca/bundle-alert": "^1.3",
                     "grades-paca/bundle-app": "^1.3",
-                    "grades-paca/bundle-attachment": "^1.5",
+                    "grades-paca/bundle-attachment": "^1.5.2",
                     "grades-paca/bundle-box": "^1.4",
                     "grades-paca/bundle-carto": "^1.7",
                     "grades-paca/bundle-denied-field": "^1.2",
@@ -11306,7 +11498,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-04-08T10:08:27+00:00",
+                "time": "2022-04-20T13:06:12+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -11461,7 +11653,323 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/233186",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "233235.x-dev",
+                "version_normalized": "233235.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "a04dbe7aec1df7cb8639116846fd038ab4f83ca7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/a04dbe7aec1df7cb8639116846fd038ab4f83ca7",
+                    "reference": "a04dbe7aec1df7cb8639116846fd038ab4f83ca7",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "dev-feature/sf5-compat",
+                    "babdev/pagerfanta-bundle": "^2.0",
+                    "beberlei/doctrineextensions": "^1.3",
+                    "course-hero/wse-php": "^2.0",
+                    "debril/rss-atom-bundle": "^5.1",
+                    "doctrine/doctrine-bundle": "^2.5",
+                    "doctrine/doctrine-fixtures-bundle": "^3.4",
+                    "doctrine/doctrine-migrations-bundle": "^2.2",
+                    "doctrine/migrations": "^2.2",
+                    "elasticsearch/elasticsearch": "^6.7",
+                    "ext-ctype": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "fpn/tag-bundle": "dev-master",
+                    "friendsofsymfony/elastica-bundle": "^5.2",
+                    "friendsofsymfony/oauth-server-bundle": "dev-master",
+                    "friendsofsymfony/user-bundle": "^2.2",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.9",
+                    "grades-paca/bundle-alert": "^1.3",
+                    "grades-paca/bundle-app": "^1.3",
+                    "grades-paca/bundle-attachment": "^1.5",
+                    "grades-paca/bundle-box": "^1.4",
+                    "grades-paca/bundle-carto": "^1.7",
+                    "grades-paca/bundle-denied-field": "^1.2",
+                    "grades-paca/bundle-design": "^1.7",
+                    "grades-paca/bundle-error-logger": "^1.5",
+                    "grades-paca/bundle-esms": "^1.4",
+                    "grades-paca/bundle-form": "^1.9",
+                    "grades-paca/bundle-form-incremental": "^1.2",
+                    "grades-paca/bundle-install": "^1.3",
+                    "grades-paca/bundle-jaspersoft": "^1.3",
+                    "grades-paca/bundle-jquery-mask": "^1.2",
+                    "grades-paca/bundle-key-store": "^1.2",
+                    "grades-paca/bundle-listing": "^1.3",
+                    "grades-paca/bundle-log": "^1.3",
+                    "grades-paca/bundle-lst": "^1.3",
+                    "grades-paca/bundle-mail": "1.5.*",
+                    "grades-paca/bundle-otp": "^1.3",
+                    "grades-paca/bundle-paginator": "^1.3",
+                    "grades-paca/bundle-patient": "^1.5",
+                    "grades-paca/bundle-plan-bleu": "^1.6",
+                    "grades-paca/bundle-privacy-banner": "^1.2",
+                    "grades-paca/bundle-project-humhub": "^1.3",
+                    "grades-paca/bundle-rest-soap": "^1.3",
+                    "grades-paca/bundle-schedule": "^1.6",
+                    "grades-paca/bundle-setting": "^1.3",
+                    "grades-paca/bundle-sms": "^1.3",
+                    "grades-paca/bundle-stats": "^1.2",
+                    "grades-paca/bundle-tag": "^1.3",
+                    "grades-paca/bundle-task": "^1.3",
+                    "grades-paca/bundle-test": "^1.3",
+                    "grades-paca/bundle-translation": "^1.4",
+                    "grades-paca/bundle-version": "^2.6",
+                    "grades-paca/bundle-web-client": "^1.3",
+                    "incenteev/composer-parameter-handler": "^2.1",
+                    "jasig/phpcas": "^1.4",
+                    "jenssegers/agent": "^2.6",
+                    "jms/serializer": "^3.0",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "marcusschwarz/lesserphp": "^0.6",
+                    "moment/moment": "^2.0",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": "^7.4.0",
+                    "phpdocumentor/reflection-docblock": "^5.3",
+                    "phpoffice/phpspreadsheet": "^1.20",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "^4.3",
+                    "sensio/framework-extra-bundle": "^6.2",
+                    "simplepie/simplepie": "^1.5",
+                    "sonata-project/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.6",
+                    "symfony/apache-pack": "^1.0",
+                    "symfony/asset": "4.4.*",
+                    "symfony/console": "^4.4",
+                    "symfony/dotenv": "^4.4",
+                    "symfony/flex": "^1.3",
+                    "symfony/form": "^4.4",
+                    "symfony/framework-bundle": "^4.4",
+                    "symfony/ldap": "4.4.*",
+                    "symfony/mailer": "^4.4",
+                    "symfony/monolog-bundle": "^3.7",
+                    "symfony/requirements-checker": "^2.0",
+                    "symfony/security-acl": "^3.2",
+                    "symfony/security-bundle": "^4.4",
+                    "symfony/swiftmailer-bundle": "^3.3",
+                    "symfony/templating": "4.4.*",
+                    "symfony/translation": "^4.4",
+                    "symfony/twig-bundle": "^4.4",
+                    "symfony/validator": "^4.4",
+                    "symfony/webpack-encore-bundle": "^1.13",
+                    "symfony/yaml": "^4.0",
+                    "synaq/zasa-bundle": "^5.4",
+                    "twig/extensions": "^1.5",
+                    "twig/extra-bundle": "^2.12|^3.0",
+                    "twig/twig": "^2.12|^3.0",
+                    "willdurand/js-translation-bundle": "^5.0",
+                    "zbateson/mail-mime-parser": "^0.2"
+                },
+                "conflict": {
+                    "symfony/symfony": "*"
+                },
+                "replace": {
+                    "paragonie/random_compat": "2.*",
+                    "symfony/polyfill-ctype": "*",
+                    "symfony/polyfill-iconv": "*",
+                    "symfony/polyfill-php56": "*",
+                    "symfony/polyfill-php70": "*",
+                    "symfony/polyfill-php71": "*"
+                },
+                "require-dev": {
+                    "nikic/php-parser": "^4.0",
+                    "php-parallel-lint/php-parallel-lint": "^0.9.2",
+                    "phpro/grumphp": "^1.5",
+                    "phpstan/phpstan": "^0.12",
+                    "phpunit/phpunit": "^9.5",
+                    "symfony/browser-kit": "4.4.*",
+                    "symfony/css-selector": "4.4.*",
+                    "symfony/maker-bundle": "^1.36",
+                    "symfony/phpunit-bridge": "^6.0",
+                    "symfony/stopwatch": "^4.4",
+                    "symfony/web-profiler-bundle": "^4.4"
+                },
+                "time": "2022-04-08T10:25:20+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "public",
+                    "symfony-assets-install": "symlink",
+                    "symfony": {
+                        "allow-contrib": "true",
+                        "require": "4.4.*"
+                    },
+                    "installer-types": [
+                        "component"
+                    ],
+                    "installer-paths": {
+                        "public/components/jquery-ui/": [
+                            "components/jqueryui"
+                        ],
+                        "public/components/angularjs/": [
+                            "components/angular.js"
+                        ],
+                        "public/components/{$name}/": [
+                            "type:component"
+                        ]
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "IeSS\\": "src/IeSS",
+                        "Oru\\": "src/Oru",
+                        "CharterBundle\\": "src/IeSS/CharterBundle",
+                        "OpenIDBundle\\": "src/IeSS/OpenIDBundle",
+                        "CGUBundle\\": "src/IeSS/CGUBundle",
+                        "AppLogBundle\\": "src/Oru/Bundle/AppLogBundle",
+                        "AttachmentCredentialBundle\\": "src/Oru/Bundle/AttachmentCredentialBundle",
+                        "BoiteSynchroBundle\\": "src/Oru/Bundle/BoiteSynchroBundle",
+                        "BSExportLitsDisposBundle\\": "src/Oru/Bundle/BSExportLitsDisposBundle",
+                        "CapaciteBundle\\": "src/Oru/Bundle/CapaciteBundle",
+                        "CapaciteClientBundle\\": "src/Oru/Bundle/CapaciteClientBundle",
+                        "CasBundle\\": "src/Oru/Bundle/CasBundle",
+                        "CepiDCBundle\\": "src/Oru/Bundle/CepiDCBundle",
+                        "CMPBundle\\": "src/Oru/Bundle/CMPBundle",
+                        "CoreExportBundle\\": "src/Oru/Bundle/CoreExportBundle",
+                        "CoreImportBundle\\": "src/Oru/Bundle/CoreImportBundle",
+                        "CpsBundle\\": "src/Oru/Bundle/CpsBundle",
+                        "CRUQPCBundle\\": "src/Oru/Bundle/CRUQPCBundle",
+                        "ElasticaBundle\\": "src/Oru/Bundle/ElasticaBundle",
+                        "ExcelBundle\\": "src/Oru/Bundle/ExcelBundle",
+                        "FileBundle\\": "src/Oru/Bundle/FileBundle",
+                        "FluxEntrantsBundle\\": "src/Oru/Bundle/FluxEntrantsBundle",
+                        "FormationBundle\\": "src/Oru/Bundle/FormationBundle",
+                        "FormExportBundle\\": "src/Oru/Bundle/FormExportBundle",
+                        "GedmoBundle\\": "src/Oru/Bundle/GedmoBundle",
+                        "ListeDiffusionBundle\\": "src/Oru/Bundle/ListeDiffusionBundle",
+                        "LitsDisposBundle\\": "src/Oru/Bundle/LitsDisposBundle",
+                        "MenuBundle\\": "src/Oru/Bundle/MenuBundle",
+                        "MetaBundle\\": "src/Oru/Bundle/MetaBundle",
+                        "NewsBundle\\": "src/Oru/Bundle/NewsBundle",
+                        "OAuthBundle\\": "src/Oru/Bundle/OAuthBundle",
+                        "PdsEsBundle\\": "src/Oru/Bundle/PdsEsBundle",
+                        "PlanBlancBundle\\": "src/Oru/Bundle/PlanBlancBundle",
+                        "ProfessionnelBundle\\": "src/Oru/Bundle/ProfessionnelBundle",
+                        "ReactBundle\\": "src/Oru/Bundle/ReactBundle",
+                        "RedmineBundle\\": "src/Oru/Bundle/RedmineBundle",
+                        "ReferentielExportBundle\\": "src/Oru/Bundle/ReferentielExportBundle",
+                        "RepresentantUsagerBundle\\": "src/Oru/Bundle/RepresentantUsagerBundle",
+                        "RequestBundle\\": "src/Oru/Bundle/RequestBundle",
+                        "RorAppBundle\\": "src/Oru/Bundle/RorAppBundle",
+                        "RorBundle\\": "src/Oru/Bundle/RorBundle",
+                        "RorCredentialsBundle\\": "src/Oru/Bundle/RorCredentialsBundle",
+                        "RorDesignBundle\\": "src/Oru/Bundle/RorDesignBundle",
+                        "RorExportBundle\\": "src/Oru/Bundle/RorExportBundle",
+                        "RorImportBundle\\": "src/Oru/Bundle/RorImportBundle",
+                        "RorLogBundle\\": "src/Oru/Bundle/RorLogBundle",
+                        "RorMailBundle\\": "src/Oru/Bundle/RorMailBundle",
+                        "RorOtpBundle\\": "src/Oru/Bundle/RorOtpBundle",
+                        "RorTagBundle\\": "src/Oru/Bundle/RorTagBundle",
+                        "RorTranscoBundle\\": "src/Oru/Bundle/RorTranscoBundle",
+                        "SearchEngineBundle\\": "src/Oru/Bundle/SearchEngineBundle",
+                        "SecurityBundle\\": "src/Oru/Bundle/SecurityBundle",
+                        "SrvBundle\\": "src/Oru/Bundle/SrvBundle",
+                        "SynchroBundle\\": "src/Oru/Bundle/SynchroBundle",
+                        "SynchroLdapBundle\\": "src/Oru/Bundle/SynchroLdapBundle",
+                        "TelemedecineBundle\\": "src/Oru/Bundle/TelemedecineBundle",
+                        "TensionBundle\\": "src/Oru/Bundle/TensionBundle",
+                        "TensionPrestoEntitiesBundle\\": "src/Oru/Bundle/TensionPrestoEntitiesBundle",
+                        "ValidationBundle\\": "src/Oru/Bundle/ValidationBundle",
+                        "WsExchangeBundle\\": "src/Oru/Bundle/WsExchangeBundle",
+                        "WsExchangeToolBundle\\": "src/Oru/Bundle/WsExchangeToolBundle",
+                        "WsExchangeV2Bundle\\": "src/Oru/Bundle/WsExchangeV2Bundle",
+                        "WsIamBundle\\": "src/Oru/Bundle/WsIamBundle",
+                        "ZimbraBundle\\": "src/Oru/Bundle/ZimbraBundle",
+                        "App\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "App\\Tests\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser",
+                        "php bin/requirements-checker &> /dev/null"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser",
+                        "php bin/requirements-checker &> /dev/null"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\RorAppBundle\\Composer\\ScriptHandler::initProject",
+                        "php bin/console cache:clear --env=dev",
+                        "php bin/console oru:maintenance:lock --no-interaction",
+                        "php bin/console fos:js-routing:dump --format=json --target=public/js/fos_js_routes.json",
+                        "php bin/console assets:install --symlink",
+                        "yarn install",
+                        "yarn build",
+                        "yarn build-capacites",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "php bin/console cache:clear --env=prod",
+                        "php bin/console bazinga:js-translation:dump --format=js public",
+                        "php bin/console oru:pole:repair",
+                        "php bin/console oru:maintenance:unlock --no-interaction",
+                        "php bin/console oru:schedule:check",
+                        "php bin/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php bin/console oru:credentials:collection-warm-cache --env=prod",
+                        "php bin/console oru:import:init",
+                        "php bin/console oru:page:update",
+                        "php bin/console oru:fieldvalidity_description:update",
+                        "php bin/console oru:meta-fields:update",
+                        "php bin/console oru:validation:update",
+                        "php bin/console oru:wsexchange:extract -e prod",
+                        "php bin/console oru:wsexchangev2:extract -e prod",
+                        "php bin/console oru:ror:unite-idnat -e prod",
+                        "php bin/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate",
+                        "php bin/console oru:setting:purge --env=prod",
+                        "php bin/console oru:setting:dump --env=dev"
+                    ],
+                    "auto-scripts": {
+                        "ckeditor:install": "symfony-cmd",
+                        "requirements-checker": "script"
+                    }
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/233235",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -11769,7 +12277,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/233324",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -11922,7 +12434,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-04-11T09:20:01+00:00",
+                "time": "2022-04-11T09:21:00+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -12077,7 +12589,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/233325",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -12385,7 +12901,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/233328",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -12693,7 +13213,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/233434",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -13001,7 +13525,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/233464",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -13309,7 +13837,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/233521",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -13617,7 +14149,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/233534",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -13762,7 +14298,11 @@
                         "php app/console oru:import:init"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.0",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -13919,7 +14459,11 @@
                         "php app/console doctrine:migrations:migrate --no-debug"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.1.65",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -14008,7 +14552,7 @@
                     "twig/extensions": "1.0.*",
                     "uecode/api-key-bundle": "2.0.*"
                 },
-                "time": "2016-03-24T16:10:18+00:00",
+                "time": "2016-03-29T09:48:42+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -14078,7 +14622,11 @@
                         "php app/console doctrine:migrations:migrate --no-debug"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.2.72",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -14245,7 +14793,11 @@
                         "php app/console doctrine:migrations:migrate --no-debug"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.3",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -14417,7 +14969,11 @@
                         "php app/console doctrine:migrations:migrate --no-debug"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.4.95",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -14513,7 +15069,7 @@
                     "sensio/generator-bundle": "~2.3",
                     "symfony/phpunit-bridge": "^2.7"
                 },
-                "time": "2017-03-27T17:14:17+00:00",
+                "time": "2017-03-29T09:34:49+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -14590,7 +15146,11 @@
                         "php app/console doctrine:migrations:migrate --no-debug"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.5.124",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -14764,7 +15324,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.6.133",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -14943,7 +15507,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.7.56",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -15144,7 +15712,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.56",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -15345,7 +15917,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.56",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -15546,7 +16122,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.58",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -15747,7 +16327,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/22.00.02",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -15948,7 +16532,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/61138",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -16162,7 +16750,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/63093",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -16470,7 +17062,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/68870",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -16623,7 +17219,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-04-13T08:24:02+00:00",
+                "time": "2022-04-15T08:57:13+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -16778,7 +17374,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/#165685",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -17086,7 +17686,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/#183010",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -17394,21 +17998,25 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/#229251",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
-                "version": "dev-#231864",
-                "version_normalized": "dev-#231864",
+                "version": "dev-#229251-2",
+                "version_normalized": "dev-#229251-2",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "75327d573323c78a248e5b8068a3651695481df5"
+                    "reference": "290a5dd8f3a5aa77ad42e6f3b99c5fc1a153ac83"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/75327d573323c78a248e5b8068a3651695481df5",
-                    "reference": "75327d573323c78a248e5b8068a3651695481df5",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/290a5dd8f3a5aa77ad42e6f3b99c5fc1a153ac83",
+                    "reference": "290a5dd8f3a5aa77ad42e6f3b99c5fc1a153ac83",
                     "shasum": ""
                 },
                 "require": {
@@ -17445,7 +18053,7 @@
                     "grades-paca/bundle-address": "^1.9",
                     "grades-paca/bundle-alert": "^1.3",
                     "grades-paca/bundle-app": "^1.3",
-                    "grades-paca/bundle-attachment": "^1.5",
+                    "grades-paca/bundle-attachment": "^1.5.2",
                     "grades-paca/bundle-box": "^1.4",
                     "grades-paca/bundle-carto": "^1.7",
                     "grades-paca/bundle-denied-field": "^1.2",
@@ -17461,7 +18069,7 @@
                     "grades-paca/bundle-listing": "^1.3",
                     "grades-paca/bundle-log": "^1.3",
                     "grades-paca/bundle-lst": "^1.3",
-                    "grades-paca/bundle-mail": "1.5.*",
+                    "grades-paca/bundle-mail": "^1.6",
                     "grades-paca/bundle-otp": "^1.3",
                     "grades-paca/bundle-paginator": "^1.3",
                     "grades-paca/bundle-patient": "^1.5",
@@ -17547,7 +18155,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-04-07T15:20:50+00:00",
+                "time": "2022-04-19T15:39:29+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -17702,7 +18310,323 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/#229251-2",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "dev-#231864",
+                "version_normalized": "dev-#231864",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "75327d573323c78a248e5b8068a3651695481df5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/75327d573323c78a248e5b8068a3651695481df5",
+                    "reference": "75327d573323c78a248e5b8068a3651695481df5",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "dev-feature/sf5-compat",
+                    "babdev/pagerfanta-bundle": "^2.0",
+                    "beberlei/doctrineextensions": "^1.3",
+                    "course-hero/wse-php": "^2.0",
+                    "debril/rss-atom-bundle": "^5.1",
+                    "doctrine/doctrine-bundle": "^2.5",
+                    "doctrine/doctrine-fixtures-bundle": "^3.4",
+                    "doctrine/doctrine-migrations-bundle": "^2.2",
+                    "doctrine/migrations": "^2.2",
+                    "elasticsearch/elasticsearch": "^6.7",
+                    "ext-ctype": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "fpn/tag-bundle": "dev-master",
+                    "friendsofsymfony/elastica-bundle": "^5.2",
+                    "friendsofsymfony/oauth-server-bundle": "dev-master",
+                    "friendsofsymfony/user-bundle": "^2.2",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.9",
+                    "grades-paca/bundle-alert": "^1.3",
+                    "grades-paca/bundle-app": "^1.3",
+                    "grades-paca/bundle-attachment": "^1.5",
+                    "grades-paca/bundle-box": "^1.4",
+                    "grades-paca/bundle-carto": "^1.7",
+                    "grades-paca/bundle-denied-field": "^1.2",
+                    "grades-paca/bundle-design": "^1.7",
+                    "grades-paca/bundle-error-logger": "^1.5",
+                    "grades-paca/bundle-esms": "^1.4",
+                    "grades-paca/bundle-form": "^1.9",
+                    "grades-paca/bundle-form-incremental": "^1.2",
+                    "grades-paca/bundle-install": "^1.3",
+                    "grades-paca/bundle-jaspersoft": "^1.3",
+                    "grades-paca/bundle-jquery-mask": "^1.2",
+                    "grades-paca/bundle-key-store": "^1.2",
+                    "grades-paca/bundle-listing": "^1.3",
+                    "grades-paca/bundle-log": "^1.3",
+                    "grades-paca/bundle-lst": "^1.3",
+                    "grades-paca/bundle-mail": "1.5.*",
+                    "grades-paca/bundle-otp": "^1.3",
+                    "grades-paca/bundle-paginator": "^1.3",
+                    "grades-paca/bundle-patient": "^1.5",
+                    "grades-paca/bundle-plan-bleu": "^1.6",
+                    "grades-paca/bundle-privacy-banner": "^1.2",
+                    "grades-paca/bundle-project-humhub": "^1.3",
+                    "grades-paca/bundle-rest-soap": "^1.3",
+                    "grades-paca/bundle-schedule": "^1.6",
+                    "grades-paca/bundle-setting": "^1.3",
+                    "grades-paca/bundle-sms": "^1.3",
+                    "grades-paca/bundle-stats": "^1.2",
+                    "grades-paca/bundle-tag": "^1.3",
+                    "grades-paca/bundle-task": "^1.3",
+                    "grades-paca/bundle-test": "^1.3",
+                    "grades-paca/bundle-translation": "^1.4",
+                    "grades-paca/bundle-version": "^2.6",
+                    "grades-paca/bundle-web-client": "^1.3",
+                    "incenteev/composer-parameter-handler": "^2.1",
+                    "jasig/phpcas": "^1.4",
+                    "jenssegers/agent": "^2.6",
+                    "jms/serializer": "^3.0",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "marcusschwarz/lesserphp": "^0.6",
+                    "moment/moment": "^2.0",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": "^7.4.0",
+                    "phpdocumentor/reflection-docblock": "^5.3",
+                    "phpoffice/phpspreadsheet": "^1.20",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "^4.3",
+                    "sensio/framework-extra-bundle": "^6.2",
+                    "simplepie/simplepie": "^1.5",
+                    "sonata-project/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.6",
+                    "symfony/apache-pack": "^1.0",
+                    "symfony/asset": "4.4.*",
+                    "symfony/console": "^4.4",
+                    "symfony/dotenv": "^4.4",
+                    "symfony/flex": "^1.3",
+                    "symfony/form": "^4.4",
+                    "symfony/framework-bundle": "^4.4",
+                    "symfony/ldap": "4.4.*",
+                    "symfony/mailer": "^4.4",
+                    "symfony/monolog-bundle": "^3.7",
+                    "symfony/requirements-checker": "^2.0",
+                    "symfony/security-acl": "^3.2",
+                    "symfony/security-bundle": "^4.4",
+                    "symfony/swiftmailer-bundle": "^3.3",
+                    "symfony/templating": "4.4.*",
+                    "symfony/translation": "^4.4",
+                    "symfony/twig-bundle": "^4.4",
+                    "symfony/validator": "^4.4",
+                    "symfony/webpack-encore-bundle": "^1.13",
+                    "symfony/yaml": "^4.0",
+                    "synaq/zasa-bundle": "^5.4",
+                    "twig/extensions": "^1.5",
+                    "twig/extra-bundle": "^2.12|^3.0",
+                    "twig/twig": "^2.12|^3.0",
+                    "willdurand/js-translation-bundle": "^5.0",
+                    "zbateson/mail-mime-parser": "^0.2"
+                },
+                "conflict": {
+                    "symfony/symfony": "*"
+                },
+                "replace": {
+                    "paragonie/random_compat": "2.*",
+                    "symfony/polyfill-ctype": "*",
+                    "symfony/polyfill-iconv": "*",
+                    "symfony/polyfill-php56": "*",
+                    "symfony/polyfill-php70": "*",
+                    "symfony/polyfill-php71": "*"
+                },
+                "require-dev": {
+                    "nikic/php-parser": "^4.0",
+                    "php-parallel-lint/php-parallel-lint": "^0.9.2",
+                    "phpro/grumphp": "^1.5",
+                    "phpstan/phpstan": "^0.12",
+                    "phpunit/phpunit": "^9.5",
+                    "symfony/browser-kit": "4.4.*",
+                    "symfony/css-selector": "4.4.*",
+                    "symfony/maker-bundle": "^1.36",
+                    "symfony/phpunit-bridge": "^6.0",
+                    "symfony/stopwatch": "^4.4",
+                    "symfony/web-profiler-bundle": "^4.4"
+                },
+                "time": "2022-04-08T07:31:36+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "public",
+                    "symfony-assets-install": "symlink",
+                    "symfony": {
+                        "allow-contrib": "true",
+                        "require": "4.4.*"
+                    },
+                    "installer-types": [
+                        "component"
+                    ],
+                    "installer-paths": {
+                        "public/components/jquery-ui/": [
+                            "components/jqueryui"
+                        ],
+                        "public/components/angularjs/": [
+                            "components/angular.js"
+                        ],
+                        "public/components/{$name}/": [
+                            "type:component"
+                        ]
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "IeSS\\": "src/IeSS",
+                        "Oru\\": "src/Oru",
+                        "CharterBundle\\": "src/IeSS/CharterBundle",
+                        "OpenIDBundle\\": "src/IeSS/OpenIDBundle",
+                        "CGUBundle\\": "src/IeSS/CGUBundle",
+                        "AppLogBundle\\": "src/Oru/Bundle/AppLogBundle",
+                        "AttachmentCredentialBundle\\": "src/Oru/Bundle/AttachmentCredentialBundle",
+                        "BoiteSynchroBundle\\": "src/Oru/Bundle/BoiteSynchroBundle",
+                        "BSExportLitsDisposBundle\\": "src/Oru/Bundle/BSExportLitsDisposBundle",
+                        "CapaciteBundle\\": "src/Oru/Bundle/CapaciteBundle",
+                        "CapaciteClientBundle\\": "src/Oru/Bundle/CapaciteClientBundle",
+                        "CasBundle\\": "src/Oru/Bundle/CasBundle",
+                        "CepiDCBundle\\": "src/Oru/Bundle/CepiDCBundle",
+                        "CMPBundle\\": "src/Oru/Bundle/CMPBundle",
+                        "CoreExportBundle\\": "src/Oru/Bundle/CoreExportBundle",
+                        "CoreImportBundle\\": "src/Oru/Bundle/CoreImportBundle",
+                        "CpsBundle\\": "src/Oru/Bundle/CpsBundle",
+                        "CRUQPCBundle\\": "src/Oru/Bundle/CRUQPCBundle",
+                        "ElasticaBundle\\": "src/Oru/Bundle/ElasticaBundle",
+                        "ExcelBundle\\": "src/Oru/Bundle/ExcelBundle",
+                        "FileBundle\\": "src/Oru/Bundle/FileBundle",
+                        "FluxEntrantsBundle\\": "src/Oru/Bundle/FluxEntrantsBundle",
+                        "FormationBundle\\": "src/Oru/Bundle/FormationBundle",
+                        "FormExportBundle\\": "src/Oru/Bundle/FormExportBundle",
+                        "GedmoBundle\\": "src/Oru/Bundle/GedmoBundle",
+                        "ListeDiffusionBundle\\": "src/Oru/Bundle/ListeDiffusionBundle",
+                        "LitsDisposBundle\\": "src/Oru/Bundle/LitsDisposBundle",
+                        "MenuBundle\\": "src/Oru/Bundle/MenuBundle",
+                        "MetaBundle\\": "src/Oru/Bundle/MetaBundle",
+                        "NewsBundle\\": "src/Oru/Bundle/NewsBundle",
+                        "OAuthBundle\\": "src/Oru/Bundle/OAuthBundle",
+                        "PdsEsBundle\\": "src/Oru/Bundle/PdsEsBundle",
+                        "PlanBlancBundle\\": "src/Oru/Bundle/PlanBlancBundle",
+                        "ProfessionnelBundle\\": "src/Oru/Bundle/ProfessionnelBundle",
+                        "ReactBundle\\": "src/Oru/Bundle/ReactBundle",
+                        "RedmineBundle\\": "src/Oru/Bundle/RedmineBundle",
+                        "ReferentielExportBundle\\": "src/Oru/Bundle/ReferentielExportBundle",
+                        "RepresentantUsagerBundle\\": "src/Oru/Bundle/RepresentantUsagerBundle",
+                        "RequestBundle\\": "src/Oru/Bundle/RequestBundle",
+                        "RorAppBundle\\": "src/Oru/Bundle/RorAppBundle",
+                        "RorBundle\\": "src/Oru/Bundle/RorBundle",
+                        "RorCredentialsBundle\\": "src/Oru/Bundle/RorCredentialsBundle",
+                        "RorDesignBundle\\": "src/Oru/Bundle/RorDesignBundle",
+                        "RorExportBundle\\": "src/Oru/Bundle/RorExportBundle",
+                        "RorImportBundle\\": "src/Oru/Bundle/RorImportBundle",
+                        "RorLogBundle\\": "src/Oru/Bundle/RorLogBundle",
+                        "RorMailBundle\\": "src/Oru/Bundle/RorMailBundle",
+                        "RorOtpBundle\\": "src/Oru/Bundle/RorOtpBundle",
+                        "RorTagBundle\\": "src/Oru/Bundle/RorTagBundle",
+                        "RorTranscoBundle\\": "src/Oru/Bundle/RorTranscoBundle",
+                        "SearchEngineBundle\\": "src/Oru/Bundle/SearchEngineBundle",
+                        "SecurityBundle\\": "src/Oru/Bundle/SecurityBundle",
+                        "SrvBundle\\": "src/Oru/Bundle/SrvBundle",
+                        "SynchroBundle\\": "src/Oru/Bundle/SynchroBundle",
+                        "SynchroLdapBundle\\": "src/Oru/Bundle/SynchroLdapBundle",
+                        "TelemedecineBundle\\": "src/Oru/Bundle/TelemedecineBundle",
+                        "TensionBundle\\": "src/Oru/Bundle/TensionBundle",
+                        "TensionPrestoEntitiesBundle\\": "src/Oru/Bundle/TensionPrestoEntitiesBundle",
+                        "ValidationBundle\\": "src/Oru/Bundle/ValidationBundle",
+                        "WsExchangeBundle\\": "src/Oru/Bundle/WsExchangeBundle",
+                        "WsExchangeToolBundle\\": "src/Oru/Bundle/WsExchangeToolBundle",
+                        "WsExchangeV2Bundle\\": "src/Oru/Bundle/WsExchangeV2Bundle",
+                        "WsIamBundle\\": "src/Oru/Bundle/WsIamBundle",
+                        "ZimbraBundle\\": "src/Oru/Bundle/ZimbraBundle",
+                        "App\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "App\\Tests\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser",
+                        "php bin/requirements-checker &> /dev/null"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser",
+                        "php bin/requirements-checker &> /dev/null"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\RorAppBundle\\Composer\\ScriptHandler::initProject",
+                        "php bin/console cache:clear --env=dev",
+                        "php bin/console oru:maintenance:lock --no-interaction",
+                        "php bin/console fos:js-routing:dump --format=json --target=public/js/fos_js_routes.json",
+                        "php bin/console assets:install --symlink",
+                        "yarn install",
+                        "yarn build",
+                        "yarn build-capacites",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "php bin/console cache:clear --env=prod",
+                        "php bin/console bazinga:js-translation:dump --format=js public",
+                        "php bin/console oru:pole:repair",
+                        "php bin/console oru:maintenance:unlock --no-interaction",
+                        "php bin/console oru:schedule:check",
+                        "php bin/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php bin/console oru:credentials:collection-warm-cache --env=prod",
+                        "php bin/console oru:import:init",
+                        "php bin/console oru:page:update",
+                        "php bin/console oru:fieldvalidity_description:update",
+                        "php bin/console oru:meta-fields:update",
+                        "php bin/console oru:validation:update",
+                        "php bin/console oru:wsexchange:extract -e prod",
+                        "php bin/console oru:wsexchangev2:extract -e prod",
+                        "php bin/console oru:ror:unite-idnat -e prod",
+                        "php bin/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate",
+                        "php bin/console oru:setting:purge --env=prod",
+                        "php bin/console oru:setting:dump --env=dev"
+                    ],
+                    "auto-scripts": {
+                        "ckeditor:install": "symfony-cmd",
+                        "requirements-checker": "script"
+                    }
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/#231864",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -18010,7 +18934,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/#233470",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -18209,7 +19137,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/140520-bak",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -18410,7 +19342,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/154329_b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -18611,7 +19547,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/154329_new",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -18811,7 +19751,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/156307b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -19012,7 +19956,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/164910b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -19135,7 +20083,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2022-01-18T08:32:50+00:00",
+                "time": "2022-01-20T16:59:27+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -19213,7 +20161,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/164910c",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -19414,7 +20366,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/174505_c",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -19615,7 +20571,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/188767_sql",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -19816,7 +20776,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/196165_c",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -20017,7 +20981,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/20210221_mails_het",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -20218,7 +21186,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/210086_b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -20419,7 +21391,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/210086_c",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -20620,7 +21596,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/210086_new",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -20821,7 +21801,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/211582-bc",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -20974,7 +21958,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-03-21T10:35:12+00:00",
+                "time": "2022-03-24T07:14:16+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -21129,7 +22113,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/214068_beta",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -21437,7 +22425,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/214068_beta2",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -21745,7 +22737,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/214068_install",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -22053,7 +23049,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/214068_install_b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -22361,7 +23361,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/214068_oauth",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -22669,7 +23673,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/214068_otp",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -22870,7 +23878,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/215333_a",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -23071,7 +24083,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/215600-a",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -23272,7 +24288,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/217048_a",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -23395,7 +24415,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2022-02-04T11:18:23+00:00",
+                "time": "2022-02-04T11:19:42+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -23473,7 +24493,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/217048_b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -23781,7 +24805,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/22.00v22.01",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -24089,21 +25117,25 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/22.1.composerUpdate",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
-                "version": "dev-225795b",
-                "version_normalized": "dev-225795b",
+                "version": "dev-22.1_update_schedule_bundle",
+                "version_normalized": "dev-22.1_update_schedule_bundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "bcb2191c6157a98e71f1c0a401cbbeeecc9c8276"
+                    "reference": "e1b1899ca21ae9bb8fa17341f607af8678b1b0a7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/bcb2191c6157a98e71f1c0a401cbbeeecc9c8276",
-                    "reference": "bcb2191c6157a98e71f1c0a401cbbeeecc9c8276",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/e1b1899ca21ae9bb8fa17341f607af8678b1b0a7",
+                    "reference": "e1b1899ca21ae9bb8fa17341f607af8678b1b0a7",
                     "shasum": ""
                 },
                 "require": {
@@ -24140,7 +25172,7 @@
                     "grades-paca/bundle-address": "^1.9",
                     "grades-paca/bundle-alert": "^1.3",
                     "grades-paca/bundle-app": "^1.3",
-                    "grades-paca/bundle-attachment": "^1.5",
+                    "grades-paca/bundle-attachment": "^1.5.2",
                     "grades-paca/bundle-box": "^1.4",
                     "grades-paca/bundle-carto": "^1.7",
                     "grades-paca/bundle-denied-field": "^1.2",
@@ -24156,7 +25188,7 @@
                     "grades-paca/bundle-listing": "^1.3",
                     "grades-paca/bundle-log": "^1.3",
                     "grades-paca/bundle-lst": "^1.3",
-                    "grades-paca/bundle-mail": "^1.5",
+                    "grades-paca/bundle-mail": "^1.6",
                     "grades-paca/bundle-otp": "^1.3",
                     "grades-paca/bundle-paginator": "^1.3",
                     "grades-paca/bundle-patient": "^1.5",
@@ -24164,7 +25196,7 @@
                     "grades-paca/bundle-privacy-banner": "^1.2",
                     "grades-paca/bundle-project-humhub": "^1.3",
                     "grades-paca/bundle-rest-soap": "^1.3",
-                    "grades-paca/bundle-schedule": "^1.6",
+                    "grades-paca/bundle-schedule": "^1.7",
                     "grades-paca/bundle-setting": "^1.3",
                     "grades-paca/bundle-sms": "^1.3",
                     "grades-paca/bundle-stats": "^1.2",
@@ -24242,7 +25274,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-02-04T11:10:29+00:00",
+                "time": "2022-04-20T07:28:16+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -24397,7 +25429,323 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/22.1_update_schedule_bundle",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
+            },
+            {
+                "name": "grades-paca/ror",
+                "version": "dev-225795b",
+                "version_normalized": "dev-225795b",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/ror.git",
+                    "reference": "bcb2191c6157a98e71f1c0a401cbbeeecc9c8276"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/bcb2191c6157a98e71f1c0a401cbbeeecc9c8276",
+                    "reference": "bcb2191c6157a98e71f1c0a401cbbeeecc9c8276",
+                    "shasum": ""
+                },
+                "require": {
+                    "apy/datagrid-bundle": "dev-feature/sf5-compat",
+                    "babdev/pagerfanta-bundle": "^2.0",
+                    "beberlei/doctrineextensions": "^1.3",
+                    "course-hero/wse-php": "^2.0",
+                    "debril/rss-atom-bundle": "^5.1",
+                    "doctrine/doctrine-bundle": "^2.5",
+                    "doctrine/doctrine-fixtures-bundle": "^3.4",
+                    "doctrine/doctrine-migrations-bundle": "^2.2",
+                    "doctrine/migrations": "^2.2",
+                    "elasticsearch/elasticsearch": "^6.7",
+                    "ext-ctype": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "ext-pdo": "*",
+                    "ext-simplexml": "*",
+                    "ext-soap": "*",
+                    "ext-sockets": "*",
+                    "ext-ssh2": "*",
+                    "ext-xmlreader": "*",
+                    "ext-zip": "*",
+                    "ext-zlib": "*",
+                    "fpn/tag-bundle": "dev-master",
+                    "friendsofsymfony/elastica-bundle": "^5.2",
+                    "friendsofsymfony/oauth-server-bundle": "dev-master",
+                    "friendsofsymfony/user-bundle": "^2.2",
+                    "goodby/csv": "~1.3.0",
+                    "grades-paca/bundle-address": "^1.9",
+                    "grades-paca/bundle-alert": "^1.3",
+                    "grades-paca/bundle-app": "^1.3",
+                    "grades-paca/bundle-attachment": "^1.5",
+                    "grades-paca/bundle-box": "^1.4",
+                    "grades-paca/bundle-carto": "^1.7",
+                    "grades-paca/bundle-denied-field": "^1.2",
+                    "grades-paca/bundle-design": "^1.7",
+                    "grades-paca/bundle-error-logger": "^1.5",
+                    "grades-paca/bundle-esms": "^1.4",
+                    "grades-paca/bundle-form": "^1.9",
+                    "grades-paca/bundle-form-incremental": "^1.2",
+                    "grades-paca/bundle-install": "^1.3",
+                    "grades-paca/bundle-jaspersoft": "^1.3",
+                    "grades-paca/bundle-jquery-mask": "^1.2",
+                    "grades-paca/bundle-key-store": "^1.2",
+                    "grades-paca/bundle-listing": "^1.3",
+                    "grades-paca/bundle-log": "^1.3",
+                    "grades-paca/bundle-lst": "^1.3",
+                    "grades-paca/bundle-mail": "^1.5",
+                    "grades-paca/bundle-otp": "^1.3",
+                    "grades-paca/bundle-paginator": "^1.3",
+                    "grades-paca/bundle-patient": "^1.5",
+                    "grades-paca/bundle-plan-bleu": "^1.6",
+                    "grades-paca/bundle-privacy-banner": "^1.2",
+                    "grades-paca/bundle-project-humhub": "^1.3",
+                    "grades-paca/bundle-rest-soap": "^1.3",
+                    "grades-paca/bundle-schedule": "^1.6",
+                    "grades-paca/bundle-setting": "^1.3",
+                    "grades-paca/bundle-sms": "^1.3",
+                    "grades-paca/bundle-stats": "^1.2",
+                    "grades-paca/bundle-tag": "^1.3",
+                    "grades-paca/bundle-task": "^1.3",
+                    "grades-paca/bundle-test": "^1.3",
+                    "grades-paca/bundle-translation": "^1.4",
+                    "grades-paca/bundle-version": "^2.6",
+                    "grades-paca/bundle-web-client": "^1.3",
+                    "incenteev/composer-parameter-handler": "^2.1",
+                    "jasig/phpcas": "^1.4",
+                    "jenssegers/agent": "^2.6",
+                    "jms/serializer": "^3.0",
+                    "jumbojett/openid-connect-php": "^0.9.2",
+                    "marcusschwarz/lesserphp": "^0.6",
+                    "moment/moment": "^2.0",
+                    "nelmio/api-doc-bundle": "^2.0",
+                    "php": "^7.4.0",
+                    "phpdocumentor/reflection-docblock": "^5.3",
+                    "phpoffice/phpspreadsheet": "^1.20",
+                    "romanpitak/php-rest-client": "~1.2.2",
+                    "sabre/vobject": "^4.3",
+                    "sensio/framework-extra-bundle": "^6.2",
+                    "simplepie/simplepie": "^1.5",
+                    "sonata-project/entity-audit-bundle": "^1.0",
+                    "stof/doctrine-extensions-bundle": "^1.6",
+                    "symfony/apache-pack": "^1.0",
+                    "symfony/asset": "4.4.*",
+                    "symfony/console": "^4.4",
+                    "symfony/dotenv": "^4.4",
+                    "symfony/flex": "^1.3",
+                    "symfony/form": "^4.4",
+                    "symfony/framework-bundle": "^4.4",
+                    "symfony/ldap": "4.4.*",
+                    "symfony/mailer": "^4.4",
+                    "symfony/monolog-bundle": "^3.7",
+                    "symfony/requirements-checker": "^2.0",
+                    "symfony/security-acl": "^3.2",
+                    "symfony/security-bundle": "^4.4",
+                    "symfony/swiftmailer-bundle": "^3.3",
+                    "symfony/templating": "4.4.*",
+                    "symfony/translation": "^4.4",
+                    "symfony/twig-bundle": "^4.4",
+                    "symfony/validator": "^4.4",
+                    "symfony/webpack-encore-bundle": "^1.13",
+                    "symfony/yaml": "^4.0",
+                    "synaq/zasa-bundle": "^5.4",
+                    "twig/extensions": "^1.5",
+                    "twig/extra-bundle": "^2.12|^3.0",
+                    "twig/twig": "^2.12|^3.0",
+                    "willdurand/js-translation-bundle": "^5.0",
+                    "zbateson/mail-mime-parser": "^0.2"
+                },
+                "conflict": {
+                    "symfony/symfony": "*"
+                },
+                "replace": {
+                    "paragonie/random_compat": "2.*",
+                    "symfony/polyfill-ctype": "*",
+                    "symfony/polyfill-iconv": "*",
+                    "symfony/polyfill-php56": "*",
+                    "symfony/polyfill-php70": "*",
+                    "symfony/polyfill-php71": "*"
+                },
+                "require-dev": {
+                    "nikic/php-parser": "^4.0",
+                    "php-parallel-lint/php-parallel-lint": "^0.9.2",
+                    "phpro/grumphp": "^1.5",
+                    "phpstan/phpstan": "^0.12",
+                    "phpunit/phpunit": "^9.5",
+                    "symfony/browser-kit": "4.4.*",
+                    "symfony/css-selector": "4.4.*",
+                    "symfony/maker-bundle": "^1.36",
+                    "symfony/phpunit-bridge": "^6.0",
+                    "symfony/stopwatch": "^4.4",
+                    "symfony/web-profiler-bundle": "^4.4"
+                },
+                "time": "2022-04-19T09:55:55+00:00",
+                "type": "project",
+                "extra": {
+                    "symfony-bin-dir": "bin",
+                    "symfony-web-dir": "public",
+                    "symfony-assets-install": "symlink",
+                    "symfony": {
+                        "allow-contrib": "true",
+                        "require": "4.4.*"
+                    },
+                    "installer-types": [
+                        "component"
+                    ],
+                    "installer-paths": {
+                        "public/components/jquery-ui/": [
+                            "components/jqueryui"
+                        ],
+                        "public/components/angularjs/": [
+                            "components/angular.js"
+                        ],
+                        "public/components/{$name}/": [
+                            "type:component"
+                        ]
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "IeSS\\": "src/IeSS",
+                        "Oru\\": "src/Oru",
+                        "CharterBundle\\": "src/IeSS/CharterBundle",
+                        "OpenIDBundle\\": "src/IeSS/OpenIDBundle",
+                        "CGUBundle\\": "src/IeSS/CGUBundle",
+                        "AppLogBundle\\": "src/Oru/Bundle/AppLogBundle",
+                        "AttachmentCredentialBundle\\": "src/Oru/Bundle/AttachmentCredentialBundle",
+                        "BoiteSynchroBundle\\": "src/Oru/Bundle/BoiteSynchroBundle",
+                        "BSExportLitsDisposBundle\\": "src/Oru/Bundle/BSExportLitsDisposBundle",
+                        "CapaciteBundle\\": "src/Oru/Bundle/CapaciteBundle",
+                        "CapaciteClientBundle\\": "src/Oru/Bundle/CapaciteClientBundle",
+                        "CasBundle\\": "src/Oru/Bundle/CasBundle",
+                        "CepiDCBundle\\": "src/Oru/Bundle/CepiDCBundle",
+                        "CMPBundle\\": "src/Oru/Bundle/CMPBundle",
+                        "CoreExportBundle\\": "src/Oru/Bundle/CoreExportBundle",
+                        "CoreImportBundle\\": "src/Oru/Bundle/CoreImportBundle",
+                        "CpsBundle\\": "src/Oru/Bundle/CpsBundle",
+                        "CRUQPCBundle\\": "src/Oru/Bundle/CRUQPCBundle",
+                        "ElasticaBundle\\": "src/Oru/Bundle/ElasticaBundle",
+                        "ExcelBundle\\": "src/Oru/Bundle/ExcelBundle",
+                        "FileBundle\\": "src/Oru/Bundle/FileBundle",
+                        "FluxEntrantsBundle\\": "src/Oru/Bundle/FluxEntrantsBundle",
+                        "FormationBundle\\": "src/Oru/Bundle/FormationBundle",
+                        "FormExportBundle\\": "src/Oru/Bundle/FormExportBundle",
+                        "GedmoBundle\\": "src/Oru/Bundle/GedmoBundle",
+                        "ListeDiffusionBundle\\": "src/Oru/Bundle/ListeDiffusionBundle",
+                        "LitsDisposBundle\\": "src/Oru/Bundle/LitsDisposBundle",
+                        "MenuBundle\\": "src/Oru/Bundle/MenuBundle",
+                        "MetaBundle\\": "src/Oru/Bundle/MetaBundle",
+                        "NewsBundle\\": "src/Oru/Bundle/NewsBundle",
+                        "OAuthBundle\\": "src/Oru/Bundle/OAuthBundle",
+                        "PdsEsBundle\\": "src/Oru/Bundle/PdsEsBundle",
+                        "PlanBlancBundle\\": "src/Oru/Bundle/PlanBlancBundle",
+                        "ProfessionnelBundle\\": "src/Oru/Bundle/ProfessionnelBundle",
+                        "ReactBundle\\": "src/Oru/Bundle/ReactBundle",
+                        "RedmineBundle\\": "src/Oru/Bundle/RedmineBundle",
+                        "ReferentielExportBundle\\": "src/Oru/Bundle/ReferentielExportBundle",
+                        "RepresentantUsagerBundle\\": "src/Oru/Bundle/RepresentantUsagerBundle",
+                        "RequestBundle\\": "src/Oru/Bundle/RequestBundle",
+                        "RorAppBundle\\": "src/Oru/Bundle/RorAppBundle",
+                        "RorBundle\\": "src/Oru/Bundle/RorBundle",
+                        "RorCredentialsBundle\\": "src/Oru/Bundle/RorCredentialsBundle",
+                        "RorDesignBundle\\": "src/Oru/Bundle/RorDesignBundle",
+                        "RorExportBundle\\": "src/Oru/Bundle/RorExportBundle",
+                        "RorImportBundle\\": "src/Oru/Bundle/RorImportBundle",
+                        "RorLogBundle\\": "src/Oru/Bundle/RorLogBundle",
+                        "RorMailBundle\\": "src/Oru/Bundle/RorMailBundle",
+                        "RorOtpBundle\\": "src/Oru/Bundle/RorOtpBundle",
+                        "RorTagBundle\\": "src/Oru/Bundle/RorTagBundle",
+                        "RorTranscoBundle\\": "src/Oru/Bundle/RorTranscoBundle",
+                        "SearchEngineBundle\\": "src/Oru/Bundle/SearchEngineBundle",
+                        "SecurityBundle\\": "src/Oru/Bundle/SecurityBundle",
+                        "SrvBundle\\": "src/Oru/Bundle/SrvBundle",
+                        "SynchroBundle\\": "src/Oru/Bundle/SynchroBundle",
+                        "SynchroLdapBundle\\": "src/Oru/Bundle/SynchroLdapBundle",
+                        "TelemedecineBundle\\": "src/Oru/Bundle/TelemedecineBundle",
+                        "TensionBundle\\": "src/Oru/Bundle/TensionBundle",
+                        "TensionPrestoEntitiesBundle\\": "src/Oru/Bundle/TensionPrestoEntitiesBundle",
+                        "ValidationBundle\\": "src/Oru/Bundle/ValidationBundle",
+                        "WsExchangeBundle\\": "src/Oru/Bundle/WsExchangeBundle",
+                        "WsExchangeToolBundle\\": "src/Oru/Bundle/WsExchangeToolBundle",
+                        "WsExchangeV2Bundle\\": "src/Oru/Bundle/WsExchangeV2Bundle",
+                        "WsIamBundle\\": "src/Oru/Bundle/WsIamBundle",
+                        "ZimbraBundle\\": "src/Oru/Bundle/ZimbraBundle",
+                        "App\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "App\\Tests\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "update-git": [
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateGit"
+                    ],
+                    "pre-install-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser",
+                        "php bin/requirements-checker &> /dev/null"
+                    ],
+                    "pre-update-cmd": [
+                        "echo 'Attention, lancer composer_install.sh pour mettre à jour git avant !'; sleep 2 ;",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::checkUser",
+                        "php bin/requirements-checker &> /dev/null"
+                    ],
+                    "post-install-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@ror-scripts"
+                    ],
+                    "ror-scripts": [
+                        "Oru\\Bundle\\RorAppBundle\\Composer\\ScriptHandler::initProject",
+                        "php bin/console cache:clear --env=dev",
+                        "php bin/console oru:maintenance:lock --no-interaction",
+                        "php bin/console fos:js-routing:dump --format=json --target=public/js/fos_js_routes.json",
+                        "php bin/console assets:install --symlink",
+                        "yarn install",
+                        "yarn build",
+                        "yarn build-capacites",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsRevert",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::updateDatabase",
+                        "php bin/console cache:clear --env=prod",
+                        "php bin/console bazinga:js-translation:dump --format=js public",
+                        "php bin/console oru:pole:repair",
+                        "php bin/console oru:maintenance:unlock --no-interaction",
+                        "php bin/console oru:schedule:check",
+                        "php bin/console oru:credentials:check --env=prod --fromcomposer=y",
+                        "php bin/console oru:credentials:collection-warm-cache --env=prod",
+                        "php bin/console oru:import:init",
+                        "php bin/console oru:page:update",
+                        "php bin/console oru:fieldvalidity_description:update",
+                        "php bin/console oru:meta-fields:update",
+                        "php bin/console oru:validation:update",
+                        "php bin/console oru:wsexchange:extract -e prod",
+                        "php bin/console oru:wsexchangev2:extract -e prod",
+                        "php bin/console oru:ror:unite-idnat -e prod",
+                        "php bin/console ckeditor:install --clear=skip",
+                        "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate",
+                        "php bin/console oru:setting:purge --env=prod",
+                        "php bin/console oru:setting:dump --env=dev"
+                    ],
+                    "auto-scripts": {
+                        "ckeditor:install": "symfony-cmd",
+                        "requirements-checker": "script"
+                    }
+                },
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/225795b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -24705,7 +26053,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/227940_b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -25013,7 +26365,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/227940_c",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -25214,7 +26570,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/228167_b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -25522,7 +26882,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/228167_d",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -25830,7 +27194,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/230855_b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -25937,7 +27305,7 @@
                     "sensio/generator-bundle": "~2.3",
                     "symfony/phpunit-bridge": "^2.7"
                 },
-                "time": "2017-10-23T10:20:44+00:00",
+                "time": "2017-10-24T12:05:33+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -26003,7 +27371,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.6.105.2",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -26125,7 +27497,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2020-03-30T13:44:05+00:00",
+                "time": "2020-03-30T16:05:31+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -26203,7 +27575,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.21.1",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -26404,7 +27780,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8-merge",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -26603,7 +27983,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.10",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -26725,7 +28109,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2021-03-25T07:16:00+00:00",
+                "time": "2021-03-25T07:31:45+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -26803,7 +28187,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.46.3",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -26925,7 +28313,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2021-04-01T11:15:46+00:00",
+                "time": "2021-04-08T05:17:28+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -27003,7 +28391,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.47.2",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -27204,7 +28596,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.48-into-master",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -27327,7 +28723,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2021-06-11T09:19:20+00:00",
+                "time": "2021-06-11T09:27:19+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -27405,7 +28801,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.50.1",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -27606,7 +29006,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.53.1",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -27807,7 +29211,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.54-branch",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -27930,7 +29338,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2021-08-17T15:13:19+00:00",
+                "time": "2021-09-01T12:28:34+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -28008,7 +29416,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.54.1",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -28209,7 +29621,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.55_master",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -28410,7 +29826,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.56",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -28611,7 +30031,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8to3.9",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -28734,7 +30158,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2022-01-25T08:06:24+00:00",
+                "time": "2022-01-26T06:49:56+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -28812,7 +30236,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.9-test",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -29028,7 +30456,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/63093_a",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -29227,7 +30659,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/Charter",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -29428,7 +30864,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/Mlapalus-patch-1",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -29628,7 +31068,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/ad-rass",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -29828,7 +31272,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/adossement_rass",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -29933,7 +31381,7 @@
                     "sensio/generator-bundle": "~3.0",
                     "symfony/phpunit-bridge": "^4.0"
                 },
-                "time": "2018-10-02T08:50:10+00:00",
+                "time": "2018-10-02T08:51:39+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -30005,7 +31453,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/asip",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -30110,7 +31562,7 @@
                     "sensio/generator-bundle": "~3.0",
                     "symfony/phpunit-bridge": "^4.0"
                 },
-                "time": "2018-10-12T10:15:34+00:00",
+                "time": "2018-10-12T10:21:50+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -30182,7 +31634,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/autoimport",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -30383,7 +31839,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/bck",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -30504,7 +31964,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2019-06-20T15:39:46+00:00",
+                "time": "2019-07-05T09:01:17+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -30581,7 +32041,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/capacites-migration",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -30781,7 +32245,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/cervettitest",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -31089,7 +32557,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/correctifs_env_files",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -31289,7 +32761,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/debugcachecollections",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -31489,7 +32965,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/debugvictor",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -31610,7 +33090,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2019-07-29T10:41:03+00:00",
+                "time": "2019-07-29T10:42:02+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -31687,7 +33167,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/dev132505",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -31886,7 +33370,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/dev148210",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -32008,7 +33496,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2020-03-13T10:41:12+00:00",
+                "time": "2020-03-13T10:42:47+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -32085,7 +33573,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/dev152171",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -32238,7 +33730,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-04-04T08:20:03+00:00",
+                "time": "2022-04-04T08:54:35+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -32393,7 +33885,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/feat/changeFromName",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -32546,7 +34042,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-03-25T10:41:28+00:00",
+                "time": "2022-03-29T07:45:45+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -32701,7 +34197,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/fix/eventCall",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -32854,7 +34354,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-03-25T10:41:28+00:00",
+                "time": "2022-03-29T07:45:45+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -33009,7 +34509,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/fix/eventCall",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -33162,7 +34666,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-03-30T09:22:54+00:00",
+                "time": "2022-03-30T12:19:45+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
@@ -33317,7 +34821,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/fix/otpAdmin",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -33625,7 +35133,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/fix/unitesError",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -33747,7 +35259,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2020-01-17T10:28:44+00:00",
+                "time": "2020-01-17T15:34:40+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -33824,7 +35336,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/hotfix-3.8.13",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -34025,7 +35541,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/3.8.51.2",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -34333,7 +35853,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/invalidateCache",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -34531,7 +36055,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/manubackup",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -34840,7 +36368,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/master",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -34963,7 +36495,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2022-02-14T10:14:09+00:00",
+                "time": "2022-03-07T09:47:35+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -35042,7 +36574,11 @@
                         "php app/console oru:setting:dump --env=dev"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/michael",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -35165,7 +36701,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-01-29T10:10:41+00:00",
+                "time": "2021-09-15T11:31:43+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -35243,7 +36779,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/oruna20210129",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -35366,7 +36906,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2021-04-15T15:36:59+00:00",
+                "time": "2021-05-10T08:29:25+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -35444,7 +36984,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/oruna20210510",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -35567,7 +37111,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-08-02T14:06:04+00:00",
+                "time": "2021-09-10T09:36:23+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -35645,7 +37189,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/oruna20210802",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -35768,7 +37316,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-02-17T14:55:33+00:00",
+                "time": "2021-09-21T08:56:40+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -35846,7 +37394,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/oruna202109211055",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -36047,7 +37599,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/oruna202109211101",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -36170,7 +37726,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-03-04T09:16:20+00:00",
+                "time": "2021-09-21T09:12:30+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -36248,7 +37804,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/oruna202109211112",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -36449,7 +38009,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/oruna202109211155",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -36572,7 +38136,7 @@
                     "symfony/maker-bundle": "^1.20",
                     "symfony/phpunit-bridge": "^5.1"
                 },
-                "time": "2021-10-20T11:53:31+00:00",
+                "time": "2021-10-21T10:03:09+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -36650,7 +38214,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/oruna202110061135",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -36773,7 +38341,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2021-06-25T13:55:31+00:00",
+                "time": "2021-07-12T14:48:21+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -36851,7 +38419,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/oruna_capacites_20210712",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -36974,7 +38546,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2021-07-29T11:19:56+00:00",
+                "time": "2021-08-03T08:38:39+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -37052,7 +38624,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/oruna_capacites_20210730",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -37175,7 +38751,7 @@
                     "sensio/generator-bundle": "^3.0",
                     "symfony/phpunit-bridge": "^3.0"
                 },
-                "time": "2022-01-19T11:16:45+00:00",
+                "time": "2022-01-26T13:20:41+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -37253,7 +38829,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/oruna_reference_test",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -37454,7 +39034,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/plansblancs_3.9.1",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -37559,7 +39143,7 @@
                     "sensio/generator-bundle": "~3.0",
                     "symfony/phpunit-bridge": "^4.0"
                 },
-                "time": "2018-11-27T09:57:03+00:00",
+                "time": "2018-11-30T12:58:26+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -37633,7 +39217,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/platines",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -37941,7 +39529,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/recette-ligne-50",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -38139,7 +39731,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/redmine-export",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -38340,7 +39936,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/revert-542-208161",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -38541,7 +40141,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/revert-549-160096_b",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -38742,7 +40346,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/revert-724-222841",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -39050,7 +40658,11 @@
                         "requirements-checker": "script"
                     }
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/revert-788-214068_install",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -39223,7 +40835,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/sivic-0.67",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -39427,7 +41043,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/testci",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -39628,7 +41248,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/tmp",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -39733,7 +41357,7 @@
                     "sensio/generator-bundle": "~3.0",
                     "symfony/phpunit-bridge": "^4.0"
                 },
-                "time": "2018-09-17T13:29:21+00:00",
+                "time": "2018-10-11T10:11:49+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-app-dir": "app",
@@ -39805,7 +41429,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/wipcapacite",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             },
             {
                 "name": "grades-paca/ror",
@@ -40006,7 +41634,11 @@
                         "Oru\\Bundle\\InstallBundle\\Composer\\ScriptHandler::migrationsMigrate"
                     ]
                 },
-                "description": "Projet ROR v3"
+                "description": "Projet ROR v3",
+                "support": {
+                    "source": "https://github.com/grades-paca/ror/tree/wsv2",
+                    "issues": "https://github.com/grades-paca/ror/issues"
+                }
             }
         ]
     }
