@@ -35,11 +35,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.0.18",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -75,11 +71,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/#229251",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -89,12 +81,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-error-logger.git",
-                    "reference": "65fd62111a80a154c972cb805a958c9b557b3af4"
+                    "reference": "29174c9d19381dd58f9a84a0e7019e541f0c4b8e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/65fd62111a80a154c972cb805a958c9b557b3af4",
-                    "reference": "65fd62111a80a154c972cb805a958c9b557b3af4",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/29174c9d19381dd58f9a84a0e7019e541f0c4b8e",
+                    "reference": "29174c9d19381dd58f9a84a0e7019e541f0c4b8e",
                     "shasum": ""
                 },
                 "require": {
@@ -103,7 +95,7 @@
                     "grades-paca/bundle-setting": "~1.0",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-03-01T08:57:38+00:00",
+                "time": "2022-04-20T13:36:42+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -116,11 +108,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.5.0",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             }
         ]
     }
