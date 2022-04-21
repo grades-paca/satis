@@ -36,7 +36,11 @@
                         "Oru\\Bundle\\TranslationBundle\\": ""
                     }
                 },
-                "description": "Traductions du ROR via ORM"
+                "description": "Traductions du ROR via ORM",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-translation/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-translation/issues"
+                }
             }
         ]
     }
