@@ -161,7 +161,7 @@
                 },
                 "description": "Gestion de l'authentification via OTP",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-otp/tree/230227",
+                    "source": "https://github.com/grades-paca/bundle-otp/tree/1.3.5",
                     "issues": "https://github.com/grades-paca/bundle-otp/issues"
                 }
             },
