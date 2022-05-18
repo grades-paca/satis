@@ -333,7 +333,7 @@
                 },
                 "description": "Gestion des mails",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-mail/tree/feat/improveMailInterface",
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.6.3",
                     "issues": "https://github.com/grades-paca/bundle-mail/issues"
                 }
             },
@@ -345,12 +345,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-mail.git",
-                    "reference": "70eea4bd80b599dbd7ac1ecea2d7c59827ce9f64"
+                    "reference": "7921b05002205a37590872fc8e3e94940cbb0565"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/70eea4bd80b599dbd7ac1ecea2d7c59827ce9f64",
-                    "reference": "70eea4bd80b599dbd7ac1ecea2d7c59827ce9f64",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/7921b05002205a37590872fc8e3e94940cbb0565",
+                    "reference": "7921b05002205a37590872fc8e3e94940cbb0565",
                     "shasum": ""
                 },
                 "require": {
@@ -361,7 +361,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "vkalmuk/swiftmailerdbbundle": "dev-master"
                 },
-                "time": "2022-04-19T14:20:00+00:00",
+                "time": "2022-05-18T08:39:07+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -376,7 +376,7 @@
                 },
                 "description": "Gestion des mails",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.6.2",
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/master",
                     "issues": "https://github.com/grades-paca/bundle-mail/issues"
                 }
             }
