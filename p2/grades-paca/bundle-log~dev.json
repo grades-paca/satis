@@ -97,12 +97,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-log.git",
-                    "reference": "224f9ffd9cf2f49a06edecada845304bfaa59a16"
+                    "reference": "eaf50bd48d79e5b2e125c735d1d0d72c533ee1b4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-log/zipball/224f9ffd9cf2f49a06edecada845304bfaa59a16",
-                    "reference": "224f9ffd9cf2f49a06edecada845304bfaa59a16",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-log/zipball/eaf50bd48d79e5b2e125c735d1d0d72c533ee1b4",
+                    "reference": "eaf50bd48d79e5b2e125c735d1d0d72c533ee1b4",
                     "shasum": ""
                 },
                 "require": {
@@ -114,7 +114,7 @@
                     "grades-paca/bundle-translation": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-03-01T14:06:58+00:00",
+                "time": "2022-05-20T08:29:18+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -129,7 +129,7 @@
                 },
                 "description": "Log des requêtes",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-log/tree/1.3.0",
+                    "source": "https://github.com/grades-paca/bundle-log/tree/1.3.1",
                     "issues": "https://github.com/grades-paca/bundle-log/issues"
                 }
             }

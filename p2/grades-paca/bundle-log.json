@@ -1587,6 +1587,49 @@
                     "source": "https://github.com/grades-paca/bundle-log/tree/1.3.0",
                     "issues": "https://github.com/grades-paca/bundle-log/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-log",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "target-dir": "Oru/Bundle/LogBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-log.git",
+                    "reference": "eaf50bd48d79e5b2e125c735d1d0d72c533ee1b4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-log/zipball/eaf50bd48d79e5b2e125c735d1d0d72c533ee1b4",
+                    "reference": "eaf50bd48d79e5b2e125c735d1d0d72c533ee1b4",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-error-logger": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-schedule": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-translation": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-05-20T08:29:18+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LogBundle\\": ""
+                    }
+                },
+                "description": "Log des requêtes",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-log/tree/1.3.1",
+                    "issues": "https://github.com/grades-paca/bundle-log/issues"
+                }
             }
         ]
     }
