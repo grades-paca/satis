@@ -34,11 +34,7 @@
                         "Oru\\Bundle\\StatsBundle\\": ""
                     }
                 },
-                "description": "Utilisation du service d'analyse d'audience de Google Analytics.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-stats/tree/1.2.1",
-                    "issues": "https://github.com/grades-paca/bundle-stats/issues"
-                }
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics."
             }
         ]
     }
