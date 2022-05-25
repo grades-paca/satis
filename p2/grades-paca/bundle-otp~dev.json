@@ -36,7 +36,11 @@
                         "Oru\\Bundle\\OtpBundle\\": ""
                     }
                 },
-                "description": "Gestion de l'authentification via OTP"
+                "description": "Gestion de l'authentification via OTP",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-otp/tree/1.2.5",
+                    "issues": "https://github.com/grades-paca/bundle-otp/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-otp",
@@ -73,7 +77,11 @@
                         "Oru\\Bundle\\OtpBundle\\": ""
                     }
                 },
-                "description": "Gestion de l'authentification via OTP"
+                "description": "Gestion de l'authentification via OTP",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-otp/tree/216097",
+                    "issues": "https://github.com/grades-paca/bundle-otp/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-otp",
@@ -110,7 +118,11 @@
                         "Oru\\Bundle\\OtpBundle\\": ""
                     }
                 },
-                "description": "Gestion de l'authentification via OTP"
+                "description": "Gestion de l'authentification via OTP",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-otp/tree/229658",
+                    "issues": "https://github.com/grades-paca/bundle-otp/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-otp",
@@ -147,7 +159,11 @@
                         "Oru\\Bundle\\OtpBundle\\": ""
                     }
                 },
-                "description": "Gestion de l'authentification via OTP"
+                "description": "Gestion de l'authentification via OTP",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-otp/tree/1.3.5",
+                    "issues": "https://github.com/grades-paca/bundle-otp/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-otp",
@@ -184,7 +200,11 @@
                         "Oru\\Bundle\\OtpBundle\\": ""
                     }
                 },
-                "description": "Gestion de l'authentification via OTP"
+                "description": "Gestion de l'authentification via OTP",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-otp/tree/1.3.6",
+                    "issues": "https://github.com/grades-paca/bundle-otp/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-otp",
@@ -222,7 +242,11 @@
                         "Oru\\Bundle\\OtpBundle\\": ""
                     }
                 },
-                "description": "Gestion de l'authentification via OTP"
+                "description": "Gestion de l'authentification via OTP",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-otp/tree/master",
+                    "issues": "https://github.com/grades-paca/bundle-otp/issues"
+                }
             }
         ]
     }
