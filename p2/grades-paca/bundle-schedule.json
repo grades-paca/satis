@@ -2154,6 +2154,46 @@
                     "source": "https://github.com/grades-paca/bundle-schedule/tree/1.7.1",
                     "issues": "https://github.com/grades-paca/bundle-schedule/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-schedule",
+                "version": "1.7.2",
+                "version_normalized": "1.7.2.0",
+                "target-dir": "Oru/Bundle/ScheduleBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-schedule.git",
+                    "reference": "1be490b545814c5e8d452595f18452fa2c39bb6b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/1be490b545814c5e8d452595f18452fa2c39bb6b",
+                    "reference": "1be490b545814c5e8d452595f18452fa2c39bb6b",
+                    "shasum": ""
+                },
+                "require": {
+                    "dragonmantank/cron-expression": "^3.0",
+                    "grades-paca/bundle-app": ">=1.0.9",
+                    "grades-paca/bundle-listing": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-06-03T09:25:16+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ScheduleBundle\\": ""
+                    }
+                },
+                "description": "Planificateur de taches ",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-schedule/tree/1.7.2",
+                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
+                }
             }
         ]
     }

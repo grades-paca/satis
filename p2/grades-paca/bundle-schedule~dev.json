@@ -283,12 +283,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "358d22105dc09c3f0211540aef2a8d33745cf1e3"
+                    "reference": "1be490b545814c5e8d452595f18452fa2c39bb6b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/358d22105dc09c3f0211540aef2a8d33745cf1e3",
-                    "reference": "358d22105dc09c3f0211540aef2a8d33745cf1e3",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/1be490b545814c5e8d452595f18452fa2c39bb6b",
+                    "reference": "1be490b545814c5e8d452595f18452fa2c39bb6b",
                     "shasum": ""
                 },
                 "require": {
@@ -297,7 +297,7 @@
                     "grades-paca/bundle-listing": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-04-20T13:06:31+00:00",
+                "time": "2022-06-03T09:25:16+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -312,7 +312,7 @@
                 },
                 "description": "Planificateur de taches ",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/1.7.1",
+                    "source": "https://github.com/grades-paca/bundle-schedule/tree/1.7.2",
                     "issues": "https://github.com/grades-paca/bundle-schedule/issues"
                 }
             },
