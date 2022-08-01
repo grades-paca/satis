@@ -255,12 +255,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-otp.git",
-                    "reference": "bb286ba2234850cc683cd4b1dbcdde03fab9e6db"
+                    "reference": "efacdf373d90dcfc81bd581a3593155592557eb5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-otp/zipball/bb286ba2234850cc683cd4b1dbcdde03fab9e6db",
-                    "reference": "bb286ba2234850cc683cd4b1dbcdde03fab9e6db",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-otp/zipball/efacdf373d90dcfc81bd581a3593155592557eb5",
+                    "reference": "efacdf373d90dcfc81bd581a3593155592557eb5",
                     "shasum": ""
                 },
                 "require": {
@@ -270,7 +270,7 @@
                     "spomky-labs/otphp": "^8.0",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-05-16T09:35:02+00:00",
+                "time": "2022-08-01T12:31:52+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
