@@ -167,6 +167,47 @@
             },
             {
                 "name": "grades-paca/bundle-otp",
+                "version": "234678.x-dev",
+                "version_normalized": "234678.9999999.9999999.9999999-dev",
+                "target-dir": "Oru/Bundle/OtpBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-otp.git",
+                    "reference": "679a6e02a1806ee5a6598e0d728f34fee7edd16b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-otp/zipball/679a6e02a1806ee5a6598e0d728f34fee7edd16b",
+                    "reference": "679a6e02a1806ee5a6598e0d728f34fee7edd16b",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-mail": "*",
+                    "grades-paca/bundle-sms": "*",
+                    "grades-paca/bundle-translation": "*",
+                    "spomky-labs/otphp": "^8.0",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-07-28T13:12:51+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\OtpBundle\\": ""
+                    }
+                },
+                "description": "Gestion de l'authentification via OTP",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-otp/tree/1.3.7",
+                    "issues": "https://github.com/grades-paca/bundle-otp/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-otp",
                 "version": "dev-230227_b",
                 "version_normalized": "dev-230227_b",
                 "target-dir": "Oru/Bundle/OtpBundle",
