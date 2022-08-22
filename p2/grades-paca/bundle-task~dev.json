@@ -96,12 +96,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-task.git",
-                    "reference": "a0f51daee2fb4f2508b24d384bcb53faa842cef2"
+                    "reference": "c37f9ee1f4bfcb5caebf97f29d7bf3b439e1784b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/a0f51daee2fb4f2508b24d384bcb53faa842cef2",
-                    "reference": "a0f51daee2fb4f2508b24d384bcb53faa842cef2",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/c37f9ee1f4bfcb5caebf97f29d7bf3b439e1784b",
+                    "reference": "c37f9ee1f4bfcb5caebf97f29d7bf3b439e1784b",
                     "shasum": ""
                 },
                 "require": {
@@ -115,7 +115,7 @@
                 "suggest": {
                     "grades-paca/bundle-translation": ">=1.0.3"
                 },
-                "time": "2022-07-28T07:40:07+00:00",
+                "time": "2022-08-22T10:05:04+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -130,7 +130,7 @@
                 },
                 "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-task/tree/1.3.4",
+                    "source": "https://github.com/grades-paca/bundle-task/tree/1.3.5",
                     "issues": "https://github.com/grades-paca/bundle-task/issues"
                 }
             },
