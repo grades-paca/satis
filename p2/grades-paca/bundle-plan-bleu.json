@@ -1194,6 +1194,47 @@
                     "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.6.1",
                     "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-plan-bleu",
+                "version": "1.6.2",
+                "version_normalized": "1.6.2.0",
+                "target-dir": "Oru/Bundle/PlanBleuBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
+                    "reference": "3485f6f0c17e773082cbca983e629e0f4503056c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/3485f6f0c17e773082cbca983e629e0f4503056c",
+                    "reference": "3485f6f0c17e773082cbca983e629e0f4503056c",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-attachment": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-09-06T10:35:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PlanBleuBundle\\": ""
+                    }
+                },
+                "description": "Plan bleu",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.6.2",
+                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
+                }
             }
         ]
     }
