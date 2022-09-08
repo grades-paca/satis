@@ -37,11 +37,7 @@
                         "Oru\\Bundle\\PlanBleuBundle\\": ""
                     }
                 },
-                "description": "Plan bleu",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.0.9",
-                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
-                }
+                "description": "Plan bleu"
             },
             {
                 "name": "grades-paca/bundle-plan-bleu",
@@ -79,11 +75,7 @@
                         "Oru\\Bundle\\PlanBleuBundle\\": ""
                     }
                 },
-                "description": "Plan bleu",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.1.3",
-                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
-                }
+                "description": "Plan bleu"
             },
             {
                 "name": "grades-paca/bundle-plan-bleu",
@@ -121,11 +113,7 @@
                         "Oru\\Bundle\\PlanBleuBundle\\": ""
                     }
                 },
-                "description": "Plan bleu",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.1.3",
-                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
-                }
+                "description": "Plan bleu"
             },
             {
                 "name": "grades-paca/bundle-plan-bleu",
@@ -162,11 +150,7 @@
                         "Oru\\Bundle\\PlanBleuBundle\\": ""
                     }
                 },
-                "description": "Plan bleu",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.5.9",
-                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
-                }
+                "description": "Plan bleu"
             },
             {
                 "name": "grades-paca/bundle-plan-bleu",
@@ -203,11 +187,7 @@
                         "Oru\\Bundle\\PlanBleuBundle\\": ""
                     }
                 },
-                "description": "Plan bleu",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/149700",
-                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
-                }
+                "description": "Plan bleu"
             },
             {
                 "name": "grades-paca/bundle-plan-bleu",
@@ -244,11 +224,7 @@
                         "Oru\\Bundle\\PlanBleuBundle\\": ""
                     }
                 },
-                "description": "Plan bleu",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/159703",
-                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
-                }
+                "description": "Plan bleu"
             },
             {
                 "name": "grades-paca/bundle-plan-bleu",
@@ -285,11 +261,7 @@
                         "Oru\\Bundle\\PlanBleuBundle\\": ""
                     }
                 },
-                "description": "Plan bleu",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/1.6.2",
-                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
-                }
+                "description": "Plan bleu"
             },
             {
                 "name": "grades-paca/bundle-plan-bleu",
@@ -327,11 +299,7 @@
                         "Oru\\Bundle\\PlanBleuBundle\\": ""
                     }
                 },
-                "description": "Plan bleu",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/master",
-                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
-                }
+                "description": "Plan bleu"
             },
             {
                 "name": "grades-paca/bundle-plan-bleu",
@@ -368,11 +336,7 @@
                         "Oru\\Bundle\\PlanBleuBundle\\": ""
                     }
                 },
-                "description": "Plan bleu",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-plan-bleu/tree/revert-3-159703",
-                    "issues": "https://github.com/grades-paca/bundle-plan-bleu/issues"
-                }
+                "description": "Plan bleu"
             }
         ]
     }
