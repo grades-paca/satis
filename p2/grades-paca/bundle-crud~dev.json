@@ -36,11 +36,7 @@
                         "Oru\\Bundle\\CrudBundle\\": ""
                     }
                 },
-                "description": "CRUD bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-crud/tree/1.2.2",
-                    "issues": "https://github.com/grades-paca/bundle-crud/issues"
-                }
+                "description": "CRUD bundle"
             }
         ]
     }
