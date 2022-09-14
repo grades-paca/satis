@@ -3,6 +3,474 @@
         "grades-paca/bundle-paginator": [
             {
                 "name": "grades-paca/bundle-paginator",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "25efff0724226aa031eb8d18766dea9e5de2ebe7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/25efff0724226aa031eb8d18766dea9e5de2ebe7",
+                    "reference": "25efff0724226aa031eb8d18766dea9e5de2ebe7",
+                    "shasum": ""
+                },
+                "require": {
+                    "knplabs/knp-paginator-bundle": "~2.5.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2015-11-26T15:27:30+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "70d33529a7c89c38544c8342b55b908030c04bc0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/70d33529a7c89c38544c8342b55b908030c04bc0",
+                    "reference": "70d33529a7c89c38544c8342b55b908030c04bc0",
+                    "shasum": ""
+                },
+                "require": {
+                    "knplabs/knp-paginator-bundle": "~2.5.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-25T14:17:40+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "146ba97b414400f1560edaf5d5fab2bc69a0aa32"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/146ba97b414400f1560edaf5d5fab2bc69a0aa32",
+                    "reference": "146ba97b414400f1560edaf5d5fab2bc69a0aa32",
+                    "shasum": ""
+                },
+                "require": {
+                    "knplabs/knp-paginator-bundle": "~2.5.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-03-29T07:20:57+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "28a94f70be8cfb48788cc810a1a09aa45604f4ff"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/28a94f70be8cfb48788cc810a1a09aa45604f4ff",
+                    "reference": "28a94f70be8cfb48788cc810a1a09aa45604f4ff",
+                    "shasum": ""
+                },
+                "require": {
+                    "knplabs/knp-paginator-bundle": "~2.5.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-04-28T10:22:38+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "94c9286236070862b8b242c0ada20ff147dfc4f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/94c9286236070862b8b242c0ada20ff147dfc4f4",
+                    "reference": "94c9286236070862b8b242c0ada20ff147dfc4f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "knplabs/knp-paginator-bundle": "~2.5.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-10-10T09:43:53+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "942d5019171c8741b6f6bff4be362d73ff931af5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/942d5019171c8741b6f6bff4be362d73ff931af5",
+                    "reference": "942d5019171c8741b6f6bff4be362d73ff931af5",
+                    "shasum": ""
+                },
+                "require": {
+                    "knplabs/knp-paginator-bundle": "~2.5.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2016-10-17T13:59:49+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "f4f3affd09e5d9179b4ccc56cd9a2f98256165eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/f4f3affd09e5d9179b4ccc56cd9a2f98256165eb",
+                    "reference": "f4f3affd09e5d9179b4ccc56cd9a2f98256165eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "knplabs/knp-paginator-bundle": "~2.5.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-25T10:45:20+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.0.6",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "5837d7810e81d5926cc2469ed5bbc81e67fe3075"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/5837d7810e81d5926cc2469ed5bbc81e67fe3075",
+                    "reference": "5837d7810e81d5926cc2469ed5bbc81e67fe3075",
+                    "shasum": ""
+                },
+                "require": {
+                    "knplabs/knp-paginator-bundle": "~2.5.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-01-31T14:52:01+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.0.7",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "8e6e183a33221805e73065ff5c51a86140d7376c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/8e6e183a33221805e73065ff5c51a86140d7376c",
+                    "reference": "8e6e183a33221805e73065ff5c51a86140d7376c",
+                    "shasum": ""
+                },
+                "require": {
+                    "knplabs/knp-paginator-bundle": "~2.5.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2017-03-10T08:14:45+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.0.8",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "123c738f5e725d6d935224adb780b40d0b9c1986"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/123c738f5e725d6d935224adb780b40d0b9c1986",
+                    "reference": "123c738f5e725d6d935224adb780b40d0b9c1986",
+                    "shasum": ""
+                },
+                "require": {
+                    "knplabs/knp-paginator-bundle": "~2.5.0",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-01-26T10:16:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "ac87025a0f3e0771fa464106fb16e1c6fe1d6d94"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/ac87025a0f3e0771fa464106fb16e1c6fe1d6d94",
+                    "reference": "ac87025a0f3e0771fa464106fb16e1c6fe1d6d94",
+                    "shasum": ""
+                },
+                "require": {
+                    "knplabs/knp-paginator-bundle": "^2.5",
+                    "oru/listing": "*",
+                    "symfony/symfony": ">=2.3,<3.0@dev"
+                },
+                "time": "2018-10-01T10:27:41+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "9cfd8eae2d16a6f7dfaa62a9d71c08f5e194beef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/9cfd8eae2d16a6f7dfaa62a9d71c08f5e194beef",
+                    "reference": "9cfd8eae2d16a6f7dfaa62a9d71c08f5e194beef",
+                    "shasum": ""
+                },
+                "require": {
+                    "knplabs/knp-paginator-bundle": "^2.8",
+                    "oru/listing": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0"
+                },
+                "time": "2019-02-06T09:59:59+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "3.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
                 "version": "1.2.1",
                 "version_normalized": "1.2.1.0",
                 "target-dir": "Oru/Bundle/PaginatorBundle",
