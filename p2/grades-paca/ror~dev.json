@@ -43576,12 +43576,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/ror.git",
-                    "reference": "7102cdf9d9479499e07e185205449bf9c61ca013"
+                    "reference": "20433053cecb03c9de555a49835347b421d3e17d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/7102cdf9d9479499e07e185205449bf9c61ca013",
-                    "reference": "7102cdf9d9479499e07e185205449bf9c61ca013",
+                    "url": "https://api.github.com/repos/grades-paca/ror/zipball/20433053cecb03c9de555a49835347b421d3e17d",
+                    "reference": "20433053cecb03c9de555a49835347b421d3e17d",
                     "shasum": ""
                 },
                 "require": {
@@ -43726,7 +43726,7 @@
                     "symfony/stopwatch": "^4.4",
                     "symfony/web-profiler-bundle": "^4.4"
                 },
-                "time": "2022-09-13T14:33:17+00:00",
+                "time": "2022-09-14T09:03:20+00:00",
                 "type": "project",
                 "extra": {
                     "symfony-bin-dir": "bin",
