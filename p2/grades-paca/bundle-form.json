@@ -5444,6 +5444,55 @@
                     }
                 },
                 "description": "Surcharge des formulaires"
+            },
+            {
+                "name": "grades-paca/bundle-form",
+                "version": "1.9.2",
+                "version_normalized": "1.9.2.0",
+                "target-dir": "Oru/Bundle/FormBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-form.git",
+                    "reference": "686fa3d5d15e234403610e11a45527fee84c7df8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/686fa3d5d15e234403610e11a45527fee84c7df8",
+                    "reference": "686fa3d5d15e234403610e11a45527fee84c7df8",
+                    "shasum": ""
+                },
+                "require": {
+                    "algo26-matthias/idna-convert": "^2.1",
+                    "egeloen/ordered-form-bundle": "^3.0",
+                    "excelwebzone/recaptcha-bundle": "^1.5",
+                    "exercise/htmlpurifier-bundle": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "friendsofsymfony/ckeditor-bundle": "^2.2",
+                    "grades-paca/bundle-denied-field": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-jquery-mask": "*",
+                    "grades-paca/bundle-mail": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "odolbeau/phone-number-bundle": "~3.6",
+                    "shapecode/hidden-entity-type-bundle": "^5.1",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-09-15T12:03:44+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\FormBundle\\": ""
+                    }
+                },
+                "description": "Surcharge des formulaires"
             }
         ]
     }
