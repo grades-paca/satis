@@ -20,7 +20,7 @@
                 "require": {
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2015-06-02T12:13:10+00:00",
+                "time": "2015-06-02T15:59:05+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -32,7 +32,11 @@
                         "Oru\\Bundle\\JqueryMaskBundle\\": ""
                     }
                 },
-                "description": "Ajout de la librairie mask pour jQuery"
+                "description": "Ajout de la librairie mask pour jQuery",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jquery-mask/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-jquery-mask/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-jquery-mask",
@@ -65,7 +69,11 @@
                         "Oru\\Bundle\\JqueryMaskBundle\\": ""
                     }
                 },
-                "description": "Ajout de la librairie mask pour jQuery"
+                "description": "Ajout de la librairie mask pour jQuery",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jquery-mask/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-jquery-mask/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-jquery-mask",
@@ -98,7 +106,11 @@
                         "Oru\\Bundle\\JqueryMaskBundle\\": ""
                     }
                 },
-                "description": "Ajout de la librairie mask pour jQuery"
+                "description": "Ajout de la librairie mask pour jQuery",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jquery-mask/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-jquery-mask/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-jquery-mask",
@@ -131,7 +143,11 @@
                         "Oru\\Bundle\\JqueryMaskBundle\\": ""
                     }
                 },
-                "description": "Ajout de la librairie mask pour jQuery"
+                "description": "Ajout de la librairie mask pour jQuery",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-jquery-mask/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-jquery-mask/issues"
+                }
             }
         ]
     }
