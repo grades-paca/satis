@@ -34,7 +34,11 @@
                         "Oru\\Bundle\\EsmsBundle\\": ""
                     }
                 },
-                "description": "Bundle ESMS pour le ROR 3"
+                "description": "Bundle ESMS pour le ROR 3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-esms/tree/1.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-esms/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-esms",
@@ -71,7 +75,11 @@
                         "Oru\\Bundle\\EsmsBundle\\": ""
                     }
                 },
-                "description": "Bundle ESMS pour le ROR 3"
+                "description": "Bundle ESMS pour le ROR 3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-esms/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-esms/issues"
+                }
             }
         ]
     }
