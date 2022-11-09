@@ -307,12 +307,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-design.git",
-                    "reference": "5284f713aa52095cecf564c52bbf29b7112811ab"
+                    "reference": "2b3edfe3d8829524d396d806102dbfb82df1e556"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/5284f713aa52095cecf564c52bbf29b7112811ab",
-                    "reference": "5284f713aa52095cecf564c52bbf29b7112811ab",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/2b3edfe3d8829524d396d806102dbfb82df1e556",
+                    "reference": "2b3edfe3d8829524d396d806102dbfb82df1e556",
                     "shasum": ""
                 },
                 "require": {
@@ -325,7 +325,7 @@
                     "suncat/mobile-detect-bundle": "^1.1",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-10-31T15:10:30+00:00",
+                "time": "2022-11-08T15:45:28+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -588,12 +588,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-design.git",
-                    "reference": "5101696e15db36774303548cac43d0743f47b016"
+                    "reference": "7afd1f322261d53a6cb21aa1ab6c087c01173de3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/5101696e15db36774303548cac43d0743f47b016",
-                    "reference": "5101696e15db36774303548cac43d0743f47b016",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/7afd1f322261d53a6cb21aa1ab6c087c01173de3",
+                    "reference": "7afd1f322261d53a6cb21aa1ab6c087c01173de3",
                     "shasum": ""
                 },
                 "require": {
@@ -606,7 +606,7 @@
                     "suncat/mobile-detect-bundle": "^1.1",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-10-13T09:48:28+00:00",
+                "time": "2022-11-09T15:03:00+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
