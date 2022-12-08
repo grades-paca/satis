@@ -467,18 +467,18 @@
             },
             {
                 "name": "grades-paca/bundle-form",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-fix_45800",
+                "version_normalized": "dev-fix_45800",
                 "target-dir": "Oru/Bundle/FormBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "dd01e80ffd7279a629d97957b88a60b2223bb7a9"
+                    "reference": "4eb859d5c6517286b417dd487ad038f1d27cab7f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/dd01e80ffd7279a629d97957b88a60b2223bb7a9",
-                    "reference": "dd01e80ffd7279a629d97957b88a60b2223bb7a9",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/4eb859d5c6517286b417dd487ad038f1d27cab7f",
+                    "reference": "4eb859d5c6517286b417dd487ad038f1d27cab7f",
                     "shasum": ""
                 },
                 "require": {
@@ -500,7 +500,56 @@
                     "shapecode/hidden-entity-type-bundle": "^5.1",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-09-08T14:37:59+00:00",
+                "time": "2022-12-08T09:49:57+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\FormBundle\\": ""
+                    }
+                },
+                "description": "Surcharge des formulaires"
+            },
+            {
+                "name": "grades-paca/bundle-form",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "target-dir": "Oru/Bundle/FormBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-form.git",
+                    "reference": "d4a07a1dedde4b2f9382c306197686c518391289"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/d4a07a1dedde4b2f9382c306197686c518391289",
+                    "reference": "d4a07a1dedde4b2f9382c306197686c518391289",
+                    "shasum": ""
+                },
+                "require": {
+                    "algo26-matthias/idna-convert": "^2.1",
+                    "egeloen/ordered-form-bundle": "^3.0",
+                    "excelwebzone/recaptcha-bundle": "^1.5",
+                    "exercise/htmlpurifier-bundle": "*",
+                    "ext-intl": "*",
+                    "ext-json": "*",
+                    "ext-openssl": "*",
+                    "friendsofsymfony/ckeditor-bundle": "^2.2",
+                    "grades-paca/bundle-denied-field": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-jquery-mask": "*",
+                    "grades-paca/bundle-mail": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "odolbeau/phone-number-bundle": "^3.0",
+                    "shapecode/hidden-entity-type-bundle": "^5.1",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-12-08T10:51:38+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
