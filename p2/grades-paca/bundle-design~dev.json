@@ -219,6 +219,46 @@
             },
             {
                 "name": "grades-paca/bundle-design",
+                "version": "1.8.x-dev",
+                "version_normalized": "1.8.9999999.9999999-dev",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "7afd1f322261d53a6cb21aa1ab6c087c01173de3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/7afd1f322261d53a6cb21aa1ab6c087c01173de3",
+                    "reference": "7afd1f322261d53a6cb21aa1ab6c087c01173de3",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.7",
+                    "grades-paca/bundle-form": ">=1.3.1",
+                    "grades-paca/bundle-install": ">=1.0.3",
+                    "grades-paca/bundle-privacy-banner": "*",
+                    "suncat/mobile-detect-bundle": "^1.1",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-11-09T15:03:00+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle"
+            },
+            {
+                "name": "grades-paca/bundle-design",
                 "version": "214068.x-dev",
                 "version_normalized": "214068.9999999.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/DesignBundle",
@@ -286,6 +326,46 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
                 "time": "2022-05-17T14:31:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle"
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "253839.x-dev",
+                "version_normalized": "253839.9999999.9999999.9999999-dev",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "bc985f887a089a807735b6cfe97dd9881844b811"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/bc985f887a089a807735b6cfe97dd9881844b811",
+                    "reference": "bc985f887a089a807735b6cfe97dd9881844b811",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.7",
+                    "grades-paca/bundle-form": ">=1.3.1",
+                    "grades-paca/bundle-install": ">=1.0.3",
+                    "grades-paca/bundle-privacy-banner": "*",
+                    "suncat/mobile-detect-bundle": "^1.1",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2022-12-15T14:12:20+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
