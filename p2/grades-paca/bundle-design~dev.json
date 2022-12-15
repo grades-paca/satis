@@ -668,12 +668,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-design.git",
-                    "reference": "7afd1f322261d53a6cb21aa1ab6c087c01173de3"
+                    "reference": "f3efee88037761931429ddc4c930c533a8dfd056"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/7afd1f322261d53a6cb21aa1ab6c087c01173de3",
-                    "reference": "7afd1f322261d53a6cb21aa1ab6c087c01173de3",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/f3efee88037761931429ddc4c930c533a8dfd056",
+                    "reference": "f3efee88037761931429ddc4c930c533a8dfd056",
                     "shasum": ""
                 },
                 "require": {
@@ -686,7 +686,7 @@
                     "suncat/mobile-detect-bundle": "^1.1",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-11-09T15:03:00+00:00",
+                "time": "2022-12-15T14:51:03+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
