@@ -34,11 +34,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOSRassBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/5.2.4",
-                    "issues": "https://github.com/grades-paca/bundle-rass/issues"
-                }
+                "description": "Symfony ATOSRassBundle"
             },
             {
                 "name": "atos/bundle-rass",
@@ -73,11 +69,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOSRassBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/5.2.5",
-                    "issues": "https://github.com/grades-paca/bundle-rass/issues"
-                }
+                "description": "Symfony ATOSRassBundle"
             },
             {
                 "name": "atos/bundle-rass",
@@ -112,11 +104,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOSRassBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/5.3.0",
-                    "issues": "https://github.com/grades-paca/bundle-rass/issues"
-                }
+                "description": "Symfony ATOSRassBundle"
             },
             {
                 "name": "atos/bundle-rass",
@@ -151,11 +139,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOSRassBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/5.3.1",
-                    "issues": "https://github.com/grades-paca/bundle-rass/issues"
-                }
+                "description": "Symfony ATOSRassBundle"
             },
             {
                 "name": "atos/bundle-rass",
@@ -190,11 +174,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOSRassBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/5.3.3",
-                    "issues": "https://github.com/grades-paca/bundle-rass/issues"
-                }
+                "description": "Symfony ATOSRassBundle"
             },
             {
                 "name": "atos/bundle-rass",
@@ -217,7 +197,7 @@
                     "php": ">=7.0",
                     "symfony/framework-bundle": "~4.4"
                 },
-                "time": "2022-12-20T08:04:23+00:00",
+                "time": "2022-12-20T07:59:39+00:00",
                 "type": "symfony-bundle",
                 "autoload": {
                     "psr-4": {
@@ -229,11 +209,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOSRassBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/5.3.4",
-                    "issues": "https://github.com/grades-paca/bundle-rass/issues"
-                }
+                "description": "Symfony ATOSRassBundle"
             },
             {
                 "name": "atos/bundle-rass",
@@ -268,11 +244,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOSRassBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/5.3.5",
-                    "issues": "https://github.com/grades-paca/bundle-rass/issues"
-                }
+                "description": "Symfony ATOSRassBundle"
             },
             {
                 "name": "atos/bundle-rass",
@@ -308,11 +280,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOSRassBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/main",
-                    "issues": "https://github.com/grades-paca/bundle-rass/issues"
-                }
+                "description": "Symfony ATOSRassBundle"
             }
         ]
     }
