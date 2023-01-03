@@ -29,7 +29,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "white-october/pagerfanta-bundle": "1.0.*"
                 },
-                "time": "2015-10-02T09:08:45+00:00",
+                "time": "2015-09-22T11:42:13+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -41,11 +41,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.0.0",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -75,7 +71,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "white-october/pagerfanta-bundle": "1.0.*"
                 },
-                "time": "2015-10-02T09:08:45+00:00",
+                "time": "2015-09-16T08:18:38+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -87,11 +83,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.0",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -121,7 +113,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "white-october/pagerfanta-bundle": "1.0.*"
                 },
-                "time": "2015-10-08T12:29:23+00:00",
+                "time": "2015-10-08T12:28:24+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -133,11 +125,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.1",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -179,11 +167,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.2",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -225,11 +209,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.3",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -259,7 +239,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "white-october/pagerfanta-bundle": "1.0.*"
                 },
-                "time": "2015-10-27T09:49:31+00:00",
+                "time": "2015-10-27T09:38:20+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -271,11 +251,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.4",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -305,7 +281,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "white-october/pagerfanta-bundle": "1.0.*"
                 },
-                "time": "2015-11-06T13:10:05+00:00",
+                "time": "2015-11-06T13:09:12+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -317,11 +293,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.5",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -363,11 +335,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.6",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -409,11 +377,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.1.7",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -456,11 +420,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.0",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -503,11 +463,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.1",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -551,11 +507,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.2",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -599,11 +551,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.3",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -647,11 +595,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.4",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -683,7 +627,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "white-october/pagerfanta-bundle": "1.0.*"
                 },
-                "time": "2016-04-11T10:22:29+00:00",
+                "time": "2016-04-11T10:05:38+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -695,11 +639,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.5",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -731,7 +671,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "white-october/pagerfanta-bundle": "1.0.*"
                 },
-                "time": "2016-09-09T12:31:26+00:00",
+                "time": "2016-09-09T12:25:05+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -743,11 +683,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.2.6",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -779,7 +715,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "white-october/pagerfanta-bundle": "1.0.*"
                 },
-                "time": "2016-06-02T10:06:24+00:00",
+                "time": "2015-12-17T11:08:41+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -791,11 +727,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.0",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -827,7 +759,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "white-october/pagerfanta-bundle": "1.0.*"
                 },
-                "time": "2016-06-14T13:01:21+00:00",
+                "time": "2016-06-14T12:58:46+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -839,11 +771,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.1",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -887,11 +815,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.10",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -935,11 +859,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.11",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -983,11 +903,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.12",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1031,11 +947,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.13",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1079,11 +991,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.14",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1127,11 +1035,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.15",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1175,11 +1079,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.16",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1211,7 +1111,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "white-october/pagerfanta-bundle": "1.0.*"
                 },
-                "time": "2018-01-08T13:04:32+00:00",
+                "time": "2018-01-08T12:55:29+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1223,11 +1123,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.17",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1271,11 +1167,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.18",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1319,11 +1211,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.19",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1367,11 +1255,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.2",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1415,11 +1299,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.3",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1463,11 +1343,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.4",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1511,11 +1387,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.5",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1559,11 +1431,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.6",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1607,11 +1475,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.7",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1655,11 +1519,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.8",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1703,11 +1563,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.3.9",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1751,11 +1607,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.0",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1799,11 +1651,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.1",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1847,11 +1695,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.10",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1895,11 +1739,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.11",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1943,11 +1783,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.12",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -1991,11 +1827,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.2",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2039,11 +1871,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.3",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2087,11 +1915,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.4",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2135,11 +1959,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.5",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2183,11 +2003,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.6",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2231,11 +2047,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.7",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2279,11 +2091,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.8",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2327,11 +2135,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.4.9",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2363,7 +2167,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "white-october/pagerfanta-bundle": "1.0.*"
                 },
-                "time": "2018-12-05T10:03:45+00:00",
+                "time": "2018-12-05T09:57:12+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -2375,11 +2179,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.5.0",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2413,7 +2213,7 @@
                     "symfony/symfony": ">=2.7,<4.0",
                     "white-october/pagerfanta-bundle": "^1.0"
                 },
-                "time": "2018-12-07T14:49:05+00:00",
+                "time": "2018-12-07T12:16:06+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -2425,11 +2225,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.5.1",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2463,7 +2259,7 @@
                     "symfony/symfony": ">=2.7,<4.0",
                     "white-october/pagerfanta-bundle": "^1.0"
                 },
-                "time": "2019-01-16T09:43:39+00:00",
+                "time": "2019-01-16T09:27:36+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -2475,11 +2271,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.5.2",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2525,11 +2317,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.6.0",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2575,11 +2363,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.6.1",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2625,11 +2409,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.6.2",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2675,11 +2455,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.6.3",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2725,11 +2501,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.6.4",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2775,11 +2547,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.6.5",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2807,7 +2575,7 @@
                     "suncat/mobile-detect-bundle": "^1.1",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-03-01T11:19:11+00:00",
+                "time": "2022-03-01T08:53:09+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -2819,11 +2587,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.7.0",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2863,11 +2627,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.7.1",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2907,11 +2667,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.7.2",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2952,11 +2708,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.7.3",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -2997,11 +2749,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.7.4",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3042,11 +2790,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.7.5",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3087,11 +2831,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.7.6",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3131,11 +2871,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.0",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3175,11 +2911,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.1",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3219,11 +2951,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.10",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3263,11 +2991,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.11",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3307,11 +3031,47 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.12",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.8.13",
+                "version_normalized": "1.8.13.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "aa10058a38eba13127e419363f7db6822ed130fb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/aa10058a38eba13127e419363f7db6822ed130fb",
+                    "reference": "aa10058a38eba13127e419363f7db6822ed130fb",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/angular.js": "~1.3",
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.7",
+                    "grades-paca/bundle-form": ">=1.3.1",
+                    "grades-paca/bundle-install": ">=1.0.3",
+                    "grades-paca/bundle-privacy-banner": "*",
+                    "suncat/mobile-detect-bundle": "^1.1",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2023-01-03T09:47:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3351,11 +3111,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.2",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3395,11 +3151,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.3",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3439,11 +3191,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.4",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3483,11 +3231,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.5",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3527,11 +3271,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.6",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3571,11 +3311,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.7",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3615,11 +3351,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.8",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             },
             {
                 "name": "grades-paca/bundle-design",
@@ -3659,11 +3391,7 @@
                         "Oru\\Bundle\\DesignBundle\\": ""
                     }
                 },
-                "description": "Design bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.9",
-                    "issues": "https://github.com/grades-paca/bundle-design/issues"
-                }
+                "description": "Design bundle"
             }
         ]
     }
