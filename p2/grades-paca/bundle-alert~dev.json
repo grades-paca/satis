@@ -43,12 +43,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-alert.git",
-                    "reference": "be97c7e771152dc232220419ecbbd8c557b4bdbf"
+                    "reference": "c69dad1ee191c27f266357ae42d135232e4d9fda"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-alert/zipball/be97c7e771152dc232220419ecbbd8c557b4bdbf",
-                    "reference": "be97c7e771152dc232220419ecbbd8c557b4bdbf",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-alert/zipball/c69dad1ee191c27f266357ae42d135232e4d9fda",
+                    "reference": "c69dad1ee191c27f266357ae42d135232e4d9fda",
                     "shasum": ""
                 },
                 "require": {
