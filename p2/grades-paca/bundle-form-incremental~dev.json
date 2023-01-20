@@ -3,24 +3,57 @@
         "grades-paca/bundle-form-incremental": [
             {
                 "name": "grades-paca/bundle-form-incremental",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "target-dir": "Oru/Bundle/FormIncrementalBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-form-incremental.git",
+                    "reference": "94547133442e7a81859a83998fe23c5da4d308ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form-incremental/zipball/94547133442e7a81859a83998fe23c5da4d308ea",
+                    "reference": "94547133442e7a81859a83998fe23c5da4d308ea",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-06T15:54:15+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\FormIncrementalBundle\\": ""
+                    }
+                },
+                "description": "Gérer des forms dont les champs évoluent d'une instance à l'autre"
+            },
+            {
+                "name": "grades-paca/bundle-form-incremental",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "target-dir": "Oru/Bundle/FormIncrementalBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form-incremental.git",
-                    "reference": "23a866806d2da7864e0d23471fa1213c7b519c19"
+                    "reference": "8a65b343c2457d47551d62c50dcfb158db8a2e51"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form-incremental/zipball/23a866806d2da7864e0d23471fa1213c7b519c19",
-                    "reference": "23a866806d2da7864e0d23471fa1213c7b519c19",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form-incremental/zipball/8a65b343c2457d47551d62c50dcfb158db8a2e51",
+                    "reference": "8a65b343c2457d47551d62c50dcfb158db8a2e51",
                     "shasum": ""
                 },
                 "require": {
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2022-03-01T09:21:41+00:00",
+                "time": "2023-01-12T14:57:50+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

@@ -380,6 +380,41 @@
                     }
                 },
                 "description": "Ce bundle écoute les alertes sur les actions sensibles et les envoie par mail."
+            },
+            {
+                "name": "grades-paca/bundle-alert",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-alert.git",
+                    "reference": "c86a3c1d1291b14a52fda18abcaea53a9a459449"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-alert/zipball/c86a3c1d1291b14a52fda18abcaea53a9a459449",
+                    "reference": "c86a3c1d1291b14a52fda18abcaea53a9a459449",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-error-logger": "*",
+                    "grades-paca/bundle-mail": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-11T10:27:31+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AlertBundle\\": ""
+                    }
+                },
+                "description": "Ce bundle écoute les alertes sur les actions sensibles et les envoie par mail."
             }
         ]
     }

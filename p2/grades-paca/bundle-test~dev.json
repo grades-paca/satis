@@ -3,24 +3,57 @@
         "grades-paca/bundle-test": [
             {
                 "name": "grades-paca/bundle-test",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "target-dir": "Oru/Bundle/TestBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-test.git",
+                    "reference": "b844b2f0a3bc9a9d7806f14e84f0939f67863438"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-test/zipball/b844b2f0a3bc9a9d7806f14e84f0939f67863438",
+                    "reference": "b844b2f0a3bc9a9d7806f14e84f0939f67863438",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-11T10:20:19+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\TestBundle\\": ""
+                    }
+                },
+                "description": "Bundle avec entités de test"
+            },
+            {
+                "name": "grades-paca/bundle-test",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "target-dir": "Oru/Bundle/TestBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-test.git",
-                    "reference": "9b822128aac46e252e877ce10876cef084ef2105"
+                    "reference": "210b22b05333cb2e7d1759d653b43f1bad38183e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-test/zipball/9b822128aac46e252e877ce10876cef084ef2105",
-                    "reference": "9b822128aac46e252e877ce10876cef084ef2105",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-test/zipball/210b22b05333cb2e7d1759d653b43f1bad38183e",
+                    "reference": "210b22b05333cb2e7d1759d653b43f1bad38183e",
                     "shasum": ""
                 },
                 "require": {
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2022-03-01T10:58:50+00:00",
+                "time": "2023-01-19T15:34:50+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

@@ -3,23 +3,55 @@
         "grades-paca/bundle-denied-field": [
             {
                 "name": "grades-paca/bundle-denied-field",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-denied-field.git",
+                    "reference": "bd6b3ed2d9212b1c8d854e87239640c51a7579c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-denied-field/zipball/bd6b3ed2d9212b1c8d854e87239640c51a7579c9",
+                    "reference": "bd6b3ed2d9212b1c8d854e87239640c51a7579c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-05T10:19:11+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\DeniedFieldBundle\\": ""
+                    }
+                },
+                "description": "Gestion des droits sur les propriétés des entités"
+            },
+            {
+                "name": "grades-paca/bundle-denied-field",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-denied-field.git",
-                    "reference": "c6c0637418f5808aa5e8d3dedd8e7b3e60c145df"
+                    "reference": "d1000fc4198805d8bbbded12a03cf7c946968a2b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-denied-field/zipball/c6c0637418f5808aa5e8d3dedd8e7b3e60c145df",
-                    "reference": "c6c0637418f5808aa5e8d3dedd8e7b3e60c145df",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-denied-field/zipball/d1000fc4198805d8bbbded12a03cf7c946968a2b",
+                    "reference": "d1000fc4198805d8bbbded12a03cf7c946968a2b",
                     "shasum": ""
                 },
                 "require": {
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2022-03-01T08:14:25+00:00",
+                "time": "2023-01-11T16:36:34+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

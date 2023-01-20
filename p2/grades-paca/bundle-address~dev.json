@@ -562,12 +562,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-address.git",
-                    "reference": "cccc45d0ba24546c2c6a8a53d6d173060f32511c"
+                    "reference": "98ae75af5e68d9723a7af4f0fedf86b6c334f2a6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/cccc45d0ba24546c2c6a8a53d6d173060f32511c",
-                    "reference": "cccc45d0ba24546c2c6a8a53d6d173060f32511c",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/98ae75af5e68d9723a7af4f0fedf86b6c334f2a6",
+                    "reference": "98ae75af5e68d9723a7af4f0fedf86b6c334f2a6",
                     "shasum": ""
                 },
                 "require": {
@@ -599,12 +599,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-address.git",
-                    "reference": "f75ac199c0019619f2ee4c81b890073eca9c31ae"
+                    "reference": "d62c9a2090303edfdaa8c16cd06dde30b7305134"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/f75ac199c0019619f2ee4c81b890073eca9c31ae",
-                    "reference": "f75ac199c0019619f2ee4c81b890073eca9c31ae",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/d62c9a2090303edfdaa8c16cd06dde30b7305134",
+                    "reference": "d62c9a2090303edfdaa8c16cd06dde30b7305134",
                     "shasum": ""
                 },
                 "require": {
@@ -612,9 +612,9 @@
                     "grades-paca/bundle-install": ">=1.0.5",
                     "grades-paca/bundle-lst": ">=1.1.8",
                     "grades-paca/bundle-translation": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2022-07-04T12:14:55+00:00",
+                "time": "2023-01-11T14:06:30+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

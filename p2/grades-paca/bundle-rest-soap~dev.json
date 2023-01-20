@@ -77,18 +77,18 @@
             },
             {
                 "name": "grades-paca/bundle-rest-soap",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
                 "target-dir": "Oru/Bundle/RestSoapBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-rest-soap.git",
-                    "reference": "9e4b66d12cc8e2d444cdfb4adae07d8a0cd59d3f"
+                    "reference": "c90e7450472ed955f2008641cef7e102d7876831"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-rest-soap/zipball/9e4b66d12cc8e2d444cdfb4adae07d8a0cd59d3f",
-                    "reference": "9e4b66d12cc8e2d444cdfb4adae07d8a0cd59d3f",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rest-soap/zipball/c90e7450472ed955f2008641cef7e102d7876831",
+                    "reference": "c90e7450472ed955f2008641cef7e102d7876831",
                     "shasum": ""
                 },
                 "require": {
@@ -96,9 +96,46 @@
                     "friendsofsymfony/rest-bundle": "^3.0",
                     "jms/serializer-bundle": "*",
                     "nelmio/api-doc-bundle": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "symfony/framework-bundle": "^4.0 || ^5.0 "
                 },
-                "time": "2022-03-10T10:52:09+00:00",
+                "time": "2023-01-10T15:46:18+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\RestSoapBundle\\": ""
+                    }
+                },
+                "description": "Intégration de Soap au bundle FOSRestBundle"
+            },
+            {
+                "name": "grades-paca/bundle-rest-soap",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "target-dir": "Oru/Bundle/RestSoapBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-rest-soap.git",
+                    "reference": "8ddb00b69c00ac7f0a8ce7dedefd3513404e6469"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rest-soap/zipball/8ddb00b69c00ac7f0a8ce7dedefd3513404e6469",
+                    "reference": "8ddb00b69c00ac7f0a8ce7dedefd3513404e6469",
+                    "shasum": ""
+                },
+                "require": {
+                    "besimple/soap": "0.5.*",
+                    "friendsofsymfony/rest-bundle": "^3.0",
+                    "jms/serializer-bundle": "*",
+                    "nelmio/api-doc-bundle": "*",
+                    "symfony/framework-bundle": "^4.0 || ^5.0 "
+                },
+                "time": "2023-01-19T15:29:46+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

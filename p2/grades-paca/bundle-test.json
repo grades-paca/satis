@@ -198,6 +198,39 @@
                     }
                 },
                 "description": "Bundle avec entités de test"
+            },
+            {
+                "name": "grades-paca/bundle-test",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "target-dir": "Oru/Bundle/TestBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-test.git",
+                    "reference": "210b22b05333cb2e7d1759d653b43f1bad38183e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-test/zipball/210b22b05333cb2e7d1759d653b43f1bad38183e",
+                    "reference": "210b22b05333cb2e7d1759d653b43f1bad38183e",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-19T15:34:50+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\TestBundle\\": ""
+                    }
+                },
+                "description": "Bundle avec entités de test"
             }
         ]
     }

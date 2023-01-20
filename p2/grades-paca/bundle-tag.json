@@ -271,6 +271,39 @@
                     }
                 },
                 "description": "Gestion de tags"
+            },
+            {
+                "name": "grades-paca/bundle-tag",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "target-dir": "Oru/Bundle/TagBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-tag.git",
+                    "reference": "7bf9eb019e19a646ddfb0805dbbf013f7a41ec43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-tag/zipball/7bf9eb019e19a646ddfb0805dbbf013f7a41ec43",
+                    "reference": "7bf9eb019e19a646ddfb0805dbbf013f7a41ec43",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-19T15:33:25+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\TagBundle\\": ""
+                    }
+                },
+                "description": "Gestion de tags"
             }
         ]
     }

@@ -72,25 +72,59 @@
             },
             {
                 "name": "grades-paca/bundle-lst",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "0e46a594ee60ec2a486ac704c80b387b17952078"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/0e46a594ee60ec2a486ac704c80b387b17952078",
+                    "reference": "0e46a594ee60ec2a486ac704c80b387b17952078",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-form": "*",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-09T17:03:54+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix"
+            },
+            {
+                "name": "grades-paca/bundle-lst",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "target-dir": "Oru/Bundle/LstBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-lst.git",
-                    "reference": "8b239a4b43c3b0c3232735c0290265a5237af55e"
+                    "reference": "42a55f8915c8ff722a4d0411619dc7e146eca990"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/8b239a4b43c3b0c3232735c0290265a5237af55e",
-                    "reference": "8b239a4b43c3b0c3232735c0290265a5237af55e",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/42a55f8915c8ff722a4d0411619dc7e146eca990",
+                    "reference": "42a55f8915c8ff722a4d0411619dc7e146eca990",
                     "shasum": ""
                 },
                 "require": {
                     "grades-paca/bundle-form": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2022-12-19T13:02:08+00:00",
+                "time": "2023-01-12T13:34:09+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

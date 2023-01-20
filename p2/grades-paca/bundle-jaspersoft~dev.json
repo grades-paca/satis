@@ -69,24 +69,57 @@
             },
             {
                 "name": "grades-paca/bundle-jaspersoft",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "target-dir": "Oru/Bundle/JaspersoftBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
+                    "reference": "8375b7ec8f1f28070bf0a140ededae04f59f39ff"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/8375b7ec8f1f28070bf0a140ededae04f59f39ff",
+                    "reference": "8375b7ec8f1f28070bf0a140ededae04f59f39ff",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-06T16:11:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\JaspersoftBundle\\": ""
+                    }
+                },
+                "description": "Permet l'intégration de rapports Jaspersoft"
+            },
+            {
+                "name": "grades-paca/bundle-jaspersoft",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "target-dir": "Oru/Bundle/JaspersoftBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
-                    "reference": "785e2c8e648666f91d7a0e1c430c77422eed1404"
+                    "reference": "119baffccc3cc01a1d178883f16a6460c4a68e2f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/785e2c8e648666f91d7a0e1c430c77422eed1404",
-                    "reference": "785e2c8e648666f91d7a0e1c430c77422eed1404",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/119baffccc3cc01a1d178883f16a6460c4a68e2f",
+                    "reference": "119baffccc3cc01a1d178883f16a6460c4a68e2f",
                     "shasum": ""
                 },
                 "require": {
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2023-01-05T08:09:25+00:00",
+                "time": "2023-01-12T13:27:37+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

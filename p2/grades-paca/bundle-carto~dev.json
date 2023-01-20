@@ -373,12 +373,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "7948ede1aef6a2a2f004c771c4221385d690d801"
+                    "reference": "8e78c0e8d66c90c351344bb69ca059d5142f43d7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/7948ede1aef6a2a2f004c771c4221385d690d801",
-                    "reference": "7948ede1aef6a2a2f004c771c4221385d690d801",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/8e78c0e8d66c90c351344bb69ca059d5142f43d7",
+                    "reference": "8e78c0e8d66c90c351344bb69ca059d5142f43d7",
                     "shasum": ""
                 },
                 "require": {
@@ -414,12 +414,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "8d3009fd08fa046a20f72dbd36f9275521934a68"
+                    "reference": "620237b6862c37996720e2c0aaf63fff446c048f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/8d3009fd08fa046a20f72dbd36f9275521934a68",
-                    "reference": "8d3009fd08fa046a20f72dbd36f9275521934a68",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/620237b6862c37996720e2c0aaf63fff446c048f",
+                    "reference": "620237b6862c37996720e2c0aaf63fff446c048f",
                     "shasum": ""
                 },
                 "require": {
@@ -433,7 +433,7 @@
                     "grades-paca/bundle-web-client": ">=1.1.7",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-05-05T07:01:35+00:00",
+                "time": "2023-01-11T16:35:19+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

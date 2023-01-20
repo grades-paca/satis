@@ -111,6 +111,42 @@
             },
             {
                 "name": "grades-paca/bundle-error-logger",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "target-dir": "Oru/Bundle/ErrorLoggerBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-error-logger.git",
+                    "reference": "ddc3a02054956de4e1e01ef9eb2949e1ec48cef8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/ddc3a02054956de4e1e01ef9eb2949e1ec48cef8",
+                    "reference": "ddc3a02054956de4e1e01ef9eb2949e1ec48cef8",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-app": ">=1.0.7",
+                    "grades-paca/bundle-mail": ">=1.4",
+                    "grades-paca/bundle-setting": ">=1.0",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-05T16:09:20+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ErrorLoggerBundle\\": ""
+                    }
+                },
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
+            },
+            {
+                "name": "grades-paca/bundle-error-logger",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "target-dir": "Oru/Bundle/ErrorLoggerBundle",

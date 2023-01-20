@@ -3,24 +3,57 @@
         "grades-paca/bundle-privacy-banner": [
             {
                 "name": "grades-paca/bundle-privacy-banner",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "target-dir": "Oru/Bundle/PrivacyBannerBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-privacy-banner.git",
+                    "reference": "7f9cba3be32403fe9d0215e62036cc5a0f1f1e6c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-privacy-banner/zipball/7f9cba3be32403fe9d0215e62036cc5a0f1f1e6c",
+                    "reference": "7f9cba3be32403fe9d0215e62036cc5a0f1f1e6c",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-10T10:43:42+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PrivacyBannerBundle\\": ""
+                    }
+                },
+                "description": "This bundle adds privacy cookie banner."
+            },
+            {
+                "name": "grades-paca/bundle-privacy-banner",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "target-dir": "Oru/Bundle/PrivacyBannerBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-privacy-banner.git",
-                    "reference": "67a286b08878be83459413c6eec0a234b2d10649"
+                    "reference": "7b427817222e3147383f998d59b0dbb7d8f6b47f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-privacy-banner/zipball/67a286b08878be83459413c6eec0a234b2d10649",
-                    "reference": "67a286b08878be83459413c6eec0a234b2d10649",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-privacy-banner/zipball/7b427817222e3147383f998d59b0dbb7d8f6b47f",
+                    "reference": "7b427817222e3147383f998d59b0dbb7d8f6b47f",
                     "shasum": ""
                 },
                 "require": {
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2022-03-01T10:03:31+00:00",
+                "time": "2023-01-12T15:15:47+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

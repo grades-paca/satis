@@ -181,18 +181,18 @@
             },
             {
                 "name": "grades-paca/bundle-version",
-                "version": "dev-master",
-                "version_normalized": "dev-master",
+                "version": "254876.x-dev",
+                "version_normalized": "254876.9999999.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/VersionBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-version.git",
-                    "reference": "2548b9038284d0dc73405a5860528b7740d5afb8"
+                    "reference": "91dbd8be89fc66aeb6b9799d53da26a6321d915e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/2548b9038284d0dc73405a5860528b7740d5afb8",
-                    "reference": "2548b9038284d0dc73405a5860528b7740d5afb8",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/91dbd8be89fc66aeb6b9799d53da26a6321d915e",
+                    "reference": "91dbd8be89fc66aeb6b9799d53da26a6321d915e",
                     "shasum": ""
                 },
                 "require": {
@@ -200,10 +200,48 @@
                     "grades-paca/bundle-install": ">=1.0.5",
                     "grades-paca/bundle-setting": "*",
                     "grades-paca/bundle-web-client": ">=1.1.11",
-                    "kbsali/redmine-api": "^1.8",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "kbsali/redmine-api": "^2.2",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2022-03-08T13:24:55+00:00",
+                "time": "2023-01-19T15:51:03+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif"
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "5ea58d0fe937d5a068fd59995971cf07c3b87c55"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/5ea58d0fe937d5a068fd59995971cf07c3b87c55",
+                    "reference": "5ea58d0fe937d5a068fd59995971cf07c3b87c55",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-app": ">=1.0.4",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-web-client": ">=1.1.11",
+                    "kbsali/redmine-api": "^2.2",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-19T15:56:48+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

@@ -3,24 +3,57 @@
         "grades-paca/bundle-tag": [
             {
                 "name": "grades-paca/bundle-tag",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "target-dir": "Oru/Bundle/TagBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-tag.git",
+                    "reference": "6277160ec12d6367a0b7fbda0c8d996b593fb053"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-tag/zipball/6277160ec12d6367a0b7fbda0c8d996b593fb053",
+                    "reference": "6277160ec12d6367a0b7fbda0c8d996b593fb053",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-11T09:51:02+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\TagBundle\\": ""
+                    }
+                },
+                "description": "Gestion de tags"
+            },
+            {
+                "name": "grades-paca/bundle-tag",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "target-dir": "Oru/Bundle/TagBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-tag.git",
-                    "reference": "e37561191c4f0af41357f624819d460edb3ee3e0"
+                    "reference": "7bf9eb019e19a646ddfb0805dbbf013f7a41ec43"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-tag/zipball/e37561191c4f0af41357f624819d460edb3ee3e0",
-                    "reference": "e37561191c4f0af41357f624819d460edb3ee3e0",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-tag/zipball/7bf9eb019e19a646ddfb0805dbbf013f7a41ec43",
+                    "reference": "7bf9eb019e19a646ddfb0805dbbf013f7a41ec43",
                     "shasum": ""
                 },
                 "require": {
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2022-03-01T10:50:59+00:00",
+                "time": "2023-01-19T15:33:25+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

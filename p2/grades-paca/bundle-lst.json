@@ -1501,6 +1501,40 @@
                     }
                 },
                 "description": "Bundle permettant la gestion des listes de choix"
+            },
+            {
+                "name": "grades-paca/bundle-lst",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "target-dir": "Oru/Bundle/LstBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-lst.git",
+                    "reference": "0e46a594ee60ec2a486ac704c80b387b17952078"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-lst/zipball/0e46a594ee60ec2a486ac704c80b387b17952078",
+                    "reference": "0e46a594ee60ec2a486ac704c80b387b17952078",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-form": "*",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-09T17:03:54+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LstBundle\\": ""
+                    }
+                },
+                "description": "Bundle permettant la gestion des listes de choix"
             }
         ]
     }

@@ -3,6 +3,41 @@
         "grades-paca/bundle-paginator": [
             {
                 "name": "grades-paca/bundle-paginator",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "3978735b56626a7f74f380caf1e899acd66195e9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/3978735b56626a7f74f380caf1e899acd66195e9",
+                    "reference": "3978735b56626a7f74f380caf1e899acd66195e9",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-listing": "*",
+                    "knplabs/knp-paginator-bundle": "^5.9",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-10T10:14:58+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle"
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "target-dir": "Oru/Bundle/PaginatorBundle",

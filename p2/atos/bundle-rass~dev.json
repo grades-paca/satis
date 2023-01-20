@@ -323,22 +323,57 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-rass.git",
-                    "reference": "fcc30160a7b4ab453398c4ee8e60cbed52887da3"
+                    "reference": "a0f2d4d74888269bef78e423d61e3a0182e33084"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/fcc30160a7b4ab453398c4ee8e60cbed52887da3",
-                    "reference": "fcc30160a7b4ab453398c4ee8e60cbed52887da3",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/a0f2d4d74888269bef78e423d61e3a0182e33084",
+                    "reference": "a0f2d4d74888269bef78e423d61e3a0182e33084",
                     "shasum": ""
                 },
                 "require": {
                     "grades-paca/bundle-setting": "*",
                     "halaxa/json-machine": "0.6.*",
                     "php": ">=7.0",
-                    "symfony/framework-bundle": "~4.4"
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2022-12-21T16:08:35+00:00",
+                "time": "2023-01-19T15:28:03+00:00",
                 "default-branch": true,
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\RassBundle\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOSRassBundle"
+            },
+            {
+                "name": "atos/bundle-rass",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-rass.git",
+                    "reference": "fd6d44dba5b4482caae47ab8b073cd8356341e1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/fd6d44dba5b4482caae47ab8b073cd8356341e1d",
+                    "reference": "fd6d44dba5b4482caae47ab8b073cd8356341e1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-setting": "*",
+                    "halaxa/json-machine": "0.6.*",
+                    "php": ">=7.0",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-10T14:52:58+00:00",
                 "type": "symfony-bundle",
                 "autoload": {
                     "psr-4": {

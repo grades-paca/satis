@@ -126,12 +126,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-attachment.git",
-                    "reference": "7c28f937a6553799084a40ba0e0c454179f0a90b"
+                    "reference": "91c0698ef6ea96830a818c014cb21a504693bb66"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/7c28f937a6553799084a40ba0e0c454179f0a90b",
-                    "reference": "7c28f937a6553799084a40ba0e0c454179f0a90b",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/91c0698ef6ea96830a818c014cb21a504693bb66",
+                    "reference": "91c0698ef6ea96830a818c014cb21a504693bb66",
                     "shasum": ""
                 },
                 "require": {
@@ -141,7 +141,7 @@
                     "grades-paca/bundle-design": "*",
                     "grades-paca/bundle-install": ">=1.0.5",
                     "grades-paca/bundle-schedule": "*",
-                    "intervention/image": "^2.6",
+                    "intervention/image": "^2.7",
                     "symfony/framework-bundle": "^4.0 || ^5.0",
                     "xenolope/quahog": "^3.0"
                 },
@@ -167,12 +167,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-attachment.git",
-                    "reference": "af09adcdf4c4970e02d6e7c320610196afddf621"
+                    "reference": "138cf1f88a3853eced18ee97616a397bbb3be054"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/af09adcdf4c4970e02d6e7c320610196afddf621",
-                    "reference": "af09adcdf4c4970e02d6e7c320610196afddf621",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/138cf1f88a3853eced18ee97616a397bbb3be054",
+                    "reference": "138cf1f88a3853eced18ee97616a397bbb3be054",
                     "shasum": ""
                 },
                 "require": {
@@ -182,11 +182,11 @@
                     "grades-paca/bundle-design": "*",
                     "grades-paca/bundle-install": ">=1.0.5",
                     "grades-paca/bundle-schedule": "*",
-                    "intervention/image": "^2.6",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+                    "intervention/image": "^2.7",
+                    "symfony/framework-bundle": "^4.0 || ^5.0",
                     "xenolope/quahog": "^3.0"
                 },
-                "time": "2022-09-14T08:28:42+00:00",
+                "time": "2023-01-11T16:31:37+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {

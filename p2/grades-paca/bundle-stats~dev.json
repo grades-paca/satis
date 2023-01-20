@@ -3,25 +3,59 @@
         "grades-paca/bundle-stats": [
             {
                 "name": "grades-paca/bundle-stats",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "target-dir": "Oru/Bundle/StatsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-stats.git",
+                    "reference": "c58127ccd05ee4caabb276680307ec4818babf07"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-stats/zipball/c58127ccd05ee4caabb276680307ec4818babf07",
+                    "reference": "c58127ccd05ee4caabb276680307ec4818babf07",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-01-11T09:46:24+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\StatsBundle\\": ""
+                    }
+                },
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics."
+            },
+            {
+                "name": "grades-paca/bundle-stats",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "target-dir": "Oru/Bundle/StatsBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-stats.git",
-                    "reference": "8436852ec50e5f1cfb76d6a1d4a2adedb7b7fa18"
+                    "reference": "2083d0a107714d444d81c6e5340deacc46092238"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-stats/zipball/8436852ec50e5f1cfb76d6a1d4a2adedb7b7fa18",
-                    "reference": "8436852ec50e5f1cfb76d6a1d4a2adedb7b7fa18",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-stats/zipball/2083d0a107714d444d81c6e5340deacc46092238",
+                    "reference": "2083d0a107714d444d81c6e5340deacc46092238",
                     "shasum": ""
                 },
                 "require": {
                     "grades-paca/bundle-setting": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2021-11-10T15:00:52+00:00",
+                "time": "2023-01-19T15:32:29+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
