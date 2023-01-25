@@ -37,7 +37,11 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails"
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.0.8",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-mail",
@@ -75,7 +79,11 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails"
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.1.13",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-mail",
@@ -113,7 +121,11 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails"
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.2.9",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-mail",
@@ -151,7 +163,11 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails"
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.5.1",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-mail",
@@ -177,7 +193,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "vkalmuk/swiftmailerdbbundle": "dev-master"
                 },
-                "time": "2022-04-01T12:27:49+00:00",
+                "time": "2022-04-01T13:59:29+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -189,7 +205,11 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails"
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/22.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-mail",
@@ -227,7 +247,11 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails"
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/232792",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-mail",
@@ -265,7 +289,11 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails"
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/#229251",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-mail",
@@ -291,7 +319,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "vkalmuk/swiftmailerdbbundle": "dev-master"
                 },
-                "time": "2022-05-17T13:29:42+00:00",
+                "time": "2022-05-17T13:31:43+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -303,7 +331,11 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails"
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.6.3",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-mail",
@@ -329,7 +361,7 @@
                     "symfony/framework-bundle": "^4.0 || ^5.0",
                     "vkalmuk/swiftmailerdbbundle": "dev-master"
                 },
-                "time": "2023-01-09T17:10:57+00:00",
+                "time": "2023-01-19T15:22:01+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -341,7 +373,11 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails"
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-mail",
@@ -351,12 +387,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-mail.git",
-                    "reference": "770c43601e469b1cc28dba4c6749105a96db26ad"
+                    "reference": "f181b91c1f5dc6421ee297f8c1cb122db0bddf19"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/770c43601e469b1cc28dba4c6749105a96db26ad",
-                    "reference": "770c43601e469b1cc28dba4c6749105a96db26ad",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/f181b91c1f5dc6421ee297f8c1cb122db0bddf19",
+                    "reference": "f181b91c1f5dc6421ee297f8c1cb122db0bddf19",
                     "shasum": ""
                 },
                 "require": {
@@ -364,10 +400,10 @@
                     "grades-paca/bundle-design": "*",
                     "grades-paca/bundle-install": ">=1.0.5",
                     "grades-paca/bundle-setting": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+                    "symfony/framework-bundle": "^4.0 || ^5.0",
                     "vkalmuk/swiftmailerdbbundle": "dev-master"
                 },
-                "time": "2022-05-23T07:44:33+00:00",
+                "time": "2023-01-24T08:43:20+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -380,7 +416,11 @@
                         "Oru\\Bundle\\MailBundle\\": ""
                     }
                 },
-                "description": "Gestion des mails"
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.7.0",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             }
         ]
     }
