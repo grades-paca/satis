@@ -129,21 +129,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-error-logger.git",
-                    "reference": "ddc3a02054956de4e1e01ef9eb2949e1ec48cef8"
+                    "reference": "b84bf4c8c7e8eb0eab59bdffd0c8806bf6608e80"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/ddc3a02054956de4e1e01ef9eb2949e1ec48cef8",
-                    "reference": "ddc3a02054956de4e1e01ef9eb2949e1ec48cef8",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/b84bf4c8c7e8eb0eab59bdffd0c8806bf6608e80",
+                    "reference": "b84bf4c8c7e8eb0eab59bdffd0c8806bf6608e80",
                     "shasum": ""
                 },
                 "require": {
-                    "grades-paca/bundle-app": ">=1.0.7",
-                    "grades-paca/bundle-mail": ">=1.4",
-                    "grades-paca/bundle-setting": ">=1.0",
+                    "grades-paca/bundle-app": ">=1.4 <2.0.0",
+                    "grades-paca/bundle-mail": ">=1.7 <2.0.0",
+                    "grades-paca/bundle-setting": ">=1.4 <2.0.0",
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2023-01-12T13:16:54+00:00",
+                "time": "2023-01-27T08:55:46+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -157,7 +157,7 @@
                 },
                 "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/majSF5",
+                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.6.0",
                     "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
                 }
             },
@@ -169,21 +169,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-error-logger.git",
-                    "reference": "add2b18cee7587a2fe7fd432f4f2e062709b7084"
+                    "reference": "afb51f0a6b9d03afe393d92830d8296f1d46062a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/add2b18cee7587a2fe7fd432f4f2e062709b7084",
-                    "reference": "add2b18cee7587a2fe7fd432f4f2e062709b7084",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/afb51f0a6b9d03afe393d92830d8296f1d46062a",
+                    "reference": "afb51f0a6b9d03afe393d92830d8296f1d46062a",
                     "shasum": ""
                 },
                 "require": {
-                    "grades-paca/bundle-app": ">=1.0.7",
-                    "grades-paca/bundle-mail": "~1.4",
-                    "grades-paca/bundle-setting": "~1.0",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "grades-paca/bundle-app": ">=1.4 <2.0.0",
+                    "grades-paca/bundle-mail": ">=1.7 <2.0.0",
+                    "grades-paca/bundle-setting": ">=1.4 <2.0.0",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2023-01-05T08:10:32+00:00",
+                "time": "2023-02-06T14:44:55+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -198,7 +198,7 @@
                 },
                 "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.5.2",
+                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/master",
                     "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
                 }
             }
