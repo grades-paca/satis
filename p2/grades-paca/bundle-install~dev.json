@@ -160,6 +160,44 @@
                     "source": "https://github.com/grades-paca/bundle-install/tree/1.4.0",
                     "issues": "https://github.com/grades-paca/bundle-install/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-install",
+                "version": "dev-removeLexik",
+                "version_normalized": "dev-removeLexik",
+                "target-dir": "Oru/Bundle/InstallBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-install.git",
+                    "reference": "394987cef4131a1208b98779f63e5319a43bf4dd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-install/zipball/394987cef4131a1208b98779f63e5319a43bf4dd",
+                    "reference": "394987cef4131a1208b98779f63e5319a43bf4dd",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^4.0 || ^5.0",
+                    "teqneers/php-stream-wrapper-for-git": "^2.0"
+                },
+                "time": "2023-02-10T08:49:16+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\InstallBundle\\": ""
+                    }
+                },
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             }
         ]
     }
