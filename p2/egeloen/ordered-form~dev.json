@@ -7,7 +7,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/grades-paca/ivory-ordered-form.git",
+                    "url": "git@github.com:grades-paca/ivory-ordered-form.git",
                     "reference": "80321685ae6d91ddc592b8fa8eb05bcea01346c8"
                 },
                 "dist": {
@@ -57,10 +57,7 @@
                     "form",
                     "order",
                     "symfony2"
-                ],
-                "support": {
-                    "source": "https://github.com/grades-paca/ivory-ordered-form/tree/3.0.1"
-                }
+                ]
             }
         ]
     }

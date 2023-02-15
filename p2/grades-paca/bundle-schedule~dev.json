@@ -21,7 +21,7 @@
                     "oru/listing": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2016-03-14T14:13:16+00:00",
+                "time": "2016-03-14T13:35:30+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -33,11 +33,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/1.0.10",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -59,7 +55,7 @@
                     "oru/listing": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2017-01-02T11:52:46+00:00",
+                "time": "2016-12-27T10:17:27+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -71,11 +67,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/1.1.7.1",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -111,11 +103,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/1.5.3",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -151,11 +139,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/1.5.2",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -191,11 +175,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/242507",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -229,11 +209,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/33829",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -269,11 +245,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/61138",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -309,11 +281,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/1.6.3.victor",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -349,11 +317,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/242507-bis",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -363,21 +327,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "4604cc911f285f425492a54432c84804e7a1144e"
+                    "reference": "ee99d7ea2eaaf486336d2ddccc23936e0d4821cd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/4604cc911f285f425492a54432c84804e7a1144e",
-                    "reference": "4604cc911f285f425492a54432c84804e7a1144e",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/ee99d7ea2eaaf486336d2ddccc23936e0d4821cd",
+                    "reference": "ee99d7ea2eaaf486336d2ddccc23936e0d4821cd",
                     "shasum": ""
                 },
                 "require": {
                     "dragonmantank/cron-expression": "^3.0",
-                    "grades-paca/bundle-app": ">=1.4.0 <2.0.0",
+                    "grades-paca/bundle-app": ">=1.0.9",
                     "grades-paca/bundle-listing": "*",
                     "symfony/framework-bundle": "^4.0|| ^5.0"
                 },
-                "time": "2023-01-26T14:35:31+00:00",
+                "time": "2023-01-11T09:10:21+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -389,11 +353,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/MajSF5",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -429,51 +389,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/gestion_setting",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
-            },
-            {
-                "name": "grades-paca/bundle-schedule",
-                "version": "dev-majSF5",
-                "version_normalized": "dev-majSF5",
-                "target-dir": "Oru/Bundle/ScheduleBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "ee99d7ea2eaaf486336d2ddccc23936e0d4821cd"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/ee99d7ea2eaaf486336d2ddccc23936e0d4821cd",
-                    "reference": "ee99d7ea2eaaf486336d2ddccc23936e0d4821cd",
-                    "shasum": ""
-                },
-                "require": {
-                    "dragonmantank/cron-expression": "^3.0",
-                    "grades-paca/bundle-app": ">=1.0.9",
-                    "grades-paca/bundle-listing": "*",
-                    "symfony/framework-bundle": "^4.0|| ^5.0"
-                },
-                "time": "2023-01-11T09:10:21+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\ScheduleBundle\\": ""
-                    }
-                },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/majSF5",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -509,11 +425,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/1.8.0",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -523,12 +435,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "1be490b545814c5e8d452595f18452fa2c39bb6b"
+                    "reference": "53de4e6e88ef4120c324ec4ed6038735d922a355"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/1be490b545814c5e8d452595f18452fa2c39bb6b",
-                    "reference": "1be490b545814c5e8d452595f18452fa2c39bb6b",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/53de4e6e88ef4120c324ec4ed6038735d922a355",
+                    "reference": "53de4e6e88ef4120c324ec4ed6038735d922a355",
                     "shasum": ""
                 },
                 "require": {
@@ -537,7 +449,7 @@
                     "grades-paca/bundle-listing": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-06-03T09:25:16+00:00",
+                "time": "2023-02-15T13:55:59+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -550,11 +462,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/1.7.2",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -590,11 +498,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/modification_email",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -630,11 +534,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/revert-10-1.6.3.victor",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             },
             {
                 "name": "grades-paca/bundle-schedule",
@@ -670,11 +570,7 @@
                         "Oru\\Bundle\\ScheduleBundle\\": ""
                     }
                 },
-                "description": "Planificateur de taches ",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/victor",
-                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
-                }
+                "description": "Planificateur de taches "
             }
         ]
     }

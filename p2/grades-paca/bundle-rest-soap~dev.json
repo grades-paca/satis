@@ -36,11 +36,7 @@
                         "Oru\\Bundle\\RestSoapBundle\\": ""
                     }
                 },
-                "description": "Intégration de Soap au bundle FOSRestBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rest-soap/tree/1.2.1",
-                    "issues": "https://github.com/grades-paca/bundle-rest-soap/issues"
-                }
+                "description": "Intégration de Soap au bundle FOSRestBundle"
             },
             {
                 "name": "grades-paca/bundle-rest-soap",
@@ -76,11 +72,7 @@
                         "Oru\\Bundle\\RestSoapBundle\\": ""
                     }
                 },
-                "description": "Intégration de Soap au bundle FOSRestBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rest-soap/tree/1.4.1",
-                    "issues": "https://github.com/grades-paca/bundle-rest-soap/issues"
-                }
+                "description": "Intégration de Soap au bundle FOSRestBundle"
             },
             {
                 "name": "grades-paca/bundle-rest-soap",
@@ -117,11 +109,7 @@
                         "Oru\\Bundle\\RestSoapBundle\\": ""
                     }
                 },
-                "description": "Intégration de Soap au bundle FOSRestBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rest-soap/tree/1.2merge",
-                    "issues": "https://github.com/grades-paca/bundle-rest-soap/issues"
-                }
+                "description": "Intégration de Soap au bundle FOSRestBundle"
             },
             {
                 "name": "grades-paca/bundle-rest-soap",
@@ -158,11 +146,7 @@
                         "Oru\\Bundle\\RestSoapBundle\\": ""
                     }
                 },
-                "description": "Intégration de Soap au bundle FOSRestBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rest-soap/tree/majSF5",
-                    "issues": "https://github.com/grades-paca/bundle-rest-soap/issues"
-                }
+                "description": "Intégration de Soap au bundle FOSRestBundle"
             },
             {
                 "name": "grades-paca/bundle-rest-soap",
@@ -200,11 +184,7 @@
                         "Oru\\Bundle\\RestSoapBundle\\": ""
                     }
                 },
-                "description": "Intégration de Soap au bundle FOSRestBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rest-soap/tree/1.4.0",
-                    "issues": "https://github.com/grades-paca/bundle-rest-soap/issues"
-                }
+                "description": "Intégration de Soap au bundle FOSRestBundle"
             }
         ]
     }
