@@ -3,6 +3,47 @@
         "grades-paca/bundle-rest-soap": [
             {
                 "name": "grades-paca/bundle-rest-soap",
+                "version": "0.7",
+                "version_normalized": "0.7.0.0",
+                "target-dir": "Oru/Bundle/RestSoapBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-rest-soap.git",
+                    "reference": "e908a578cd0eb9e905d6dac2bd670c05313e4cc1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rest-soap/zipball/e908a578cd0eb9e905d6dac2bd670c05313e4cc1",
+                    "reference": "e908a578cd0eb9e905d6dac2bd670c05313e4cc1",
+                    "shasum": ""
+                },
+                "require": {
+                    "besimple/soap": "0.7.*",
+                    "friendsofsymfony/rest-bundle": "^3.0",
+                    "jms/serializer-bundle": "*",
+                    "nelmio/api-doc-bundle": "*",
+                    "symfony/framework-bundle": "^4.0 || ^5.0 "
+                },
+                "time": "2023-02-15T10:26:55+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\RestSoapBundle\\": ""
+                    }
+                },
+                "description": "Intégration de Soap au bundle FOSRestBundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-rest-soap/tree/0.7",
+                    "issues": "https://github.com/grades-paca/bundle-rest-soap/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-rest-soap",
                 "version": "1.0.0",
                 "version_normalized": "1.0.0.0",
                 "target-dir": "Oru/Bundle/RestSoapBundle",
