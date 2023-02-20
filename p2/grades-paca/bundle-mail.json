@@ -2007,6 +2007,48 @@
                     "source": "https://github.com/grades-paca/bundle-mail/tree/1.6.4",
                     "issues": "https://github.com/grades-paca/bundle-mail/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-mail",
+                "version": "1.7.0",
+                "version_normalized": "1.7.0.0",
+                "target-dir": "Oru/Bundle/MailBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-mail.git",
+                    "reference": "df7dc9c1da09bc048a9bd488eee432953e424c82"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/df7dc9c1da09bc048a9bd488eee432953e424c82",
+                    "reference": "df7dc9c1da09bc048a9bd488eee432953e424c82",
+                    "shasum": ""
+                },
+                "require": {
+                    "algo26-matthias/idna-convert": "^2.1",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.4 <2.0.0",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^4.0 || ^5.0",
+                    "symfony/mailer": "^4.4 || ^5.4"
+                },
+                "time": "2023-02-20T10:30:56+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\MailBundle\\": ""
+                    }
+                },
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.7.0",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             }
         ]
     }

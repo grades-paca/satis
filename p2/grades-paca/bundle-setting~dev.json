@@ -81,7 +81,7 @@
                 },
                 "description": "Bundle de gestion des paramètres de l'application.",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.4.x",
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.4.0",
                     "issues": "https://github.com/grades-paca/bundle-setting/issues"
                 }
             },
