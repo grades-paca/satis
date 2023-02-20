@@ -4058,6 +4058,49 @@
                     "source": "https://github.com/grades-paca/bundle-design/tree/1.9.1",
                     "issues": "https://github.com/grades-paca/bundle-design/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "1.9.2",
+                "version_normalized": "1.9.2.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "bf756ac45147117ce4c3a03f702d0075ef1ca57a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/bf756ac45147117ce4c3a03f702d0075ef1ca57a",
+                    "reference": "bf756ac45147117ce4c3a03f702d0075ef1ca57a",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.8",
+                    "grades-paca/bundle-form": ">=1.3.1",
+                    "grades-paca/bundle-install": ">=1.0.3",
+                    "grades-paca/bundle-privacy-banner": "*",
+                    "symfony/framework-bundle": "^4.0 || ^5.0",
+                    "tattali/mobile-detect-bundle": "2.2.0"
+                },
+                "time": "2023-02-20T10:16:09+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.9.2",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
             }
         ]
     }
