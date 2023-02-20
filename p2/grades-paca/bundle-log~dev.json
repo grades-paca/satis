@@ -84,7 +84,7 @@
                 },
                 "description": "Log des requêtes",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-log/tree/1.4.0",
+                    "source": "https://github.com/grades-paca/bundle-log/tree/1.4.x",
                     "issues": "https://github.com/grades-paca/bundle-log/issues"
                 }
             },
