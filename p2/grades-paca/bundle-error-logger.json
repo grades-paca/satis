@@ -1522,12 +1522,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-error-logger.git",
-                    "reference": "1891c5b3a3dd2db8063d255adba58808d7a027de"
+                    "reference": "dbc18b89c85bb62a83a087622006e2b1005c06f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/1891c5b3a3dd2db8063d255adba58808d7a027de",
-                    "reference": "1891c5b3a3dd2db8063d255adba58808d7a027de",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/dbc18b89c85bb62a83a087622006e2b1005c06f9",
+                    "reference": "dbc18b89c85bb62a83a087622006e2b1005c06f9",
                     "shasum": ""
                 },
                 "require": {
@@ -1536,7 +1536,7 @@
                     "grades-paca/bundle-setting": ">=1.4 <2.0.0",
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2023-02-20T13:43:20+00:00",
+                "time": "2023-02-20T15:10:01+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
