@@ -460,7 +460,7 @@
                 },
                 "description": "Gestion des mails",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.7.0",
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/master",
                     "issues": "https://github.com/grades-paca/bundle-mail/issues"
                 }
             }
