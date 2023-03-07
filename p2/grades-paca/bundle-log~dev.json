@@ -47,6 +47,49 @@
             },
             {
                 "name": "grades-paca/bundle-log",
+                "version": "v1.4.1.x-dev",
+                "version_normalized": "1.4.1.9999999-dev",
+                "target-dir": "Oru/Bundle/LogBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-log.git",
+                    "reference": "77454d28b3381be4ddb55876b513b96f2c99b5d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-log/zipball/77454d28b3381be4ddb55876b513b96f2c99b5d3",
+                    "reference": "77454d28b3381be4ddb55876b513b96f2c99b5d3",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-error-logger": "*",
+                    "grades-paca/bundle-form": "*",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-schedule": "*",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-translation": "*",
+                    "symfony/framework-bundle": "^4.0|| ^5.0 "
+                },
+                "time": "2023-03-07T15:28:06+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LogBundle\\": ""
+                    }
+                },
+                "description": "Log des requêtes",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-log/tree/1.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-log/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-log",
                 "version": "1.4.x-dev",
                 "version_normalized": "1.4.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/LogBundle",
