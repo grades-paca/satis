@@ -171,6 +171,48 @@
             },
             {
                 "name": "grades-paca/bundle-mail",
+                "version": "1.7.1.x-dev",
+                "version_normalized": "1.7.1.9999999-dev",
+                "target-dir": "Oru/Bundle/MailBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-mail.git",
+                    "reference": "9ec7c98343a9c6b427e92d40b2725ca5348c1d6d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/9ec7c98343a9c6b427e92d40b2725ca5348c1d6d",
+                    "reference": "9ec7c98343a9c6b427e92d40b2725ca5348c1d6d",
+                    "shasum": ""
+                },
+                "require": {
+                    "algo26-matthias/idna-convert": "^2.1",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.4 <2.0.0",
+                    "grades-paca/bundle-setting": "*",
+                    "symfony/framework-bundle": "^4.0 || ^5.0",
+                    "symfony/mailer": "^4.4 || ^5.4"
+                },
+                "time": "2023-03-07T14:39:52+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\MailBundle\\": ""
+                    }
+                },
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/1.7.1",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-mail",
                 "version": "22.1.1.x-dev",
                 "version_normalized": "22.1.1.9999999-dev",
                 "target-dir": "Oru/Bundle/MailBundle",
