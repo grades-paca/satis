@@ -217,7 +217,7 @@
                 },
                 "description": "Carto du ror3",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.8.1",
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/v1.8.1",
                     "issues": "https://github.com/grades-paca/bundle-carto/issues"
                 }
             },
