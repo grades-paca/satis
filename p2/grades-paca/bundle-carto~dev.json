@@ -178,6 +178,51 @@
             },
             {
                 "name": "grades-paca/bundle-carto",
+                "version": "v1.8.1.x-dev",
+                "version_normalized": "1.8.1.9999999-dev",
+                "target-dir": "Oru/Bundle/CartoBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-carto.git",
+                    "reference": "2e14ce9f747f99342de6344bbc3f6299c474aba6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/2e14ce9f747f99342de6344bbc3f6299c474aba6",
+                    "reference": "2e14ce9f747f99342de6344bbc3f6299c474aba6",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "ext-mapscript": "*",
+                    "ext-pgsql": "*",
+                    "grades-paca/bundle-design": ">=1.9",
+                    "grades-paca/bundle-install": ">=1.4",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-web-client": ">=1.1.7",
+                    "longitude-one/doctrine-spatial": "^3.0",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-03-09T09:12:52+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\CartoBundle\\": ""
+                    }
+                },
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.8.1",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-carto",
                 "version": "227490.x-dev",
                 "version_normalized": "227490.9999999.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/CartoBundle",
