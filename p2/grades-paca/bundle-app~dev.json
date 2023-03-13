@@ -31,11 +31,7 @@
                         "Oru\\Bundle\\AppBundle\\": ""
                     }
                 },
-                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-app/tree/136543-2",
-                    "issues": "https://github.com/grades-paca/bundle-app/issues"
-                }
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3"
             },
             {
                 "name": "grades-paca/bundle-app",
@@ -55,7 +51,7 @@
                 "require": {
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2023-01-11T13:48:21+00:00",
+                "time": "2023-01-04T10:08:32+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -67,11 +63,7 @@
                         "Oru\\Bundle\\AppBundle\\": ""
                     }
                 },
-                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-app/tree/majSF5",
-                    "issues": "https://github.com/grades-paca/bundle-app/issues"
-                }
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3"
             },
             {
                 "name": "grades-paca/bundle-app",
@@ -104,11 +96,7 @@
                         "Oru\\Bundle\\AppBundle\\": ""
                     }
                 },
-                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-app/tree/1.4.0",
-                    "issues": "https://github.com/grades-paca/bundle-app/issues"
-                }
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3"
             }
         ]
     }

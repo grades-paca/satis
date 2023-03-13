@@ -36,11 +36,7 @@
                         "Oru\\Bundle\\SmsBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des SMS",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-sms/tree/bootstrap4",
-                    "issues": "https://github.com/grades-paca/bundle-sms/issues"
-                }
+                "description": "Bundle de gestion des SMS"
             },
             {
                 "name": "grades-paca/bundle-sms",
@@ -77,11 +73,7 @@
                         "Oru\\Bundle\\SmsBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des SMS",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-sms/tree/filtre_truncate_SF4",
-                    "issues": "https://github.com/grades-paca/bundle-sms/issues"
-                }
+                "description": "Bundle de gestion des SMS"
             },
             {
                 "name": "grades-paca/bundle-sms",
@@ -118,11 +110,7 @@
                         "Oru\\Bundle\\SmsBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des SMS",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-sms/tree/majSF5",
-                    "issues": "https://github.com/grades-paca/bundle-sms/issues"
-                }
+                "description": "Bundle de gestion des SMS"
             },
             {
                 "name": "grades-paca/bundle-sms",
@@ -160,11 +148,7 @@
                         "Oru\\Bundle\\SmsBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des SMS",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-sms/tree/1.4.0",
-                    "issues": "https://github.com/grades-paca/bundle-sms/issues"
-                }
+                "description": "Bundle de gestion des SMS"
             }
         ]
     }

@@ -22,7 +22,7 @@
                     "knplabs/knp-paginator-bundle": "^5.9",
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2023-01-12T15:09:35+00:00",
+                "time": "2023-01-10T10:14:58+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -34,11 +34,7 @@
                         "Oru\\Bundle\\PaginatorBundle\\": ""
                     }
                 },
-                "description": "Paginator bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-paginator/tree/majSF5",
-                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
-                }
+                "description": "Paginator bundle"
             },
             {
                 "name": "grades-paca/bundle-paginator",
@@ -74,11 +70,7 @@
                         "Oru\\Bundle\\PaginatorBundle\\": ""
                     }
                 },
-                "description": "Paginator bundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.4.0",
-                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
-                }
+                "description": "Paginator bundle"
             }
         ]
     }
