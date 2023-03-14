@@ -39,7 +39,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -79,7 +83,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -120,7 +128,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -161,7 +173,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.10",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -202,7 +218,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.11",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -243,7 +263,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.12",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -284,7 +308,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.13",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -325,7 +353,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -366,7 +398,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.3",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -395,7 +431,7 @@
                     "sonata-project/exporter": "~1.4",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2016-05-02T14:37:08+00:00",
+                "time": "2016-05-02T14:44:28+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -407,7 +443,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.4",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -448,7 +488,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.5",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -489,7 +533,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.6",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -530,7 +578,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.7",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -571,7 +623,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.8",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -612,7 +668,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.1.9",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -653,7 +713,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -682,7 +746,7 @@
                     "sonata-project/exporter": "~1.4",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-01-29T11:35:04+00:00",
+                "time": "2018-01-29T11:36:56+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -694,7 +758,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -735,7 +803,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -776,7 +848,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -817,7 +893,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.2.4",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -858,7 +938,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.2.5",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -899,7 +983,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -928,7 +1016,7 @@
                     "sonata-project/exporter": "1.7",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-02-14T14:43:53+00:00",
+                "time": "2019-02-14T14:45:25+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -940,7 +1028,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.1",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -969,7 +1061,7 @@
                     "sonata-project/exporter": "1.7",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2020-05-06T08:32:46+00:00",
+                "time": "2020-05-25T08:56:15+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -981,7 +1073,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.10",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1022,7 +1118,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.11",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1063,7 +1163,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.12",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1104,7 +1208,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.2",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1145,7 +1253,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.3",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1186,7 +1298,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.4",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1215,7 +1331,7 @@
                     "sonata-project/exporter": "1.7",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-07-26T06:43:45+00:00",
+                "time": "2019-07-26T06:44:28+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1227,7 +1343,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.5",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1268,7 +1388,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.6",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1309,7 +1433,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.7",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1350,7 +1478,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.8",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1391,7 +1523,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.3.9",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1432,7 +1568,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1473,7 +1613,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-box",
@@ -1514,7 +1658,11 @@
                         "Oru\\Bundle\\BoxBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion d'oruboxs."
+                "description": "Bundle de gestion d'oruboxs.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-box/tree/1.5.0",
+                    "issues": "https://github.com/grades-paca/bundle-box/issues"
+                }
             }
         ]
     }

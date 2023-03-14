@@ -34,7 +34,11 @@
                         "Oru\\Bundle\\PatientBundle\\": ""
                     }
                 },
-                "description": "Gestion de patients"
+                "description": "Gestion de patients",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-patient/tree/1.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-patient/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-patient",
@@ -69,7 +73,11 @@
                         "Oru\\Bundle\\PatientBundle\\": ""
                     }
                 },
-                "description": "Gestion de patients"
+                "description": "Gestion de patients",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-patient/tree/1.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-patient/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-patient",
@@ -104,7 +112,11 @@
                         "Oru\\Bundle\\PatientBundle\\": ""
                     }
                 },
-                "description": "Gestion de patients"
+                "description": "Gestion de patients",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-patient/tree/fix-b4",
+                    "issues": "https://github.com/grades-paca/bundle-patient/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-patient",
@@ -139,7 +151,11 @@
                         "Oru\\Bundle\\PatientBundle\\": ""
                     }
                 },
-                "description": "Gestion de patients"
+                "description": "Gestion de patients",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-patient/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-patient/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-patient",
@@ -175,7 +191,11 @@
                         "Oru\\Bundle\\PatientBundle\\": ""
                     }
                 },
-                "description": "Gestion de patients"
+                "description": "Gestion de patients",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-patient/tree/2.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-patient/issues"
+                }
             }
         ]
     }

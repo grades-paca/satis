@@ -34,7 +34,11 @@
                         "Oru\\Bundle\\ListingBundle\\": ""
                     }
                 },
-                "description": "Results lists"
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-listing",
@@ -69,7 +73,11 @@
                         "Oru\\Bundle\\ListingBundle\\": ""
                     }
                 },
-                "description": "Results lists"
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-listing",
@@ -104,7 +112,11 @@
                         "Oru\\Bundle\\ListingBundle\\": ""
                     }
                 },
-                "description": "Results lists"
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-listing",
@@ -140,7 +152,11 @@
                         "Oru\\Bundle\\ListingBundle\\": ""
                     }
                 },
-                "description": "Results lists"
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/master",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
             }
         ]
     }
