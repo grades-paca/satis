@@ -37,7 +37,7 @@
                 },
                 "description": "Traductions du ROR via ORM",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-translation/tree/v1.5.1",
+                    "source": "https://github.com/grades-paca/bundle-translation/tree/1.5.1",
                     "issues": "https://github.com/grades-paca/bundle-translation/issues"
                 }
             },
