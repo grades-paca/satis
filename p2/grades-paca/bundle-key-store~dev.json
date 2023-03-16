@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-key-store.git",
-                    "reference": "46379f89a26a818381be1e39d107b7f95d0cf25d"
+                    "reference": "511aa06be5529f2b2168a50324706022474e482e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-key-store/zipball/46379f89a26a818381be1e39d107b7f95d0cf25d",
-                    "reference": "46379f89a26a818381be1e39d107b7f95d0cf25d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-key-store/zipball/511aa06be5529f2b2168a50324706022474e482e",
+                    "reference": "511aa06be5529f2b2168a50324706022474e482e",
                     "shasum": ""
                 },
                 "require": {
                     "stof/doctrine-extensions-bundle": "*",
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2023-01-09T17:06:58+00:00",
+                "time": "2023-03-15T09:45:17+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

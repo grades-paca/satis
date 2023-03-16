@@ -40,6 +40,43 @@
             },
             {
                 "name": "grades-paca/bundle-project-humhub",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-project-humhub.git",
+                    "reference": "f7f933c8069c9b4e7cfbcf33bd55b4f24954b29f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-project-humhub/zipball/f7f933c8069c9b4e7cfbcf33bd55b4f24954b29f",
+                    "reference": "f7f933c8069c9b4e7cfbcf33bd55b4f24954b29f",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-setting": "*",
+                    "romanpitak/php-rest-client": ">=1.2.0"
+                },
+                "time": "2023-03-15T14:40:18+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\ProjectHumhubBundle\\": ""
+                    }
+                },
+                "description": "Project Humhub connector bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-project-humhub/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-project-humhub/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-project-humhub",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "source": {

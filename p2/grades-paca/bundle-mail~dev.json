@@ -171,18 +171,18 @@
             },
             {
                 "name": "grades-paca/bundle-mail",
-                "version": "1.7.1.x-dev",
+                "version": "v1.7.1.x-dev",
                 "version_normalized": "1.7.1.9999999-dev",
                 "target-dir": "Oru/Bundle/MailBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-mail.git",
-                    "reference": "9ec7c98343a9c6b427e92d40b2725ca5348c1d6d"
+                    "reference": "f5b4cb0784bac223b357979ab37f505616f62709"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/9ec7c98343a9c6b427e92d40b2725ca5348c1d6d",
-                    "reference": "9ec7c98343a9c6b427e92d40b2725ca5348c1d6d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/f5b4cb0784bac223b357979ab37f505616f62709",
+                    "reference": "f5b4cb0784bac223b357979ab37f505616f62709",
                     "shasum": ""
                 },
                 "require": {
@@ -193,7 +193,7 @@
                     "symfony/framework-bundle": "^4.0 || ^5.0",
                     "symfony/mailer": "^4.4 || ^5.4"
                 },
-                "time": "2023-03-07T14:39:52+00:00",
+                "time": "2023-03-16T09:33:41+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -387,12 +387,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-mail.git",
-                    "reference": "720094d21e2f3aad338ef6d128645bf720e5c069"
+                    "reference": "3506d677b613db5100bf4501028838d99d78373b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/720094d21e2f3aad338ef6d128645bf720e5c069",
-                    "reference": "720094d21e2f3aad338ef6d128645bf720e5c069",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/3506d677b613db5100bf4501028838d99d78373b",
+                    "reference": "3506d677b613db5100bf4501028838d99d78373b",
                     "shasum": ""
                 },
                 "require": {
@@ -403,7 +403,7 @@
                     "symfony/framework-bundle": "^4.0 || ^5.0",
                     "vkalmuk/swiftmailerdbbundle": "dev-master"
                 },
-                "time": "2023-01-19T15:22:01+00:00",
+                "time": "2023-03-15T09:49:55+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

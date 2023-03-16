@@ -48,12 +48,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-esms.git",
-                    "reference": "1d4a306105c6ddb115e5f74627abe8687f3215e6"
+                    "reference": "2818e597c3bd7ca29650078a551ad545fd965f0a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/1d4a306105c6ddb115e5f74627abe8687f3215e6",
-                    "reference": "1d4a306105c6ddb115e5f74627abe8687f3215e6",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/2818e597c3bd7ca29650078a551ad545fd965f0a",
+                    "reference": "2818e597c3bd7ca29650078a551ad545fd965f0a",
                     "shasum": ""
                 },
                 "require": {
@@ -62,7 +62,7 @@
                     "grades-paca/bundle-setting": "*",
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2023-01-06T15:22:40+00:00",
+                "time": "2023-03-15T09:25:33+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

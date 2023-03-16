@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-denied-field.git",
-                    "reference": "bd6b3ed2d9212b1c8d854e87239640c51a7579c9"
+                    "reference": "d4703cd1472dcb0b58443fa4afe5d3f54833b48b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-denied-field/zipball/bd6b3ed2d9212b1c8d854e87239640c51a7579c9",
-                    "reference": "bd6b3ed2d9212b1c8d854e87239640c51a7579c9",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-denied-field/zipball/d4703cd1472dcb0b58443fa4afe5d3f54833b48b",
+                    "reference": "d4703cd1472dcb0b58443fa4afe5d3f54833b48b",
                     "shasum": ""
                 },
                 "require": {
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2023-01-05T10:19:11+00:00",
+                "time": "2023-03-15T09:18:57+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

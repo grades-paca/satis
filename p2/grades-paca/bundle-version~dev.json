@@ -243,6 +243,48 @@
             },
             {
                 "name": "grades-paca/bundle-version",
+                "version": "dev-majSF5",
+                "version_normalized": "dev-majSF5",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "f6e1cdb9252641eb6b5186ded98989940984a1da"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/f6e1cdb9252641eb6b5186ded98989940984a1da",
+                    "reference": "f6e1cdb9252641eb6b5186ded98989940984a1da",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-app": ">=1.0.4",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-web-client": ">=1.1.11",
+                    "kbsali/redmine-api": "^2.2",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-03-15T10:13:23+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-version",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "target-dir": "Oru/Bundle/VersionBundle",
