@@ -39,11 +39,7 @@
                         "Oru\\Bundle\\TaskBundle\\": ""
                     }
                 },
-                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-task/tree/1.1.5",
-                    "issues": "https://github.com/grades-paca/bundle-task/issues"
-                }
+                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile"
             },
             {
                 "name": "grades-paca/bundle-task",
@@ -83,11 +79,48 @@
                         "Oru\\Bundle\\TaskBundle\\": ""
                     }
                 },
-                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-task/tree/159941",
-                    "issues": "https://github.com/grades-paca/bundle-task/issues"
-                }
+                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile"
+            },
+            {
+                "name": "grades-paca/bundle-task",
+                "version": "2.x-dev",
+                "version_normalized": "2.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-task.git",
+                    "reference": "4db7284343d6bfbfeea98293b7051669620d67cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/4db7284343d6bfbfeea98293b7051669620d67cf",
+                    "reference": "4db7284343d6bfbfeea98293b7051669620d67cf",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-design": ">=1.3.7",
+                    "grades-paca/bundle-form": ">=1.3.0",
+                    "grades-paca/bundle-paginator": ">=1.0.5",
+                    "grades-paca/bundle-schedule": ">=1.2.4",
+                    "grades-paca/bundle-setting": ">=1.0.17",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "suggest": {
+                    "grades-paca/bundle-translation": ">=1.0.3"
+                },
+                "time": "2023-03-21T11:21:19+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\TaskBundle\\": ""
+                    }
+                },
+                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile"
             },
             {
                 "name": "grades-paca/bundle-task",
@@ -127,11 +160,7 @@
                         "Oru\\Bundle\\TaskBundle\\": ""
                     }
                 },
-                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-task/tree/bootstrap4",
-                    "issues": "https://github.com/grades-paca/bundle-task/issues"
-                }
+                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile"
             },
             {
                 "name": "grades-paca/bundle-task",
@@ -140,12 +169,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-task.git",
-                    "reference": "0cdeed8a76ab83445c5d765c78b2e0bd8563c9a4"
+                    "reference": "5c125a8ee351b619d51ac368bf2379f0119f8da3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/0cdeed8a76ab83445c5d765c78b2e0bd8563c9a4",
-                    "reference": "0cdeed8a76ab83445c5d765c78b2e0bd8563c9a4",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/5c125a8ee351b619d51ac368bf2379f0119f8da3",
+                    "reference": "5c125a8ee351b619d51ac368bf2379f0119f8da3",
                     "shasum": ""
                 },
                 "require": {
@@ -154,12 +183,13 @@
                     "grades-paca/bundle-paginator": ">=1.0.5",
                     "grades-paca/bundle-schedule": ">=1.2.4",
                     "grades-paca/bundle-setting": ">=1.0.17",
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
                 },
                 "suggest": {
                     "grades-paca/bundle-translation": ">=1.0.3"
                 },
-                "time": "2023-03-15T14:56:27+00:00",
+                "time": "2023-03-20T10:39:03+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -171,11 +201,7 @@
                         "Oru\\Bundle\\TaskBundle\\": ""
                     }
                 },
-                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-task/tree/majSF5",
-                    "issues": "https://github.com/grades-paca/bundle-task/issues"
-                }
+                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile"
             },
             {
                 "name": "grades-paca/bundle-task",
@@ -216,11 +242,7 @@
                         "Oru\\Bundle\\TaskBundle\\": ""
                     }
                 },
-                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-task/tree/1.4.0",
-                    "issues": "https://github.com/grades-paca/bundle-task/issues"
-                }
+                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile"
             },
             {
                 "name": "grades-paca/bundle-task",
@@ -260,11 +282,7 @@
                         "Oru\\Bundle\\TaskBundle\\": ""
                     }
                 },
-                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-task/tree/pid_size",
-                    "issues": "https://github.com/grades-paca/bundle-task/issues"
-                }
+                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile"
             }
         ]
     }

@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-wslits.git",
-                    "reference": "e94b500436f457616c06b670318ff0ae9106322e"
+                    "reference": "ea65e3da056cf65785488fdfab67bb1160c24028"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/e94b500436f457616c06b670318ff0ae9106322e",
-                    "reference": "e94b500436f457616c06b670318ff0ae9106322e",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/ea65e3da056cf65785488fdfab67bb1160c24028",
+                    "reference": "ea65e3da056cf65785488fdfab67bb1160c24028",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.0",
-                    "symfony/framework-bundle": "~4.4"
+                    "symfony/framework-bundle": "~4.4 || ~5.4"
                 },
-                "time": "2023-03-10T07:48:48+00:00",
+                "time": "2023-03-20T10:46:23+00:00",
                 "default-branch": true,
                 "type": "symfony-bundle",
                 "autoload": {

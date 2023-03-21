@@ -32,11 +32,7 @@
                         "Oru\\Bundle\\TestBundle\\": ""
                     }
                 },
-                "description": "Bundle avec entités de test",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-test/tree/1.0.0",
-                    "issues": "https://github.com/grades-paca/bundle-test/issues"
-                }
+                "description": "Bundle avec entités de test"
             },
             {
                 "name": "grades-paca/bundle-test",
@@ -69,11 +65,7 @@
                         "Oru\\Bundle\\TestBundle\\": ""
                     }
                 },
-                "description": "Bundle avec entités de test",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-test/tree/1.1.0",
-                    "issues": "https://github.com/grades-paca/bundle-test/issues"
-                }
+                "description": "Bundle avec entités de test"
             },
             {
                 "name": "grades-paca/bundle-test",
@@ -106,11 +98,7 @@
                         "Oru\\Bundle\\TestBundle\\": ""
                     }
                 },
-                "description": "Bundle avec entités de test",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-test/tree/1.2.0",
-                    "issues": "https://github.com/grades-paca/bundle-test/issues"
-                }
+                "description": "Bundle avec entités de test"
             },
             {
                 "name": "grades-paca/bundle-test",
@@ -143,11 +131,7 @@
                         "Oru\\Bundle\\TestBundle\\": ""
                     }
                 },
-                "description": "Bundle avec entités de test",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-test/tree/1.2.1",
-                    "issues": "https://github.com/grades-paca/bundle-test/issues"
-                }
+                "description": "Bundle avec entités de test"
             },
             {
                 "name": "grades-paca/bundle-test",
@@ -180,11 +164,7 @@
                         "Oru\\Bundle\\TestBundle\\": ""
                     }
                 },
-                "description": "Bundle avec entités de test",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-test/tree/1.2.2",
-                    "issues": "https://github.com/grades-paca/bundle-test/issues"
-                }
+                "description": "Bundle avec entités de test"
             },
             {
                 "name": "grades-paca/bundle-test",
@@ -217,11 +197,7 @@
                         "Oru\\Bundle\\TestBundle\\": ""
                     }
                 },
-                "description": "Bundle avec entités de test",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-test/tree/1.3.0",
-                    "issues": "https://github.com/grades-paca/bundle-test/issues"
-                }
+                "description": "Bundle avec entités de test"
             },
             {
                 "name": "grades-paca/bundle-test",
@@ -254,11 +230,40 @@
                         "Oru\\Bundle\\TestBundle\\": ""
                     }
                 },
-                "description": "Bundle avec entités de test",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-test/tree/1.4.0",
-                    "issues": "https://github.com/grades-paca/bundle-test/issues"
-                }
+                "description": "Bundle avec entités de test"
+            },
+            {
+                "name": "grades-paca/bundle-test",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "target-dir": "Oru/Bundle/TestBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-test.git",
+                    "reference": "2aee737335e957ba80c5e81aadf1686dcc80ffcb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-test/zipball/2aee737335e957ba80c5e81aadf1686dcc80ffcb",
+                    "reference": "2aee737335e957ba80c5e81aadf1686dcc80ffcb",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-03-21T11:22:58+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\TestBundle\\": ""
+                    }
+                },
+                "description": "Bundle avec entités de test"
             }
         ]
     }
