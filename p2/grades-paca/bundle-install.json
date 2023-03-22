@@ -36,7 +36,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -62,7 +66,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "teqneers/php-stream-wrapper-for-git": "1.0.*"
                 },
-                "time": "2016-03-29T10:23:38+00:00",
+                "time": "2016-03-29T10:25:12+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -74,7 +78,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.10",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -112,7 +120,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.11",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -150,7 +162,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.12",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -188,7 +204,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.13",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -226,7 +246,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.14",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -264,7 +288,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.15",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -302,7 +330,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.16",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -340,7 +372,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.17",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -377,7 +413,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -415,7 +455,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -453,7 +497,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -491,7 +539,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -529,7 +581,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.6",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -567,7 +623,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.7",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -605,7 +665,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.8",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -643,7 +707,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.0.9",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -681,7 +749,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -717,7 +789,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -753,7 +829,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -789,7 +869,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.1.3",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -812,7 +896,7 @@
                     "symfony/symfony": ">=2.3,<3.0@dev",
                     "teqneers/php-stream-wrapper-for-git": "1.0.*"
                 },
-                "time": "2018-02-16T09:59:20+00:00",
+                "time": "2018-02-16T10:00:07+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -824,7 +908,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.1.4",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -847,7 +935,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0",
                     "teqneers/php-stream-wrapper-for-git": "^2.0"
                 },
-                "time": "2019-02-06T09:17:11+00:00",
+                "time": "2019-02-06T09:22:47+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -859,7 +947,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -894,7 +986,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -917,7 +1013,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "teqneers/php-stream-wrapper-for-git": "^2.0"
                 },
-                "time": "2022-03-01T09:19:29+00:00",
+                "time": "2022-03-01T14:48:16+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -929,7 +1025,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -964,7 +1064,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.3.1",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -999,7 +1103,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -1033,7 +1141,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/1.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-install",
@@ -1069,7 +1181,11 @@
                         "Oru\\Bundle\\InstallBundle\\": ""
                     }
                 },
-                "description": "Bundle d'installation et de mise à jour d'une application"
+                "description": "Bundle d'installation et de mise à jour d'une application",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-install/tree/2.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-install/issues"
+                }
             }
         ]
     }
