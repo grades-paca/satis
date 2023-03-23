@@ -40,7 +40,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -81,7 +85,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/1.1.4",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -125,7 +133,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/1.2.15",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -173,7 +185,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/1.3.44",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -219,7 +235,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/1.4.7",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -256,7 +276,7 @@
                     "shapecode/hidden-entity-type-bundle": "^5.1",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-12-08T12:40:43+00:00",
+                "time": "2022-12-15T08:09:07+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -268,7 +288,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/1.9.4",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -318,7 +342,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/121304",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -367,7 +395,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/2.x",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -417,7 +449,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/210086",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -466,7 +502,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/238875",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -501,7 +541,7 @@
                     "oru/setting": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2017-03-27T17:01:53+00:00",
+                "time": "2017-03-29T09:25:38+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -513,7 +553,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/1.3.13.2",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -561,7 +605,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/31919",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -598,7 +646,7 @@
                     "shapecode/hidden-entity-type-bundle": "^5.1",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-12-08T09:49:57+00:00",
+                "time": "2022-12-08T10:19:38+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -610,7 +658,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/fix_45800",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -659,7 +711,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-form",
@@ -709,7 +765,11 @@
                         "Oru\\Bundle\\FormBundle\\": ""
                     }
                 },
-                "description": "Surcharge des formulaires"
+                "description": "Surcharge des formulaires",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-form/tree/1.11.0",
+                    "issues": "https://github.com/grades-paca/bundle-form/issues"
+                }
             }
         ]
     }

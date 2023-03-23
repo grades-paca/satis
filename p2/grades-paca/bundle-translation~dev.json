@@ -23,7 +23,7 @@
                     "grades-paca/bundle-test": "*",
                     "symfony/framework-bundle": "^4.0 || ^5.0 "
                 },
-                "time": "2023-02-20T10:42:49+00:00",
+                "time": "2023-03-14T09:24:01+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -35,7 +35,11 @@
                         "Oru\\Bundle\\TranslationBundle\\": ""
                     }
                 },
-                "description": "Traductions du ROR via ORM"
+                "description": "Traductions du ROR via ORM",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-translation/tree/1.5.1",
+                    "issues": "https://github.com/grades-paca/bundle-translation/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-translation",
@@ -71,7 +75,11 @@
                         "Oru\\Bundle\\TranslationBundle\\": ""
                     }
                 },
-                "description": "Traductions du ROR via ORM"
+                "description": "Traductions du ROR via ORM",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-translation/tree/1.5.0",
+                    "issues": "https://github.com/grades-paca/bundle-translation/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-translation",
@@ -81,12 +89,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-translation.git",
-                    "reference": "b70d23369a56947bb409dc6365895100597fb4c7"
+                    "reference": "3ba7750db98e2e12b03fea7e79d2808c4cedf164"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-translation/zipball/b70d23369a56947bb409dc6365895100597fb4c7",
-                    "reference": "b70d23369a56947bb409dc6365895100597fb4c7",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-translation/zipball/3ba7750db98e2e12b03fea7e79d2808c4cedf164",
+                    "reference": "3ba7750db98e2e12b03fea7e79d2808c4cedf164",
                     "shasum": ""
                 },
                 "require": {
@@ -95,7 +103,7 @@
                     "grades-paca/bundle-test": "^2.0",
                     "symfony/framework-bundle": "^5.0 "
                 },
-                "time": "2023-03-23T09:09:23+00:00",
+                "time": "2023-03-23T15:08:24+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -107,7 +115,11 @@
                         "Oru\\Bundle\\TranslationBundle\\": ""
                     }
                 },
-                "description": "Traductions du ROR via ORM"
+                "description": "Traductions du ROR via ORM",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-translation/tree/2.x",
+                    "issues": "https://github.com/grades-paca/bundle-translation/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-translation",
@@ -143,7 +155,11 @@
                         "Oru\\Bundle\\TranslationBundle\\": ""
                     }
                 },
-                "description": "Traductions du ROR via ORM"
+                "description": "Traductions du ROR via ORM",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-translation/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-translation/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-translation",
@@ -180,7 +196,11 @@
                         "Oru\\Bundle\\TranslationBundle\\": ""
                     }
                 },
-                "description": "Traductions du ROR via ORM"
+                "description": "Traductions du ROR via ORM",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-translation/tree/master",
+                    "issues": "https://github.com/grades-paca/bundle-translation/issues"
+                }
             }
         ]
     }

@@ -34,7 +34,11 @@
                         "Oru\\Bundle\\ListingBundle\\": ""
                     }
                 },
-                "description": "Results lists"
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-listing",
@@ -69,7 +73,11 @@
                         "Oru\\Bundle\\ListingBundle\\": ""
                     }
                 },
-                "description": "Results lists"
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/1.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-listing",
@@ -79,12 +87,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-listing.git",
-                    "reference": "dbd3f49d50795d68a61e028c787a6c99453e9ada"
+                    "reference": "fa5a11867b1bc6fce9576f8d6220b5fd7d2153f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/dbd3f49d50795d68a61e028c787a6c99453e9ada",
-                    "reference": "dbd3f49d50795d68a61e028c787a6c99453e9ada",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-listing/zipball/fa5a11867b1bc6fce9576f8d6220b5fd7d2153f0",
+                    "reference": "fa5a11867b1bc6fce9576f8d6220b5fd7d2153f0",
                     "shasum": ""
                 },
                 "require": {
@@ -92,7 +100,7 @@
                     "grades-paca/bundle-test": "^2.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-23T09:07:04+00:00",
+                "time": "2023-03-23T14:55:58+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -104,7 +112,11 @@
                         "Oru\\Bundle\\ListingBundle\\": ""
                     }
                 },
-                "description": "Results lists"
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/2.x",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-listing",
@@ -139,7 +151,11 @@
                         "Oru\\Bundle\\ListingBundle\\": ""
                     }
                 },
-                "description": "Results lists"
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-listing",
@@ -175,7 +191,11 @@
                         "Oru\\Bundle\\ListingBundle\\": ""
                     }
                 },
-                "description": "Results lists"
+                "description": "Results lists",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-listing/tree/2.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-listing/issues"
+                }
             }
         ]
     }
