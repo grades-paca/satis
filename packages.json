@@ -1,13 +1,16 @@
 {
     "packages": [],
     "includes": {
-        "include/all$b729a8ca4c37a22cbd19b2177b68113f381200b1.json": {
-            "sha1": "b729a8ca4c37a22cbd19b2177b68113f381200b1"
+        "include/all$d01967f525e1230abf29df1d131405e2d3abd676.json": {
+            "sha1": "d01967f525e1230abf29df1d131405e2d3abd676"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
         "atos/bundle-rass",
+        "atos/ws-synchro-lits",
+        "egeloen/ordered-form",
+        "egeloen/ordered-form-bundle",
         "grades-paca/bundle-address",
         "grades-paca/bundle-alert",
         "grades-paca/bundle-app",
