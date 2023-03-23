@@ -165,12 +165,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "e010aa22a1f9c5c8abc1e697042d62aa73bdacc5"
+                    "reference": "03012e24f0f3cb86a95d1b4ccdbec4a83b315d88"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/e010aa22a1f9c5c8abc1e697042d62aa73bdacc5",
-                    "reference": "e010aa22a1f9c5c8abc1e697042d62aa73bdacc5",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/03012e24f0f3cb86a95d1b4ccdbec4a83b315d88",
+                    "reference": "03012e24f0f3cb86a95d1b4ccdbec4a83b315d88",
                     "shasum": ""
                 },
                 "require": {
@@ -180,7 +180,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-23T06:39:58+00:00",
+                "time": "2023-03-23T15:51:08+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
