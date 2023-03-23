@@ -135,24 +135,24 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-setting.git",
-                    "reference": "5c2a36914fe2ad8909d0f1823588e44da6212aa7"
+                    "reference": "7dac78b02dd8cc7ab15802bad122eb1aa7cd0ec4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/5c2a36914fe2ad8909d0f1823588e44da6212aa7",
-                    "reference": "5c2a36914fe2ad8909d0f1823588e44da6212aa7",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/7dac78b02dd8cc7ab15802bad122eb1aa7cd0ec4",
+                    "reference": "7dac78b02dd8cc7ab15802bad122eb1aa7cd0ec4",
                     "shasum": ""
                 },
                 "require": {
-                    "grades-paca/bundle-alert": "*",
-                    "grades-paca/bundle-design": "*",
-                    "grades-paca/bundle-form": "*",
-                    "grades-paca/bundle-listing": "*",
-                    "grades-paca/bundle-paginator": "*",
+                    "grades-paca/bundle-alert": "^2.0",
+                    "grades-paca/bundle-design": "^2.0",
+                    "grades-paca/bundle-form": "^2.0",
+                    "grades-paca/bundle-listing": "^2.0",
+                    "grades-paca/bundle-paginator": "^2.0",
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-21T11:13:44+00:00",
+                "time": "2023-03-23T06:40:13+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -166,7 +166,7 @@
                 },
                 "description": "Bundle de gestion des paramètres de l'application.",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-setting/tree/2.0.0",
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/2.x",
                     "issues": "https://github.com/grades-paca/bundle-setting/issues"
                 }
             },

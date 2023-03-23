@@ -356,12 +356,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "cace2772f4df5d57124559a12dff89000ff0aa1f"
+                    "reference": "f571a3601494d88e69d4fb7232c77f70a6edafec"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/cace2772f4df5d57124559a12dff89000ff0aa1f",
-                    "reference": "cace2772f4df5d57124559a12dff89000ff0aa1f",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/f571a3601494d88e69d4fb7232c77f70a6edafec",
+                    "reference": "f571a3601494d88e69d4fb7232c77f70a6edafec",
                     "shasum": ""
                 },
                 "require": {
@@ -373,17 +373,17 @@
                     "ext-json": "*",
                     "ext-openssl": "*",
                     "friendsofsymfony/ckeditor-bundle": "^2.4",
-                    "grades-paca/bundle-denied-field": "*",
-                    "grades-paca/bundle-design": "*",
-                    "grades-paca/bundle-install": ">=1.0.5",
-                    "grades-paca/bundle-jquery-mask": "*",
-                    "grades-paca/bundle-mail": "*",
-                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-denied-field": "^2.0",
+                    "grades-paca/bundle-design": "^2.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-jquery-mask": "^2.0",
+                    "grades-paca/bundle-mail": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
                     "odolbeau/phone-number-bundle": "^3.0",
                     "shapecode/hidden-entity-type-bundle": "^5.2",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-21T12:53:22+00:00",
+                "time": "2023-03-23T06:35:33+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

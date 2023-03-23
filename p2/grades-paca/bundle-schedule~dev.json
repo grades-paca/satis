@@ -165,22 +165,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "72ed4924ac472069a153ccb77ed76365201c2713"
+                    "reference": "e010aa22a1f9c5c8abc1e697042d62aa73bdacc5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/72ed4924ac472069a153ccb77ed76365201c2713",
-                    "reference": "72ed4924ac472069a153ccb77ed76365201c2713",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/e010aa22a1f9c5c8abc1e697042d62aa73bdacc5",
+                    "reference": "e010aa22a1f9c5c8abc1e697042d62aa73bdacc5",
                     "shasum": ""
                 },
                 "require": {
                     "dragonmantank/cron-expression": "^3.0",
-                    "grades-paca/bundle-app": ">=1.0.9",
-                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-app": "^2.0",
+                    "grades-paca/bundle-listing": "^2.0",
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-21T11:11:56+00:00",
+                "time": "2023-03-23T06:39:58+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -194,7 +194,7 @@
                 },
                 "description": "Planificateur de taches ",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/2.0.0",
+                    "source": "https://github.com/grades-paca/bundle-schedule/tree/2.x",
                     "issues": "https://github.com/grades-paca/bundle-schedule/issues"
                 }
             },
@@ -433,6 +433,46 @@
                 "description": "Planificateur de taches ",
                 "support": {
                     "source": "https://github.com/grades-paca/bundle-schedule/tree/MajSF5",
+                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-schedule",
+                "version": "dev-fixtures/242507",
+                "version_normalized": "dev-fixtures/242507",
+                "target-dir": "Oru/Bundle/ScheduleBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-schedule.git",
+                    "reference": "04855039b600140adc708539c974770bdf3fd144"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/04855039b600140adc708539c974770bdf3fd144",
+                    "reference": "04855039b600140adc708539c974770bdf3fd144",
+                    "shasum": ""
+                },
+                "require": {
+                    "dragonmantank/cron-expression": "^3.0",
+                    "grades-paca/bundle-app": ">=1.0.9",
+                    "grades-paca/bundle-listing": "*",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2023-03-23T07:57:44+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ScheduleBundle\\": ""
+                    }
+                },
+                "description": "Planificateur de taches ",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-schedule/tree/fixtures/242507",
                     "issues": "https://github.com/grades-paca/bundle-schedule/issues"
                 }
             },

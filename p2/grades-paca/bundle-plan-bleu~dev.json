@@ -258,22 +258,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-plan-bleu.git",
-                    "reference": "f0158800028d5f0a0ff5dbc254fc9410b43b419a"
+                    "reference": "14eb55312c90f48c77f434e0322ef540ce146a19"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/f0158800028d5f0a0ff5dbc254fc9410b43b419a",
-                    "reference": "f0158800028d5f0a0ff5dbc254fc9410b43b419a",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-plan-bleu/zipball/14eb55312c90f48c77f434e0322ef540ce146a19",
+                    "reference": "14eb55312c90f48c77f434e0322ef540ce146a19",
                     "shasum": ""
                 },
                 "require": {
-                    "grades-paca/bundle-attachment": "*",
-                    "grades-paca/bundle-design": "*",
-                    "grades-paca/bundle-form": "*",
-                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-attachment": "^2.0",
+                    "grades-paca/bundle-design": "^2.0",
+                    "grades-paca/bundle-form": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-21T13:14:59+00:00",
+                "time": "2023-03-23T06:39:07+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

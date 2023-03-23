@@ -9,20 +9,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-paginator.git",
-                    "reference": "486dd4e3d4874ae25e451a099c613c7f318f5024"
+                    "reference": "a365ea7e84969b588851703e7574764b7dadb0ea"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/486dd4e3d4874ae25e451a099c613c7f318f5024",
-                    "reference": "486dd4e3d4874ae25e451a099c613c7f318f5024",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/a365ea7e84969b588851703e7574764b7dadb0ea",
+                    "reference": "a365ea7e84969b588851703e7574764b7dadb0ea",
                     "shasum": ""
                 },
                 "require": {
-                    "grades-paca/bundle-listing": "*",
+                    "grades-paca/bundle-listing": "^2.0",
                     "knplabs/knp-paginator-bundle": "^5.9",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-21T13:07:54+00:00",
+                "time": "2023-03-23T06:38:06+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

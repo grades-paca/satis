@@ -45,19 +45,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-project-humhub.git",
-                    "reference": "f7f933c8069c9b4e7cfbcf33bd55b4f24954b29f"
+                    "reference": "30a1303fabd5240e43603dd235dc013278c60d84"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-project-humhub/zipball/f7f933c8069c9b4e7cfbcf33bd55b4f24954b29f",
-                    "reference": "f7f933c8069c9b4e7cfbcf33bd55b4f24954b29f",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-project-humhub/zipball/30a1303fabd5240e43603dd235dc013278c60d84",
+                    "reference": "30a1303fabd5240e43603dd235dc013278c60d84",
                     "shasum": ""
                 },
                 "require": {
-                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-setting": "^2.0",
                     "romanpitak/php-rest-client": ">=1.2.0"
                 },
-                "time": "2023-03-15T14:40:18+00:00",
+                "time": "2023-03-23T06:39:39+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -71,7 +71,7 @@
                 },
                 "description": "Project Humhub connector bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-project-humhub/tree/2.0.0",
+                    "source": "https://github.com/grades-paca/bundle-project-humhub/tree/2.x",
                     "issues": "https://github.com/grades-paca/bundle-project-humhub/issues"
                 }
             },

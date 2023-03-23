@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-denied-field.git",
-                    "reference": "1b5f58edd657a0f3b34d20b60df44aa2515d86cd"
+                    "reference": "479cc4922ee9965c6b83eb7e36d8030b0061a106"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-denied-field/zipball/1b5f58edd657a0f3b34d20b60df44aa2515d86cd",
-                    "reference": "1b5f58edd657a0f3b34d20b60df44aa2515d86cd",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-denied-field/zipball/479cc4922ee9965c6b83eb7e36d8030b0061a106",
+                    "reference": "479cc4922ee9965c6b83eb7e36d8030b0061a106",
                     "shasum": ""
                 },
                 "require": {
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                    "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-21T10:12:12+00:00",
+                "time": "2023-03-23T06:33:50+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -33,7 +33,7 @@
                 },
                 "description": "Gestion des droits sur les propriétés des entités",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-denied-field/tree/2.0.0",
+                    "source": "https://github.com/grades-paca/bundle-denied-field/tree/2.x",
                     "issues": "https://github.com/grades-paca/bundle-denied-field/issues"
                 }
             },

@@ -249,24 +249,24 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-version.git",
-                    "reference": "0fb440868016dbdf4c2e9e53bfee99062e8cb50a"
+                    "reference": "a6a4f81a92c31c392b871c2a9ece1256ec10be6a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/0fb440868016dbdf4c2e9e53bfee99062e8cb50a",
-                    "reference": "0fb440868016dbdf4c2e9e53bfee99062e8cb50a",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/a6a4f81a92c31c392b871c2a9ece1256ec10be6a",
+                    "reference": "a6a4f81a92c31c392b871c2a9ece1256ec10be6a",
                     "shasum": ""
                 },
                 "require": {
-                    "grades-paca/bundle-app": ">=1.0.4",
-                    "grades-paca/bundle-install": ">=1.0.5",
-                    "grades-paca/bundle-setting": "*",
-                    "grades-paca/bundle-web-client": ">=1.1.11",
+                    "grades-paca/bundle-app": "^2.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
                     "kbsali/redmine-api": "^2.2",
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-20T10:40:25+00:00",
+                "time": "2023-03-23T06:41:38+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -280,7 +280,7 @@
                 },
                 "description": "Gestion des versions d'un applicatif",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-version/tree/4.0.0",
+                    "source": "https://github.com/grades-paca/bundle-version/tree/4.x",
                     "issues": "https://github.com/grades-paca/bundle-version/issues"
                 }
             },
