@@ -328,12 +328,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "f571a3601494d88e69d4fb7232c77f70a6edafec"
+                    "reference": "1151edd71d3dc5f26b471184bb46d1e66075630c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/f571a3601494d88e69d4fb7232c77f70a6edafec",
-                    "reference": "f571a3601494d88e69d4fb7232c77f70a6edafec",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/1151edd71d3dc5f26b471184bb46d1e66075630c",
+                    "reference": "1151edd71d3dc5f26b471184bb46d1e66075630c",
                     "shasum": ""
                 },
                 "require": {
@@ -346,7 +346,7 @@
                     "ext-openssl": "*",
                     "friendsofsymfony/ckeditor-bundle": "^2.4",
                     "grades-paca/bundle-denied-field": "^2.0",
-                    "grades-paca/bundle-design": "^2.0",
+                    "grades-paca/bundle-design": "^3.0",
                     "grades-paca/bundle-install": "^2.0",
                     "grades-paca/bundle-jquery-mask": "^2.0",
                     "grades-paca/bundle-mail": "^2.0",
@@ -355,7 +355,7 @@
                     "shapecode/hidden-entity-type-bundle": "^5.2",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-23T06:35:33+00:00",
+                "time": "2023-03-23T09:06:27+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

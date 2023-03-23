@@ -91,17 +91,17 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-box.git",
-                    "reference": "d490467ee09c1bc70064d7445324655cfb4cbe19"
+                    "reference": "fbffc1e0f018a566d6647552922ecdb1e0701cf7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/d490467ee09c1bc70064d7445324655cfb4cbe19",
-                    "reference": "d490467ee09c1bc70064d7445324655cfb4cbe19",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/fbffc1e0f018a566d6647552922ecdb1e0701cf7",
+                    "reference": "fbffc1e0f018a566d6647552922ecdb1e0701cf7",
                     "shasum": ""
                 },
                 "require": {
                     "friendsofsymfony/oauth-server-bundle": "dev-master",
-                    "grades-paca/bundle-design": "^2.0",
+                    "grades-paca/bundle-design": "^3.0",
                     "grades-paca/bundle-form": "^2.0",
                     "grades-paca/bundle-install": ">=1.0.5",
                     "grades-paca/bundle-listing": "^2.0",
@@ -110,7 +110,7 @@
                     "sonata-project/exporter": "^2.7",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-23T06:32:56+00:00",
+                "time": "2023-03-23T09:05:22+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

@@ -82,21 +82,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-install.git",
-                    "reference": "49d23e395051059d697bd6f7c1bfa33ad0248b94"
+                    "reference": "194dcdc50ce399a1423d3b48b7a7b4c8e6db09c1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-install/zipball/49d23e395051059d697bd6f7c1bfa33ad0248b94",
-                    "reference": "49d23e395051059d697bd6f7c1bfa33ad0248b94",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-install/zipball/194dcdc50ce399a1423d3b48b7a7b4c8e6db09c1",
+                    "reference": "194dcdc50ce399a1423d3b48b7a7b4c8e6db09c1",
                     "shasum": ""
                 },
                 "require": {
-                    "lexik/maintenance-bundle": "^2.1",
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0",
                     "teqneers/php-stream-wrapper-for-git": "^2.0"
                 },
-                "time": "2023-03-22T09:47:43+00:00",
+                "time": "2023-03-23T08:45:15+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

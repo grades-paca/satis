@@ -500,6 +500,45 @@
             },
             {
                 "name": "grades-paca/bundle-design",
+                "version": "3.x-dev",
+                "version_normalized": "3.9999999.9999999.9999999-dev",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "9be44feac46e9b9a5145e36c51f88bbd04c51abc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/9be44feac46e9b9a5145e36c51f88bbd04c51abc",
+                    "reference": "9be44feac46e9b9a5145e36c51f88bbd04c51abc",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.8",
+                    "grades-paca/bundle-form": "^2.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-privacy-banner": "^2.0",
+                    "symfony/framework-bundle": "^5.0",
+                    "tattali/mobile-detect-bundle": "2.2.0"
+                },
+                "time": "2023-03-23T08:57:12+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle"
+            },
+            {
+                "name": "grades-paca/bundle-design",
                 "version": "dev-Mlapalus-patch-1",
                 "version_normalized": "dev-Mlapalus-patch-1",
                 "target-dir": "Oru/Bundle/DesignBundle",
