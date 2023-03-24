@@ -165,12 +165,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "16af3b4e11f2252c9661dcf5b1c67837e21972c9"
+                    "reference": "4001ae84d4673da0d0555648d3de649e5221d7f3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/16af3b4e11f2252c9661dcf5b1c67837e21972c9",
-                    "reference": "16af3b4e11f2252c9661dcf5b1c67837e21972c9",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/4001ae84d4673da0d0555648d3de649e5221d7f3",
+                    "reference": "4001ae84d4673da0d0555648d3de649e5221d7f3",
                     "shasum": ""
                 },
                 "require": {
@@ -180,7 +180,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-24T10:13:15+00:00",
+                "time": "2023-03-24T13:37:03+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -194,7 +194,7 @@
                 },
                 "description": "Planificateur de taches ",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/2.0.0",
+                    "source": "https://github.com/grades-paca/bundle-schedule/tree/2.x",
                     "issues": "https://github.com/grades-paca/bundle-schedule/issues"
                 }
             },
