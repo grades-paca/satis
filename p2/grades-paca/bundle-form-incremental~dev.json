@@ -83,19 +83,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form-incremental.git",
-                    "reference": "88bc13133de8ae1a73983c2c40e7f425156c80d7"
+                    "reference": "e0854787ede1d1f76e1ef1e982773cb5940bfe01"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form-incremental/zipball/88bc13133de8ae1a73983c2c40e7f425156c80d7",
-                    "reference": "88bc13133de8ae1a73983c2c40e7f425156c80d7",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form-incremental/zipball/e0854787ede1d1f76e1ef1e982773cb5940bfe01",
+                    "reference": "e0854787ede1d1f76e1ef1e982773cb5940bfe01",
                     "shasum": ""
                 },
                 "require": {
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-23T14:09:57+00:00",
+                "time": "2023-03-24T15:14:40+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -109,7 +109,7 @@
                 },
                 "description": "Gérer des forms dont les champs évoluent d'une instance à l'autre",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-form-incremental/tree/2.0.0",
+                    "source": "https://github.com/grades-paca/bundle-form-incremental/tree/2.x",
                     "issues": "https://github.com/grades-paca/bundle-form-incremental/issues"
                 }
             },
