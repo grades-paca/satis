@@ -356,12 +356,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "a69c8c84c94e1a37f49322e421e6e1d1db011a7f"
+                    "reference": "81cdeed26b4241a88ee3a6e246e06c846ca6cb1c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/a69c8c84c94e1a37f49322e421e6e1d1db011a7f",
-                    "reference": "a69c8c84c94e1a37f49322e421e6e1d1db011a7f",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/81cdeed26b4241a88ee3a6e246e06c846ca6cb1c",
+                    "reference": "81cdeed26b4241a88ee3a6e246e06c846ca6cb1c",
                     "shasum": ""
                 },
                 "require": {
@@ -382,7 +382,7 @@
                     "shapecode/hidden-entity-type-bundle": "^5.2",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-24T08:50:43+00:00",
+                "time": "2023-03-24T14:36:34+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -396,7 +396,7 @@
                 },
                 "description": "Surcharge des formulaires",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-form/tree/2.0.0",
+                    "source": "https://github.com/grades-paca/bundle-form/tree/2.x",
                     "issues": "https://github.com/grades-paca/bundle-form/issues"
                 }
             },

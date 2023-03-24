@@ -96,12 +96,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-task.git",
-                    "reference": "76956c150a80dc2a30ae21cacfa3354c2c12c4cf"
+                    "reference": "29e6a1fd7fdff20f28a8a46dad766b07ec75b5ec"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/76956c150a80dc2a30ae21cacfa3354c2c12c4cf",
-                    "reference": "76956c150a80dc2a30ae21cacfa3354c2c12c4cf",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/29e6a1fd7fdff20f28a8a46dad766b07ec75b5ec",
+                    "reference": "29e6a1fd7fdff20f28a8a46dad766b07ec75b5ec",
                     "shasum": ""
                 },
                 "require": {
@@ -116,7 +116,7 @@
                 "suggest": {
                     "grades-paca/bundle-translation": ">=1.0.3"
                 },
-                "time": "2023-03-23T09:09:03+00:00",
+                "time": "2023-03-24T14:20:27+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

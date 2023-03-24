@@ -50,12 +50,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-otp.git",
-                    "reference": "4a01b5f37191d4a6de204321cca6238f83670bc8"
+                    "reference": "54771b17dbc1303cd1d23b309de7e2b8bfe6a4ee"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-otp/zipball/4a01b5f37191d4a6de204321cca6238f83670bc8",
-                    "reference": "4a01b5f37191d4a6de204321cca6238f83670bc8",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-otp/zipball/54771b17dbc1303cd1d23b309de7e2b8bfe6a4ee",
+                    "reference": "54771b17dbc1303cd1d23b309de7e2b8bfe6a4ee",
                     "shasum": ""
                 },
                 "require": {
@@ -65,7 +65,7 @@
                     "spomky-labs/otphp": "^10.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-23T09:54:25+00:00",
+                "time": "2023-03-24T14:50:50+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -79,7 +79,7 @@
                 },
                 "description": "Gestion de l'authentification via OTP",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-otp/tree/2.0.0",
+                    "source": "https://github.com/grades-paca/bundle-otp/tree/2.x",
                     "issues": "https://github.com/grades-paca/bundle-otp/issues"
                 }
             },
