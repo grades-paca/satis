@@ -2100,23 +2100,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-mail.git",
-                    "reference": "f6e6724c95886348aa9a8105985be2110534ee0b"
+                    "reference": "0f3aa6f0f137a77e6299a16522af1d9decb9fcf8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/f6e6724c95886348aa9a8105985be2110534ee0b",
-                    "reference": "f6e6724c95886348aa9a8105985be2110534ee0b",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/0f3aa6f0f137a77e6299a16522af1d9decb9fcf8",
+                    "reference": "0f3aa6f0f137a77e6299a16522af1d9decb9fcf8",
                     "shasum": ""
                 },
                 "require": {
                     "algo26-matthias/idna-convert": "^2.1",
-                    "grades-paca/bundle-design": "*",
-                    "grades-paca/bundle-install": ">=1.0.5",
-                    "grades-paca/bundle-setting": "*",
-                    "symfony/framework-bundle": "^4.0 || ^5.0",
-                    "vkalmuk/swiftmailerdbbundle": "dev-master"
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "symfony/framework-bundle": "^5.0",
+                    "symfony/mailer": "^5.4"
                 },
-                "time": "2023-03-21T10:40:28+00:00",
+                "time": "2023-03-23T14:54:02+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

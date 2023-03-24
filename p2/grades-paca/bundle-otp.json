@@ -1278,22 +1278,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-otp.git",
-                    "reference": "09f178c10cd2b564bea7f951191b89193bd2029a"
+                    "reference": "4a01b5f37191d4a6de204321cca6238f83670bc8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-otp/zipball/09f178c10cd2b564bea7f951191b89193bd2029a",
-                    "reference": "09f178c10cd2b564bea7f951191b89193bd2029a",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-otp/zipball/4a01b5f37191d4a6de204321cca6238f83670bc8",
+                    "reference": "4a01b5f37191d4a6de204321cca6238f83670bc8",
                     "shasum": ""
                 },
                 "require": {
-                    "grades-paca/bundle-mail": "*",
-                    "grades-paca/bundle-sms": "*",
-                    "grades-paca/bundle-translation": "*",
-                    "spomky-labs/otphp": "^11.0",
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                    "grades-paca/bundle-mail": "^2.0",
+                    "grades-paca/bundle-sms": "^2.0",
+                    "grades-paca/bundle-translation": "^2.0",
+                    "spomky-labs/otphp": "^10.0",
+                    "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-21T10:49:54+00:00",
+                "time": "2023-03-23T09:54:25+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
