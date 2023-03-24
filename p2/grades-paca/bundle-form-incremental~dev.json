@@ -109,7 +109,7 @@
                 },
                 "description": "Gérer des forms dont les champs évoluent d'une instance à l'autre",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-form-incremental/tree/2.x",
+                    "source": "https://github.com/grades-paca/bundle-form-incremental/tree/2.0.0",
                     "issues": "https://github.com/grades-paca/bundle-form-incremental/issues"
                 }
             },
@@ -147,7 +147,7 @@
                 },
                 "description": "Gérer des forms dont les champs évoluent d'une instance à l'autre",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-form-incremental/tree/2.0.0",
+                    "source": "https://github.com/grades-paca/bundle-form-incremental/tree/majSF5",
                     "issues": "https://github.com/grades-paca/bundle-form-incremental/issues"
                 }
             },

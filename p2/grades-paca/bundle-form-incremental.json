@@ -416,19 +416,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form-incremental.git",
-                    "reference": "c36691a1570ffc6ab503fa4e07431794252a869f"
+                    "reference": "88bc13133de8ae1a73983c2c40e7f425156c80d7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form-incremental/zipball/c36691a1570ffc6ab503fa4e07431794252a869f",
-                    "reference": "c36691a1570ffc6ab503fa4e07431794252a869f",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form-incremental/zipball/88bc13133de8ae1a73983c2c40e7f425156c80d7",
+                    "reference": "88bc13133de8ae1a73983c2c40e7f425156c80d7",
                     "shasum": ""
                 },
                 "require": {
-                    "symfony/console": "5.0",
+                    "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-20T09:59:55+00:00",
+                "time": "2023-03-23T14:09:57+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

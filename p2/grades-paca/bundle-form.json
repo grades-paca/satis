@@ -6185,34 +6185,33 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "0498f1b65447bc54c8ec402fa373d7e2ef6e184b"
+                    "reference": "a69c8c84c94e1a37f49322e421e6e1d1db011a7f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/0498f1b65447bc54c8ec402fa373d7e2ef6e184b",
-                    "reference": "0498f1b65447bc54c8ec402fa373d7e2ef6e184b",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/a69c8c84c94e1a37f49322e421e6e1d1db011a7f",
+                    "reference": "a69c8c84c94e1a37f49322e421e6e1d1db011a7f",
                     "shasum": ""
                 },
                 "require": {
                     "algo26-matthias/idna-convert": "^2.1",
-                    "egeloen/ordered-form-bundle": "^3.0",
                     "excelwebzone/recaptcha-bundle": "^1.5",
                     "exercise/htmlpurifier-bundle": "*",
                     "ext-intl": "*",
                     "ext-json": "*",
                     "ext-openssl": "*",
                     "friendsofsymfony/ckeditor-bundle": "^2.4",
-                    "grades-paca/bundle-denied-field": "*",
-                    "grades-paca/bundle-design": "*",
-                    "grades-paca/bundle-install": ">=1.0.5",
-                    "grades-paca/bundle-jquery-mask": "*",
-                    "grades-paca/bundle-mail": "*",
-                    "grades-paca/bundle-setting": "*",
+                    "grades-paca/bundle-denied-field": "^2.0",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-jquery-mask": "^2.0",
+                    "grades-paca/bundle-mail": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
                     "odolbeau/phone-number-bundle": "^3.0",
                     "shapecode/hidden-entity-type-bundle": "^5.2",
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                    "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-21T10:19:52+00:00",
+                "time": "2023-03-24T08:50:43+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
