@@ -2991,12 +2991,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "3e3dcc8780a95dc2c60ee078e38a210f519f4e55"
+                    "reference": "570a320c9442723dbfd114daf6d27b57d6fa7ff6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/3e3dcc8780a95dc2c60ee078e38a210f519f4e55",
-                    "reference": "3e3dcc8780a95dc2c60ee078e38a210f519f4e55",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/570a320c9442723dbfd114daf6d27b57d6fa7ff6",
+                    "reference": "570a320c9442723dbfd114daf6d27b57d6fa7ff6",
                     "shasum": ""
                 },
                 "require": {
@@ -3004,14 +3004,14 @@
                     "ext-gd": "*",
                     "ext-mapscript": "*",
                     "ext-pgsql": "*",
-                    "grades-paca/bundle-design": ">=1.9",
-                    "grades-paca/bundle-install": ">=1.4",
-                    "grades-paca/bundle-setting": "*",
-                    "grades-paca/bundle-web-client": ">=1.1.7",
-                    "symfony/console": "5.0",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-21T10:10:00+00:00",
+                "time": "2023-03-23T09:05:38+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

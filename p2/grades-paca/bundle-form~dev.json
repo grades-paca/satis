@@ -356,17 +356,16 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "322a41755572ff4a3fb152103595b6e0e2824d1e"
+                    "reference": "a69c8c84c94e1a37f49322e421e6e1d1db011a7f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/322a41755572ff4a3fb152103595b6e0e2824d1e",
-                    "reference": "322a41755572ff4a3fb152103595b6e0e2824d1e",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/a69c8c84c94e1a37f49322e421e6e1d1db011a7f",
+                    "reference": "a69c8c84c94e1a37f49322e421e6e1d1db011a7f",
                     "shasum": ""
                 },
                 "require": {
                     "algo26-matthias/idna-convert": "^2.1",
-                    "egeloen/ordered-form-bundle": "^3.0",
                     "excelwebzone/recaptcha-bundle": "^1.5",
                     "exercise/htmlpurifier-bundle": "*",
                     "ext-intl": "*",
@@ -383,7 +382,7 @@
                     "shapecode/hidden-entity-type-bundle": "^5.2",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-23T15:39:12+00:00",
+                "time": "2023-03-24T08:50:43+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

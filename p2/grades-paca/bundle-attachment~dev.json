@@ -82,7 +82,7 @@
                 },
                 "description": "Attachment Bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-attachment/tree/2.x",
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/2.0.0",
                     "issues": "https://github.com/grades-paca/bundle-attachment/issues"
                 }
             },

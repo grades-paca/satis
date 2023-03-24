@@ -5521,23 +5521,23 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-address.git",
-                    "reference": "b4f4bc1c5b6d606b3629194eeb31e30a524d7996"
+                    "reference": "3c7f21be5023c79ea97d1a880b0ad477ae8117ae"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/b4f4bc1c5b6d606b3629194eeb31e30a524d7996",
-                    "reference": "b4f4bc1c5b6d606b3629194eeb31e30a524d7996",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/3c7f21be5023c79ea97d1a880b0ad477ae8117ae",
+                    "reference": "3c7f21be5023c79ea97d1a880b0ad477ae8117ae",
                     "shasum": ""
                 },
                 "require": {
-                    "grades-paca/bundle-design": "*",
-                    "grades-paca/bundle-install": ">=1.0.5",
-                    "grades-paca/bundle-lst": ">=1.1.8",
-                    "grades-paca/bundle-translation": "*",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-lst": "^2.0",
+                    "grades-paca/bundle-translation": "^2.0",
                     "symfony/console": "^5.0",
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                    "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-21T09:25:33+00:00",
+                "time": "2023-03-23T09:04:18+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

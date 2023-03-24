@@ -34,7 +34,7 @@
                 },
                 "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-app/tree/2.x",
+                    "source": "https://github.com/grades-paca/bundle-app/tree/2.0.0",
                     "issues": "https://github.com/grades-paca/bundle-app/issues"
                 }
             },

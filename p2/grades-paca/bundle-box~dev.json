@@ -132,7 +132,7 @@
                 },
                 "description": "Bundle de gestion d'oruboxs.",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-box/tree/2.x",
+                    "source": "https://github.com/grades-paca/bundle-box/tree/2.0.0",
                     "issues": "https://github.com/grades-paca/bundle-box/issues"
                 }
             },

@@ -2204,27 +2204,27 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-attachment.git",
-                    "reference": "08176ce26f12345443d26e29d9c491099399b300"
+                    "reference": "d508a21386be0fb434782585c0f8114ffdd654e6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/08176ce26f12345443d26e29d9c491099399b300",
-                    "reference": "08176ce26f12345443d26e29d9c491099399b300",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/d508a21386be0fb434782585c0f8114ffdd654e6",
+                    "reference": "d508a21386be0fb434782585c0f8114ffdd654e6",
                     "shasum": ""
                 },
                 "require": {
                     "ext-fileinfo": "*",
                     "ext-gd": "*",
                     "ext-sockets": "*",
-                    "grades-paca/bundle-design": "*",
-                    "grades-paca/bundle-install": ">=1.0.5",
-                    "grades-paca/bundle-schedule": "*",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-schedule": "^2.0",
                     "intervention/image": "^2.7",
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0",
                     "xenolope/quahog": "^3.0"
                 },
-                "time": "2023-03-21T10:03:20+00:00",
+                "time": "2023-03-23T15:29:48+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

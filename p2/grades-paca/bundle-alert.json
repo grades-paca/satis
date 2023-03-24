@@ -471,21 +471,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-alert.git",
-                    "reference": "31e992cbc7b174752007c7974155ce53856f2230"
+                    "reference": "c81b2cbff48aa863235097830ac66b0a3dcef266"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-alert/zipball/31e992cbc7b174752007c7974155ce53856f2230",
-                    "reference": "31e992cbc7b174752007c7974155ce53856f2230",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-alert/zipball/c81b2cbff48aa863235097830ac66b0a3dcef266",
+                    "reference": "c81b2cbff48aa863235097830ac66b0a3dcef266",
                     "shasum": ""
                 },
                 "require": {
-                    "grades-paca/bundle-error-logger": "*",
-                    "grades-paca/bundle-mail": "*",
-                    "grades-paca/bundle-setting": "*",
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                    "grades-paca/bundle-error-logger": "^2.0",
+                    "grades-paca/bundle-mail": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-21T09:52:45+00:00",
+                "time": "2023-03-23T06:32:03+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

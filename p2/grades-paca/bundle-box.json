@@ -1672,26 +1672,26 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-box.git",
-                    "reference": "f5dea34c1a2d068389a26c2f598e74f285194cd3"
+                    "reference": "fbffc1e0f018a566d6647552922ecdb1e0701cf7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/f5dea34c1a2d068389a26c2f598e74f285194cd3",
-                    "reference": "f5dea34c1a2d068389a26c2f598e74f285194cd3",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-box/zipball/fbffc1e0f018a566d6647552922ecdb1e0701cf7",
+                    "reference": "fbffc1e0f018a566d6647552922ecdb1e0701cf7",
                     "shasum": ""
                 },
                 "require": {
                     "friendsofsymfony/oauth-server-bundle": "dev-master",
-                    "grades-paca/bundle-design": "*",
-                    "grades-paca/bundle-form": ">=1.7.2",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-form": "^2.0",
                     "grades-paca/bundle-install": ">=1.0.5",
-                    "grades-paca/bundle-listing": "*",
-                    "grades-paca/bundle-lst": "*",
-                    "grades-paca/bundle-patient": "*",
+                    "grades-paca/bundle-listing": "^2.0",
+                    "grades-paca/bundle-lst": "^2.0",
+                    "grades-paca/bundle-patient": "^3.0",
                     "sonata-project/exporter": "^2.7",
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                    "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-21T10:05:30+00:00",
+                "time": "2023-03-23T09:05:22+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
