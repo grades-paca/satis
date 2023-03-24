@@ -9,18 +9,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-test.git",
-                    "reference": "dffe5317b9ac51ec2aadf95bef69212118d2e113"
+                    "reference": "280560fcdcb6eee48f352027e71968b37b2cc324"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-test/zipball/dffe5317b9ac51ec2aadf95bef69212118d2e113",
-                    "reference": "dffe5317b9ac51ec2aadf95bef69212118d2e113",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-test/zipball/280560fcdcb6eee48f352027e71968b37b2cc324",
+                    "reference": "280560fcdcb6eee48f352027e71968b37b2cc324",
                     "shasum": ""
                 },
                 "require": {
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-24T14:18:45+00:00",
+                "time": "2023-03-24T16:09:43+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
