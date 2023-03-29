@@ -219,12 +219,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-mail.git",
-                    "reference": "0f3aa6f0f137a77e6299a16522af1d9decb9fcf8"
+                    "reference": "b28e7d89d96e0f402ab3147292d21066b194299f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/0f3aa6f0f137a77e6299a16522af1d9decb9fcf8",
-                    "reference": "0f3aa6f0f137a77e6299a16522af1d9decb9fcf8",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/b28e7d89d96e0f402ab3147292d21066b194299f",
+                    "reference": "b28e7d89d96e0f402ab3147292d21066b194299f",
                     "shasum": ""
                 },
                 "require": {
@@ -235,7 +235,7 @@
                     "symfony/framework-bundle": "^5.0",
                     "symfony/mailer": "^5.4"
                 },
-                "time": "2023-03-23T14:54:02+00:00",
+                "time": "2023-03-27T16:02:52+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -249,7 +249,7 @@
                 },
                 "description": "Gestion des mails",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-mail/tree/2.0.0",
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/2.x",
                     "issues": "https://github.com/grades-paca/bundle-mail/issues"
                 }
             },
