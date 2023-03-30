@@ -178,6 +178,51 @@
             },
             {
                 "name": "grades-paca/bundle-attachment",
+                "version": "dev-247432_b",
+                "version_normalized": "dev-247432_b",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "dc069f482ac3e44344e6065a98cd8dedfc26eb4b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/dc069f482ac3e44344e6065a98cd8dedfc26eb4b",
+                    "reference": "dc069f482ac3e44344e6065a98cd8dedfc26eb4b",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "ext-sockets": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-schedule": "*",
+                    "intervention/image": "^2.7",
+                    "symfony/framework-bundle": "^4.0 || ^5.0",
+                    "xenolope/quahog": "^3.0"
+                },
+                "time": "2023-03-29T12:48:06+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/247432_b",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
                 "version": "dev-majSF5",
                 "version_normalized": "dev-majSF5",
                 "target-dir": "Oru/Bundle/AttachmentBundle",
