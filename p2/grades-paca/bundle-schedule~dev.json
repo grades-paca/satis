@@ -438,6 +438,47 @@
             },
             {
                 "name": "grades-paca/bundle-schedule",
+                "version": "dev-fix-bundle",
+                "version_normalized": "dev-fix-bundle",
+                "target-dir": "Oru/Bundle/ScheduleBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-schedule.git",
+                    "reference": "7a7aa4ab7b5674b3cc119db8a3f7bf52c9ec57e9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/7a7aa4ab7b5674b3cc119db8a3f7bf52c9ec57e9",
+                    "reference": "7a7aa4ab7b5674b3cc119db8a3f7bf52c9ec57e9",
+                    "shasum": ""
+                },
+                "require": {
+                    "dragonmantank/cron-expression": "^3.0",
+                    "grades-paca/bundle-app": "^2.0",
+                    "grades-paca/bundle-listing": "^2.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-04-05T12:48:14+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ScheduleBundle\\": ""
+                    }
+                },
+                "description": "Planificateur de taches ",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-schedule/tree/fix-bundle",
+                    "issues": "https://github.com/grades-paca/bundle-schedule/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-schedule",
                 "version": "dev-fixtures/242507",
                 "version_normalized": "dev-fixtures/242507",
                 "target-dir": "Oru/Bundle/ScheduleBundle",
