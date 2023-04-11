@@ -554,12 +554,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-rass.git",
-                    "reference": "a0f2d4d74888269bef78e423d61e3a0182e33084"
+                    "reference": "1d23a990ec069e750c3c7824568009486c88755f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/a0f2d4d74888269bef78e423d61e3a0182e33084",
-                    "reference": "a0f2d4d74888269bef78e423d61e3a0182e33084",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/1d23a990ec069e750c3c7824568009486c88755f",
+                    "reference": "1d23a990ec069e750c3c7824568009486c88755f",
                     "shasum": ""
                 },
                 "require": {
@@ -568,7 +568,7 @@
                     "php": ">=7.0",
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2023-01-19T15:28:03+00:00",
+                "time": "2023-04-11T12:07:46+00:00",
                 "default-branch": true,
                 "type": "symfony-bundle",
                 "autoload": {
