@@ -585,7 +585,7 @@
                 },
                 "description": "Design bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/264891",
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.9.3",
                     "issues": "https://github.com/grades-paca/bundle-design/issues"
                 }
             },
