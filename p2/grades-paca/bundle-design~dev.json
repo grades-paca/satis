@@ -585,7 +585,7 @@
                 },
                 "description": "Design bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/1.9.3",
+                    "source": "https://github.com/grades-paca/bundle-design/tree/264891",
                     "issues": "https://github.com/grades-paca/bundle-design/issues"
                 }
             },
@@ -629,6 +629,49 @@
                 "description": "Design bundle",
                 "support": {
                     "source": "https://github.com/grades-paca/bundle-design/tree/3.x",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "dev-264891-sf4",
+                "version_normalized": "dev-264891-sf4",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "4c9231579d8586304e61b93d21aa1cbf996d50d1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/4c9231579d8586304e61b93d21aa1cbf996d50d1",
+                    "reference": "4c9231579d8586304e61b93d21aa1cbf996d50d1",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.7",
+                    "grades-paca/bundle-form": "^1.9",
+                    "grades-paca/bundle-install": "^1.3",
+                    "grades-paca/bundle-privacy-banner": "*",
+                    "suncat/mobile-detect-bundle": "^1.1",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                },
+                "time": "2023-05-11T08:05:42+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/264891-sf4",
                     "issues": "https://github.com/grades-paca/bundle-design/issues"
                 }
             },
@@ -1256,24 +1299,24 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-design.git",
-                    "reference": "2b4f77208c48bcfdb78dc2d96f56382f2a111cb2"
+                    "reference": "65c297d8ee4e70c5c0db7f77f85bdb10fa730927"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/2b4f77208c48bcfdb78dc2d96f56382f2a111cb2",
-                    "reference": "2b4f77208c48bcfdb78dc2d96f56382f2a111cb2",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/65c297d8ee4e70c5c0db7f77f85bdb10fa730927",
+                    "reference": "65c297d8ee4e70c5c0db7f77f85bdb10fa730927",
                     "shasum": ""
                 },
                 "require": {
                     "components/modernizr": "^3.5",
-                    "friendsofsymfony/jsrouting-bundle": "^2.8",
-                    "grades-paca/bundle-form": ">=1.3.1",
-                    "grades-paca/bundle-install": ">=1.0.3",
+                    "friendsofsymfony/jsrouting-bundle": "^2.7",
+                    "grades-paca/bundle-form": "^1.9",
+                    "grades-paca/bundle-install": "^1.3",
                     "grades-paca/bundle-privacy-banner": "*",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
-                    "tattali/mobile-detect-bundle": "2.2.0"
+                    "suncat/mobile-detect-bundle": "^1.1",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2023-02-09T15:20:04+00:00",
+                "time": "2023-05-11T08:24:02+00:00",
                 "default-branch": true,
                 "type": "bundle",
                 "extra": {
@@ -1288,7 +1331,7 @@
                 },
                 "description": "Design bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/master",
+                    "source": "https://github.com/grades-paca/bundle-design/tree/1.8.19",
                     "issues": "https://github.com/grades-paca/bundle-design/issues"
                 }
             },
