@@ -45,6 +45,7 @@
     { "name" : "grades-paca/bundle-rass", "type": "vcs", "url": "https://github.com/grades-paca/bundle-rass" },
     { "name" : "grades-paca/IvoryOrderedFormBundle", "type": "vcs", "url": "https://github.com/grades-paca/IvoryOrderedFormBundle.git" },
     { "name" : "grades-paca/ivory-ordered-form", "type": "vcs", "url": "https://github.com/grades-paca/ivory-ordered-form.git" },
-    { "name" : "grades-paca/bundle-wslits", "type": "vcs", "url": "https://github.com/grades-paca/bundle-wslits.git" }
+    { "name" : "grades-paca/bundle-wslits", "type": "vcs", "url": "https://github.com/grades-paca/bundle-wslits.git" },
+    { "name" : "grades-paca/bundle-wsoffre", "type": "vcs", "url": "https://github.com/grades-paca/bundle-wsoffre.git" }
   ]
 }
