@@ -222,6 +222,43 @@
                     "source": "https://github.com/grades-paca/bundle-wslits/tree/2.2.2",
                     "issues": "https://github.com/grades-paca/bundle-wslits/issues"
                 }
+            },
+            {
+                "name": "atos/ws-synchro-lits",
+                "version": "2.2.3",
+                "version_normalized": "2.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-wslits.git",
+                    "reference": "4b2e5b7b1e63de3d3f546ae62edcd9a6e71bae8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/4b2e5b7b1e63de3d3f546ae62edcd9a6e71bae8f",
+                    "reference": "4b2e5b7b1e63de3d3f546ae62edcd9a6e71bae8f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0",
+                    "symfony/framework-bundle": "~4.4 || ~5.4"
+                },
+                "time": "2023-05-25T14:01:48+00:00",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\WsLitsBundle\\": "/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOS Bundle disponibilité des lits",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wslits/tree/2.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
+                }
             }
         ]
     }
