@@ -33,11 +33,7 @@
                         "Oru\\Bundle\\BigBlueButtonBundle\\": ""
                     }
                 },
-                "description": "Bundle de visio-conférence.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-bigbluebutton/tree/1.2.3",
-                    "issues": "https://github.com/grades-paca/bundle-bigbluebutton/issues"
-                }
+                "description": "Bundle de visio-conférence."
             }
         ]
     }
