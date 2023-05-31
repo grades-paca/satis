@@ -32,11 +32,7 @@
                         "Oru\\Bundle\\TestBundle\\": ""
                     }
                 },
-                "description": "Bundle avec entités de test",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-test/tree/2.x",
-                    "issues": "https://github.com/grades-paca/bundle-test/issues"
-                }
+                "description": "Bundle avec entités de test"
             },
             {
                 "name": "grades-paca/bundle-test",
@@ -69,11 +65,7 @@
                         "Oru\\Bundle\\TestBundle\\": ""
                     }
                 },
-                "description": "Bundle avec entités de test",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-test/tree/majSF5",
-                    "issues": "https://github.com/grades-paca/bundle-test/issues"
-                }
+                "description": "Bundle avec entités de test"
             },
             {
                 "name": "grades-paca/bundle-test",
@@ -107,11 +99,7 @@
                         "Oru\\Bundle\\TestBundle\\": ""
                     }
                 },
-                "description": "Bundle avec entités de test",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-test/tree/1.4.0",
-                    "issues": "https://github.com/grades-paca/bundle-test/issues"
-                }
+                "description": "Bundle avec entités de test"
             }
         ]
     }
