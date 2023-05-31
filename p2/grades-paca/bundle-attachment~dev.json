@@ -44,12 +44,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-attachment.git",
-                    "reference": "fa89451b09bd5d50a21533df19438d62b519b53e"
+                    "reference": "11f94853c41994438cd15698d4e74bb50a82bfb4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/fa89451b09bd5d50a21533df19438d62b519b53e",
-                    "reference": "fa89451b09bd5d50a21533df19438d62b519b53e",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/11f94853c41994438cd15698d4e74bb50a82bfb4",
+                    "reference": "11f94853c41994438cd15698d4e74bb50a82bfb4",
                     "shasum": ""
                 },
                 "require": {
@@ -63,7 +63,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "xenolope/quahog": "^3.0"
                 },
-                "time": "2023-05-31T13:09:57+00:00",
+                "time": "2023-05-31T13:56:04+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -168,12 +168,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-attachment.git",
-                    "reference": "d843321e52133eb4f8c1c9657ad99b2b05990840"
+                    "reference": "c4f8ced33c707b655f41a4c72110f4178247715b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/d843321e52133eb4f8c1c9657ad99b2b05990840",
-                    "reference": "d843321e52133eb4f8c1c9657ad99b2b05990840",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/c4f8ced33c707b655f41a4c72110f4178247715b",
+                    "reference": "c4f8ced33c707b655f41a4c72110f4178247715b",
                     "shasum": ""
                 },
                 "require": {
@@ -187,7 +187,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "xenolope/quahog": "^3.0"
                 },
-                "time": "2023-05-31T12:35:58+00:00",
+                "time": "2023-05-31T13:41:39+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
