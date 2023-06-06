@@ -44,12 +44,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-attachment.git",
-                    "reference": "54fdfabaca2404c29145a52cdb9c3af82ae483fd"
+                    "reference": "22434c813cafeab27bea6cc810ee083e3def07ea"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/54fdfabaca2404c29145a52cdb9c3af82ae483fd",
-                    "reference": "54fdfabaca2404c29145a52cdb9c3af82ae483fd",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/22434c813cafeab27bea6cc810ee083e3def07ea",
+                    "reference": "22434c813cafeab27bea6cc810ee083e3def07ea",
                     "shasum": ""
                 },
                 "require": {
@@ -63,7 +63,7 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
                     "xenolope/quahog": "^3.0"
                 },
-                "time": "2023-06-02T15:38:12+00:00",
+                "time": "2023-06-06T06:04:14+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -270,6 +270,47 @@
                     "xenolope/quahog": "^3.0"
                 },
                 "time": "2023-05-09T08:59:52+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle"
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "dev-file_upload_gif",
+                "version_normalized": "dev-file_upload_gif",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "68334c28b96ec669d977e39c4f2dd0cc0ca76e77"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/68334c28b96ec669d977e39c4f2dd0cc0ca76e77",
+                    "reference": "68334c28b96ec669d977e39c4f2dd0cc0ca76e77",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "ext-sockets": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-schedule": "*",
+                    "intervention/image": "^2.6",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+                    "xenolope/quahog": "^3.0"
+                },
+                "time": "2023-06-05T15:30:51+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
