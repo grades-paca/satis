@@ -261,12 +261,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-mail.git",
-                    "reference": "b36106dffe608cbd0b3f9cf47c05eabb186c2b3e"
+                    "reference": "2dd67d8f6a72fad6a53db02ffbc85659bef78b5e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/b36106dffe608cbd0b3f9cf47c05eabb186c2b3e",
-                    "reference": "b36106dffe608cbd0b3f9cf47c05eabb186c2b3e",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/2dd67d8f6a72fad6a53db02ffbc85659bef78b5e",
+                    "reference": "2dd67d8f6a72fad6a53db02ffbc85659bef78b5e",
                     "shasum": ""
                 },
                 "require": {
@@ -277,7 +277,7 @@
                     "symfony/framework-bundle": "^5.0",
                     "symfony/mailer": "^5.4"
                 },
-                "time": "2023-04-06T08:40:56+00:00",
+                "time": "2023-06-09T09:03:02+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

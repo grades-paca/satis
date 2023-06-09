@@ -229,16 +229,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "1d322db6cf52afc0a627786bdd1a90d849d824c5"
+                    "reference": "1060c845449058b84c52ab238901ac7fc9213b0e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/1d322db6cf52afc0a627786bdd1a90d849d824c5",
-                    "reference": "1d322db6cf52afc0a627786bdd1a90d849d824c5",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/1060c845449058b84c52ab238901ac7fc9213b0e",
+                    "reference": "1060c845449058b84c52ab238901ac7fc9213b0e",
                     "shasum": ""
                 },
                 "require": {
-                    "creof/doctrine2-spatial": "^1.2",
                     "ext-gd": "*",
                     "ext-mapscript": "*",
                     "ext-pgsql": "*",
@@ -246,10 +245,11 @@
                     "grades-paca/bundle-install": "^2.0",
                     "grades-paca/bundle-setting": "^2.0",
                     "grades-paca/bundle-web-client": "^2.0",
+                    "longitude-one/doctrine-spatial": "^3.0",
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-27T09:25:01+00:00",
+                "time": "2023-06-08T14:05:07+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
