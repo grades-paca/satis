@@ -46,18 +46,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-jaspersoft.git",
-                    "reference": "72db914b07ab99142c1027561e53cb8b1547919c"
+                    "reference": "a098bbb2ed43032d7f678a69caa4ed7ecd29b954"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/72db914b07ab99142c1027561e53cb8b1547919c",
-                    "reference": "72db914b07ab99142c1027561e53cb8b1547919c",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-jaspersoft/zipball/a098bbb2ed43032d7f678a69caa4ed7ecd29b954",
+                    "reference": "a098bbb2ed43032d7f678a69caa4ed7ecd29b954",
                     "shasum": ""
                 },
                 "require": {
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-27T15:46:46+00:00",
+                "time": "2023-06-21T13:52:45+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
