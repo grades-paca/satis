@@ -364,21 +364,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "4604cc911f285f425492a54432c84804e7a1144e"
+                    "reference": "f5d13f592f272220afc413c32641274aa55d05c2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/4604cc911f285f425492a54432c84804e7a1144e",
-                    "reference": "4604cc911f285f425492a54432c84804e7a1144e",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/f5d13f592f272220afc413c32641274aa55d05c2",
+                    "reference": "f5d13f592f272220afc413c32641274aa55d05c2",
                     "shasum": ""
                 },
                 "require": {
                     "dragonmantank/cron-expression": "^3.0",
-                    "grades-paca/bundle-app": ">=1.4.0 <2.0.0",
+                    "grades-paca/bundle-app": ">=1.0.9",
                     "grades-paca/bundle-listing": "*",
-                    "symfony/framework-bundle": "^4.0|| ^5.0"
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-01-13T13:27:05+00:00",
+                "time": "2023-03-20T10:32:08+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -488,43 +489,6 @@
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
                 "time": "2022-07-15T13:10:13+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\ScheduleBundle\\": ""
-                    }
-                },
-                "description": "Planificateur de taches "
-            },
-            {
-                "name": "grades-paca/bundle-schedule",
-                "version": "dev-majSF5",
-                "version_normalized": "dev-majSF5",
-                "target-dir": "Oru/Bundle/ScheduleBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "f5d13f592f272220afc413c32641274aa55d05c2"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/f5d13f592f272220afc413c32641274aa55d05c2",
-                    "reference": "f5d13f592f272220afc413c32641274aa55d05c2",
-                    "shasum": ""
-                },
-                "require": {
-                    "dragonmantank/cron-expression": "^3.0",
-                    "grades-paca/bundle-app": ">=1.0.9",
-                    "grades-paca/bundle-listing": "*",
-                    "symfony/console": "^5.0",
-                    "symfony/framework-bundle": "^5.0"
-                },
-                "time": "2023-03-20T10:32:08+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

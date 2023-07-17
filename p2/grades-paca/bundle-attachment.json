@@ -2318,6 +2318,47 @@
             },
             {
                 "name": "grades-paca/bundle-attachment",
+                "version": "1.7.8",
+                "version_normalized": "1.7.8.0",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "b45d2fffb942f8725b69f2966eca2177f6dde55c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/b45d2fffb942f8725b69f2966eca2177f6dde55c",
+                    "reference": "b45d2fffb942f8725b69f2966eca2177f6dde55c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "ext-sockets": "*",
+                    "grades-paca/bundle-design": "*",
+                    "grades-paca/bundle-install": ">=1.0.5",
+                    "grades-paca/bundle-schedule": "*",
+                    "intervention/image": "^2.6",
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0",
+                    "xenolope/quahog": "^3.0"
+                },
+                "time": "2023-07-17T08:53:27+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle"
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
                 "version": "2.0.0",
                 "version_normalized": "2.0.0.0",
                 "target-dir": "Oru/Bundle/AttachmentBundle",
