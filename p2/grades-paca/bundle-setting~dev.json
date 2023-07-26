@@ -37,7 +37,11 @@
                         "Oru\\Bundle\\SettingBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des paramètres de l'application."
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.0.29",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-setting",
@@ -63,7 +67,7 @@
                     "grades-paca/bundle-paginator": "*",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2023-03-21T14:28:10+00:00",
+                "time": "2023-03-23T08:23:19+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -75,7 +79,11 @@
                         "Oru\\Bundle\\SettingBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des paramètres de l'application."
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.3.2",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-setting",
@@ -113,7 +121,11 @@
                         "Oru\\Bundle\\SettingBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des paramètres de l'application."
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-setting",
@@ -152,7 +164,11 @@
                         "Oru\\Bundle\\SettingBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des paramètres de l'application."
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/2.x",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-setting",
@@ -190,7 +206,11 @@
                         "Oru\\Bundle\\SettingBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des paramètres de l'application."
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/bootstrap4",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-setting",
@@ -229,7 +249,11 @@
                         "Oru\\Bundle\\SettingBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des paramètres de l'application."
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/depreciations-warning",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-setting",
@@ -268,7 +292,11 @@
                         "Oru\\Bundle\\SettingBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des paramètres de l'application."
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-setting",
@@ -307,7 +335,11 @@
                         "Oru\\Bundle\\SettingBundle\\": ""
                     }
                 },
-                "description": "Bundle de gestion des paramètres de l'application."
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/master",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
             }
         ]
     }
