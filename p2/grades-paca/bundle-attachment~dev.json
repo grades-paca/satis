@@ -93,12 +93,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-attachment.git",
-                    "reference": "f236641a99eb7045b265bb3fc30f5c581f05285d"
+                    "reference": "b01b1c0bd144e06309610556bf3f218b8723141c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/f236641a99eb7045b265bb3fc30f5c581f05285d",
-                    "reference": "f236641a99eb7045b265bb3fc30f5c581f05285d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/b01b1c0bd144e06309610556bf3f218b8723141c",
+                    "reference": "b01b1c0bd144e06309610556bf3f218b8723141c",
                     "shasum": ""
                 },
                 "require": {
@@ -113,7 +113,7 @@
                     "symfony/framework-bundle": "^5.0",
                     "xenolope/quahog": "^3.0"
                 },
-                "time": "2023-06-15T09:37:24+00:00",
+                "time": "2023-08-10T10:52:35+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -127,7 +127,7 @@
                 },
                 "description": "Attachment Bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-attachment/tree/2.x",
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/init23.7.1",
                     "issues": "https://github.com/grades-paca/bundle-attachment/issues"
                 }
             },
@@ -533,6 +533,52 @@
                 "description": "Attachment Bundle",
                 "support": {
                     "source": "https://github.com/grades-paca/bundle-attachment/tree/1.7.2",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "dev-init23.7.1",
+                "version_normalized": "dev-init23.7.1",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "b01b1c0bd144e06309610556bf3f218b8723141c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/b01b1c0bd144e06309610556bf3f218b8723141c",
+                    "reference": "b01b1c0bd144e06309610556bf3f218b8723141c",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "ext-sockets": "*",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-schedule": "^2.0",
+                    "intervention/image": "^2.7",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0",
+                    "xenolope/quahog": "^3.0"
+                },
+                "time": "2023-08-10T10:52:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/init23.7.1",
                     "issues": "https://github.com/grades-paca/bundle-attachment/issues"
                 }
             },
