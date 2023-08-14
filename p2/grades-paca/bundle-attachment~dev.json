@@ -127,7 +127,7 @@
                 },
                 "description": "Attachment Bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-attachment/tree/init23.7.1",
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/2.0.1",
                     "issues": "https://github.com/grades-paca/bundle-attachment/issues"
                 }
             },
@@ -578,7 +578,7 @@
                 },
                 "description": "Attachment Bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-attachment/tree/init23.7.1",
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/2.0.1",
                     "issues": "https://github.com/grades-paca/bundle-attachment/issues"
                 }
             },
