@@ -169,12 +169,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-error-logger.git",
-                    "reference": "e672a37af6eacd25f00d8c7dc6b6a83bb4f0af1d"
+                    "reference": "e5a3457d49873283fa3c483d8e092342671ed275"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/e672a37af6eacd25f00d8c7dc6b6a83bb4f0af1d",
-                    "reference": "e672a37af6eacd25f00d8c7dc6b6a83bb4f0af1d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/e5a3457d49873283fa3c483d8e092342671ed275",
+                    "reference": "e5a3457d49873283fa3c483d8e092342671ed275",
                     "shasum": ""
                 },
                 "require": {
@@ -184,7 +184,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-30T13:13:17+00:00",
+                "time": "2023-08-29T09:00:06+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -198,7 +198,7 @@
                 },
                 "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/2.x",
+                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/2.0.1",
                     "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
                 }
             },
@@ -319,6 +319,46 @@
                 "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
                 "support": {
                     "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.6.1",
+                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-error-logger",
+                "version": "dev-254876-majsf5-bug-dblogger",
+                "version_normalized": "dev-254876-majsf5-bug-dblogger",
+                "target-dir": "Oru/Bundle/ErrorLoggerBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-error-logger.git",
+                    "reference": "84f67c585512fedf6c08477b30df5d93102ac269"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/84f67c585512fedf6c08477b30df5d93102ac269",
+                    "reference": "84f67c585512fedf6c08477b30df5d93102ac269",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-app": ">=1.4 <2.0.0",
+                    "grades-paca/bundle-mail": ">=1.7 <2.0.0",
+                    "grades-paca/bundle-setting": ">=1.4 <2.0.0",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2023-08-29T08:48:12+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ErrorLoggerBundle\\": ""
+                    }
+                },
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/254876-majsf5-bug-dblogger",
                     "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
                 }
             },
