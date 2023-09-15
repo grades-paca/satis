@@ -2078,6 +2078,49 @@
                     "source": "https://github.com/grades-paca/bundle-setting/tree/2.0.1",
                     "issues": "https://github.com/grades-paca/bundle-setting/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "1fc4b953cdd1800af41be80da7935ae8d41f7013"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/1fc4b953cdd1800af41be80da7935ae8d41f7013",
+                    "reference": "1fc4b953cdd1800af41be80da7935ae8d41f7013",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-alert": "^2.0",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-form": "^2.0",
+                    "grades-paca/bundle-listing": "^2.0",
+                    "grades-paca/bundle-paginator": "^2.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-09-15T08:21:09+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/2.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
             }
         ]
     }
