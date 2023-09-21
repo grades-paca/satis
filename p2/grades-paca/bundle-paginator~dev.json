@@ -9,12 +9,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-paginator.git",
-                    "reference": "a365ea7e84969b588851703e7574764b7dadb0ea"
+                    "reference": "e2fdf5084d5a72710654e54b4d80305d514a8c7f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/a365ea7e84969b588851703e7574764b7dadb0ea",
-                    "reference": "a365ea7e84969b588851703e7574764b7dadb0ea",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/e2fdf5084d5a72710654e54b4d80305d514a8c7f",
+                    "reference": "e2fdf5084d5a72710654e54b4d80305d514a8c7f",
                     "shasum": ""
                 },
                 "require": {
@@ -22,7 +22,7 @@
                     "knplabs/knp-paginator-bundle": "^5.9",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-23T06:38:06+00:00",
+                "time": "2023-09-20T10:09:04+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -36,7 +36,46 @@
                 },
                 "description": "Paginator bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-paginator/tree/2.0.0",
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/2.x",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-paginator",
+                "version": "dev-254876-majsf5-codeception",
+                "version_normalized": "dev-254876-majsf5-codeception",
+                "target-dir": "Oru/Bundle/PaginatorBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-paginator.git",
+                    "reference": "c19c22dbccf298fbf84a0b68e5f9077f9f576983"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-paginator/zipball/c19c22dbccf298fbf84a0b68e5f9077f9f576983",
+                    "reference": "c19c22dbccf298fbf84a0b68e5f9077f9f576983",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-listing": "^2.0",
+                    "knplabs/knp-paginator-bundle": "^5.9",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-09-20T15:37:05+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PaginatorBundle\\": ""
+                    }
+                },
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/254876-majsf5-codeception",
                     "issues": "https://github.com/grades-paca/bundle-paginator/issues"
                 }
             },

@@ -40,6 +40,43 @@
             },
             {
                 "name": "grades-paca/bundle-test",
+                "version": "dev-254876-majsf5-codeception",
+                "version_normalized": "dev-254876-majsf5-codeception",
+                "target-dir": "Oru/Bundle/TestBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-test.git",
+                    "reference": "c99773d0acd4daf94b3281b2f425f7d23495020a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-test/zipball/c99773d0acd4daf94b3281b2f425f7d23495020a",
+                    "reference": "c99773d0acd4daf94b3281b2f425f7d23495020a",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-09-20T15:22:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\TestBundle\\": ""
+                    }
+                },
+                "description": "Bundle avec entités de test",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-test/tree/254876-majsf5-codeception",
+                    "issues": "https://github.com/grades-paca/bundle-test/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-test",
                 "version": "dev-majSF5",
                 "version_normalized": "dev-majSF5",
                 "target-dir": "Oru/Bundle/TestBundle",

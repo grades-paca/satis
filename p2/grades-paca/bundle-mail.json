@@ -2217,6 +2217,48 @@
                     "source": "https://github.com/grades-paca/bundle-mail/tree/2.0.1",
                     "issues": "https://github.com/grades-paca/bundle-mail/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-mail",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "target-dir": "Oru/Bundle/MailBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-mail.git",
+                    "reference": "f733cedcfb2d5d532bdd4ff0672c29681aa42b02"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/f733cedcfb2d5d532bdd4ff0672c29681aa42b02",
+                    "reference": "f733cedcfb2d5d532bdd4ff0672c29681aa42b02",
+                    "shasum": ""
+                },
+                "require": {
+                    "algo26-matthias/idna-convert": "^2.1",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "symfony/framework-bundle": "^5.0",
+                    "symfony/mailer": "^5.4"
+                },
+                "time": "2023-09-20T09:22:03+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\MailBundle\\": ""
+                    }
+                },
+                "description": "Gestion des mails",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-mail/tree/2.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-mail/issues"
+                }
             }
         ]
     }

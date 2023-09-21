@@ -123,6 +123,46 @@
             },
             {
                 "name": "grades-paca/bundle-translation",
+                "version": "dev-254876-majsf5-codeception",
+                "version_normalized": "dev-254876-majsf5-codeception",
+                "target-dir": "Oru/Bundle/TranslationBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-translation.git",
+                    "reference": "ca4964fb36bfedf8f013ecb5f998339c65df6ca7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-translation/zipball/ca4964fb36bfedf8f013ecb5f998339c65df6ca7",
+                    "reference": "ca4964fb36bfedf8f013ecb5f998339c65df6ca7",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-listing": "^2.0",
+                    "grades-paca/bundle-test": "^2.0",
+                    "symfony/framework-bundle": "^5.0 "
+                },
+                "time": "2023-09-20T14:43:38+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\TranslationBundle\\": ""
+                    }
+                },
+                "description": "Traductions du ROR via ORM",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-translation/tree/254876-majsf5-codeception",
+                    "issues": "https://github.com/grades-paca/bundle-translation/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-translation",
                 "version": "dev-majSF5",
                 "version_normalized": "dev-majSF5",
                 "target-dir": "Oru/Bundle/TranslationBundle",
