@@ -135,12 +135,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-setting.git",
-                    "reference": "1fc4b953cdd1800af41be80da7935ae8d41f7013"
+                    "reference": "e6e481ec641bbd3b4a2bbb53f94a2927a8bf709d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/1fc4b953cdd1800af41be80da7935ae8d41f7013",
-                    "reference": "1fc4b953cdd1800af41be80da7935ae8d41f7013",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/e6e481ec641bbd3b4a2bbb53f94a2927a8bf709d",
+                    "reference": "e6e481ec641bbd3b4a2bbb53f94a2927a8bf709d",
                     "shasum": ""
                 },
                 "require": {
@@ -152,7 +152,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-09-15T08:21:09+00:00",
+                "time": "2023-09-21T06:58:45+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -166,7 +166,7 @@
                 },
                 "description": "Bundle de gestion des paramètres de l'application.",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-setting/tree/2.0.2",
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/2.0.3",
                     "issues": "https://github.com/grades-paca/bundle-setting/issues"
                 }
             },

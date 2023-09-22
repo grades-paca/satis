@@ -93,12 +93,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-attachment.git",
-                    "reference": "b01b1c0bd144e06309610556bf3f218b8723141c"
+                    "reference": "13b29629948504871e223521e69eee506c9de700"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/b01b1c0bd144e06309610556bf3f218b8723141c",
-                    "reference": "b01b1c0bd144e06309610556bf3f218b8723141c",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/13b29629948504871e223521e69eee506c9de700",
+                    "reference": "13b29629948504871e223521e69eee506c9de700",
                     "shasum": ""
                 },
                 "require": {
@@ -113,7 +113,7 @@
                     "symfony/framework-bundle": "^5.0",
                     "xenolope/quahog": "^3.0"
                 },
-                "time": "2023-08-10T10:52:35+00:00",
+                "time": "2023-09-22T08:16:46+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -127,7 +127,7 @@
                 },
                 "description": "Attachment Bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-attachment/tree/2.0.1",
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/2.0.3",
                     "issues": "https://github.com/grades-paca/bundle-attachment/issues"
                 }
             },
@@ -353,6 +353,52 @@
                 "description": "Attachment Bundle",
                 "support": {
                     "source": "https://github.com/grades-paca/bundle-attachment/tree/247432_b",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
+                "version": "dev-254876-majsf5-codeception",
+                "version_normalized": "dev-254876-majsf5-codeception",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "7c1a91ae8738899e501314d7858671b2e2cba793"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/7c1a91ae8738899e501314d7858671b2e2cba793",
+                    "reference": "7c1a91ae8738899e501314d7858671b2e2cba793",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "ext-sockets": "*",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-schedule": "^2.0",
+                    "intervention/image": "^2.7",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0",
+                    "xenolope/quahog": "^3.0"
+                },
+                "time": "2023-09-22T08:14:04+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/254876-majsf5-codeception",
                     "issues": "https://github.com/grades-paca/bundle-attachment/issues"
                 }
             },

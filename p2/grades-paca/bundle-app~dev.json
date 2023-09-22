@@ -34,7 +34,7 @@
                 },
                 "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-app/tree/2.x",
+                    "source": "https://github.com/grades-paca/bundle-app/tree/add-codeception",
                     "issues": "https://github.com/grades-paca/bundle-app/issues"
                 }
             },
@@ -81,19 +81,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-app.git",
-                    "reference": "b1dde6e7949b17c9dcc4d0ada2e7692ba35e067f"
+                    "reference": "9787b948ebd403fa5aff8ab317126636043e9799"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/b1dde6e7949b17c9dcc4d0ada2e7692ba35e067f",
-                    "reference": "b1dde6e7949b17c9dcc4d0ada2e7692ba35e067f",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/9787b948ebd403fa5aff8ab317126636043e9799",
+                    "reference": "9787b948ebd403fa5aff8ab317126636043e9799",
                     "shasum": ""
                 },
                 "require": {
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-09-18T15:55:05+00:00",
+                "time": "2023-09-18T15:55:24+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -107,7 +107,7 @@
                 },
                 "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-app/tree/2.0.1",
+                    "source": "https://github.com/grades-paca/bundle-app/tree/add-codeception",
                     "issues": "https://github.com/grades-paca/bundle-app/issues"
                 }
             },

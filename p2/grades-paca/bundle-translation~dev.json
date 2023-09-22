@@ -89,12 +89,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-translation.git",
-                    "reference": "f1f761bbabb212813c14b03683a9bf2349bd43f9"
+                    "reference": "32d006e1b475be836ce381364cac870f7ddb44d9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-translation/zipball/f1f761bbabb212813c14b03683a9bf2349bd43f9",
-                    "reference": "f1f761bbabb212813c14b03683a9bf2349bd43f9",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-translation/zipball/32d006e1b475be836ce381364cac870f7ddb44d9",
+                    "reference": "32d006e1b475be836ce381364cac870f7ddb44d9",
                     "shasum": ""
                 },
                 "require": {
@@ -103,7 +103,7 @@
                     "grades-paca/bundle-test": "^2.0",
                     "symfony/framework-bundle": "^5.0 "
                 },
-                "time": "2023-03-24T14:17:13+00:00",
+                "time": "2023-09-22T08:20:43+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -117,7 +117,7 @@
                 },
                 "description": "Traductions du ROR via ORM",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-translation/tree/2.x",
+                    "source": "https://github.com/grades-paca/bundle-translation/tree/2.0.2",
                     "issues": "https://github.com/grades-paca/bundle-translation/issues"
                 }
             },
@@ -129,12 +129,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-translation.git",
-                    "reference": "ca4964fb36bfedf8f013ecb5f998339c65df6ca7"
+                    "reference": "cb14475349902c0d11757d334450f80884efdb0d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-translation/zipball/ca4964fb36bfedf8f013ecb5f998339c65df6ca7",
-                    "reference": "ca4964fb36bfedf8f013ecb5f998339c65df6ca7",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-translation/zipball/cb14475349902c0d11757d334450f80884efdb0d",
+                    "reference": "cb14475349902c0d11757d334450f80884efdb0d",
                     "shasum": ""
                 },
                 "require": {
@@ -143,7 +143,7 @@
                     "grades-paca/bundle-test": "^2.0",
                     "symfony/framework-bundle": "^5.0 "
                 },
-                "time": "2023-09-20T14:43:38+00:00",
+                "time": "2023-09-22T08:16:08+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

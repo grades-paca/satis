@@ -259,6 +259,43 @@
                     "source": "https://github.com/grades-paca/bundle-privacy-banner/tree/2.0.0",
                     "issues": "https://github.com/grades-paca/bundle-privacy-banner/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-privacy-banner",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "target-dir": "Oru/Bundle/PrivacyBannerBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-privacy-banner.git",
+                    "reference": "0dc906572f3931f269dc8bdd4c0459c9e94c4018"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-privacy-banner/zipball/0dc906572f3931f269dc8bdd4c0459c9e94c4018",
+                    "reference": "0dc906572f3931f269dc8bdd4c0459c9e94c4018",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-09-22T07:07:30+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\PrivacyBannerBundle\\": ""
+                    }
+                },
+                "description": "This bundle adds privacy cookie banner.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-privacy-banner/tree/2.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-privacy-banner/issues"
+                }
             }
         ]
     }
