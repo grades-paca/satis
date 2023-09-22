@@ -905,7 +905,7 @@
                 },
                 "description": "Bundle de gestion d'adresses",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-address/tree/263530_b",
+                    "source": "https://github.com/grades-paca/bundle-address/tree/1.10.15",
                     "issues": "https://github.com/grades-paca/bundle-address/issues"
                 }
             },
