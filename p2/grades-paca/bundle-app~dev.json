@@ -20,7 +20,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-09-22T12:16:29+00:00",
+                "time": "2023-09-22T12:13:03+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -32,11 +32,7 @@
                         "Oru\\Bundle\\AppBundle\\": ""
                     }
                 },
-                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-app/tree/2.0.3",
-                    "issues": "https://github.com/grades-paca/bundle-app/issues"
-                }
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3"
             },
             {
                 "name": "grades-paca/bundle-app",
@@ -68,11 +64,7 @@
                         "Oru\\Bundle\\AppBundle\\": ""
                     }
                 },
-                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-app/tree/136543-2",
-                    "issues": "https://github.com/grades-paca/bundle-app/issues"
-                }
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3"
             },
             {
                 "name": "grades-paca/bundle-app",
@@ -93,7 +85,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-09-22T10:00:08+00:00",
+                "time": "2023-09-18T15:55:24+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -105,11 +97,7 @@
                         "Oru\\Bundle\\AppBundle\\": ""
                     }
                 },
-                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-app/tree/add-codeception",
-                    "issues": "https://github.com/grades-paca/bundle-app/issues"
-                }
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3"
             },
             {
                 "name": "grades-paca/bundle-app",
@@ -130,7 +118,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2023-03-20T08:34:31+00:00",
+                "time": "2023-03-19T16:39:11+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -142,11 +130,7 @@
                         "Oru\\Bundle\\AppBundle\\": ""
                     }
                 },
-                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-app/tree/majSF5",
-                    "issues": "https://github.com/grades-paca/bundle-app/issues"
-                }
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3"
             },
             {
                 "name": "grades-paca/bundle-app",
@@ -179,11 +163,7 @@
                         "Oru\\Bundle\\AppBundle\\": ""
                     }
                 },
-                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-app/tree/1.4.0",
-                    "issues": "https://github.com/grades-paca/bundle-app/issues"
-                }
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3"
             }
         ]
     }

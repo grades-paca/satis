@@ -33,11 +33,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle disponibilité des lits",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-wslits/tree/2.2.3",
-                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
-                }
+                "description": "Symfony ATOS Bundle disponibilité des lits"
             }
         ]
     }
