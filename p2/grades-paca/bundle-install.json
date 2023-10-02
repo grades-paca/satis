@@ -1104,6 +1104,41 @@
                     }
                 },
                 "description": "Bundle d'installation et de mise à jour d'une application"
+            },
+            {
+                "name": "grades-paca/bundle-install",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "target-dir": "Oru/Bundle/InstallBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-install.git",
+                    "reference": "cf33c4a43ca7e40ebf368de3c767888033ed3806"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-install/zipball/cf33c4a43ca7e40ebf368de3c767888033ed3806",
+                    "reference": "cf33c4a43ca7e40ebf368de3c767888033ed3806",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0",
+                    "teqneers/php-stream-wrapper-for-git": "^2.0"
+                },
+                "time": "2023-10-02T10:14:17+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\InstallBundle\\": ""
+                    }
+                },
+                "description": "Bundle d'installation et de mise à jour d'une application"
             }
         ]
     }

@@ -82,12 +82,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-install.git",
-                    "reference": "194dcdc50ce399a1423d3b48b7a7b4c8e6db09c1"
+                    "reference": "cf33c4a43ca7e40ebf368de3c767888033ed3806"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-install/zipball/194dcdc50ce399a1423d3b48b7a7b4c8e6db09c1",
-                    "reference": "194dcdc50ce399a1423d3b48b7a7b4c8e6db09c1",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-install/zipball/cf33c4a43ca7e40ebf368de3c767888033ed3806",
+                    "reference": "cf33c4a43ca7e40ebf368de3c767888033ed3806",
                     "shasum": ""
                 },
                 "require": {
@@ -95,7 +95,7 @@
                     "symfony/framework-bundle": "^5.0",
                     "teqneers/php-stream-wrapper-for-git": "^2.0"
                 },
-                "time": "2023-03-23T08:45:15+00:00",
+                "time": "2023-10-02T10:14:17+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -131,6 +131,41 @@
                     "teqneers/php-stream-wrapper-for-git": "^2.0"
                 },
                 "time": "2022-04-04T07:49:54+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\InstallBundle\\": ""
+                    }
+                },
+                "description": "Bundle d'installation et de mise à jour d'une application"
+            },
+            {
+                "name": "grades-paca/bundle-install",
+                "version": "dev-254876-majsf5",
+                "version_normalized": "dev-254876-majsf5",
+                "target-dir": "Oru/Bundle/InstallBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-install.git",
+                    "reference": "cf871dc69c4ef7668317c1a99f0114ba697419f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-install/zipball/cf871dc69c4ef7668317c1a99f0114ba697419f4",
+                    "reference": "cf871dc69c4ef7668317c1a99f0114ba697419f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0",
+                    "teqneers/php-stream-wrapper-for-git": "^2.0"
+                },
+                "time": "2023-10-02T10:11:40+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
