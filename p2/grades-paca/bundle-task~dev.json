@@ -88,12 +88,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-task.git",
-                    "reference": "1e7d243fbe50fb7626110a6b44ab308ff36d9e05"
+                    "reference": "cd5d26fb552f27b5f9e56d0153279dceed9a4d99"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/1e7d243fbe50fb7626110a6b44ab308ff36d9e05",
-                    "reference": "1e7d243fbe50fb7626110a6b44ab308ff36d9e05",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/cd5d26fb552f27b5f9e56d0153279dceed9a4d99",
+                    "reference": "cd5d26fb552f27b5f9e56d0153279dceed9a4d99",
                     "shasum": ""
                 },
                 "require": {
@@ -108,7 +108,7 @@
                 "suggest": {
                     "grades-paca/bundle-translation": ">=1.0.3"
                 },
-                "time": "2023-10-06T14:08:20+00:00",
+                "time": "2023-10-09T07:14:29+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -150,6 +150,47 @@
                     "grades-paca/bundle-translation": ">=1.0.3"
                 },
                 "time": "2023-10-06T14:04:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\TaskBundle\\": ""
+                    }
+                },
+                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile"
+            },
+            {
+                "name": "grades-paca/bundle-task",
+                "version": "dev-254876-fix-chekQueue-Detect-Command",
+                "version_normalized": "dev-254876-fix-chekQueue-Detect-Command",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-task.git",
+                    "reference": "9099fbd3b3bdf2f47c59f69b5d1a316821977ea6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/9099fbd3b3bdf2f47c59f69b5d1a316821977ea6",
+                    "reference": "9099fbd3b3bdf2f47c59f69b5d1a316821977ea6",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-form": "^2.0",
+                    "grades-paca/bundle-paginator": "^2.0",
+                    "grades-paca/bundle-schedule": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "suggest": {
+                    "grades-paca/bundle-translation": ">=1.0.3"
+                },
+                "time": "2023-10-09T07:02:36+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
