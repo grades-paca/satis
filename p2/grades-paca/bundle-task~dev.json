@@ -88,12 +88,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-task.git",
-                    "reference": "cd5d26fb552f27b5f9e56d0153279dceed9a4d99"
+                    "reference": "7d7593c6b9f1153b170012a498492bad3386e2fd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/cd5d26fb552f27b5f9e56d0153279dceed9a4d99",
-                    "reference": "cd5d26fb552f27b5f9e56d0153279dceed9a4d99",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/7d7593c6b9f1153b170012a498492bad3386e2fd",
+                    "reference": "7d7593c6b9f1153b170012a498492bad3386e2fd",
                     "shasum": ""
                 },
                 "require": {
@@ -108,7 +108,7 @@
                 "suggest": {
                     "grades-paca/bundle-translation": ">=1.0.3"
                 },
-                "time": "2023-10-09T07:14:29+00:00",
+                "time": "2023-10-09T09:10:06+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -191,6 +191,47 @@
                     "grades-paca/bundle-translation": ">=1.0.3"
                 },
                 "time": "2023-10-09T07:02:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\TaskBundle\\": ""
+                    }
+                },
+                "description": "Tâches en arrière plan exécutées de manière asynchrone en passant par une pile"
+            },
+            {
+                "name": "grades-paca/bundle-task",
+                "version": "dev-254876-fix-chekQueue-KernelInterface",
+                "version_normalized": "dev-254876-fix-chekQueue-KernelInterface",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-task.git",
+                    "reference": "cc3621678f02608e5ebc894597c4093bfe2f5e62"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-task/zipball/cc3621678f02608e5ebc894597c4093bfe2f5e62",
+                    "reference": "cc3621678f02608e5ebc894597c4093bfe2f5e62",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-form": "^2.0",
+                    "grades-paca/bundle-paginator": "^2.0",
+                    "grades-paca/bundle-schedule": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "suggest": {
+                    "grades-paca/bundle-translation": ">=1.0.3"
+                },
+                "time": "2023-10-09T09:08:09+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
