@@ -44,12 +44,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-esms.git",
-                    "reference": "1f273f7f0716be45c424edde2fac4b83b66c3ef0"
+                    "reference": "58129f028e2cdaa80748f3c077c7dde8822723dc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/1f273f7f0716be45c424edde2fac4b83b66c3ef0",
-                    "reference": "1f273f7f0716be45c424edde2fac4b83b66c3ef0",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/58129f028e2cdaa80748f3c077c7dde8822723dc",
+                    "reference": "58129f028e2cdaa80748f3c077c7dde8822723dc",
                     "shasum": ""
                 },
                 "require": {
@@ -58,7 +58,43 @@
                     "grades-paca/bundle-setting": "^2.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-03-24T14:34:30+00:00",
+                "time": "2023-10-10T14:27:24+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\EsmsBundle\\": ""
+                    }
+                },
+                "description": "Bundle ESMS pour le ROR 3"
+            },
+            {
+                "name": "grades-paca/bundle-esms",
+                "version": "dev-254876-majsf5-fix-esms-validation",
+                "version_normalized": "dev-254876-majsf5-fix-esms-validation",
+                "target-dir": "Oru/Bundle/EsmsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-esms.git",
+                    "reference": "e942b3fb0299e7700443059e85431d2560a76fc5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-esms/zipball/e942b3fb0299e7700443059e85431d2560a76fc5",
+                    "reference": "e942b3fb0299e7700443059e85431d2560a76fc5",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-form": "^2.0",
+                    "grades-paca/bundle-form-incremental": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-10-10T13:25:21+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
