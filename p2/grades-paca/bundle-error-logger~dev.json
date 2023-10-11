@@ -153,12 +153,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-error-logger.git",
-                    "reference": "e5a3457d49873283fa3c483d8e092342671ed275"
+                    "reference": "ff63f2cb2dc2008806eb2c71445e0b17425ecf7f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/e5a3457d49873283fa3c483d8e092342671ed275",
-                    "reference": "e5a3457d49873283fa3c483d8e092342671ed275",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/ff63f2cb2dc2008806eb2c71445e0b17425ecf7f",
+                    "reference": "ff63f2cb2dc2008806eb2c71445e0b17425ecf7f",
                     "shasum": ""
                 },
                 "require": {
@@ -168,7 +168,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-08-29T09:00:06+00:00",
+                "time": "2023-10-11T07:40:06+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -313,6 +313,43 @@
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
                 "time": "2023-08-29T08:48:12+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\ErrorLoggerBundle\\": ""
+                    }
+                },
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
+            },
+            {
+                "name": "grades-paca/bundle-error-logger",
+                "version": "dev-254876-rapport-error",
+                "version_normalized": "dev-254876-rapport-error",
+                "target-dir": "Oru/Bundle/ErrorLoggerBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-error-logger.git",
+                    "reference": "966d24ee9404a70857676f0d3abbf0e62e40da67"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/966d24ee9404a70857676f0d3abbf0e62e40da67",
+                    "reference": "966d24ee9404a70857676f0d3abbf0e62e40da67",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-app": "^2.0",
+                    "grades-paca/bundle-mail": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-10-11T07:37:59+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
