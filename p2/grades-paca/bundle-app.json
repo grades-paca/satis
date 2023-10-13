@@ -1092,6 +1092,39 @@
                     }
                 },
                 "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3"
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "2.0.4",
+                "version_normalized": "2.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "aa8f9b5d0da03335012820b0396185fb98b8cd48"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/aa8f9b5d0da03335012820b0396185fb98b8cd48",
+                    "reference": "aa8f9b5d0da03335012820b0396185fb98b8cd48",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-10-13T08:27:14+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3"
             }
         ]
     }
