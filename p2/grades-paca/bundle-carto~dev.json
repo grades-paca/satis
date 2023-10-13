@@ -250,12 +250,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "0c5884fe386fd32327c847ad0be9f6b1434aac3f"
+                    "reference": "3f09590a78757a89aa5a6d51611d933f97aefa31"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/0c5884fe386fd32327c847ad0be9f6b1434aac3f",
-                    "reference": "0c5884fe386fd32327c847ad0be9f6b1434aac3f",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/3f09590a78757a89aa5a6d51611d933f97aefa31",
+                    "reference": "3f09590a78757a89aa5a6d51611d933f97aefa31",
                     "shasum": ""
                 },
                 "require": {
@@ -270,7 +270,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-10-13T09:25:16+00:00",
+                "time": "2023-10-13T12:09:37+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -560,6 +560,48 @@
                     "symfony/framework-bundle": "^5.0"
                 },
                 "time": "2023-10-12T16:21:26+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\CartoBundle\\": ""
+                    }
+                },
+                "description": "Carto du ror3"
+            },
+            {
+                "name": "grades-paca/bundle-carto",
+                "version": "dev-254876-majsf5-carto-synchro-event",
+                "version_normalized": "dev-254876-majsf5-carto-synchro-event",
+                "target-dir": "Oru/Bundle/CartoBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-carto.git",
+                    "reference": "367e2713bad6533ba0867b1bd610b47419863ddc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/367e2713bad6533ba0867b1bd610b47419863ddc",
+                    "reference": "367e2713bad6533ba0867b1bd610b47419863ddc",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "ext-mapscript": "*",
+                    "ext-pgsql": "*",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "longitude-one/doctrine-spatial": "^3.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-10-13T11:03:06+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
