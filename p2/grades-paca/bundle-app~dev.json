@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-app.git",
-                    "reference": "aa8f9b5d0da03335012820b0396185fb98b8cd48"
+                    "reference": "46189306908a29698651161761c743ca22b8c9ac"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/aa8f9b5d0da03335012820b0396185fb98b8cd48",
-                    "reference": "aa8f9b5d0da03335012820b0396185fb98b8cd48",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/46189306908a29698651161761c743ca22b8c9ac",
+                    "reference": "46189306908a29698651161761c743ca22b8c9ac",
                     "shasum": ""
                 },
                 "require": {
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-10-13T08:27:14+00:00",
+                "time": "2023-10-17T11:43:21+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -86,6 +86,39 @@
                     "symfony/framework-bundle": "^5.0"
                 },
                 "time": "2023-10-13T08:19:01+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Oru\\Bundle\\AppBundle\\": ""
+                    }
+                },
+                "description": "Tout ce qui est commun à toutes les applications de l'ORU en SF2-3"
+            },
+            {
+                "name": "grades-paca/bundle-app",
+                "version": "dev-254876-majsf5-fix-erreur-dev",
+                "version_normalized": "dev-254876-majsf5-fix-erreur-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-app.git",
+                    "reference": "aaf81e46fa9278a110040fd9765a133c8a5b984f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-app/zipball/aaf81e46fa9278a110040fd9765a133c8a5b984f",
+                    "reference": "aaf81e46fa9278a110040fd9765a133c8a5b984f",
+                    "shasum": ""
+                },
+                "require": {
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-10-17T10:15:19+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
