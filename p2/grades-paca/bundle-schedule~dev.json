@@ -555,7 +555,7 @@
                 },
                 "description": "Planificateur de taches ",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/2.0.2",
+                    "source": "https://github.com/grades-paca/bundle-schedule/tree/fix-retrait-adherence-lexik",
                     "issues": "https://github.com/grades-paca/bundle-schedule/issues"
                 }
             },
