@@ -165,12 +165,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "dfe03b79318ab7c8f391826a8ba6a8115f924803"
+                    "reference": "7acddd9d2e960191f1b741926ba3cca484a209fd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/dfe03b79318ab7c8f391826a8ba6a8115f924803",
-                    "reference": "dfe03b79318ab7c8f391826a8ba6a8115f924803",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/7acddd9d2e960191f1b741926ba3cca484a209fd",
+                    "reference": "7acddd9d2e960191f1b741926ba3cca484a209fd",
                     "shasum": ""
                 },
                 "require": {
@@ -178,9 +178,11 @@
                     "grades-paca/bundle-app": "^2.0",
                     "grades-paca/bundle-listing": "^2.0",
                     "symfony/console": "^5.0",
-                    "symfony/framework-bundle": "^5.0"
+                    "symfony/framework-bundle": "^5.0",
+                    "symfony/http-client": "^5.4",
+                    "symfony/http-client-contracts": "^2.5"
                 },
-                "time": "2023-09-22T07:09:36+00:00",
+                "time": "2023-10-24T15:24:21+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -526,12 +528,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-schedule.git",
-                    "reference": "839d04af2ded707dc3fd0559ec625cd9eb788aff"
+                    "reference": "3f35b63f7dc82bdf4ae7abf8144a8735a462cdfe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/839d04af2ded707dc3fd0559ec625cd9eb788aff",
-                    "reference": "839d04af2ded707dc3fd0559ec625cd9eb788aff",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-schedule/zipball/3f35b63f7dc82bdf4ae7abf8144a8735a462cdfe",
+                    "reference": "3f35b63f7dc82bdf4ae7abf8144a8735a462cdfe",
                     "shasum": ""
                 },
                 "require": {
@@ -539,9 +541,11 @@
                     "grades-paca/bundle-app": "^2.0",
                     "grades-paca/bundle-listing": "^2.0",
                     "symfony/console": "^5.0",
-                    "symfony/framework-bundle": "^5.0"
+                    "symfony/framework-bundle": "^5.0",
+                    "symfony/http-client": "^5.4",
+                    "symfony/http-client-contracts": "^2.5"
                 },
-                "time": "2023-10-24T08:47:53+00:00",
+                "time": "2023-10-24T14:37:05+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -555,7 +559,7 @@
                 },
                 "description": "Planificateur de taches ",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-schedule/tree/fix-retrait-adherence-lexik",
+                    "source": "https://github.com/grades-paca/bundle-schedule/tree/2.0.2",
                     "issues": "https://github.com/grades-paca/bundle-schedule/issues"
                 }
             },
