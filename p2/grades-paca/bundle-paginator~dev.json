@@ -34,7 +34,11 @@
                         "Oru\\Bundle\\PaginatorBundle\\": ""
                     }
                 },
-                "description": "Paginator bundle"
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/2.x",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-paginator",
@@ -69,7 +73,11 @@
                         "Oru\\Bundle\\PaginatorBundle\\": ""
                     }
                 },
-                "description": "Paginator bundle"
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/254876-majsf5-codeception",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-paginator",
@@ -104,7 +112,11 @@
                         "Oru\\Bundle\\PaginatorBundle\\": ""
                     }
                 },
-                "description": "Paginator bundle"
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-paginator",
@@ -140,7 +152,11 @@
                         "Oru\\Bundle\\PaginatorBundle\\": ""
                     }
                 },
-                "description": "Paginator bundle"
+                "description": "Paginator bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-paginator/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-paginator/issues"
+                }
             }
         ]
     }

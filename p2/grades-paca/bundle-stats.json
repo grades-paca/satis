@@ -21,7 +21,7 @@
                     "oru/setting": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2015-06-02T10:28:42+00:00",
+                "time": "2015-06-03T07:11:23+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -33,7 +33,11 @@
                         "Oru\\Bundle\\StatsBundle\\": ""
                     }
                 },
-                "description": "Utilisation du service d'analyse d'audience de Google Analytics."
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-stats/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-stats/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-stats",
@@ -67,7 +71,11 @@
                         "Oru\\Bundle\\StatsBundle\\": ""
                     }
                 },
-                "description": "Utilisation du service d'analyse d'audience de Google Analytics."
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-stats/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-stats/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-stats",
@@ -101,7 +109,11 @@
                         "Oru\\Bundle\\StatsBundle\\": ""
                     }
                 },
-                "description": "Utilisation du service d'analyse d'audience de Google Analytics."
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-stats/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-stats/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-stats",
@@ -135,7 +147,11 @@
                         "Oru\\Bundle\\StatsBundle\\": ""
                     }
                 },
-                "description": "Utilisation du service d'analyse d'audience de Google Analytics."
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-stats/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-stats/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-stats",
@@ -169,7 +185,11 @@
                         "Oru\\Bundle\\StatsBundle\\": ""
                     }
                 },
-                "description": "Utilisation du service d'analyse d'audience de Google Analytics."
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-stats/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-stats/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-stats",
@@ -203,7 +223,11 @@
                         "Oru\\Bundle\\StatsBundle\\": ""
                     }
                 },
-                "description": "Utilisation du service d'analyse d'audience de Google Analytics."
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-stats/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-stats/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-stats",
@@ -237,7 +261,11 @@
                         "Oru\\Bundle\\StatsBundle\\": ""
                     }
                 },
-                "description": "Utilisation du service d'analyse d'audience de Google Analytics."
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-stats/tree/2.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-stats/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-stats",
@@ -271,7 +299,49 @@
                         "Oru\\Bundle\\StatsBundle\\": ""
                     }
                 },
-                "description": "Utilisation du service d'analyse d'audience de Google Analytics."
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-stats/tree/2.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-stats/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-stats",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "target-dir": "Oru/Bundle/StatsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-stats.git",
+                    "reference": "d0bcce6e49fe91fbd038d3acdbf0d58947635cef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-stats/zipball/d0bcce6e49fe91fbd038d3acdbf0d58947635cef",
+                    "reference": "d0bcce6e49fe91fbd038d3acdbf0d58947635cef",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-setting": "^2.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-03-23T06:40:40+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\StatsBundle\\": ""
+                    }
+                },
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-stats/tree/2.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-stats/issues"
+                }
             }
         ]
     }
