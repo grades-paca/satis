@@ -3,25 +3,25 @@
         "atos/ws-synchro-offre": [
             {
                 "name": "atos/ws-synchro-offre",
-                "version": "dev-hotfix-bundle-wslit",
-                "version_normalized": "dev-hotfix-bundle-wslit",
+                "version": "1.x-dev",
+                "version_normalized": "1.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-wsoffre.git",
-                    "reference": "5e10116903dcbcd2da0e0e6f798fae0e17cf0d9d"
+                    "reference": "22876b91f9a499b800fd63b6925be56e6f4bba75"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-wsoffre/zipball/5e10116903dcbcd2da0e0e6f798fae0e17cf0d9d",
-                    "reference": "5e10116903dcbcd2da0e0e6f798fae0e17cf0d9d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsoffre/zipball/22876b91f9a499b800fd63b6925be56e6f4bba75",
+                    "reference": "22876b91f9a499b800fd63b6925be56e6f4bba75",
                     "shasum": ""
                 },
                 "require": {
-                    "atos/ws-synchro-lits": "dev-hotfix-persist-report-line",
+                    "atos/ws-synchro-lits": "dev-2.x",
                     "php": ">=7.0",
                     "symfony/framework-bundle": "~4.4 || ~5.4"
                 },
-                "time": "2023-10-31T16:29:21+00:00",
+                "time": "2023-11-02T09:33:48+00:00",
                 "type": "symfony-bundle",
                 "autoload": {
                     "psr-4": {
