@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-wslits.git",
-                    "reference": "812cb872b41afe417b9231eb443d54aeefd594bb"
+                    "reference": "9b34c6d6048b8c0420b8dd666411b5083fe5e2f1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/812cb872b41afe417b9231eb443d54aeefd594bb",
-                    "reference": "812cb872b41afe417b9231eb443d54aeefd594bb",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/9b34c6d6048b8c0420b8dd666411b5083fe5e2f1",
+                    "reference": "9b34c6d6048b8c0420b8dd666411b5083fe5e2f1",
                     "shasum": ""
                 },
                 "require": {
-                    "php": ">=7.0",
+                    "php": ">=7.4",
                     "symfony/framework-bundle": "~4.4 || ~5.4"
                 },
-                "time": "2023-10-31T15:53:45+00:00",
+                "time": "2023-10-31T17:39:04+00:00",
                 "type": "symfony-bundle",
                 "autoload": {
                     "psr-4": {
@@ -32,11 +32,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle disponibilité des lits",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-wslits/tree/hotfix-1",
-                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
-                }
+                "description": "Symfony ATOS Bundle disponibilité des lits"
             },
             {
                 "name": "atos/ws-synchro-lits",
@@ -70,11 +66,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle disponibilité des lits",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-wslits/tree/2.2.3",
-                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
-                }
+                "description": "Symfony ATOS Bundle disponibilité des lits"
             }
         ]
     }
