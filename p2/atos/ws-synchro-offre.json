@@ -169,6 +169,40 @@
                     }
                 ],
                 "description": "Symfony ATOS Bundle synchronisation de l'offre"
+            },
+            {
+                "name": "atos/ws-synchro-offre",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-wsoffre.git",
+                    "reference": "5a080725c1c83d5c2960917da7394b10793dde98"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsoffre/zipball/5a080725c1c83d5c2960917da7394b10793dde98",
+                    "reference": "5a080725c1c83d5c2960917da7394b10793dde98",
+                    "shasum": ""
+                },
+                "require": {
+                    "atos/ws-synchro-lits": ">=2.0",
+                    "php": ">=7.0",
+                    "symfony/framework-bundle": "~4.4 || ~5.4"
+                },
+                "time": "2023-11-06T11:00:22+00:00",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\WsOffreBundle\\": "/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOS Bundle synchronisation de l'offre"
             }
         ]
     }
