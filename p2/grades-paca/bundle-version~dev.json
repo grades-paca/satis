@@ -225,12 +225,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-version.git",
-                    "reference": "c32afecbb1fda1068a0547e2ed85cb8a77c85e0f"
+                    "reference": "f84b91d3ddecf377ac1358aa4676066fbe69ebd7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/c32afecbb1fda1068a0547e2ed85cb8a77c85e0f",
-                    "reference": "c32afecbb1fda1068a0547e2ed85cb8a77c85e0f",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/f84b91d3ddecf377ac1358aa4676066fbe69ebd7",
+                    "reference": "f84b91d3ddecf377ac1358aa4676066fbe69ebd7",
                     "shasum": ""
                 },
                 "require": {
@@ -242,7 +242,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-11-15T09:56:47+00:00",
+                "time": "2023-11-16T10:47:32+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -282,6 +282,45 @@
                     "symfony/framework-bundle": "^5.0"
                 },
                 "time": "2023-11-15T09:48:01+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif"
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "dev-fix-changelog-actions",
+                "version_normalized": "dev-fix-changelog-actions",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "5e2b56ef32e66289a90fa702f0124d6d0e7f37db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/5e2b56ef32e66289a90fa702f0124d6d0e7f37db",
+                    "reference": "5e2b56ef32e66289a90fa702f0124d6d0e7f37db",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-app": "^2.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "kbsali/redmine-api": "^2.2",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-11-16T09:43:50+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
