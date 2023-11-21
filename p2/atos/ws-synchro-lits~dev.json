@@ -32,7 +32,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle disponibilité des lits"
+                "description": "Symfony ATOS Bundle disponibilité des lits",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wslits/tree/hotfix-sf5",
+                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
+                }
             },
             {
                 "name": "atos/ws-synchro-lits",
@@ -66,7 +70,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle disponibilité des lits"
+                "description": "Symfony ATOS Bundle disponibilité des lits",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wslits/tree/2.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
+                }
             }
         ]
     }
