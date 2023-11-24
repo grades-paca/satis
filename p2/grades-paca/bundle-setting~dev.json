@@ -135,12 +135,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-setting.git",
-                    "reference": "e6e481ec641bbd3b4a2bbb53f94a2927a8bf709d"
+                    "reference": "4a04c10c4cac9aab08b0bf14199a8e717ad5b74b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/e6e481ec641bbd3b4a2bbb53f94a2927a8bf709d",
-                    "reference": "e6e481ec641bbd3b4a2bbb53f94a2927a8bf709d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/4a04c10c4cac9aab08b0bf14199a8e717ad5b74b",
+                    "reference": "4a04c10c4cac9aab08b0bf14199a8e717ad5b74b",
                     "shasum": ""
                 },
                 "require": {
@@ -152,7 +152,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-09-21T06:58:45+00:00",
+                "time": "2023-11-24T09:53:37+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -166,7 +166,7 @@
                 },
                 "description": "Bundle de gestion des paramètres de l'application.",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-setting/tree/2.0.3",
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/2.1.0",
                     "issues": "https://github.com/grades-paca/bundle-setting/issues"
                 }
             },
@@ -296,6 +296,49 @@
                 "description": "Bundle de gestion des paramètres de l'application.",
                 "support": {
                     "source": "https://github.com/grades-paca/bundle-setting/tree/254876-majsf5-fix-resources-path",
+                    "issues": "https://github.com/grades-paca/bundle-setting/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-setting",
+                "version": "dev-297014-stop-workers-settings",
+                "version_normalized": "dev-297014-stop-workers-settings",
+                "target-dir": "Oru/Bundle/SettingBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-setting.git",
+                    "reference": "81df1c0e3622af5d3fce50709bc94c1dc49d389a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/81df1c0e3622af5d3fce50709bc94c1dc49d389a",
+                    "reference": "81df1c0e3622af5d3fce50709bc94c1dc49d389a",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-alert": "^2.0",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-form": "^2.0",
+                    "grades-paca/bundle-listing": "^2.0",
+                    "grades-paca/bundle-paginator": "^2.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-11-23T13:19:36+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SettingBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des paramètres de l'application.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-setting/tree/297014-stop-workers-settings",
                     "issues": "https://github.com/grades-paca/bundle-setting/issues"
                 }
             },
