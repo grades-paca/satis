@@ -4273,6 +4273,49 @@
                     "source": "https://github.com/grades-paca/bundle-design/tree/3.0.1",
                     "issues": "https://github.com/grades-paca/bundle-design/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-design",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "target-dir": "Oru/Bundle/DesignBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-design.git",
+                    "reference": "f516076cb47703f8ac497979df38d80228a53e47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/f516076cb47703f8ac497979df38d80228a53e47",
+                    "reference": "f516076cb47703f8ac497979df38d80228a53e47",
+                    "shasum": ""
+                },
+                "require": {
+                    "components/modernizr": "^3.5",
+                    "friendsofsymfony/jsrouting-bundle": "^2.8",
+                    "grades-paca/bundle-form": "^2.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-privacy-banner": "^2.0",
+                    "symfony/framework-bundle": "^5.0",
+                    "tattali/mobile-detect-bundle": "2.2.0"
+                },
+                "time": "2023-11-29T17:33:52+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\DesignBundle\\": ""
+                    }
+                },
+                "description": "Design bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-design/tree/3.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-design/issues"
+                }
             }
         ]
     }

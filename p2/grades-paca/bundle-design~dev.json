@@ -597,12 +597,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-design.git",
-                    "reference": "9629f97a072039c7184b2259fa95ee1479ea572e"
+                    "reference": "f516076cb47703f8ac497979df38d80228a53e47"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/9629f97a072039c7184b2259fa95ee1479ea572e",
-                    "reference": "9629f97a072039c7184b2259fa95ee1479ea572e",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-design/zipball/f516076cb47703f8ac497979df38d80228a53e47",
+                    "reference": "f516076cb47703f8ac497979df38d80228a53e47",
                     "shasum": ""
                 },
                 "require": {
@@ -614,7 +614,7 @@
                     "symfony/framework-bundle": "^5.0",
                     "tattali/mobile-detect-bundle": "2.2.0"
                 },
-                "time": "2023-06-08T14:08:17+00:00",
+                "time": "2023-11-29T17:33:52+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -628,7 +628,7 @@
                 },
                 "description": "Design bundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-design/tree/3.0.1",
+                    "source": "https://github.com/grades-paca/bundle-design/tree/3.1.0",
                     "issues": "https://github.com/grades-paca/bundle-design/issues"
                 }
             },

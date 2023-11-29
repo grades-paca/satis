@@ -3,25 +3,25 @@
         "atos/ws-synchro-offre": [
             {
                 "name": "atos/ws-synchro-offre",
-                "version": "1.x-dev",
-                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "version": "1.2.0.x-dev",
+                "version_normalized": "1.2.0.9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-wsoffre.git",
-                    "reference": "c46534ba14383c0563049e7de100439a787155b0"
+                    "reference": "c831e3814bca9760f9649c5230054cd8b54b125d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-wsoffre/zipball/c46534ba14383c0563049e7de100439a787155b0",
-                    "reference": "c46534ba14383c0563049e7de100439a787155b0",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsoffre/zipball/c831e3814bca9760f9649c5230054cd8b54b125d",
+                    "reference": "c831e3814bca9760f9649c5230054cd8b54b125d",
                     "shasum": ""
                 },
                 "require": {
-                    "atos/ws-synchro-lits": "2.x-dev",
+                    "atos/ws-synchro-lits": ">=2.0",
                     "php": ">=7.0",
                     "symfony/framework-bundle": "~4.4 || ~5.4"
                 },
-                "time": "2023-11-02T10:00:41+00:00",
+                "time": "2023-11-27T16:41:41+00:00",
                 "type": "symfony-bundle",
                 "autoload": {
                     "psr-4": {
@@ -35,7 +35,83 @@
                 ],
                 "description": "Symfony ATOS Bundle synchronisation de l'offre",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/hotfix-sf5",
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
+                }
+            },
+            {
+                "name": "atos/ws-synchro-offre",
+                "version": "1.x-dev",
+                "version_normalized": "1.9999999.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-wsoffre.git",
+                    "reference": "6ff69390a67b2b1af7dec0d100cb9e99161738dd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsoffre/zipball/6ff69390a67b2b1af7dec0d100cb9e99161738dd",
+                    "reference": "6ff69390a67b2b1af7dec0d100cb9e99161738dd",
+                    "shasum": ""
+                },
+                "require": {
+                    "atos/ws-synchro-lits": ">=2.0",
+                    "php": ">=7.0",
+                    "symfony/framework-bundle": "~4.4 || ~5.4"
+                },
+                "time": "2023-11-28T08:38:14+00:00",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\WsOffreBundle\\": "/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOS Bundle synchronisation de l'offre",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.x",
+                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
+                }
+            },
+            {
+                "name": "atos/ws-synchro-offre",
+                "version": "dev-297014-needReloadMessenger-setting",
+                "version_normalized": "dev-297014-needReloadMessenger-setting",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-wsoffre.git",
+                    "reference": "30eb3f1bef2060417052cd9846691ab1178724ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsoffre/zipball/30eb3f1bef2060417052cd9846691ab1178724ca",
+                    "reference": "30eb3f1bef2060417052cd9846691ab1178724ca",
+                    "shasum": ""
+                },
+                "require": {
+                    "atos/ws-synchro-lits": ">=2.0",
+                    "php": ">=7.0",
+                    "symfony/framework-bundle": "~4.4 || ~5.4"
+                },
+                "time": "2023-11-28T08:46:27+00:00",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\WsOffreBundle\\": "/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOS Bundle synchronisation de l'offre",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/297014-needReloadMessenger-setting",
                     "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
                 }
             },

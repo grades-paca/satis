@@ -342,6 +342,44 @@
                     "source": "https://github.com/grades-paca/bundle-stats/tree/2.0.1",
                     "issues": "https://github.com/grades-paca/bundle-stats/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-stats",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "target-dir": "Oru/Bundle/StatsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-stats.git",
+                    "reference": "12843130d1e4fb6270e5c30cd147bcc8baaca47e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-stats/zipball/12843130d1e4fb6270e5c30cd147bcc8baaca47e",
+                    "reference": "12843130d1e4fb6270e5c30cd147bcc8baaca47e",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-setting": "^2.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-11-29T17:33:45+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\StatsBundle\\": ""
+                    }
+                },
+                "description": "Utilisation du service d'analyse d'audience de Google Analytics.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-stats/tree/2.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-stats/issues"
+                }
             }
         ]
     }

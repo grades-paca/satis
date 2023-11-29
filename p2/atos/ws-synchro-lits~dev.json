@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-wslits.git",
-                    "reference": "f72d7b5211c16431e4de941a94019d937c57ee5f"
+                    "reference": "771bb77040a594611f76e902689fb5c305d33b72"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/f72d7b5211c16431e4de941a94019d937c57ee5f",
-                    "reference": "f72d7b5211c16431e4de941a94019d937c57ee5f",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/771bb77040a594611f76e902689fb5c305d33b72",
+                    "reference": "771bb77040a594611f76e902689fb5c305d33b72",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.0",
                     "symfony/framework-bundle": "~4.4 || ~5.4"
                 },
-                "time": "2023-11-02T09:24:57+00:00",
+                "time": "2023-11-28T08:49:04+00:00",
                 "type": "symfony-bundle",
                 "autoload": {
                     "psr-4": {
@@ -34,7 +34,44 @@
                 ],
                 "description": "Symfony ATOS Bundle disponibilité des lits",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-wslits/tree/hotfix-sf5",
+                    "source": "https://github.com/grades-paca/bundle-wslits/tree/2.x",
+                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
+                }
+            },
+            {
+                "name": "atos/ws-synchro-lits",
+                "version": "dev-297014-needReloadMessenger-setting",
+                "version_normalized": "dev-297014-needReloadMessenger-setting",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-wslits.git",
+                    "reference": "a3c8369bb29fbd750a32b97b1cbd7749d39872db"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/a3c8369bb29fbd750a32b97b1cbd7749d39872db",
+                    "reference": "a3c8369bb29fbd750a32b97b1cbd7749d39872db",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0",
+                    "symfony/framework-bundle": "~4.4 || ~5.4"
+                },
+                "time": "2023-11-28T08:54:33+00:00",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\WsLitsBundle\\": "/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOS Bundle disponibilité des lits",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wslits/tree/297014-needReloadMessenger-setting",
                     "issues": "https://github.com/grades-paca/bundle-wslits/issues"
                 }
             },
