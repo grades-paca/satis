@@ -9,12 +9,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-sms.git",
-                    "reference": "c49ab945aab0741657e3dd858f8e64b50842cf6c"
+                    "reference": "5483b31374ff16c17ff7208033ded02223ce5305"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-sms/zipball/c49ab945aab0741657e3dd858f8e64b50842cf6c",
-                    "reference": "c49ab945aab0741657e3dd858f8e64b50842cf6c",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-sms/zipball/5483b31374ff16c17ff7208033ded02223ce5305",
+                    "reference": "5483b31374ff16c17ff7208033ded02223ce5305",
                     "shasum": ""
                 },
                 "require": {
@@ -25,7 +25,7 @@
                     "symfony/framework-bundle": "^5.0",
                     "twig/string-extra": "^3.3"
                 },
-                "time": "2023-03-24T15:55:44+00:00",
+                "time": "2023-12-12T10:54:56+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -39,7 +39,7 @@
                 },
                 "description": "Bundle de gestion des SMS",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-sms/tree/2.0.1",
+                    "source": "https://github.com/grades-paca/bundle-sms/tree/2.x",
                     "issues": "https://github.com/grades-paca/bundle-sms/issues"
                 }
             },

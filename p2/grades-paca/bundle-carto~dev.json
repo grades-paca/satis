@@ -274,12 +274,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "3f09590a78757a89aa5a6d51611d933f97aefa31"
+                    "reference": "5a7f9316e9376c543ab4f9eac8d315e99a33df5e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/3f09590a78757a89aa5a6d51611d933f97aefa31",
-                    "reference": "3f09590a78757a89aa5a6d51611d933f97aefa31",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/5a7f9316e9376c543ab4f9eac8d315e99a33df5e",
+                    "reference": "5a7f9316e9376c543ab4f9eac8d315e99a33df5e",
                     "shasum": ""
                 },
                 "require": {
@@ -294,7 +294,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-10-13T12:09:37+00:00",
+                "time": "2023-12-12T11:21:59+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -308,7 +308,7 @@
                 },
                 "description": "Carto du ror3",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-carto/tree/2.0.6",
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/2.0.7",
                     "issues": "https://github.com/grades-paca/bundle-carto/issues"
                 }
             },
@@ -672,6 +672,52 @@
                 "description": "Carto du ror3",
                 "support": {
                     "source": "https://github.com/grades-paca/bundle-carto/tree/254876-majsf5-carto-synchro-event",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-carto",
+                "version": "dev-254876-majsf5-fix-postprod",
+                "version_normalized": "dev-254876-majsf5-fix-postprod",
+                "target-dir": "Oru/Bundle/CartoBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-carto.git",
+                    "reference": "736307280349453de4d2df811a4a26f4eea2f2b4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/736307280349453de4d2df811a4a26f4eea2f2b4",
+                    "reference": "736307280349453de4d2df811a4a26f4eea2f2b4",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "ext-mapscript": "*",
+                    "ext-pgsql": "*",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "longitude-one/doctrine-spatial": "^3.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2023-12-12T11:04:07+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\CartoBundle\\": ""
+                    }
+                },
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/254876-majsf5-fix-postprod",
                     "issues": "https://github.com/grades-paca/bundle-carto/issues"
                 }
             },
