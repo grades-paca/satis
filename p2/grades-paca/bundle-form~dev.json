@@ -962,12 +962,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "917e0b0634f688dfc51d0c3e37962923ef0681f4"
+                    "reference": "a34aefbbe4564f2bee485aefefcfc3864e47358d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/917e0b0634f688dfc51d0c3e37962923ef0681f4",
-                    "reference": "917e0b0634f688dfc51d0c3e37962923ef0681f4",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/a34aefbbe4564f2bee485aefefcfc3864e47358d",
+                    "reference": "a34aefbbe4564f2bee485aefefcfc3864e47358d",
                     "shasum": ""
                 },
                 "require": {
@@ -988,7 +988,7 @@
                     "shapecode/hidden-entity-type-bundle": "^5.2",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2024-02-20T10:59:45+00:00",
+                "time": "2024-02-21T09:13:20+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
