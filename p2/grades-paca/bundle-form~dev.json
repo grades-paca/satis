@@ -962,12 +962,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "403991ec7a3555f79572e01c8e4574deac2b4d89"
+                    "reference": "85fcafe494857d471e2df977f30d3f935cfe0479"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/403991ec7a3555f79572e01c8e4574deac2b4d89",
-                    "reference": "403991ec7a3555f79572e01c8e4574deac2b4d89",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/85fcafe494857d471e2df977f30d3f935cfe0479",
+                    "reference": "85fcafe494857d471e2df977f30d3f935cfe0479",
                     "shasum": ""
                 },
                 "require": {
