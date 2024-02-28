@@ -868,12 +868,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-address.git",
-                    "reference": "fb0eb8f4ad8a55404ca0e4a996c8de5042d51624"
+                    "reference": "39a6d23f9e8f25c7186c75ff4824f8dfe2fee3d2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/fb0eb8f4ad8a55404ca0e4a996c8de5042d51624",
-                    "reference": "fb0eb8f4ad8a55404ca0e4a996c8de5042d51624",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/39a6d23f9e8f25c7186c75ff4824f8dfe2fee3d2",
+                    "reference": "39a6d23f9e8f25c7186c75ff4824f8dfe2fee3d2",
                     "shasum": ""
                 },
                 "require": {
