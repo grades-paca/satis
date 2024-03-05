@@ -340,12 +340,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-address.git",
-                    "reference": "7ad1e7b9e49dbf18b39fa5c562f98b915fa03402"
+                    "reference": "e05f31b84fb004722c12a5e7499761bc920339df"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/7ad1e7b9e49dbf18b39fa5c562f98b915fa03402",
-                    "reference": "7ad1e7b9e49dbf18b39fa5c562f98b915fa03402",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/e05f31b84fb004722c12a5e7499761bc920339df",
+                    "reference": "e05f31b84fb004722c12a5e7499761bc920339df",
                     "shasum": ""
                 },
                 "require": {
@@ -356,7 +356,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2024-01-25T09:05:59+00:00",
+                "time": "2024-03-05T14:49:55+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -868,12 +868,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-address.git",
-                    "reference": "39a6d23f9e8f25c7186c75ff4824f8dfe2fee3d2"
+                    "reference": "70fb6be77ad9aa1b26d131834b86a6f49e021efa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/39a6d23f9e8f25c7186c75ff4824f8dfe2fee3d2",
-                    "reference": "39a6d23f9e8f25c7186c75ff4824f8dfe2fee3d2",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/70fb6be77ad9aa1b26d131834b86a6f49e021efa",
+                    "reference": "70fb6be77ad9aa1b26d131834b86a6f49e021efa",
                     "shasum": ""
                 },
                 "require": {
@@ -884,7 +884,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2024-02-28T13:51:36+00:00",
+                "time": "2024-01-23T10:29:02+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
