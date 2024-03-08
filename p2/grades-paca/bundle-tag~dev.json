@@ -32,7 +32,11 @@
                         "Oru\\Bundle\\TagBundle\\": ""
                     }
                 },
-                "description": "Gestion de tags"
+                "description": "Gestion de tags",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-tag/tree/2.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-tag/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-tag",
@@ -65,7 +69,11 @@
                         "Oru\\Bundle\\TagBundle\\": ""
                     }
                 },
-                "description": "Gestion de tags"
+                "description": "Gestion de tags",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-tag/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-tag/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-tag",
@@ -99,7 +107,11 @@
                         "Oru\\Bundle\\TagBundle\\": ""
                     }
                 },
-                "description": "Gestion de tags"
+                "description": "Gestion de tags",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-tag/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-tag/issues"
+                }
             }
         ]
     }
