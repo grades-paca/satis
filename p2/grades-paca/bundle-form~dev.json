@@ -328,12 +328,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "fb1ba8d4b763c380154ebc233d1ae820c3d82c51"
+                    "reference": "2041e0a139360ccf971821a419eab1b2e9258457"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/fb1ba8d4b763c380154ebc233d1ae820c3d82c51",
-                    "reference": "fb1ba8d4b763c380154ebc233d1ae820c3d82c51",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/2041e0a139360ccf971821a419eab1b2e9258457",
+                    "reference": "2041e0a139360ccf971821a419eab1b2e9258457",
                     "shasum": ""
                 },
                 "require": {
@@ -354,7 +354,7 @@
                     "shapecode/hidden-entity-type-bundle": "^5.2",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2024-01-30T09:30:58+00:00",
+                "time": "2024-03-18T15:18:13+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -988,54 +988,6 @@
                     "symfony/framework-bundle": "^5.0"
                 },
                 "time": "2023-11-10T11:10:57+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\FormBundle\\": ""
-                    }
-                },
-                "description": "Surcharge des formulaires"
-            },
-            {
-                "name": "grades-paca/bundle-form",
-                "version": "dev-301377-ajout-canalotp-update-mailsecours",
-                "version_normalized": "dev-301377-ajout-canalotp-update-mailsecours",
-                "target-dir": "Oru/Bundle/FormBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-form.git",
-                    "reference": "85fcafe494857d471e2df977f30d3f935cfe0479"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-form/zipball/85fcafe494857d471e2df977f30d3f935cfe0479",
-                    "reference": "85fcafe494857d471e2df977f30d3f935cfe0479",
-                    "shasum": ""
-                },
-                "require": {
-                    "algo26-matthias/idna-convert": "^2.1",
-                    "excelwebzone/recaptcha-bundle": "^1.5",
-                    "exercise/htmlpurifier-bundle": "*",
-                    "ext-intl": "*",
-                    "ext-json": "*",
-                    "ext-openssl": "*",
-                    "friendsofsymfony/ckeditor-bundle": "^2.4",
-                    "grades-paca/bundle-denied-field": "^2.0",
-                    "grades-paca/bundle-design": "^3.0",
-                    "grades-paca/bundle-install": "^2.0",
-                    "grades-paca/bundle-jquery-mask": "^2.0",
-                    "grades-paca/bundle-mail": "^2.0",
-                    "grades-paca/bundle-setting": "^2.0",
-                    "odolbeau/phone-number-bundle": "^3.0",
-                    "shapecode/hidden-entity-type-bundle": "^5.2",
-                    "symfony/framework-bundle": "^5.0"
-                },
-                "time": "2024-02-27T13:55:10+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
