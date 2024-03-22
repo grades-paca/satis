@@ -33,7 +33,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle modèle d'exposition V3"
+                "description": "Symfony ATOS Bundle modèle d'exposition V3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsv3/tree/0.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-wsv3/issues"
+                }
             },
             {
                 "name": "atos/ws-mev3",
@@ -67,7 +71,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle modèle d'exposition V3"
+                "description": "Symfony ATOS Bundle modèle d'exposition V3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsv3/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-wsv3/issues"
+                }
             },
             {
                 "name": "atos/ws-mev3",
@@ -101,7 +109,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle modèle d'exposition V3"
+                "description": "Symfony ATOS Bundle modèle d'exposition V3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsv3/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-wsv3/issues"
+                }
             },
             {
                 "name": "atos/ws-mev3",
@@ -135,7 +147,49 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle modèle d'exposition V3"
+                "description": "Symfony ATOS Bundle modèle d'exposition V3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsv3/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-wsv3/issues"
+                }
+            },
+            {
+                "name": "atos/ws-mev3",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-wsv3.git",
+                    "reference": "d0c00641321b1866926a5591c0046a1f3bce2643"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsv3/zipball/d0c00641321b1866926a5591c0046a1f3bce2643",
+                    "reference": "d0c00641321b1866926a5591c0046a1f3bce2643",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0",
+                    "symfony/filesystem": "~4.4 || ~5.4",
+                    "symfony/framework-bundle": "~4.4 || ~5.4"
+                },
+                "time": "2024-03-22T08:49:43+00:00",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\WsMEV3Bundle\\": "/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOS Bundle modèle d'exposition V3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsv3/tree/1.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-wsv3/issues"
+                }
             }
         ]
     }
