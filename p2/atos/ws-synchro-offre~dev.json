@@ -84,12 +84,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-wsoffre.git",
-                    "reference": "1b12b5d6fd280913820cba7ff04bff4923f2fba8"
+                    "reference": "c438f5248fd2e9d66182578e0de8552865a87fc6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-wsoffre/zipball/1b12b5d6fd280913820cba7ff04bff4923f2fba8",
-                    "reference": "1b12b5d6fd280913820cba7ff04bff4923f2fba8",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsoffre/zipball/c438f5248fd2e9d66182578e0de8552865a87fc6",
+                    "reference": "c438f5248fd2e9d66182578e0de8552865a87fc6",
                     "shasum": ""
                 },
                 "require": {
@@ -97,7 +97,7 @@
                     "php": ">=7.0",
                     "symfony/framework-bundle": "~4.4 || ~5.4"
                 },
-                "time": "2023-11-30T15:46:41+00:00",
+                "time": "2024-04-11T07:24:57+00:00",
                 "default-branch": true,
                 "type": "symfony-bundle",
                 "autoload": {
@@ -112,7 +112,7 @@
                 ],
                 "description": "Symfony ATOS Bundle synchronisation de l'offre",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/main",
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.2.1",
                     "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
                 }
             }
