@@ -593,12 +593,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-rass.git",
-                    "reference": "7a527760382e6a8efd4e10d9c23db858854d3cfb"
+                    "reference": "d8ec4053eb82233814a12f2894b48dccd48c32b2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/7a527760382e6a8efd4e10d9c23db858854d3cfb",
-                    "reference": "7a527760382e6a8efd4e10d9c23db858854d3cfb",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/d8ec4053eb82233814a12f2894b48dccd48c32b2",
+                    "reference": "d8ec4053eb82233814a12f2894b48dccd48c32b2",
                     "shasum": ""
                 },
                 "require": {
@@ -607,7 +607,7 @@
                     "php": ">=7.0",
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2024-04-10T09:49:22+00:00",
+                "time": "2024-04-18T17:27:42+00:00",
                 "type": "symfony-bundle",
                 "autoload": {
                     "psr-4": {
@@ -621,7 +621,7 @@
                 ],
                 "description": "Symfony ATOSRassBundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/7.0.2",
+                    "source": "https://github.com/grades-paca/bundle-rass/tree/7.0.3",
                     "issues": "https://github.com/grades-paca/bundle-rass/issues"
                 }
             },
@@ -710,12 +710,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-rass.git",
-                    "reference": "41706143262441a5183dccf2758c747b6a1cd88d"
+                    "reference": "272993f8f374e10e5836aa1b3bcebb40c6116545"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/41706143262441a5183dccf2758c747b6a1cd88d",
-                    "reference": "41706143262441a5183dccf2758c747b6a1cd88d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/272993f8f374e10e5836aa1b3bcebb40c6116545",
+                    "reference": "272993f8f374e10e5836aa1b3bcebb40c6116545",
                     "shasum": ""
                 },
                 "require": {
@@ -724,7 +724,7 @@
                     "php": ">=7.0",
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2024-04-03T19:04:20+00:00",
+                "time": "2024-04-18T14:31:18+00:00",
                 "type": "symfony-bundle",
                 "autoload": {
                     "psr-4": {
@@ -739,6 +739,45 @@
                 "description": "Symfony ATOSRassBundle",
                 "support": {
                     "source": "https://github.com/grades-paca/bundle-rass/tree/294912-adjustment-etablishment-filter-moteur-rass",
+                    "issues": "https://github.com/grades-paca/bundle-rass/issues"
+                }
+            },
+            {
+                "name": "atos/bundle-rass",
+                "version": "dev-294912-finess-rass",
+                "version_normalized": "dev-294912-finess-rass",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-rass.git",
+                    "reference": "2271025c5c398477ef0c916e3d38c318b305c3ff"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/2271025c5c398477ef0c916e3d38c318b305c3ff",
+                    "reference": "2271025c5c398477ef0c916e3d38c318b305c3ff",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-setting": "*",
+                    "halaxa/json-machine": "0.6.*",
+                    "php": ">=7.0",
+                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                },
+                "time": "2024-04-18T17:20:43+00:00",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\RassBundle\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOSRassBundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-rass/tree/294912-finess-rass",
                     "issues": "https://github.com/grades-paca/bundle-rass/issues"
                 }
             },
