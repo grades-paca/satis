@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-wsv3.git",
-                    "reference": "6df8116657987e32db4fe80fee5a647639ed0e57"
+                    "reference": "659ef112219ff7e7b2e7641583ed39bbc316abab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-wsv3/zipball/6df8116657987e32db4fe80fee5a647639ed0e57",
-                    "reference": "6df8116657987e32db4fe80fee5a647639ed0e57",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsv3/zipball/659ef112219ff7e7b2e7641583ed39bbc316abab",
+                    "reference": "659ef112219ff7e7b2e7641583ed39bbc316abab",
                     "shasum": ""
                 },
                 "require": {
@@ -21,7 +21,7 @@
                     "symfony/filesystem": "~4.4 || ~5.4",
                     "symfony/framework-bundle": "~4.4 || ~5.4"
                 },
-                "time": "2024-04-15T07:44:40+00:00",
+                "time": "2024-04-24T08:08:35+00:00",
                 "default-branch": true,
                 "type": "symfony-bundle",
                 "autoload": {
@@ -36,7 +36,7 @@
                 ],
                 "description": "Symfony ATOS Bundle modèle d'exposition V3",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-wsv3/tree/1.0.5",
+                    "source": "https://github.com/grades-paca/bundle-wsv3/tree/1.1.0",
                     "issues": "https://github.com/grades-paca/bundle-wsv3/issues"
                 }
             }
