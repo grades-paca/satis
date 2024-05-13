@@ -2065,6 +2065,50 @@
                     "source": "https://github.com/grades-paca/bundle-log/tree/2.1.4",
                     "issues": "https://github.com/grades-paca/bundle-log/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-log",
+                "version": "2.1.5",
+                "version_normalized": "2.1.5.0",
+                "target-dir": "Oru/Bundle/LogBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-log.git",
+                    "reference": "40f653ed690ef78bdcce417ffceb3bb46abac50d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-log/zipball/40f653ed690ef78bdcce417ffceb3bb46abac50d",
+                    "reference": "40f653ed690ef78bdcce417ffceb3bb46abac50d",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-error-logger": "^2.0",
+                    "grades-paca/bundle-form": "^2.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-schedule": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-translation": "^2.0",
+                    "symfony/console": "^5.0 ",
+                    "symfony/framework-bundle": "^5.0 "
+                },
+                "time": "2024-05-07T09:21:37+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\LogBundle\\": ""
+                    }
+                },
+                "description": "Log des requêtes",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-log/tree/2.1.5",
+                    "issues": "https://github.com/grades-paca/bundle-log/issues"
+                }
             }
         ]
     }
