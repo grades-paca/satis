@@ -35,11 +35,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.0.18",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -63,7 +59,7 @@
                     "grades-paca/bundle-setting": ">=1.4 <2.0.0",
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2023-02-20T13:43:20+00:00",
+                "time": "2023-02-20T10:34:16+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -75,11 +71,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.6.0",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -115,11 +107,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.6.1",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -155,11 +143,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.6.x",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -198,11 +182,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/2.x",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -238,11 +218,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.5.1",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -278,11 +254,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.6.0_bis",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -318,11 +290,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/1.6.1",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -358,11 +326,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/254876-majsf5-bug-dblogger",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -399,11 +363,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/254876-rapport-error",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -442,11 +402,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/2.1.0",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -482,11 +438,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/bootstrap4",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -513,7 +465,7 @@
                     "symfony/http-client": "^5.4",
                     "symfony/http-client-contracts": "^2.5"
                 },
-                "time": "2023-10-24T15:15:48+00:00",
+                "time": "2023-10-24T08:25:45+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -525,11 +477,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/fix-retrait-lexik",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -566,11 +514,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/majSF5",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             },
             {
                 "name": "grades-paca/bundle-error-logger",
@@ -607,11 +551,7 @@
                         "Oru\\Bundle\\ErrorLoggerBundle\\": ""
                     }
                 },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données.",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-error-logger/tree/master",
-                    "issues": "https://github.com/grades-paca/bundle-error-logger/issues"
-                }
+                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
             }
         ]
     }
