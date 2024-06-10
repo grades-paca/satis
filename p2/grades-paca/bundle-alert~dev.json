@@ -22,7 +22,7 @@
                     "oru/setting": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-07-31T09:04:03+00:00",
+                "time": "2018-07-31T09:38:32+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -34,7 +34,11 @@
                         "Oru\\Bundle\\AlertBundle\\": ""
                     }
                 },
-                "description": "Ce bundle écoute les alertes sur les actions sensibles et les envoie par mail."
+                "description": "Ce bundle écoute les alertes sur les actions sensibles et les envoie par mail.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-alert/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-alert/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-alert",
@@ -69,7 +73,11 @@
                         "Oru\\Bundle\\AlertBundle\\": ""
                     }
                 },
-                "description": "Ce bundle écoute les alertes sur les actions sensibles et les envoie par mail."
+                "description": "Ce bundle écoute les alertes sur les actions sensibles et les envoie par mail.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-alert/tree/2.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-alert/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-alert",
@@ -104,7 +112,11 @@
                         "Oru\\Bundle\\AlertBundle\\": ""
                     }
                 },
-                "description": "Ce bundle écoute les alertes sur les actions sensibles et les envoie par mail."
+                "description": "Ce bundle écoute les alertes sur les actions sensibles et les envoie par mail.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-alert/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-alert/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-alert",
@@ -140,7 +152,11 @@
                         "Oru\\Bundle\\AlertBundle\\": ""
                     }
                 },
-                "description": "Ce bundle écoute les alertes sur les actions sensibles et les envoie par mail."
+                "description": "Ce bundle écoute les alertes sur les actions sensibles et les envoie par mail.",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-alert/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-alert/issues"
+                }
             }
         ]
     }
