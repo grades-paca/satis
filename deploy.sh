@@ -41,3 +41,5 @@ git push -f origin gh-pages
 # Cleanup (for those who don't use a CI).
 cd ..
 rm -rf public
+
+git checkout master
