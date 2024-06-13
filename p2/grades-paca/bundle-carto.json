@@ -36,7 +36,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -73,7 +77,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -111,7 +119,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.10",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -150,7 +162,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.11",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -189,7 +205,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.12",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -228,7 +248,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.13",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -253,7 +277,7 @@
                     "oru/setting": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2016-01-26T10:58:06+00:00",
+                "time": "2016-01-26T10:58:29+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -265,7 +289,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -290,7 +318,7 @@
                     "oru/setting": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2016-01-29T15:46:06+00:00",
+                "time": "2016-01-29T15:47:01+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -302,7 +330,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -340,7 +372,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -378,7 +414,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -416,7 +456,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.6",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -454,7 +498,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.7",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -492,7 +540,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.8",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -530,7 +582,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.9",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -569,7 +625,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -608,7 +668,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -647,7 +711,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.1.2",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -687,7 +755,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.1.3",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -727,7 +799,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.1.4",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -767,7 +843,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.1.5",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -807,7 +887,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.1.6",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -847,7 +931,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -887,7 +975,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -927,7 +1019,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.10",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -967,7 +1063,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.11",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1007,7 +1107,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.12",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1047,7 +1151,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.13",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1075,7 +1183,7 @@
                     "oru/web-client": ">=1.1.7",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2017-01-27T15:27:04+00:00",
+                "time": "2017-01-27T15:27:48+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1087,7 +1195,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1127,7 +1239,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.3",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1167,7 +1283,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.4",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1207,7 +1327,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.5",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1235,7 +1359,7 @@
                     "oru/web-client": ">=1.1.7",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2017-04-05T08:40:57+00:00",
+                "time": "2017-04-05T08:41:44+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1247,7 +1371,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.6",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1287,7 +1415,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.7",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1327,7 +1459,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.8",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1367,7 +1503,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.2.9",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1407,7 +1547,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.3.0",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1435,7 +1579,7 @@
                     "oru/web-client": ">=1.1.7",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-01-31T14:42:32+00:00",
+                "time": "2018-01-31T14:43:22+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1447,7 +1591,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.3.1",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1487,7 +1635,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.3.2",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1515,7 +1667,7 @@
                     "oru/web-client": ">=1.1.7",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-09-10T11:14:00+00:00",
+                "time": "2018-09-10T11:29:45+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1527,7 +1679,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.3.3",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1567,7 +1723,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.3.4",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1607,7 +1767,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.4.0",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1636,7 +1800,7 @@
                     "oru/web-client": ">=1.1.7",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-10-01T08:24:21+00:00",
+                "time": "2018-10-01T08:45:06+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1648,7 +1812,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.4.1",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1689,7 +1857,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.4.2",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1729,7 +1901,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.4.3",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1757,7 +1933,7 @@
                     "oru/web-client": ">=1.1.7",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-11-20T07:52:26+00:00",
+                "time": "2018-11-20T07:53:22+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1769,7 +1945,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.4.4",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1797,7 +1977,7 @@
                     "oru/web-client": ">=1.1.7",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2019-01-02T13:09:03+00:00",
+                "time": "2019-01-02T13:12:19+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1809,7 +1989,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.4.5",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1849,7 +2033,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.4.6",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1889,7 +2077,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.4.7",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1918,7 +2110,7 @@
                     "oru/web-client": ">=1.1.7",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-10-01T08:24:21+00:00",
+                "time": "2018-12-04T08:01:43+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -1930,7 +2122,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.5.0",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -1971,7 +2167,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.5.1",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2012,7 +2212,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.6.0",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2041,7 +2245,7 @@
                     "oru/web-client": ">=1.1.7",
                     "symfony/framework-bundle": "^2.8 || ^3.0"
                 },
-                "time": "2019-02-26T08:21:17+00:00",
+                "time": "2019-02-26T08:23:13+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -2053,7 +2257,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.6.1",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2094,7 +2302,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.6.2",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2135,7 +2347,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.6.3",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2176,7 +2392,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.6.4",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2217,7 +2437,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.6.5",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2258,7 +2482,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.6.6",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2299,7 +2527,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.6.7",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2340,7 +2572,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.6.8",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2381,7 +2617,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.0",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2422,7 +2662,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.1",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2463,7 +2707,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.2",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2504,7 +2752,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.3",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2545,7 +2797,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.4",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2586,7 +2842,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.5",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2627,7 +2887,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.6",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2668,7 +2932,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.7",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2709,7 +2977,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.8.0",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2750,7 +3022,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.8.1",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2791,7 +3067,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.8.2",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2833,7 +3113,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/2.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2875,7 +3159,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/2.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2917,7 +3205,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/2.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -2959,7 +3251,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/2.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -3001,7 +3297,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/2.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -3031,7 +3331,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-10-12T16:21:26+00:00",
+                "time": "2023-10-13T07:44:52+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -3043,7 +3343,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/2.0.5",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -3085,7 +3389,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/2.0.6",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -3127,7 +3435,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/2.0.7",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -3157,7 +3469,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-09-19T13:41:34+00:00",
+                "time": "2023-12-21T11:21:50+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -3169,7 +3481,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/2.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -3211,7 +3527,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/3.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             }
         ]
     }
