@@ -19,8 +19,11 @@ git clone https://github.com/grades-paca/satis.git
 1. Côté bundle
 - Sur le repository du composant, merger la branche contenant les développements vers une 2.x, 3.x...
     - En ligne de commande :
-        - Créer un tag (git tag -a 2.0.1, 3.4.5...)
-        - ?
+        - Créer un tag
+        ```
+        git tag -a 2.0.1 [hash du commit]
+        ```
+        - push
     - Sur github:
         - Cliquer "xx tags" pour voir tous les tags
         - Cliquer "Release" pour voir les releases
