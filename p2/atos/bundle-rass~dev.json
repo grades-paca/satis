@@ -593,12 +593,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-rass.git",
-                    "reference": "d8ec4053eb82233814a12f2894b48dccd48c32b2"
+                    "reference": "211f4dcacc7663462dbb10837a20cfbcd7ba1bca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/d8ec4053eb82233814a12f2894b48dccd48c32b2",
-                    "reference": "d8ec4053eb82233814a12f2894b48dccd48c32b2",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/211f4dcacc7663462dbb10837a20cfbcd7ba1bca",
+                    "reference": "211f4dcacc7663462dbb10837a20cfbcd7ba1bca",
                     "shasum": ""
                 },
                 "require": {
@@ -607,7 +607,7 @@
                     "php": ">=7.0",
                     "symfony/framework-bundle": "^4.0 || ^5.0"
                 },
-                "time": "2024-04-18T17:27:42+00:00",
+                "time": "2024-06-18T09:11:51+00:00",
                 "type": "symfony-bundle",
                 "autoload": {
                     "psr-4": {
@@ -621,46 +621,7 @@
                 ],
                 "description": "Symfony ATOSRassBundle",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/7.0.3",
-                    "issues": "https://github.com/grades-paca/bundle-rass/issues"
-                }
-            },
-            {
-                "name": "atos/bundle-rass",
-                "version": "dev-254876-fix-set-parameter-SF5",
-                "version_normalized": "dev-254876-fix-set-parameter-SF5",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-rass.git",
-                    "reference": "f8dd2985cd856e5bea24544f3dfc3e8d24db8083"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/f8dd2985cd856e5bea24544f3dfc3e8d24db8083",
-                    "reference": "f8dd2985cd856e5bea24544f3dfc3e8d24db8083",
-                    "shasum": ""
-                },
-                "require": {
-                    "grades-paca/bundle-setting": "*",
-                    "halaxa/json-machine": "0.6.*",
-                    "php": ">=7.0",
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
-                },
-                "time": "2023-11-22T14:21:06+00:00",
-                "type": "symfony-bundle",
-                "autoload": {
-                    "psr-4": {
-                        "ATOS\\RassBundle\\": ""
-                    }
-                },
-                "authors": [
-                    {
-                        "name": "ATOS"
-                    }
-                ],
-                "description": "Symfony ATOSRassBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/7.0.1",
+                    "source": "https://github.com/grades-paca/bundle-rass/tree/7.1.0",
                     "issues": "https://github.com/grades-paca/bundle-rass/issues"
                 }
             },
@@ -856,45 +817,6 @@
                 "description": "Symfony ATOSRassBundle",
                 "support": {
                     "source": "https://github.com/grades-paca/bundle-rass/tree/304918-RASS-email-en-minuscule",
-                    "issues": "https://github.com/grades-paca/bundle-rass/issues"
-                }
-            },
-            {
-                "name": "atos/bundle-rass",
-                "version": "dev-305373-RASS-ajout-specialites",
-                "version_normalized": "dev-305373-RASS-ajout-specialites",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-rass.git",
-                    "reference": "16ac8b677d3b00a18739c8b7bb98ab4b4bbace0a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-rass/zipball/16ac8b677d3b00a18739c8b7bb98ab4b4bbace0a",
-                    "reference": "16ac8b677d3b00a18739c8b7bb98ab4b4bbace0a",
-                    "shasum": ""
-                },
-                "require": {
-                    "grades-paca/bundle-setting": "*",
-                    "halaxa/json-machine": "0.6.*",
-                    "php": ">=7.0",
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
-                },
-                "time": "2024-06-03T12:07:33+00:00",
-                "type": "symfony-bundle",
-                "autoload": {
-                    "psr-4": {
-                        "ATOS\\RassBundle\\": ""
-                    }
-                },
-                "authors": [
-                    {
-                        "name": "ATOS"
-                    }
-                ],
-                "description": "Symfony ATOSRassBundle",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-rass/tree/305373-RASS-ajout-specialites",
                     "issues": "https://github.com/grades-paca/bundle-rass/issues"
                 }
             },
