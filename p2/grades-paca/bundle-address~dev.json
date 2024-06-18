@@ -1114,7 +1114,7 @@
                 },
                 "description": "Bundle de gestion d'adresses",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-address/tree/266455-rendre-typeVoie-et-voie-non-obligatoire",
+                    "source": "https://github.com/grades-paca/bundle-address/tree/2.1.3",
                     "issues": "https://github.com/grades-paca/bundle-address/issues"
                 }
             },
@@ -1362,7 +1362,7 @@
                 },
                 "description": "Bundle de gestion d'adresses",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-address/tree/2.1.3",
+                    "source": "https://github.com/grades-paca/bundle-address/tree/master",
                     "issues": "https://github.com/grades-paca/bundle-address/issues"
                 }
             },
