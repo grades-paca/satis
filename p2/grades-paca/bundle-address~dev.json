@@ -376,12 +376,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-address.git",
-                    "reference": "e05f31b84fb004722c12a5e7499761bc920339df"
+                    "reference": "a9df8f6fa2c518b84199d376fd0b2a1dff676591"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/e05f31b84fb004722c12a5e7499761bc920339df",
-                    "reference": "e05f31b84fb004722c12a5e7499761bc920339df",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/a9df8f6fa2c518b84199d376fd0b2a1dff676591",
+                    "reference": "a9df8f6fa2c518b84199d376fd0b2a1dff676591",
                     "shasum": ""
                 },
                 "require": {
@@ -392,7 +392,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2024-03-05T14:49:55+00:00",
+                "time": "2024-06-18T14:43:17+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -406,7 +406,7 @@
                 },
                 "description": "Bundle de gestion d'adresses",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-address/tree/2.1.1",
+                    "source": "https://github.com/grades-paca/bundle-address/tree/2.1.3",
                     "issues": "https://github.com/grades-paca/bundle-address/issues"
                 }
             },
@@ -1114,7 +1114,7 @@
                 },
                 "description": "Bundle de gestion d'adresses",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-address/tree/2.1.3",
+                    "source": "https://github.com/grades-paca/bundle-address/tree/266455-rendre-typeVoie-et-voie-non-obligatoire",
                     "issues": "https://github.com/grades-paca/bundle-address/issues"
                 }
             },
