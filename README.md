@@ -38,9 +38,152 @@ git clone https://github.com/grades-paca/satis.git
 ```
 sh deploy.sh
 ```
-- La commande est un peu longue, attendre sa bonne exécution
-- Satis lance une action github https://github.com/grades-paca/satis/actions
-- Le nouveau tag sera disponible sur la liste des paquets disponibles https://grades-paca.github.io/satis/
+- La commande est très longue, attendre sa bonne exécution qui est de la forme : (oui, l'erreur dans le bundle-install est "normale")
+```
+Clonage dans 'public'...
+remote: Enumerating objects: 15199, done.
+remote: Counting objects: 100% (750/750), done.
+remote: Compressing objects: 100% (236/236), done.
+remote: Total 15199 (delta 538), reused 721 (delta 514), pack-reused 14449
+Réception d'objets: 100% (15199/15199), 758.91 Mio | 2.36 Mio/s, fait.
+Résolution des deltas: 100% (7866/7866), fait.
+Mise à jour des fichiers: 100% (584/584), fait.
+la branche 'gh-pages' est paramétrée pour suivre 'origin/gh-pages'.
+Basculement sur la nouvelle branche 'gh-pages'
+Installing dependencies from lock file (including require-dev)
+Verifying lock file contents can be installed on current platform.
+Nothing to install, update or remove
+Generating autoload files
+25 packages you are using are looking for funding.
+Use the `composer fund` command to find out more!
+> sh build.sh
+No explicit requires defined, enabling require-all
+Scanning packages
+
+Skipped branch 2.x, "d9674dc0380ee183814041023774d7e4c1f374f9:composer.json" does not contain valid JSON
+Parse error on line 15:
+.../bundle-install": ""^2.0",        "comp
+----------------------^
+Expected one of: 'EOF', '}', ':', ',', ']'
+
+Wrote packages to public/include/all$79ac2360e051464644e4f575f4e1fff579e99eab.json
+Wrote packages to public/p2/atos/bundle-rass.json
+Wrote packages to public/p2/atos/bundle-rass~dev.json
+Wrote packages to public/p2/atos/ws-mev3.json
+Wrote packages to public/p2/atos/ws-mev3~dev.json
+Wrote packages to public/p2/atos/ws-synchro-lits.json
+Wrote packages to public/p2/atos/ws-synchro-lits~dev.json
+Wrote packages to public/p2/atos/ws-synchro-offre.json
+Wrote packages to public/p2/atos/ws-synchro-offre~dev.json
+Wrote packages to public/p2/egeloen/ordered-form.json
+Wrote packages to public/p2/egeloen/ordered-form~dev.json
+Wrote packages to public/p2/egeloen/ordered-form-bundle.json
+Wrote packages to public/p2/egeloen/ordered-form-bundle~dev.json
+Wrote packages to public/p2/grades-paca/bundle-address.json
+Wrote packages to public/p2/grades-paca/bundle-address~dev.json
+Wrote packages to public/p2/grades-paca/bundle-alert.json
+Wrote packages to public/p2/grades-paca/bundle-alert~dev.json
+Wrote packages to public/p2/grades-paca/bundle-app.json
+Wrote packages to public/p2/grades-paca/bundle-app~dev.json
+Wrote packages to public/p2/grades-paca/bundle-attachment.json
+Wrote packages to public/p2/grades-paca/bundle-attachment~dev.json
+Wrote packages to public/p2/grades-paca/bundle-bigbluebutton.json
+Wrote packages to public/p2/grades-paca/bundle-bigbluebutton~dev.json
+Wrote packages to public/p2/grades-paca/bundle-box.json
+Wrote packages to public/p2/grades-paca/bundle-box~dev.json
+Wrote packages to public/p2/grades-paca/bundle-carto.json
+Wrote packages to public/p2/grades-paca/bundle-carto~dev.json
+Wrote packages to public/p2/grades-paca/bundle-crud.json
+Wrote packages to public/p2/grades-paca/bundle-crud~dev.json
+Wrote packages to public/p2/grades-paca/bundle-denied-field.json
+Wrote packages to public/p2/grades-paca/bundle-denied-field~dev.json
+Wrote packages to public/p2/grades-paca/bundle-design.json
+Wrote packages to public/p2/grades-paca/bundle-design~dev.json
+Wrote packages to public/p2/grades-paca/bundle-error-logger.json
+Wrote packages to public/p2/grades-paca/bundle-error-logger~dev.json
+Wrote packages to public/p2/grades-paca/bundle-esms.json
+Wrote packages to public/p2/grades-paca/bundle-esms~dev.json
+Wrote packages to public/p2/grades-paca/bundle-form.json
+Wrote packages to public/p2/grades-paca/bundle-form~dev.json
+Wrote packages to public/p2/grades-paca/bundle-form-incremental.json
+Wrote packages to public/p2/grades-paca/bundle-form-incremental~dev.json
+Wrote packages to public/p2/grades-paca/bundle-install.json
+Wrote packages to public/p2/grades-paca/bundle-install~dev.json
+Wrote packages to public/p2/grades-paca/bundle-jaspersoft.json
+Wrote packages to public/p2/grades-paca/bundle-jaspersoft~dev.json
+Wrote packages to public/p2/grades-paca/bundle-jquery-mask.json
+Wrote packages to public/p2/grades-paca/bundle-jquery-mask~dev.json
+Wrote packages to public/p2/grades-paca/bundle-key-store.json
+Wrote packages to public/p2/grades-paca/bundle-key-store~dev.json
+Wrote packages to public/p2/grades-paca/bundle-listing.json
+Wrote packages to public/p2/grades-paca/bundle-listing~dev.json
+Wrote packages to public/p2/grades-paca/bundle-log.json
+Wrote packages to public/p2/grades-paca/bundle-log~dev.json
+Wrote packages to public/p2/grades-paca/bundle-lst.json
+Wrote packages to public/p2/grades-paca/bundle-lst~dev.json
+Wrote packages to public/p2/grades-paca/bundle-mail.json
+Wrote packages to public/p2/grades-paca/bundle-mail~dev.json
+Wrote packages to public/p2/grades-paca/bundle-otp.json
+Wrote packages to public/p2/grades-paca/bundle-otp~dev.json
+Wrote packages to public/p2/grades-paca/bundle-paginator.json
+Wrote packages to public/p2/grades-paca/bundle-paginator~dev.json
+Wrote packages to public/p2/grades-paca/bundle-patient.json
+Wrote packages to public/p2/grades-paca/bundle-patient~dev.json
+Wrote packages to public/p2/grades-paca/bundle-plan-bleu.json
+Wrote packages to public/p2/grades-paca/bundle-plan-bleu~dev.json
+Wrote packages to public/p2/grades-paca/bundle-privacy-banner.json
+Wrote packages to public/p2/grades-paca/bundle-privacy-banner~dev.json
+Wrote packages to public/p2/grades-paca/bundle-project-humhub.json
+Wrote packages to public/p2/grades-paca/bundle-project-humhub~dev.json
+Wrote packages to public/p2/grades-paca/bundle-rest-soap.json
+Wrote packages to public/p2/grades-paca/bundle-rest-soap~dev.json
+Wrote packages to public/p2/grades-paca/bundle-schedule.json
+Wrote packages to public/p2/grades-paca/bundle-schedule~dev.json
+Wrote packages to public/p2/grades-paca/bundle-setting.json
+Wrote packages to public/p2/grades-paca/bundle-setting~dev.json
+Wrote packages to public/p2/grades-paca/bundle-sms.json
+Wrote packages to public/p2/grades-paca/bundle-sms~dev.json
+Wrote packages to public/p2/grades-paca/bundle-stats.json
+Wrote packages to public/p2/grades-paca/bundle-stats~dev.json
+Wrote packages to public/p2/grades-paca/bundle-tag.json
+Wrote packages to public/p2/grades-paca/bundle-tag~dev.json
+Wrote packages to public/p2/grades-paca/bundle-task.json
+Wrote packages to public/p2/grades-paca/bundle-task~dev.json
+Wrote packages to public/p2/grades-paca/bundle-test.json
+Wrote packages to public/p2/grades-paca/bundle-test~dev.json
+Wrote packages to public/p2/grades-paca/bundle-translation.json
+Wrote packages to public/p2/grades-paca/bundle-translation~dev.json
+Wrote packages to public/p2/grades-paca/bundle-version.json
+Wrote packages to public/p2/grades-paca/bundle-version~dev.json
+Wrote packages to public/p2/grades-paca/bundle-web-client.json
+Wrote packages to public/p2/grades-paca/bundle-web-client~dev.json
+Wrote packages to public/p2/grades-paca/ror.json
+Wrote packages to public/p2/grades-paca/ror~dev.json
+Writing packages.json
+Pruning include directories
+Deleted public/include/all$6d4f33d1608a4f123f83059b7c473a7d1e52405d.json
+Writing web view
+[gh-pages 2ede4ee] Deploy Satis
+ 6 files changed, 2017 insertions(+), 377 deletions(-)
+ rename include/{all$6d4f33d1608a4f123f83059b7c473a7d1e52405d.json => all$79ac2360e051464644e4f575f4e1fff579e99eab.json} (99%)
+Énumération des objets: 20, fait.
+Décompte des objets: 100% (20/20), fait.
+Compression par delta en utilisant jusqu'à 8 fils d'exécution
+Compression des objets: 100% (11/11), fait.
+Écriture des objets: 100% (11/11), 241.73 Kio | 1.52 Mio/s, fait.
+Total 11 (delta 8), réutilisés 0 (delta 0), réutilisés du paquet 0 (depuis 0)
+remote: Resolving deltas: 100% (8/8), completed with 7 local objects.
+remote: 
+remote: GitHub found 6 vulnerabilities on grades-paca/satis's default branch (6 high). To find out more, visit:
+remote:      https://github.com/grades-paca/satis/security/dependabot
+remote: 
+To https://github.com/grades-paca/satis.git
+   5a6f11e..2ede4ee  gh-pages -> gh-pages
+Déjà sur 'master'
+Votre branche est à jour avec 'origin/master'.
+```
+- Satis lance une action github https://github.com/grades-paca/satis/actions, un peu longue aussi
+- Le nouveau tag sera disponible sur la liste des paquets disponibles: https://grades-paca.github.io/satis/
 3. Côté ROR
 - Se mettre sur la branche adequate
 - Dans le composer.json du ROR, mettre à jour le numéro de version
