@@ -376,12 +376,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-address.git",
-                    "reference": "a9df8f6fa2c518b84199d376fd0b2a1dff676591"
+                    "reference": "976bdeb8c03db9e35527ad89e34c75d40cdb2409"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/a9df8f6fa2c518b84199d376fd0b2a1dff676591",
-                    "reference": "a9df8f6fa2c518b84199d376fd0b2a1dff676591",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/976bdeb8c03db9e35527ad89e34c75d40cdb2409",
+                    "reference": "976bdeb8c03db9e35527ad89e34c75d40cdb2409",
                     "shasum": ""
                 },
                 "require": {
@@ -392,7 +392,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2024-06-18T14:43:17+00:00",
+                "time": "2024-07-04T14:43:18+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -406,7 +406,7 @@
                 },
                 "description": "Bundle de gestion d'adresses",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-address/tree/2.1.3",
+                    "source": "https://github.com/grades-paca/bundle-address/tree/2.2.0",
                     "issues": "https://github.com/grades-paca/bundle-address/issues"
                 }
             },
@@ -1115,6 +1115,48 @@
                 "description": "Bundle de gestion d'adresses",
                 "support": {
                     "source": "https://github.com/grades-paca/bundle-address/tree/266455-rendre-typeVoie-et-voie-non-obligatoire",
+                    "issues": "https://github.com/grades-paca/bundle-address/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-address",
+                "version": "dev-315096-histo-etab",
+                "version_normalized": "dev-315096-histo-etab",
+                "target-dir": "Oru/Bundle/AddressBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-address.git",
+                    "reference": "a2a38624334a93c1d15aa4ab580fa24f1a55b001"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-address/zipball/a2a38624334a93c1d15aa4ab580fa24f1a55b001",
+                    "reference": "a2a38624334a93c1d15aa4ab580fa24f1a55b001",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-lst": "^2.0",
+                    "grades-paca/bundle-translation": "^2.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2024-07-02T13:28:30+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0.x-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AddressBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion d'adresses",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-address/tree/315096-histo-etab",
                     "issues": "https://github.com/grades-paca/bundle-address/issues"
                 }
             },
