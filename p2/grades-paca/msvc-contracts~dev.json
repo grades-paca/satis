@@ -1,0 +1,30 @@
+{
+    "packages": {
+        "grades-paca/msvc-contracts": [
+            {
+                "name": "grades-paca/msvc-contracts",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/msvc-contracts.git",
+                    "reference": "b3db77c1d4c15186a1d365d0a5f0dc5dcf6fb0e7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-contracts/zipball/b3db77c1d4c15186a1d365d0a5f0dc5dcf6fb0e7",
+                    "reference": "b3db77c1d4c15186a1d365d0a5f0dc5dcf6fb0e7",
+                    "shasum": ""
+                },
+                "time": "2024-07-16T13:05:08+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Contracts\\": "src/"
+                    }
+                }
+            }
+        ]
+    }
+}
