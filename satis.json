@@ -47,6 +47,7 @@
     { "name" : "grades-paca/ivory-ordered-form", "type": "vcs", "url": "https://github.com/grades-paca/ivory-ordered-form.git" },
     { "name" : "grades-paca/bundle-wslits", "type": "vcs", "url": "https://github.com/grades-paca/bundle-wslits.git" },
     { "name" : "grades-paca/bundle-wsoffre", "type": "vcs", "url": "https://github.com/grades-paca/bundle-wsoffre.git" },
-    { "name" : "grades-paca/bundle-wsv3", "type": "vcs", "url": "https://github.com/grades-paca/bundle-wsv3.git" }
+    { "name" : "grades-paca/bundle-wsv3", "type": "vcs", "url": "https://github.com/grades-paca/bundle-wsv3.git" },
+    { "name" : "grades-paca/msvc-contracts", "type": "vcs", "url": "https://github.com/grades-paca/msvc-contracts.git" }
   ]
 }
