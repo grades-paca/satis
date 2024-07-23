@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$bb3e6b672b77ffb1d99edfda7247c6185b206f2a.json": {
-            "sha1": "bb3e6b672b77ffb1d99edfda7247c6185b206f2a"
+        "include/all$d63ec12885e88a7dde1f92f15f5fb8bd6d8f8cfc.json": {
+            "sha1": "d63ec12885e88a7dde1f92f15f5fb8bd6d8f8cfc"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -53,6 +53,8 @@
         "grades-paca/bundle-version",
         "grades-paca/bundle-web-client",
         "grades-paca/msvc-contracts",
-        "grades-paca/ror"
+        "grades-paca/msvc-messages",
+        "grades-paca/ror",
+        "symfony/skeleton"
     ]
 }

@@ -1,0 +1,114 @@
+{
+    "packages": {
+        "symfony/skeleton": [
+            {
+                "name": "symfony/skeleton",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/msvc-base.git",
+                    "reference": "9cd95ffb740ed74d498623effecca169c9710cd4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/9cd95ffb740ed74d498623effecca169c9710cd4",
+                    "reference": "9cd95ffb740ed74d498623effecca169c9710cd4",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-ctype": "*",
+                    "ext-iconv": "*",
+                    "ext-redis": "*",
+                    "jumbojett/openid-connect-php": "^1.0",
+                    "php": ">=8.3.7",
+                    "runtime/frankenphp-symfony": "^0.2.0",
+                    "symfony/asset": "6.4.*",
+                    "symfony/asset-mapper": "6.4.*",
+                    "symfony/console": "6.4.*",
+                    "symfony/dotenv": "6.4.*",
+                    "symfony/flex": "^2",
+                    "symfony/framework-bundle": "6.4.*",
+                    "symfony/runtime": "6.4.*",
+                    "symfony/security-bundle": "6.4.*",
+                    "symfony/twig-bundle": "6.4.*",
+                    "symfony/yaml": "6.4.*",
+                    "symfonycasts/sass-bundle": "^0.7.0",
+                    "twbs/bootstrap": "4.*",
+                    "twig/extra-bundle": "^2.12|^3.0",
+                    "twig/twig": "^2.12|^3.0"
+                },
+                "conflict": {
+                    "symfony/symfony": "*"
+                },
+                "replace": {
+                    "symfony/polyfill-ctype": "*",
+                    "symfony/polyfill-iconv": "*",
+                    "symfony/polyfill-php72": "*",
+                    "symfony/polyfill-php73": "*",
+                    "symfony/polyfill-php74": "*",
+                    "symfony/polyfill-php80": "*",
+                    "symfony/polyfill-php81": "*"
+                },
+                "require-dev": {
+                    "enlightn/security-checker": "^1.11",
+                    "friendsofphp/php-cs-fixer": "^3.57",
+                    "friendsoftwig/twigcs": "^6.4",
+                    "nikic/php-parser": "^5.0",
+                    "phpro/grumphp": "^2.5",
+                    "phpstan/phpstan": "^1.11",
+                    "phpunit/phpunit": "^9.5",
+                    "symfony/browser-kit": "6.4.*",
+                    "symfony/css-selector": "6.4.*",
+                    "symfony/phpunit-bridge": "^7.1",
+                    "symfony/stopwatch": "6.4.*",
+                    "symfony/web-profiler-bundle": "6.4.*"
+                },
+                "time": "2024-06-07T14:17:34+00:00",
+                "default-branch": true,
+                "type": "project",
+                "extra": {
+                    "symfony": {
+                        "allow-contrib": false,
+                        "require": "6.4.*",
+                        "docker": true
+                    }
+                },
+                "autoload": {
+                    "psr-4": {
+                        "App\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "App\\Tests\\": "tests/"
+                    }
+                },
+                "scripts": {
+                    "auto-scripts": {
+                        "cache:clear": "symfony-cmd",
+                        "sass:build": "symfony-cmd",
+                        "assets:install %PUBLIC_DIR%": "symfony-cmd",
+                        "importmap:install": "symfony-cmd"
+                    },
+                    "prod-scripts": {
+                        "asset-map:compile": "symfony-cmd"
+                    },
+                    "prod-install-cmd": [
+                        "@prod-scripts"
+                    ],
+                    "post-install-cmd": [
+                        "@auto-scripts"
+                    ],
+                    "post-update-cmd": [
+                        "@auto-scripts"
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "A minimal Symfony project recommended to create bare bones applications"
+            }
+        ]
+    }
+}

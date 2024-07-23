@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "grades-paca/msvc-messages": [
+            {
+                "name": "grades-paca/msvc-messages",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/msvc-messages.git",
+                    "reference": "29ed12c2e169d79fcf265adf2a657dd016173c67"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/29ed12c2e169d79fcf265adf2a657dd016173c67",
+                    "reference": "29ed12c2e169d79fcf265adf2a657dd016173c67",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/msvc-contracts": "dev-main",
+                    "justinrainbow/json-schema": "^5.2",
+                    "php": ">=7.4",
+                    "ramsey/uuid": "^4.7",
+                    "wol-soft/php-json-schema-model-generator": "^0.24.0"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "^3.59"
+                },
+                "time": "2024-07-23T12:02:29+00:00",
+                "default-branch": true,
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Shared\\Messages\\": "src/"
+                    }
+                },
+                "description": "Message classes for microservices"
+            }
+        ]
+    }
+}
