@@ -20,20 +20,20 @@ git switch master
 
 ### Fonctionnement
 1. Côté bundle
-- Sur le repository du composant, merger la branche contenant les développements vers une 2.x, 3.x...
-    - En ligne de commande :
-        - Créer un tag
+- Sur le repository du composant, merger la branche contenant les développements vers la version désirée (1.x, 2.x, 3.x...)
+- Créer le tag
+    - Soit en ligne de commande:
         ```
         git tag -a 2.0.1 [hash du commit]
         ```
         - push
-    - Sur github:
-        - Cliquer "xx tags" pour voir tous les tags
+    - Soit sur github:
+        - Cliquer l'étiquette "[nombre] tags" pour voir tous les tags
         - Cliquer "Release" pour voir les releases
         - Cliquer "Draft a new release"
         - Choose a tag -> saisir le tag désiré puis cliquer "+ Create new tag xxx on publish"
         - Cliquer "Generate release notes" pour obtenir les notes automatiquement à partir des commentaires
-        - Donner un titre (le tag?)
+        - Donner le numéro de tag comme titre
         - Cliquer "Publish release"
 2. Côté Satis
 - IMPORTANT : En local dans le répertoire satis, vérifier que la branche "gh-pages" est à jour, car elle est mise à jour à chaque déploiement
@@ -191,23 +191,16 @@ Votre branche est à jour avec 'origin/master'.
 - Le nouveau tag sera disponible sur la liste des paquets disponibles: https://grades-paca.github.io/satis/
 3. Côté ROR
 - Se mettre sur la branche adequate
-- Dans le composer.json du ROR, mettre à jour le numéro de version
-- Dans votre environnement de développement
-    - Docker
-        - Se connecter sur le container PHP
-        ```
-        docker exec -it ror_php /bin/bash
-        ```
-        - Exécuter la commande (Attention à ne pas faire un composer update de tous les paquets!)
-        ```
-        composer update grades-paca/bundle-{nomBundle}
-        ```
-    - Local
-        - Exécuter la commande (Attention à ne pas faire un composer update de tous les paquets!)
-        ```
-        composer update grades-paca/bundle-{nomBundle}
-        ```
-- Envoyer la mise à jour du composer.json et du composer.lock dans le repository du ROR
+- Dans le composer.json du ROR, vérifier s'il faut mettre à jour le numéro de version, selon votre version
+- Si vous utilisez Docker, se connecter sur le container PHP
+```
+docker exec -it ror_php /bin/bash
+```
+- Exécuter la commande (**Attention à ne pas faire un composer update de tous les paquets!**)
+```
+composer update grades-paca/bundle-{nomBundle}
+```
+- Envoyer la mise à jour du composer.lock (et du composer.json s'il y a lieu) dans le repository du ROR
 
 ## Readme Xipasduarte/satis
 ### How does it work?
