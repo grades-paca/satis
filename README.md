@@ -8,12 +8,15 @@ Ce dépôt est un fork inspiré du dépôt https://github.com/xipasduarte/satis
 **Pré-requis**
 - Aucun, Satis tourne sur une machine locale
 
-### Instructions
+### Instructions d'installation
 - Cloner le repository
 ```
 git clone https://github.com/grades-paca/satis.git
 ```
-- Vérifier que vous êtes bien sur la branche "master", sinon, la récupérer
+- Vérifier que vous êtes bien sur la branche "master", sinon exécuter
+```
+git switch master
+```
 
 ### Fonctionnement
 1. Côté bundle
@@ -33,11 +36,13 @@ git clone https://github.com/grades-paca/satis.git
         - Donner un titre (le tag?)
         - Cliquer "Publish release"
 2. Côté Satis
-- En local dans le répertoire satis, vérifier que vous êtes bien sur la branche "master", sinon, la récupérer
+- IMPORTANT : En local dans le répertoire satis, vérifier que la branche "gh-pages" est à jour, car elle est mise à jour à chaque déploiement
+- Vérifier que vous êtes bien sur la branche "master"
 - Exécuter
 ```
 sh deploy.sh
 ```
+- Si votre retour est "sh: deploy.sh: No such file or directory", c'est probablement que vous êtes sur la branche "gh-pages" et pas sur la branche master
 - La commande est très longue, attendre sa bonne exécution qui est de la forme : (oui, l'erreur dans le bundle-install est "normale")
 ```
 Clonage dans 'public'...
