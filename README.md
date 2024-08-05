@@ -20,10 +20,21 @@ git switch master
 
 ### Fonctionnement
 1. Côté bundle
+
+    1.1. Choix du numéro de version
+
+    Exemple : Le dernier tag existant est 2.0.1
+    - Pour un fix, on incrémente le 3ème chiffre : 2.0.2
+    - Pour un nouveau développement, on incrémente le deuxième chiffre : 2.1.0
+    - Pour une refonte totale, on incrémente le premier chiffre : 3.0.0
+    
+    Ainsi, même après le développement 2.2.0, il est toujours possible de patcher notre version 2.0.1 avec une 2.0.2, ou notre version 2.1.0 avec une 2.1.1
+
+    1.2. Création du tag
 - Sur le repository du composant, créer le tag en pointant sur votre branche de développement
     - Soit en ligne de commande:
         ```
-        git tag -a 2.0.1 [hash du commit]
+        git tag -a 2.1.0 [hash du commit]
         ```
         - push
     - Soit sur github:
