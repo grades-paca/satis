@@ -20,8 +20,7 @@ git switch master
 
 ### Fonctionnement
 1. Côté bundle
-- Sur le repository du composant, merger la branche contenant les développements vers la version désirée (1.x, 2.x, 3.x...)
-- Créer le tag
+- Sur le repository du composant, créer le tag en pointant sur votre branche de développement
     - Soit en ligne de commande:
         ```
         git tag -a 2.0.1 [hash du commit]
