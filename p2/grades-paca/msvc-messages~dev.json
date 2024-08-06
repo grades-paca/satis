@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/msvc-messages.git",
-                    "reference": "a4886d61477a4ec9fad8e814290904390fd1bfcf"
+                    "reference": "5e7c06d5492ce508b9c3e95539c0797fa9985a27"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/a4886d61477a4ec9fad8e814290904390fd1bfcf",
-                    "reference": "a4886d61477a4ec9fad8e814290904390fd1bfcf",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/5e7c06d5492ce508b9c3e95539c0797fa9985a27",
+                    "reference": "5e7c06d5492ce508b9c3e95539c0797fa9985a27",
                     "shasum": ""
                 },
                 "require": {
@@ -21,6 +21,7 @@
                     "justinrainbow/json-schema": "^5.2",
                     "php": ">=7.4",
                     "ramsey/uuid": "^4.7",
+                    "symfony/serializer": "^6.4",
                     "wol-soft/php-json-schema-model-generator": "^0.24.0"
                 },
                 "require-dev": {
