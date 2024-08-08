@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/msvc-messages.git",
-                    "reference": "e20b4bce2db3647851917ec68173028a96585b31"
+                    "reference": "014743b3d844830a45bd47192dc8f6334cfe113d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/e20b4bce2db3647851917ec68173028a96585b31",
-                    "reference": "e20b4bce2db3647851917ec68173028a96585b31",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/014743b3d844830a45bd47192dc8f6334cfe113d",
+                    "reference": "014743b3d844830a45bd47192dc8f6334cfe113d",
                     "shasum": ""
                 },
                 "require": {
