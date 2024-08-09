@@ -51,6 +51,5 @@
     { "name" : "grades-paca/msvc-contracts", "type": "vcs", "url": "https://github.com/grades-paca/msvc-contracts.git" },
     { "name" : "grades-paca/msvc-messages", "type": "vcs", "url": "https://github.com/grades-paca/msvc-messages.git" },
     { "name" : "grades-paca/msvc-base", "type": "vcs", "url": "https://github.com/grades-paca/msvc-base.git" },
-    { "name" : "grades-paca/msvc-auth-openid", "type": "vcs", "url": "https://github.com/grades-paca/msvc-auth-openid.git" }
   ]
 }
