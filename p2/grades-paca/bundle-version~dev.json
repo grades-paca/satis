@@ -225,12 +225,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-version.git",
-                    "reference": "81a1ed501de57a5659c7765fb2c1e325e37f372b"
+                    "reference": "a83bbf85c23f112f8384665389dfb60fbd27a576"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/81a1ed501de57a5659c7765fb2c1e325e37f372b",
-                    "reference": "81a1ed501de57a5659c7765fb2c1e325e37f372b",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/a83bbf85c23f112f8384665389dfb60fbd27a576",
+                    "reference": "a83bbf85c23f112f8384665389dfb60fbd27a576",
                     "shasum": ""
                 },
                 "require": {
@@ -242,7 +242,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-11-21T15:19:50+00:00",
+                "time": "2024-08-09T10:57:12+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -321,6 +321,45 @@
                     "symfony/framework-bundle": "^5.0"
                 },
                 "time": "2024-03-18T14:42:29+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif"
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "dev-315632-Changelog-missing-tickets",
+                "version_normalized": "dev-315632-Changelog-missing-tickets",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "06a1ec208fc98d8d9b95d979ed5dd87550ddfd01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/06a1ec208fc98d8d9b95d979ed5dd87550ddfd01",
+                    "reference": "06a1ec208fc98d8d9b95d979ed5dd87550ddfd01",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-app": "^2.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "kbsali/redmine-api": "^2.2",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2024-08-09T10:18:56+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
