@@ -31,20 +31,22 @@ git switch master
     Ainsi, même après le développement 2.2.0, il est toujours possible de patcher notre version 2.0.1 avec une 2.0.2, ou notre version 2.1.0 avec une 2.1.1
 
     1.2. Création du tag
-- Sur le repository du composant, créer le tag en pointant sur votre branche de développement
-    - Soit en ligne de commande:
-        ```
-        git tag -a 2.1.0 [hash du commit]
-        ```
-        - push
-    - Soit sur github:
-        - Cliquer l'étiquette "[nombre] tags" pour voir tous les tags
-        - Cliquer "Release" pour voir les releases
-        - Cliquer "Draft a new release"
-        - Choose a tag -> saisir le tag désiré puis cliquer "+ Create new tag xxx on publish"
-        - Cliquer "Generate release notes" pour obtenir les notes automatiquement à partir des commentaires
-        - Donner le numéro de tag comme titre
-        - Cliquer "Publish release"
+- Sur le repository du composant, créer le tag en pointant sur votre branche de développement sur votre dépôt local (il n'est pas possible de créer le tag sur github depuis votre branche) :
+
+```
+git tag -a 2.1.0 [hash du commit]
+```
+
+Si nécessaire, vérifier les tags que vous avez en local
+```
+git tag
+```
+  
+Puis pousser le tag sur le serveur
+```
+git push origin tag 2.1.0
+```
+
 2. Côté Satis
 - IMPORTANT : En local dans le répertoire satis, vérifier que la branche "gh-pages" est à jour, car elle est mise à jour à chaque déploiement
 - Vérifier que vous êtes bien sur la branche "master"
