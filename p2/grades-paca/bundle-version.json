@@ -1592,6 +1592,45 @@
                     }
                 },
                 "description": "Gestion des versions d'un applicatif"
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "4.2.0",
+                "version_normalized": "4.2.0.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "d2018d4986c37de17e5476a48d4f4e59873c6a26"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/d2018d4986c37de17e5476a48d4f4e59873c6a26",
+                    "reference": "d2018d4986c37de17e5476a48d4f4e59873c6a26",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-app": "^2.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "kbsali/redmine-api": "^2.2",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2024-08-09T15:09:00+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif"
             }
         ]
     }
