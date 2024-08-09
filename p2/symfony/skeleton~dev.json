@@ -107,7 +107,11 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications"
+                "description": "A minimal Symfony project recommended to create bare bones applications",
+                "support": {
+                    "source": "https://github.com/grades-paca/msvc-base/tree/main",
+                    "issues": "https://github.com/grades-paca/msvc-base/issues"
+                }
             }
         ]
     }
