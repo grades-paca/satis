@@ -47,6 +47,18 @@ Puis pousser le tag sur le serveur
 git push origin tag 2.1.0
 ```
 
+1.3. En cas d'erreur
+- Si vous n'avez pas poussé, il suffit de supprimer le tag local
+```
+git tag --delete 2.1.0
+```
+- Si vous avez déjà poussé, en plus de la suppression dans le repo local ci-dessus, exécutez
+```
+git push --delete origin 2.1.0
+```
+Vous pouvez maintenant recommencer la création du tag
+
+
 2. Côté Satis
 - IMPORTANT : En local dans le répertoire satis, vérifier que la branche "gh-pages" est à jour, car elle est mise à jour à chaque déploiement
 - Vérifier que vous êtes bien sur la branche "master"
