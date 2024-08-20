@@ -409,7 +409,7 @@
                 },
                 "description": "Gestion des versions d'un applicatif",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-version/tree/315632-Changelog-missing-tickets",
+                    "source": "https://github.com/grades-paca/bundle-version/tree/4.2.0",
                     "issues": "https://github.com/grades-paca/bundle-version/issues"
                 }
             },

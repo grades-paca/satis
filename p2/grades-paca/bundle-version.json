@@ -1764,6 +1764,49 @@
                     "source": "https://github.com/grades-paca/bundle-version/tree/4.1.0",
                     "issues": "https://github.com/grades-paca/bundle-version/issues"
                 }
+            },
+            {
+                "name": "grades-paca/bundle-version",
+                "version": "4.2.0",
+                "version_normalized": "4.2.0.0",
+                "target-dir": "Oru/Bundle/VersionBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-version.git",
+                    "reference": "6f478a27fb2a34c47772ea6ab800af0fdaccdf3d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-version/zipball/6f478a27fb2a34c47772ea6ab800af0fdaccdf3d",
+                    "reference": "6f478a27fb2a34c47772ea6ab800af0fdaccdf3d",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-app": "^2.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "kbsali/redmine-api": "^2.2",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2024-08-20T15:15:44+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\VersionBundle\\": ""
+                    }
+                },
+                "description": "Gestion des versions d'un applicatif",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-version/tree/4.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-version/issues"
+                }
             }
         ]
     }
