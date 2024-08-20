@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/msvc-messages.git",
-                    "reference": "3765e7527b9a941c971486aeb24f942ac67dead9"
+                    "reference": "1c18f792c1752bd95528b4d7e3d355e35efadb20"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/3765e7527b9a941c971486aeb24f942ac67dead9",
-                    "reference": "3765e7527b9a941c971486aeb24f942ac67dead9",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/1c18f792c1752bd95528b4d7e3d355e35efadb20",
+                    "reference": "1c18f792c1752bd95528b4d7e3d355e35efadb20",
                     "shasum": ""
                 },
                 "require": {
@@ -27,7 +27,7 @@
                 "require-dev": {
                     "friendsofphp/php-cs-fixer": "^3.59"
                 },
-                "time": "2024-08-05T14:40:45+00:00",
+                "time": "2024-08-20T10:07:42+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
