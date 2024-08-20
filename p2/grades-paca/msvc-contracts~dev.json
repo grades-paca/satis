@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/msvc-contracts.git",
-                    "reference": "db0354e2dbe0a72975e5f73ed0fab880fad9b390"
+                    "reference": "e6e56eabcefbfc38dfbfd54c19e6a57ef86d8249"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-contracts/zipball/db0354e2dbe0a72975e5f73ed0fab880fad9b390",
-                    "reference": "db0354e2dbe0a72975e5f73ed0fab880fad9b390",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-contracts/zipball/e6e56eabcefbfc38dfbfd54c19e6a57ef86d8249",
+                    "reference": "e6e56eabcefbfc38dfbfd54c19e6a57ef86d8249",
                     "shasum": ""
                 },
                 "time": "2024-08-20T06:50:52+00:00",
