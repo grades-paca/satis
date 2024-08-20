@@ -16,13 +16,17 @@
                     "reference": "e6e56eabcefbfc38dfbfd54c19e6a57ef86d8249",
                     "shasum": ""
                 },
-                "time": "2024-08-20T06:50:52+00:00",
+                "time": "2024-08-20T14:57:52+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
                     "psr-4": {
                         "Contracts\\": "src/"
                     }
+                },
+                "support": {
+                    "source": "https://github.com/grades-paca/msvc-contracts/tree/main",
+                    "issues": "https://github.com/grades-paca/msvc-contracts/issues"
                 }
             }
         ]
