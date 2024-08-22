@@ -70,7 +70,7 @@
                     "symfony/stopwatch": "6.4.*",
                     "symfony/web-profiler-bundle": "6.4.*"
                 },
-                "time": "2024-08-12T13:19:43+00:00",
+                "time": "2024-08-12T12:06:17+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
@@ -113,11 +113,7 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/main",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
+                "description": "A minimal Symfony project recommended to create bare bones applications"
             }
         ]
     }

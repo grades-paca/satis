@@ -32,11 +32,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle disponibilité des lits",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-wslits/tree/2.4.1",
-                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
-                }
+                "description": "Symfony ATOS Bundle disponibilité des lits"
             },
             {
                 "name": "atos/ws-synchro-lits",
@@ -69,11 +65,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle disponibilité des lits",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-wslits/tree/297014-needReloadMessenger-setting",
-                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
-                }
+                "description": "Symfony ATOS Bundle disponibilité des lits"
             },
             {
                 "name": "atos/ws-synchro-lits",
@@ -94,7 +86,7 @@
                     "php": ">=7.0",
                     "symfony/framework-bundle": "~4.4 || ~5.4"
                 },
-                "time": "2024-07-24T12:52:52+00:00",
+                "time": "2024-07-24T12:41:30+00:00",
                 "type": "symfony-bundle",
                 "autoload": {
                     "psr-4": {
@@ -106,11 +98,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle disponibilité des lits",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-wslits/tree/317730-timeZone",
-                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
-                }
+                "description": "Symfony ATOS Bundle disponibilité des lits"
             },
             {
                 "name": "atos/ws-synchro-lits",
@@ -144,11 +132,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle disponibilité des lits",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-wslits/tree/main",
-                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
-                }
+                "description": "Symfony ATOS Bundle disponibilité des lits"
             }
         ]
     }
