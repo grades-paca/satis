@@ -411,12 +411,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "24b1226e02d822915e9d09ca9bb44ed73ca31199"
+                    "reference": "5bdbdf92818acd40d8c24014939a0629640f98b6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/24b1226e02d822915e9d09ca9bb44ed73ca31199",
-                    "reference": "24b1226e02d822915e9d09ca9bb44ed73ca31199",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/5bdbdf92818acd40d8c24014939a0629640f98b6",
+                    "reference": "5bdbdf92818acd40d8c24014939a0629640f98b6",
                     "shasum": ""
                 },
                 "require": {
@@ -431,7 +431,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2024-07-08T12:26:11+00:00",
+                "time": "2024-08-22T09:11:24+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -445,7 +445,7 @@
                 },
                 "description": "Carto du ror3",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-carto/tree/313549-nouvelle-api-IGN",
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/3.0.3",
                     "issues": "https://github.com/grades-paca/bundle-carto/issues"
                 }
             },
