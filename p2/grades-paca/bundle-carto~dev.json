@@ -292,12 +292,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "2ed525d404e958f009ced7cbec7e3748f06891a5"
+                    "reference": "26dcc99084f78f1eb05dc4141a258d3bded78a63"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/2ed525d404e958f009ced7cbec7e3748f06891a5",
-                    "reference": "2ed525d404e958f009ced7cbec7e3748f06891a5",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/26dcc99084f78f1eb05dc4141a258d3bded78a63",
+                    "reference": "26dcc99084f78f1eb05dc4141a258d3bded78a63",
                     "shasum": ""
                 },
                 "require": {
@@ -312,7 +312,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2024-07-26T07:21:38+00:00",
+                "time": "2024-08-27T15:16:55+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
