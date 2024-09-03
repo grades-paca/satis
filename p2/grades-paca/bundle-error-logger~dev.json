@@ -153,12 +153,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-error-logger.git",
-                    "reference": "7023d6d052ad2536fb3de8c82748ab14d74a6a18"
+                    "reference": "9329483c3863bc220826ba4a7f36bb729e728c78"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/7023d6d052ad2536fb3de8c82748ab14d74a6a18",
-                    "reference": "7023d6d052ad2536fb3de8c82748ab14d74a6a18",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/9329483c3863bc220826ba4a7f36bb729e728c78",
+                    "reference": "9329483c3863bc220826ba4a7f36bb729e728c78",
                     "shasum": ""
                 },
                 "require": {
@@ -170,7 +170,7 @@
                     "symfony/http-client": "^5.4",
                     "symfony/http-client-contracts": "^2.5"
                 },
-                "time": "2023-10-24T15:24:06+00:00",
+                "time": "2024-09-02T13:10:47+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -186,90 +186,18 @@
             },
             {
                 "name": "grades-paca/bundle-error-logger",
-                "version": "dev-1.6.0_bis",
-                "version_normalized": "dev-1.6.0_bis",
+                "version": "dev-314139-amelioration-traces-exceptions",
+                "version_normalized": "dev-314139-amelioration-traces-exceptions",
                 "target-dir": "Oru/Bundle/ErrorLoggerBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-error-logger.git",
-                    "reference": "dbc18b89c85bb62a83a087622006e2b1005c06f9"
+                    "reference": "d35444d8fe5646a0e602b848445ec7adf60b0990"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/dbc18b89c85bb62a83a087622006e2b1005c06f9",
-                    "reference": "dbc18b89c85bb62a83a087622006e2b1005c06f9",
-                    "shasum": ""
-                },
-                "require": {
-                    "grades-paca/bundle-app": ">=1.4 <2.0.0",
-                    "grades-paca/bundle-mail": ">=1.7 <2.0.0",
-                    "grades-paca/bundle-setting": ">=1.4 <2.0.0",
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
-                },
-                "time": "2023-02-20T15:10:01+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\ErrorLoggerBundle\\": ""
-                    }
-                },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
-            },
-            {
-                "name": "grades-paca/bundle-error-logger",
-                "version": "dev-1.6_ter",
-                "version_normalized": "dev-1.6_ter",
-                "target-dir": "Oru/Bundle/ErrorLoggerBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-error-logger.git",
-                    "reference": "fffe806a73d519a0fbb609ca94f8ede1fbaa622c"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/fffe806a73d519a0fbb609ca94f8ede1fbaa622c",
-                    "reference": "fffe806a73d519a0fbb609ca94f8ede1fbaa622c",
-                    "shasum": ""
-                },
-                "require": {
-                    "grades-paca/bundle-app": ">=1.4 <2.0.0",
-                    "grades-paca/bundle-mail": ">=1.7 <2.0.0",
-                    "grades-paca/bundle-setting": ">=1.4 <2.0.0",
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
-                },
-                "time": "2023-02-28T10:39:31+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\ErrorLoggerBundle\\": ""
-                    }
-                },
-                "description": "Bundle qui permet de sauvegarder les erreurs de l'application en base de données."
-            },
-            {
-                "name": "grades-paca/bundle-error-logger",
-                "version": "dev-304857-redis",
-                "version_normalized": "dev-304857-redis",
-                "target-dir": "Oru/Bundle/ErrorLoggerBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-error-logger.git",
-                    "reference": "0fff71c161baac6fc7bbafa60e54ff75448d24c7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/0fff71c161baac6fc7bbafa60e54ff75448d24c7",
-                    "reference": "0fff71c161baac6fc7bbafa60e54ff75448d24c7",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-error-logger/zipball/d35444d8fe5646a0e602b848445ec7adf60b0990",
+                    "reference": "d35444d8fe5646a0e602b848445ec7adf60b0990",
                     "shasum": ""
                 },
                 "require": {
@@ -281,7 +209,7 @@
                     "symfony/http-client": "^5.4",
                     "symfony/http-client-contracts": "^2.5"
                 },
-                "time": "2024-03-18T13:21:05+00:00",
+                "time": "2024-09-03T09:34:09+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {

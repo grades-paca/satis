@@ -123,12 +123,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-setting.git",
-                    "reference": "7e8efa298ae8a08bc572d5c40ac0de1d892856ca"
+                    "reference": "2db709891f6ef1ac60ce8ec70f388dfb16fc62bb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/7e8efa298ae8a08bc572d5c40ac0de1d892856ca",
-                    "reference": "7e8efa298ae8a08bc572d5c40ac0de1d892856ca",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-setting/zipball/2db709891f6ef1ac60ce8ec70f388dfb16fc62bb",
+                    "reference": "2db709891f6ef1ac60ce8ec70f388dfb16fc62bb",
                     "shasum": ""
                 },
                 "require": {
@@ -140,7 +140,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-12-11T16:17:53+00:00",
+                "time": "2024-08-30T09:29:29+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
