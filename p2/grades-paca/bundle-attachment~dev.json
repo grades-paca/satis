@@ -368,6 +368,48 @@
             },
             {
                 "name": "grades-paca/bundle-attachment",
+                "version": "dev-319265-telemedecine-attachments-uploads-issues",
+                "version_normalized": "dev-319265-telemedecine-attachments-uploads-issues",
+                "target-dir": "Oru/Bundle/AttachmentBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-attachment.git",
+                    "reference": "d5b3942e294738bf8ca533ddd5f9e819ad73ba82"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-attachment/zipball/d5b3942e294738bf8ca533ddd5f9e819ad73ba82",
+                    "reference": "d5b3942e294738bf8ca533ddd5f9e819ad73ba82",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-fileinfo": "*",
+                    "ext-gd": "*",
+                    "ext-sockets": "*",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-schedule": "^2.0",
+                    "intervention/image": "^2.7",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0",
+                    "xenolope/quahog": "^3.0"
+                },
+                "time": "2024-09-16T08:07:35+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\AttachmentBundle\\": ""
+                    }
+                },
+                "description": "Attachment Bundle"
+            },
+            {
+                "name": "grades-paca/bundle-attachment",
                 "version": "dev-file_upload_gif",
                 "version_normalized": "dev-file_upload_gif",
                 "target-dir": "Oru/Bundle/AttachmentBundle",
