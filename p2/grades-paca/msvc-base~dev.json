@@ -112,7 +112,11 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications"
+                "description": "A minimal Symfony project recommended to create bare bones applications",
+                "support": {
+                    "source": "https://github.com/grades-paca/msvc-base/tree/319810-upgrade-bootstrap",
+                    "issues": "https://github.com/grades-paca/msvc-base/issues"
+                }
             },
             {
                 "name": "grades-paca/msvc-base",
@@ -226,7 +230,11 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications"
+                "description": "A minimal Symfony project recommended to create bare bones applications",
+                "support": {
+                    "source": "https://github.com/grades-paca/msvc-base/tree/main",
+                    "issues": "https://github.com/grades-paca/msvc-base/issues"
+                }
             }
         ]
     }

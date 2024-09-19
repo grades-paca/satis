@@ -36,7 +36,11 @@
                         "Shared\\Messages\\": "src/"
                     }
                 },
-                "description": "Message classes for microservices"
+                "description": "Message classes for microservices",
+                "support": {
+                    "source": "https://github.com/grades-paca/msvc-messages/tree/main",
+                    "issues": "https://github.com/grades-paca/msvc-messages/issues"
+                }
             }
         ]
     }
