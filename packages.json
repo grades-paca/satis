@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$1c9c85bb81ea964888ce20469876623aa0691c1d.json": {
-            "sha1": "1c9c85bb81ea964888ce20469876623aa0691c1d"
+        "include/all$e401d50ba27bfe3dfa6c56a08e5488c6f0a2266a.json": {
+            "sha1": "e401d50ba27bfe3dfa6c56a08e5488c6f0a2266a"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
@@ -52,6 +52,9 @@
         "grades-paca/bundle-translation",
         "grades-paca/bundle-version",
         "grades-paca/bundle-web-client",
+        "grades-paca/msvc-base",
+        "grades-paca/msvc-contracts",
+        "grades-paca/msvc-messages",
         "grades-paca/ror"
     ]
 }
