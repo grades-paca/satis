@@ -32,7 +32,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre"
+                "description": "Symfony ATOS Bundle synchronisation de l'offre",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/0.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
+                }
             },
             {
                 "name": "atos/ws-synchro-offre",
@@ -66,7 +70,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre"
+                "description": "Symfony ATOS Bundle synchronisation de l'offre",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
+                }
             },
             {
                 "name": "atos/ws-synchro-offre",
@@ -100,7 +108,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre"
+                "description": "Symfony ATOS Bundle synchronisation de l'offre",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
+                }
             },
             {
                 "name": "atos/ws-synchro-offre",
@@ -134,7 +146,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre"
+                "description": "Symfony ATOS Bundle synchronisation de l'offre",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.0.2",
+                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
+                }
             },
             {
                 "name": "atos/ws-synchro-offre",
@@ -168,7 +184,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre"
+                "description": "Symfony ATOS Bundle synchronisation de l'offre",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
+                }
             },
             {
                 "name": "atos/ws-synchro-offre",
@@ -202,7 +222,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre"
+                "description": "Symfony ATOS Bundle synchronisation de l'offre",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
+                }
             },
             {
                 "name": "atos/ws-synchro-offre",
@@ -236,7 +260,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre"
+                "description": "Symfony ATOS Bundle synchronisation de l'offre",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
+                }
             },
             {
                 "name": "atos/ws-synchro-offre",
@@ -270,7 +298,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre"
+                "description": "Symfony ATOS Bundle synchronisation de l'offre",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
+                }
             },
             {
                 "name": "atos/ws-synchro-offre",
@@ -304,7 +336,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre"
+                "description": "Symfony ATOS Bundle synchronisation de l'offre",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
+                }
             }
         ]
     }
