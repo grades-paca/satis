@@ -60,7 +60,7 @@ Vous pouvez maintenant recommencer la création du tag
 
 
 2. Côté Satis
-- IMPORTANT : En local dans le répertoire satis, vérifier que la branche "gh-pages" est à jour, car elle est mise à jour à chaque déploiement
+- IMPORTANT : En local dans le répertoire satis, vérifier que la branche "gh-pages" est à jour, car elle est mise à jour à chaque déploiement. Vérifier également que master est à jour.
 - Vérifier que vous êtes bien sur la branche "master"
 - Exécuter
 ```
