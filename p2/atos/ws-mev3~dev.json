@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-wsv3.git",
-                    "reference": "22971c3d25159eaf19ac74119847951b2d985497"
+                    "reference": "ed5c7f5d20b07cb19acd9b19ff9994e64d98126b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-wsv3/zipball/22971c3d25159eaf19ac74119847951b2d985497",
-                    "reference": "22971c3d25159eaf19ac74119847951b2d985497",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsv3/zipball/ed5c7f5d20b07cb19acd9b19ff9994e64d98126b",
+                    "reference": "ed5c7f5d20b07cb19acd9b19ff9994e64d98126b",
                     "shasum": ""
                 },
                 "require": {
@@ -21,7 +21,7 @@
                     "symfony/filesystem": "~4.4 || ~5.4",
                     "symfony/framework-bundle": "~4.4 || ~5.4"
                 },
-                "time": "2024-10-02T06:59:35+00:00",
+                "time": "2024-10-09T12:03:41+00:00",
                 "default-branch": true,
                 "type": "symfony-bundle",
                 "autoload": {
