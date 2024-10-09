@@ -67,7 +67,7 @@ Vous pouvez maintenant recommencer la création du tag
 sh deploy.sh
 ```
 - Si votre retour est "sh: deploy.sh: No such file or directory", c'est probablement que vous êtes sur la branche "gh-pages" et pas sur la branche master
-- La commande est très longue, attendre sa bonne exécution qui est de la forme : (oui, l'erreur dans le bundle-install est "normale")
+- La commande est très longue, attendre sa bonne exécution qui est de la forme :
 ```
 Clonage dans 'public'...
 remote: Enumerating objects: 15199, done.
@@ -86,15 +86,10 @@ Generating autoload files
 25 packages you are using are looking for funding.
 Use the `composer fund` command to find out more!
 > sh build.sh
+<warning>Deprecation Notice: Using ${var} in strings is deprecated, use {$var} instead in /Users/Claire/Documents/satis/vendor/composer/composer/src/Composer/Autoload/AutoloadGenerator.php:799</warning>
+<warning>Deprecation Notice: Using ${var} in strings is deprecated, use {$var} instead in /Users/Claire/Documents/satis/vendor/composer/composer/src/Composer/Autoload/AutoloadGenerator.php:804</warning>
 No explicit requires defined, enabling require-all
 Scanning packages
-
-Skipped branch 2.x, "d9674dc0380ee183814041023774d7e4c1f374f9:composer.json" does not contain valid JSON
-Parse error on line 15:
-.../bundle-install": ""^2.0",        "comp
-----------------------^
-Expected one of: 'EOF', '}', ':', ',', ']'
-
 Wrote packages to public/include/all$79ac2360e051464644e4f575f4e1fff579e99eab.json
 Wrote packages to public/p2/atos/bundle-rass.json
 Wrote packages to public/p2/atos/bundle-rass~dev.json
@@ -190,24 +185,24 @@ Wrote packages to public/p2/grades-paca/ror.json
 Wrote packages to public/p2/grades-paca/ror~dev.json
 Writing packages.json
 Pruning include directories
-Deleted public/include/all$6d4f33d1608a4f123f83059b7c473a7d1e52405d.json
+Deleted public/include/all$29ce2573a83921cf1e1b4b91258e3fb28b99db46.json
 Writing web view
-[gh-pages 2ede4ee] Deploy Satis
- 6 files changed, 2017 insertions(+), 377 deletions(-)
- rename include/{all$6d4f33d1608a4f123f83059b7c473a7d1e52405d.json => all$79ac2360e051464644e4f575f4e1fff579e99eab.json} (99%)
-Énumération des objets: 20, fait.
-Décompte des objets: 100% (20/20), fait.
+[gh-pages 2e61306] Deploy Satis
+ 7 files changed, 178 insertions(+), 30 deletions(-)
+ rename include/{all$29ce2573a83921cf1e1b4b91258e3fb28b99db46.json => all$99641ace88b2aed9d9085780b8ef921d2e6f5d36.json} (99%)
+Énumération des objets: 24, fait.
+Décompte des objets: 100% (24/24), fait.
 Compression par delta en utilisant jusqu'à 8 fils d'exécution
-Compression des objets: 100% (11/11), fait.
-Écriture des objets: 100% (11/11), 241.73 Kio | 1.52 Mio/s, fait.
-Total 11 (delta 8), réutilisés 0 (delta 0), réutilisés du paquet 0 (depuis 0)
-remote: Resolving deltas: 100% (8/8), completed with 7 local objects.
+Compression des objets: 100% (13/13), fait.
+Écriture des objets: 100% (13/13), 570.20 Kio | 7.04 Mio/s, fait.
+Total 13 (delta 8), réutilisés 0 (delta 0), réutilisés du paquet 0 (depuis 0)
+remote: Resolving deltas: 100% (8/8), completed with 8 local objects.
 remote: 
 remote: GitHub found 6 vulnerabilities on grades-paca/satis's default branch (6 high). To find out more, visit:
 remote:      https://github.com/grades-paca/satis/security/dependabot
 remote: 
-To https://github.com/grades-paca/satis.git
-   5a6f11e..2ede4ee  gh-pages -> gh-pages
+To https://github.com/grades-paca/satis
+   102a257..2e61306  gh-pages -> gh-pages
 Déjà sur 'master'
 Votre branche est à jour avec 'origin/master'.
 ```
