@@ -27,7 +27,7 @@
                     "oru/translation": "*",
                     "symfony/symfony": ">=2.3,<3.0@dev"
                 },
-                "time": "2018-06-28T06:01:41+00:00",
+                "time": "2018-06-27T15:26:40+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -39,11 +39,7 @@
                         "Oru\\Bundle\\LogBundle\\": ""
                     }
                 },
-                "description": "Log des requêtes",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-log/tree/1.0.24",
-                    "issues": "https://github.com/grades-paca/bundle-log/issues"
-                }
+                "description": "Log des requêtes"
             },
             {
                 "name": "grades-paca/bundle-log",
@@ -70,7 +66,7 @@
                     "grades-paca/bundle-translation": "*",
                     "symfony/framework-bundle": "^4.0|| ^5.0 "
                 },
-                "time": "2023-03-07T15:28:06+00:00",
+                "time": "2023-02-20T10:36:10+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -82,11 +78,7 @@
                         "Oru\\Bundle\\LogBundle\\": ""
                     }
                 },
-                "description": "Log des requêtes",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-log/tree/1.4.1",
-                    "issues": "https://github.com/grades-paca/bundle-log/issues"
-                }
+                "description": "Log des requêtes"
             },
             {
                 "name": "grades-paca/bundle-log",
@@ -125,11 +117,7 @@
                         "Oru\\Bundle\\LogBundle\\": ""
                     }
                 },
-                "description": "Log des requêtes",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-log/tree/1.4.x",
-                    "issues": "https://github.com/grades-paca/bundle-log/issues"
-                }
+                "description": "Log des requêtes"
             },
             {
                 "name": "grades-paca/bundle-log",
@@ -169,11 +157,7 @@
                         "Oru\\Bundle\\LogBundle\\": ""
                     }
                 },
-                "description": "Log des requêtes",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-log/tree/2.x",
-                    "issues": "https://github.com/grades-paca/bundle-log/issues"
-                }
+                "description": "Log des requêtes"
             },
             {
                 "name": "grades-paca/bundle-log",
@@ -183,12 +167,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-log.git",
-                    "reference": "1da2b4ff7275738db5bf8f8e2a2addc902967efb"
+                    "reference": "21133191024ca00eb7243150b21050523436ef38"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-log/zipball/1da2b4ff7275738db5bf8f8e2a2addc902967efb",
-                    "reference": "1da2b4ff7275738db5bf8f8e2a2addc902967efb",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-log/zipball/21133191024ca00eb7243150b21050523436ef38",
+                    "reference": "21133191024ca00eb7243150b21050523436ef38",
                     "shasum": ""
                 },
                 "require": {
@@ -201,7 +185,7 @@
                     "symfony/console": "^5.0 ",
                     "symfony/framework-bundle": "^5.0 "
                 },
-                "time": "2024-09-30T12:58:11+00:00",
+                "time": "2024-10-16T09:43:40+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -213,11 +197,7 @@
                         "Oru\\Bundle\\LogBundle\\": ""
                     }
                 },
-                "description": "Log des requêtes",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-log/tree/321903-ajout-des-HTTP-codes",
-                    "issues": "https://github.com/grades-paca/bundle-log/issues"
-                }
+                "description": "Log des requêtes"
             },
             {
                 "name": "grades-paca/bundle-log",
@@ -257,11 +237,7 @@
                         "Oru\\Bundle\\LogBundle\\": ""
                     }
                 },
-                "description": "Log des requêtes",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-log/tree/majSF5",
-                    "issues": "https://github.com/grades-paca/bundle-log/issues"
-                }
+                "description": "Log des requêtes"
             },
             {
                 "name": "grades-paca/bundle-log",
@@ -301,11 +277,7 @@
                         "Oru\\Bundle\\LogBundle\\": ""
                     }
                 },
-                "description": "Log des requêtes",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-log/tree/master",
-                    "issues": "https://github.com/grades-paca/bundle-log/issues"
-                }
+                "description": "Log des requêtes"
             }
         ]
     }
