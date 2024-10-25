@@ -3,46 +3,6 @@
         "grades-paca/msvc-messages": [
             {
                 "name": "grades-paca/msvc-messages",
-                "version": "dev-316440-readme",
-                "version_normalized": "dev-316440-readme",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/msvc-messages.git",
-                    "reference": "cd16a72d6f1c5278b527affd9a1b342d7b9db9d9"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/cd16a72d6f1c5278b527affd9a1b342d7b9db9d9",
-                    "reference": "cd16a72d6f1c5278b527affd9a1b342d7b9db9d9",
-                    "shasum": ""
-                },
-                "require": {
-                    "grades-paca/msvc-contracts": "dev-main",
-                    "justinrainbow/json-schema": "^5.2",
-                    "php": ">=7.4",
-                    "ramsey/uuid": "^4.7",
-                    "symfony/serializer": "^6.4",
-                    "wol-soft/php-json-schema-model-generator": "^0.24.0"
-                },
-                "require-dev": {
-                    "friendsofphp/php-cs-fixer": "^3.59",
-                    "phpunit/phpunit": "^11.3"
-                },
-                "time": "2024-10-09T13:29:26+00:00",
-                "type": "library",
-                "autoload": {
-                    "psr-4": {
-                        "Shared\\Messages\\": "src/"
-                    }
-                },
-                "description": "Message classes for microservices",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-messages/tree/316440-readme",
-                    "issues": "https://github.com/grades-paca/msvc-messages/issues"
-                }
-            },
-            {
-                "name": "grades-paca/msvc-messages",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
@@ -76,11 +36,7 @@
                         "Shared\\Messages\\": "src/"
                     }
                 },
-                "description": "Message classes for microservices",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-messages/tree/main",
-                    "issues": "https://github.com/grades-paca/msvc-messages/issues"
-                }
+                "description": "Message classes for microservices"
             }
         ]
     }
