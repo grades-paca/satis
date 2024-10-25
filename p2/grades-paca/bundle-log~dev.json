@@ -183,12 +183,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-log.git",
-                    "reference": "1488e8ad21418e03da3713c6db55a5f96a9bf36d"
+                    "reference": "7f4204b9ff39e88eaaa3ecd7991ba2627e8e2727"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-log/zipball/1488e8ad21418e03da3713c6db55a5f96a9bf36d",
-                    "reference": "1488e8ad21418e03da3713c6db55a5f96a9bf36d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-log/zipball/7f4204b9ff39e88eaaa3ecd7991ba2627e8e2727",
+                    "reference": "7f4204b9ff39e88eaaa3ecd7991ba2627e8e2727",
                     "shasum": ""
                 },
                 "require": {
@@ -201,7 +201,7 @@
                     "symfony/console": "^5.0 ",
                     "symfony/framework-bundle": "^5.0 "
                 },
-                "time": "2024-10-24T14:26:27+00:00",
+                "time": "2024-10-25T14:02:00+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -215,7 +215,7 @@
                 },
                 "description": "Log des requêtes",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-log/tree/321903-ajout-des-HTTP-codes",
+                    "source": "https://github.com/grades-paca/bundle-log/tree/2.2.0",
                     "issues": "https://github.com/grades-paca/bundle-log/issues"
                 }
             },
