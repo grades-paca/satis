@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/msvc-base.git",
-                    "reference": "bb9cf21a8e9587425adee13412e47fffef761276"
+                    "reference": "6dd60b1b3cde28e5da62e6077b9374f632cec1f6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/bb9cf21a8e9587425adee13412e47fffef761276",
-                    "reference": "bb9cf21a8e9587425adee13412e47fffef761276",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/6dd60b1b3cde28e5da62e6077b9374f632cec1f6",
+                    "reference": "6dd60b1b3cde28e5da62e6077b9374f632cec1f6",
                     "shasum": ""
                 },
                 "require": {
@@ -77,7 +77,7 @@
                     "symfony/stopwatch": "6.4.*",
                     "symfony/web-profiler-bundle": "6.4.*"
                 },
-                "time": "2024-10-25T08:14:18+00:00",
+                "time": "2024-10-25T11:44:16+00:00",
                 "type": "project",
                 "extra": {
                     "symfony": {
