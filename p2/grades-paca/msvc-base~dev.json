@@ -121,11 +121,7 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/301819-codeception",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
+                "description": "A minimal Symfony project recommended to create bare bones applications"
             },
             {
                 "name": "grades-paca/msvc-base",
@@ -196,7 +192,7 @@
                     "symfony/stopwatch": "6.4.*",
                     "symfony/web-profiler-bundle": "6.4.*"
                 },
-                "time": "2024-10-04T10:07:24+00:00",
+                "time": "2024-09-30T15:31:18+00:00",
                 "type": "project",
                 "extra": {
                     "symfony": {
@@ -238,25 +234,21 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/316440-fix",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
+                "description": "A minimal Symfony project recommended to create bare bones applications"
             },
             {
                 "name": "grades-paca/msvc-base",
-                "version": "dev-316440-gitignore",
-                "version_normalized": "dev-316440-gitignore",
+                "version": "dev-319810-upgrade-bootstrap",
+                "version_normalized": "dev-319810-upgrade-bootstrap",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/msvc-base.git",
-                    "reference": "6c977a83f47bbaec3567f932a432efe199485edc"
+                    "reference": "40fbc100f0be332a77b73b36387654fa114319c2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/6c977a83f47bbaec3567f932a432efe199485edc",
-                    "reference": "6c977a83f47bbaec3567f932a432efe199485edc",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/40fbc100f0be332a77b73b36387654fa114319c2",
+                    "reference": "40fbc100f0be332a77b73b36387654fa114319c2",
                     "shasum": ""
                 },
                 "require": {
@@ -271,7 +263,6 @@
                     "runtime/frankenphp-symfony": "^0.2.0",
                     "symfony/asset": "6.4.*",
                     "symfony/asset-mapper": "6.4.*",
-                    "symfony/cache": "^6.4",
                     "symfony/console": "6.4.*",
                     "symfony/dotenv": "6.4.*",
                     "symfony/flex": "^2",
@@ -282,129 +273,6 @@
                     "symfony/security-bundle": "6.4.*",
                     "symfony/serializer": "6.4.*",
                     "symfony/twig-bundle": "6.4.*",
-                    "symfony/yaml": "6.4.*",
-                    "symfonycasts/sass-bundle": "^0.7.0",
-                    "twbs/bootstrap": "4.*",
-                    "twig/extra-bundle": "^2.12|^3.0",
-                    "twig/twig": "^2.12|^3.0"
-                },
-                "conflict": {
-                    "symfony/symfony": "*"
-                },
-                "replace": {
-                    "symfony/polyfill-ctype": "*",
-                    "symfony/polyfill-iconv": "*",
-                    "symfony/polyfill-php72": "*",
-                    "symfony/polyfill-php73": "*",
-                    "symfony/polyfill-php74": "*",
-                    "symfony/polyfill-php80": "*",
-                    "symfony/polyfill-php81": "*"
-                },
-                "require-dev": {
-                    "enlightn/security-checker": "^1.11",
-                    "friendsofphp/php-cs-fixer": "^3.57",
-                    "friendsoftwig/twigcs": "^6.4",
-                    "nikic/php-parser": "^5.0",
-                    "phpro/grumphp": "^2.5",
-                    "phpstan/phpstan": "^1.11",
-                    "phpunit/phpunit": "^9.5",
-                    "symfony/browser-kit": "6.4.*",
-                    "symfony/css-selector": "6.4.*",
-                    "symfony/phpunit-bridge": "^7.1",
-                    "symfony/stopwatch": "6.4.*",
-                    "symfony/web-profiler-bundle": "6.4.*"
-                },
-                "time": "2024-10-18T13:52:58+00:00",
-                "type": "project",
-                "extra": {
-                    "symfony": {
-                        "allow-contrib": false,
-                        "require": "6.4.*",
-                        "docker": true
-                    }
-                },
-                "autoload": {
-                    "psr-4": {
-                        "App\\": "src/"
-                    }
-                },
-                "autoload-dev": {
-                    "psr-4": {
-                        "App\\Tests\\": "tests/"
-                    }
-                },
-                "scripts": {
-                    "auto-scripts": {
-                        "cache:clear": "symfony-cmd",
-                        "sass:build": "symfony-cmd",
-                        "assets:install %PUBLIC_DIR%": "symfony-cmd",
-                        "importmap:install": "symfony-cmd"
-                    },
-                    "prod-scripts": [
-                        "bin/console asset-map:compile"
-                    ],
-                    "prod-install-cmd": [
-                        "@prod-scripts"
-                    ],
-                    "post-install-cmd": [
-                        "@auto-scripts"
-                    ],
-                    "post-update-cmd": [
-                        "@auto-scripts"
-                    ]
-                },
-                "license": [
-                    "MIT"
-                ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/316440-gitignore",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
-            },
-            {
-                "name": "grades-paca/msvc-base",
-                "version": "dev-334212-api",
-                "version_normalized": "dev-334212-api",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/msvc-base.git",
-                    "reference": "e07395e8f6928ff5c36b61d4044e06bded81f16f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/e07395e8f6928ff5c36b61d4044e06bded81f16f",
-                    "reference": "e07395e8f6928ff5c36b61d4044e06bded81f16f",
-                    "shasum": ""
-                },
-                "require": {
-                    "doctrine/dbal": "^3",
-                    "doctrine/doctrine-bundle": "^2.13",
-                    "doctrine/doctrine-migrations-bundle": "^3.3",
-                    "doctrine/orm": "^3.3",
-                    "drenso/symfony-oidc-bundle": "^3.2",
-                    "ext-ctype": "*",
-                    "ext-iconv": "*",
-                    "ext-redis": "*",
-                    "grades-paca/msvc-contracts": "main-dev",
-                    "grades-paca/msvc-messages": "main-dev",
-                    "jumbojett/openid-connect-php": "^1.0",
-                    "php": ">=8.3.7",
-                    "runtime/frankenphp-symfony": "^0.2.0",
-                    "symfony/asset": "6.4.*",
-                    "symfony/asset-mapper": "6.4.*",
-                    "symfony/cache": "^6.4",
-                    "symfony/console": "6.4.*",
-                    "symfony/dotenv": "6.4.*",
-                    "symfony/flex": "^2",
-                    "symfony/framework-bundle": "6.4.*",
-                    "symfony/messenger": "6.4.*",
-                    "symfony/redis-messenger": "6.4.*",
-                    "symfony/runtime": "6.4.*",
-                    "symfony/security-bundle": "6.4.*",
-                    "symfony/serializer": "6.4.*",
-                    "symfony/twig-bundle": "6.4.*",
-                    "symfony/validator": "6.4.*",
                     "symfony/yaml": "6.4.*",
                     "symfonycasts/sass-bundle": "^0.7.0",
                     "twbs/bootstrap": "5.*",
@@ -424,12 +292,6 @@
                     "symfony/polyfill-php81": "*"
                 },
                 "require-dev": {
-                    "codeception/codeception": "^5.1",
-                    "codeception/module-asserts": "^3.0",
-                    "codeception/module-doctrine": "^3.1",
-                    "codeception/module-phpbrowser": "^3.0",
-                    "codeception/module-rest": "^3.4",
-                    "codeception/module-symfony": "^3.4",
                     "enlightn/security-checker": "^1.11",
                     "friendsofphp/php-cs-fixer": "^3.57",
                     "friendsoftwig/twigcs": "^6.4",
@@ -439,13 +301,11 @@
                     "phpunit/phpunit": "^9.5",
                     "symfony/browser-kit": "6.4.*",
                     "symfony/css-selector": "6.4.*",
-                    "symfony/debug-bundle": "6.4.*",
-                    "symfony/maker-bundle": "^1.61",
                     "symfony/phpunit-bridge": "^7.1",
                     "symfony/stopwatch": "6.4.*",
                     "symfony/web-profiler-bundle": "6.4.*"
                 },
-                "time": "2024-11-18T14:11:33+00:00",
+                "time": "2024-09-11T13:46:22+00:00",
                 "type": "project",
                 "extra": {
                     "symfony": {
@@ -471,127 +331,9 @@
                         "assets:install %PUBLIC_DIR%": "symfony-cmd",
                         "importmap:install": "symfony-cmd"
                     },
-                    "prod-scripts": [
-                        "bin/console importmap:install",
-                        "bin/console asset-map:compile"
-                    ],
-                    "prod-install-cmd": [
-                        "@prod-scripts"
-                    ],
-                    "post-install-cmd": [
-                        "@auto-scripts"
-                    ],
-                    "post-update-cmd": [
-                        "@auto-scripts"
-                    ]
-                },
-                "license": [
-                    "MIT"
-                ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/334212-api",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
-            },
-            {
-                "name": "grades-paca/msvc-base",
-                "version": "dev-fix-gitignore",
-                "version_normalized": "dev-fix-gitignore",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/msvc-base.git",
-                    "reference": "f7851e24de0ca7e615e45e112d1f31b32d405924"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/f7851e24de0ca7e615e45e112d1f31b32d405924",
-                    "reference": "f7851e24de0ca7e615e45e112d1f31b32d405924",
-                    "shasum": ""
-                },
-                "require": {
-                    "drenso/symfony-oidc-bundle": "^3.2",
-                    "ext-ctype": "*",
-                    "ext-iconv": "*",
-                    "ext-redis": "*",
-                    "grades-paca/msvc-contracts": "main-dev",
-                    "grades-paca/msvc-messages": "main-dev",
-                    "jumbojett/openid-connect-php": "^1.0",
-                    "php": ">=8.3.7",
-                    "runtime/frankenphp-symfony": "^0.2.0",
-                    "symfony/asset": "6.4.*",
-                    "symfony/asset-mapper": "6.4.*",
-                    "symfony/console": "6.4.*",
-                    "symfony/dotenv": "6.4.*",
-                    "symfony/flex": "^2",
-                    "symfony/framework-bundle": "6.4.*",
-                    "symfony/messenger": "6.4.*",
-                    "symfony/redis-messenger": "6.4.*",
-                    "symfony/runtime": "6.4.*",
-                    "symfony/security-bundle": "6.4.*",
-                    "symfony/serializer": "6.4.*",
-                    "symfony/twig-bundle": "6.4.*",
-                    "symfony/yaml": "6.4.*",
-                    "symfonycasts/sass-bundle": "^0.7.0",
-                    "twbs/bootstrap": "4.*",
-                    "twig/extra-bundle": "^2.12|^3.0",
-                    "twig/twig": "^2.12|^3.0"
-                },
-                "conflict": {
-                    "symfony/symfony": "*"
-                },
-                "replace": {
-                    "symfony/polyfill-ctype": "*",
-                    "symfony/polyfill-iconv": "*",
-                    "symfony/polyfill-php72": "*",
-                    "symfony/polyfill-php73": "*",
-                    "symfony/polyfill-php74": "*",
-                    "symfony/polyfill-php80": "*",
-                    "symfony/polyfill-php81": "*"
-                },
-                "require-dev": {
-                    "enlightn/security-checker": "^1.11",
-                    "friendsofphp/php-cs-fixer": "^3.57",
-                    "friendsoftwig/twigcs": "^6.4",
-                    "nikic/php-parser": "^5.0",
-                    "phpro/grumphp": "^2.5",
-                    "phpstan/phpstan": "^1.11",
-                    "phpunit/phpunit": "^9.5",
-                    "symfony/browser-kit": "6.4.*",
-                    "symfony/css-selector": "6.4.*",
-                    "symfony/phpunit-bridge": "^7.1",
-                    "symfony/stopwatch": "6.4.*",
-                    "symfony/web-profiler-bundle": "6.4.*"
-                },
-                "time": "2024-10-16T12:59:10+00:00",
-                "type": "project",
-                "extra": {
-                    "symfony": {
-                        "allow-contrib": false,
-                        "require": "6.4.*",
-                        "docker": true
-                    }
-                },
-                "autoload": {
-                    "psr-4": {
-                        "App\\": "src/"
-                    }
-                },
-                "autoload-dev": {
-                    "psr-4": {
-                        "App\\Tests\\": "tests/"
-                    }
-                },
-                "scripts": {
-                    "auto-scripts": {
-                        "cache:clear": "symfony-cmd",
-                        "sass:build": "symfony-cmd",
-                        "assets:install %PUBLIC_DIR%": "symfony-cmd",
-                        "importmap:install": "symfony-cmd"
+                    "prod-scripts": {
+                        "asset-map:compile": "symfony-cmd"
                     },
-                    "prod-scripts": [
-                        "bin/console asset-map:compile"
-                    ],
                     "prod-install-cmd": [
                         "@prod-scripts"
                     ],
@@ -605,265 +347,7 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/fix-gitignore",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
-            },
-            {
-                "name": "grades-paca/msvc-base",
-                "version": "dev-fix-redis6",
-                "version_normalized": "dev-fix-redis6",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/msvc-base.git",
-                    "reference": "714f2bc4a1db3492ac7334cd5dd966a732279a64"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/714f2bc4a1db3492ac7334cd5dd966a732279a64",
-                    "reference": "714f2bc4a1db3492ac7334cd5dd966a732279a64",
-                    "shasum": ""
-                },
-                "require": {
-                    "drenso/symfony-oidc-bundle": "^3.2",
-                    "ext-ctype": "*",
-                    "ext-iconv": "*",
-                    "ext-redis": "*",
-                    "grades-paca/msvc-contracts": "main-dev",
-                    "grades-paca/msvc-messages": "main-dev",
-                    "jumbojett/openid-connect-php": "^1.0",
-                    "php": ">=8.3.7",
-                    "runtime/frankenphp-symfony": "^0.2.0",
-                    "symfony/asset": "6.4.*",
-                    "symfony/asset-mapper": "6.4.*",
-                    "symfony/cache": "^6.4",
-                    "symfony/console": "6.4.*",
-                    "symfony/dotenv": "6.4.*",
-                    "symfony/flex": "^2",
-                    "symfony/framework-bundle": "6.4.*",
-                    "symfony/messenger": "6.4.*",
-                    "symfony/redis-messenger": "6.4.*",
-                    "symfony/runtime": "6.4.*",
-                    "symfony/security-bundle": "6.4.*",
-                    "symfony/serializer": "6.4.*",
-                    "symfony/twig-bundle": "6.4.*",
-                    "symfony/yaml": "6.4.*",
-                    "symfonycasts/sass-bundle": "^0.7.0",
-                    "twbs/bootstrap": "4.*",
-                    "twig/extra-bundle": "^2.12|^3.0",
-                    "twig/twig": "^2.12|^3.0"
-                },
-                "conflict": {
-                    "symfony/symfony": "*"
-                },
-                "replace": {
-                    "symfony/polyfill-ctype": "*",
-                    "symfony/polyfill-iconv": "*",
-                    "symfony/polyfill-php72": "*",
-                    "symfony/polyfill-php73": "*",
-                    "symfony/polyfill-php74": "*",
-                    "symfony/polyfill-php80": "*",
-                    "symfony/polyfill-php81": "*"
-                },
-                "require-dev": {
-                    "enlightn/security-checker": "^1.11",
-                    "friendsofphp/php-cs-fixer": "^3.57",
-                    "friendsoftwig/twigcs": "^6.4",
-                    "nikic/php-parser": "^5.0",
-                    "phpro/grumphp": "^2.5",
-                    "phpstan/phpstan": "^1.11",
-                    "phpunit/phpunit": "^9.5",
-                    "symfony/browser-kit": "6.4.*",
-                    "symfony/css-selector": "6.4.*",
-                    "symfony/phpunit-bridge": "^7.1",
-                    "symfony/stopwatch": "6.4.*",
-                    "symfony/web-profiler-bundle": "6.4.*"
-                },
-                "time": "2024-10-16T10:27:02+00:00",
-                "type": "project",
-                "extra": {
-                    "symfony": {
-                        "allow-contrib": false,
-                        "require": "6.4.*",
-                        "docker": true
-                    }
-                },
-                "autoload": {
-                    "psr-4": {
-                        "App\\": "src/"
-                    }
-                },
-                "autoload-dev": {
-                    "psr-4": {
-                        "App\\Tests\\": "tests/"
-                    }
-                },
-                "scripts": {
-                    "auto-scripts": {
-                        "cache:clear": "symfony-cmd",
-                        "sass:build": "symfony-cmd",
-                        "assets:install %PUBLIC_DIR%": "symfony-cmd",
-                        "importmap:install": "symfony-cmd"
-                    },
-                    "prod-scripts": [
-                        "bin/console asset-map:compile"
-                    ],
-                    "prod-install-cmd": [
-                        "@prod-scripts"
-                    ],
-                    "post-install-cmd": [
-                        "@auto-scripts"
-                    ],
-                    "post-update-cmd": [
-                        "@auto-scripts"
-                    ]
-                },
-                "license": [
-                    "MIT"
-                ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/fix-redis6",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
-            },
-            {
-                "name": "grades-paca/msvc-base",
-                "version": "dev-inscription",
-                "version_normalized": "dev-inscription",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/msvc-base.git",
-                    "reference": "afe2b593bebdf25777418447c02f48fd0d3e8d93"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/afe2b593bebdf25777418447c02f48fd0d3e8d93",
-                    "reference": "afe2b593bebdf25777418447c02f48fd0d3e8d93",
-                    "shasum": ""
-                },
-                "require": {
-                    "doctrine/dbal": "^3",
-                    "doctrine/doctrine-bundle": "2.13",
-                    "doctrine/doctrine-migrations-bundle": "^3.3",
-                    "doctrine/orm": "^3.3",
-                    "drenso/symfony-oidc-bundle": "^3.2",
-                    "ext-ctype": "*",
-                    "ext-iconv": "*",
-                    "ext-redis": "*",
-                    "grades-paca/msvc-contracts": "main-dev",
-                    "grades-paca/msvc-messages": "main-dev",
-                    "jumbojett/openid-connect-php": "^1.0",
-                    "php": ">=8.3.7",
-                    "runtime/frankenphp-symfony": "^0.2.0",
-                    "symfony/asset": "6.4.*",
-                    "symfony/asset-mapper": "6.4.*",
-                    "symfony/cache": "^6.4",
-                    "symfony/console": "6.4.*",
-                    "symfony/dotenv": "6.4.*",
-                    "symfony/filesystem": "6.4.*",
-                    "symfony/flex": "^2",
-                    "symfony/form": "6.4.*",
-                    "symfony/framework-bundle": "6.4.*",
-                    "symfony/messenger": "6.4.*",
-                    "symfony/redis-messenger": "6.4.*",
-                    "symfony/runtime": "6.4.*",
-                    "symfony/security-bundle": "6.4.*",
-                    "symfony/serializer": "6.4.*",
-                    "symfony/translation": "6.4.*",
-                    "symfony/twig-bundle": "6.4.*",
-                    "symfony/validator": "6.4.*",
-                    "symfony/workflow": "6.4.*",
-                    "symfony/yaml": "6.4.*",
-                    "symfonycasts/sass-bundle": "^0.7.0",
-                    "twbs/bootstrap": "5.*",
-                    "twig/extra-bundle": "^2.12|^3.0",
-                    "twig/twig": "^2.12|^3.0"
-                },
-                "conflict": {
-                    "symfony/symfony": "*"
-                },
-                "replace": {
-                    "symfony/polyfill-ctype": "*",
-                    "symfony/polyfill-iconv": "*",
-                    "symfony/polyfill-php72": "*",
-                    "symfony/polyfill-php73": "*",
-                    "symfony/polyfill-php74": "*",
-                    "symfony/polyfill-php80": "*",
-                    "symfony/polyfill-php81": "*"
-                },
-                "require-dev": {
-                    "codeception/codeception": "^5.1",
-                    "codeception/module-asserts": "^3.0",
-                    "codeception/module-doctrine": "^3.1",
-                    "codeception/module-phpbrowser": "^3.0",
-                    "codeception/module-rest": "^3.4",
-                    "codeception/module-symfony": "^3.4",
-                    "enlightn/security-checker": "^1.11",
-                    "friendsofphp/php-cs-fixer": "^3.57",
-                    "friendsoftwig/twigcs": "^6.4",
-                    "nikic/php-parser": "^5.0",
-                    "phpro/grumphp": "^2.5",
-                    "phpstan/phpstan": "^1.11",
-                    "phpunit/phpunit": "^9.5",
-                    "symfony/browser-kit": "6.4.*",
-                    "symfony/css-selector": "6.4.*",
-                    "symfony/debug-bundle": "6.4.*",
-                    "symfony/maker-bundle": "^1.61",
-                    "symfony/phpunit-bridge": "^7.1",
-                    "symfony/stopwatch": "6.4.*",
-                    "symfony/web-profiler-bundle": "6.4.*"
-                },
-                "time": "2024-11-15T15:37:00+00:00",
-                "type": "project",
-                "extra": {
-                    "symfony": {
-                        "allow-contrib": false,
-                        "require": "6.4.*",
-                        "docker": true
-                    }
-                },
-                "autoload": {
-                    "psr-4": {
-                        "App\\": "src/"
-                    }
-                },
-                "autoload-dev": {
-                    "psr-4": {
-                        "App\\Tests\\": "tests/"
-                    }
-                },
-                "scripts": {
-                    "auto-scripts": {
-                        "cache:clear": "symfony-cmd",
-                        "sass:build": "symfony-cmd",
-                        "assets:install %PUBLIC_DIR%": "symfony-cmd",
-                        "importmap:install": "symfony-cmd"
-                    },
-                    "prod-scripts": [
-                        "bin/console importmap:install",
-                        "bin/console asset-map:compile"
-                    ],
-                    "prod-install-cmd": [
-                        "@prod-scripts"
-                    ],
-                    "post-install-cmd": [
-                        "@auto-scripts"
-                    ],
-                    "post-update-cmd": [
-                        "@auto-scripts"
-                    ]
-                },
-                "license": [
-                    "MIT"
-                ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/inscription",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
+                "description": "A minimal Symfony project recommended to create bare bones applications"
             },
             {
                 "name": "grades-paca/msvc-base",
@@ -872,19 +356,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/msvc-base.git",
-                    "reference": "e69e22300256252072ab265be87720494bc32099"
+                    "reference": "90e3b5aef3d5b53f132e9c2739a9972d90e3bc58"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/e69e22300256252072ab265be87720494bc32099",
-                    "reference": "e69e22300256252072ab265be87720494bc32099",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/90e3b5aef3d5b53f132e9c2739a9972d90e3bc58",
+                    "reference": "90e3b5aef3d5b53f132e9c2739a9972d90e3bc58",
                     "shasum": ""
                 },
                 "require": {
-                    "doctrine/dbal": "^3",
-                    "doctrine/doctrine-bundle": "^2.13",
-                    "doctrine/doctrine-migrations-bundle": "^3.3",
-                    "doctrine/orm": "^3.3",
                     "drenso/symfony-oidc-bundle": "^3.2",
                     "ext-ctype": "*",
                     "ext-iconv": "*",
@@ -896,7 +376,6 @@
                     "runtime/frankenphp-symfony": "^0.2.0",
                     "symfony/asset": "6.4.*",
                     "symfony/asset-mapper": "6.4.*",
-                    "symfony/cache": "^6.4",
                     "symfony/console": "6.4.*",
                     "symfony/dotenv": "6.4.*",
                     "symfony/flex": "^2",
@@ -909,7 +388,7 @@
                     "symfony/twig-bundle": "6.4.*",
                     "symfony/yaml": "6.4.*",
                     "symfonycasts/sass-bundle": "^0.7.0",
-                    "twbs/bootstrap": "5.*",
+                    "twbs/bootstrap": "4.*",
                     "twig/extra-bundle": "^2.12|^3.0",
                     "twig/twig": "^2.12|^3.0"
                 },
@@ -926,12 +405,6 @@
                     "symfony/polyfill-php81": "*"
                 },
                 "require-dev": {
-                    "codeception/codeception": "^5.1",
-                    "codeception/module-asserts": "^3.0",
-                    "codeception/module-doctrine": "^3.1",
-                    "codeception/module-phpbrowser": "^3.0",
-                    "codeception/module-rest": "^3.4",
-                    "codeception/module-symfony": "^3.4",
                     "enlightn/security-checker": "^1.11",
                     "friendsofphp/php-cs-fixer": "^3.57",
                     "friendsoftwig/twigcs": "^6.4",
@@ -941,13 +414,11 @@
                     "phpunit/phpunit": "^9.5",
                     "symfony/browser-kit": "6.4.*",
                     "symfony/css-selector": "6.4.*",
-                    "symfony/debug-bundle": "6.4.*",
-                    "symfony/maker-bundle": "^1.61",
                     "symfony/phpunit-bridge": "^7.1",
                     "symfony/stopwatch": "6.4.*",
                     "symfony/web-profiler-bundle": "6.4.*"
                 },
-                "time": "2024-11-18T14:02:36+00:00",
+                "time": "2024-09-26T13:03:53+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
@@ -975,7 +446,6 @@
                         "importmap:install": "symfony-cmd"
                     },
                     "prod-scripts": [
-                        "bin/console importmap:install",
                         "bin/console asset-map:compile"
                     ],
                     "prod-install-cmd": [
@@ -991,11 +461,7 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/main",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
+                "description": "A minimal Symfony project recommended to create bare bones applications"
             }
         ]
     }
