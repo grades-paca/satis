@@ -451,6 +451,52 @@
             },
             {
                 "name": "grades-paca/bundle-carto",
+                "version": "dev-324271-Carto-Fix-Google-A",
+                "version_normalized": "dev-324271-Carto-Fix-Google-A",
+                "target-dir": "Oru/Bundle/CartoBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-carto.git",
+                    "reference": "981020558d2feea678838c9be2eed94d7e952cc2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/981020558d2feea678838c9be2eed94d7e952cc2",
+                    "reference": "981020558d2feea678838c9be2eed94d7e952cc2",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "ext-mapscript": "*",
+                    "ext-pgsql": "*",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "longitude-one/doctrine-spatial": "^3.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2024-12-02T12:49:18+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\CartoBundle\\": ""
+                    }
+                },
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/3.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-carto",
                 "version": "dev-324271-Carto-anti-google-sync",
                 "version_normalized": "dev-324271-Carto-anti-google-sync",
                 "target-dir": "Oru/Bundle/CartoBundle",
@@ -491,7 +537,7 @@
                 },
                 "description": "Carto du ror3",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-carto/tree/3.0.4",
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/324271-Carto-anti-google-sync",
                     "issues": "https://github.com/grades-paca/bundle-carto/issues"
                 }
             },
