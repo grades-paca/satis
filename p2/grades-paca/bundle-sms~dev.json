@@ -87,6 +87,48 @@
             },
             {
                 "name": "grades-paca/bundle-sms",
+                "version": "dev-334194-route-security",
+                "version_normalized": "dev-334194-route-security",
+                "target-dir": "Oru/Bundle/SmsBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-sms.git",
+                    "reference": "457561e9333d0d39b8019010bc89daf97fba7c75"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-sms/zipball/457561e9333d0d39b8019010bc89daf97fba7c75",
+                    "reference": "457561e9333d0d39b8019010bc89daf97fba7c75",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-listing": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0",
+                    "twig/string-extra": "^3.3"
+                },
+                "time": "2024-11-29T17:12:26+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\SmsBundle\\": ""
+                    }
+                },
+                "description": "Bundle de gestion des SMS",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-sms/tree/334194-route-security",
+                    "issues": "https://github.com/grades-paca/bundle-sms/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-sms",
                 "version": "dev-bootstrap4",
                 "version_normalized": "dev-bootstrap4",
                 "target-dir": "Oru/Bundle/SmsBundle",

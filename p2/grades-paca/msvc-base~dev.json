@@ -251,12 +251,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/msvc-base.git",
-                    "reference": "2a8dc2a915d20e395e399bc8da458027749241d5"
+                    "reference": "1f0b7a2b694969d7404ca0c8274a80cc4771a988"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/2a8dc2a915d20e395e399bc8da458027749241d5",
-                    "reference": "2a8dc2a915d20e395e399bc8da458027749241d5",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/1f0b7a2b694969d7404ca0c8274a80cc4771a988",
+                    "reference": "1f0b7a2b694969d7404ca0c8274a80cc4771a988",
                     "shasum": ""
                 },
                 "require": {
@@ -278,6 +278,7 @@
                     "symfony/cache": "^6.4",
                     "symfony/console": "6.4.*",
                     "symfony/dotenv": "6.4.*",
+                    "symfony/event-dispatcher": "6.4.*",
                     "symfony/filesystem": "6.4.*",
                     "symfony/flex": "^2",
                     "symfony/form": "6.4.*",
@@ -331,7 +332,7 @@
                     "symfony/stopwatch": "6.4.*",
                     "symfony/web-profiler-bundle": "6.4.*"
                 },
-                "time": "2024-11-22T18:51:54+00:00",
+                "time": "2024-12-01T21:49:34+00:00",
                 "type": "project",
                 "extra": {
                     "symfony": {
