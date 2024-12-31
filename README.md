@@ -207,8 +207,10 @@ Déjà sur 'master'
 Votre branche est à jour avec 'origin/master'.
 ```
 - Si votre commande a fait une tonne d'erreur de la forme
-```Making package : grades-paca/bundle-xxxx
-Failed to update git@github.com:grades-paca/xxxxx, package information from this repository may be outdated```
+```
+Making package : grades-paca/bundle-xxxx
+Failed to update git@github.com:grades-paca/xxxxx, package information from this repository may be outdated
+```
 et que toi aussi tu as l'habitude de redémarrer ton Mac une fois par mois, et bien c'est maintenant!
 - Satis lance une action github https://github.com/grades-paca/satis/actions, un peu longue aussi
 - Le nouveau tag sera disponible sur la liste des paquets disponibles: https://grades-paca.github.io/satis/
