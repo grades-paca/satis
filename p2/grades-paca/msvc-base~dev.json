@@ -121,11 +121,7 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/301819-codeception",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
+                "description": "A minimal Symfony project recommended to create bare bones applications"
             },
             {
                 "name": "grades-paca/msvc-base",
@@ -254,11 +250,7 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/316441-messenger",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
+                "description": "A minimal Symfony project recommended to create bare bones applications"
             },
             {
                 "name": "grades-paca/msvc-base",
@@ -344,7 +336,7 @@
                     "symfony/stopwatch": "6.4.*",
                     "symfony/web-profiler-bundle": "6.4.*"
                 },
-                "time": "2024-12-20T13:56:21+00:00",
+                "time": "2024-12-20T13:51:33+00:00",
                 "type": "project",
                 "extra": {
                     "symfony": {
@@ -387,11 +379,7 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/338530-ci",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
+                "description": "A minimal Symfony project recommended to create bare bones applications"
             },
             {
                 "name": "grades-paca/msvc-base",
@@ -504,11 +492,7 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/fix-gitignore",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
+                "description": "A minimal Symfony project recommended to create bare bones applications"
             },
             {
                 "name": "grades-paca/msvc-base",
@@ -642,11 +626,7 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/inscription",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
+                "description": "A minimal Symfony project recommended to create bare bones applications"
             },
             {
                 "name": "grades-paca/msvc-base",
@@ -775,11 +755,7 @@
                 "license": [
                     "MIT"
                 ],
-                "description": "A minimal Symfony project recommended to create bare bones applications",
-                "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/main",
-                    "issues": "https://github.com/grades-paca/msvc-base/issues"
-                }
+                "description": "A minimal Symfony project recommended to create bare bones applications"
             }
         ]
     }
