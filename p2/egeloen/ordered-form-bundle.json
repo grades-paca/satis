@@ -7,7 +7,7 @@
                 "version_normalized": "3.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/grades-paca/IvoryOrderedFormBundle.git",
+                    "url": "git@github.com:grades-paca/IvoryOrderedFormBundle.git",
                     "reference": "28a16b4f92648eac3bbd8d76eb739540e59a438f"
                 },
                 "dist": {
@@ -51,10 +51,7 @@
                 "keywords": [
                     "form",
                     "order"
-                ],
-                "support": {
-                    "source": "https://github.com/grades-paca/IvoryOrderedFormBundle/tree/3.0.1"
-                }
+                ]
             }
         ]
     }

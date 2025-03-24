@@ -193,18 +193,18 @@
             },
             {
                 "name": "grades-paca/bundle-mail",
-                "version": "1.7.1.x-dev",
+                "version": "v1.7.1.x-dev",
                 "version_normalized": "1.7.1.9999999-dev",
                 "target-dir": "Oru/Bundle/MailBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-mail.git",
-                    "reference": "9ec7c98343a9c6b427e92d40b2725ca5348c1d6d"
+                    "reference": "f5b4cb0784bac223b357979ab37f505616f62709"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/9ec7c98343a9c6b427e92d40b2725ca5348c1d6d",
-                    "reference": "9ec7c98343a9c6b427e92d40b2725ca5348c1d6d",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-mail/zipball/f5b4cb0784bac223b357979ab37f505616f62709",
+                    "reference": "f5b4cb0784bac223b357979ab37f505616f62709",
                     "shasum": ""
                 },
                 "require": {
