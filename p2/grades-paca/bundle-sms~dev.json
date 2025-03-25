@@ -9,12 +9,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-sms.git",
-                    "reference": "5483b31374ff16c17ff7208033ded02223ce5305"
+                    "reference": "e590095e83bcc1fcb564d447905c33ad702c9d54"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-sms/zipball/5483b31374ff16c17ff7208033ded02223ce5305",
-                    "reference": "5483b31374ff16c17ff7208033ded02223ce5305",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-sms/zipball/e590095e83bcc1fcb564d447905c33ad702c9d54",
+                    "reference": "e590095e83bcc1fcb564d447905c33ad702c9d54",
                     "shasum": ""
                 },
                 "require": {
@@ -25,7 +25,7 @@
                     "symfony/framework-bundle": "^5.0",
                     "twig/string-extra": "^3.3"
                 },
-                "time": "2023-12-12T10:54:56+00:00",
+                "time": "2025-01-21T09:53:37+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
