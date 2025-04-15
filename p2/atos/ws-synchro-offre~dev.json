@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-wsoffre.git",
-                    "reference": "466e5d766901e96e265d9b4441244cc7ecc46b74"
+                    "reference": "c3c417a70fbc9291bed053c0405ca783ad96e9d8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-wsoffre/zipball/466e5d766901e96e265d9b4441244cc7ecc46b74",
-                    "reference": "466e5d766901e96e265d9b4441244cc7ecc46b74",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsoffre/zipball/c3c417a70fbc9291bed053c0405ca783ad96e9d8",
+                    "reference": "c3c417a70fbc9291bed053c0405ca783ad96e9d8",
                     "shasum": ""
                 },
                 "require": {
@@ -21,7 +21,7 @@
                     "php": ">=7.0",
                     "symfony/framework-bundle": "~4.4 || ~5.4"
                 },
-                "time": "2023-11-30T15:42:49+00:00",
+                "time": "2025-04-15T12:25:36+00:00",
                 "type": "symfony-bundle",
                 "autoload": {
                     "psr-4": {
