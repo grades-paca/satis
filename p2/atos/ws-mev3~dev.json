@@ -3,6 +3,40 @@
         "atos/ws-mev3": [
             {
                 "name": "atos/ws-mev3",
+                "version": "dev-350931-erreur-transformateur",
+                "version_normalized": "dev-350931-erreur-transformateur",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-wsv3.git",
+                    "reference": "338a06040f8a7d9d40fd7158c3368351be8693f2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsv3/zipball/338a06040f8a7d9d40fd7158c3368351be8693f2",
+                    "reference": "338a06040f8a7d9d40fd7158c3368351be8693f2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0",
+                    "symfony/filesystem": "~4.4 || ~5.4",
+                    "symfony/framework-bundle": "~4.4 || ~5.4"
+                },
+                "time": "2025-06-02T11:43:02+00:00",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\WsMEV3Bundle\\": "/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOS Bundle modèle d'exposition V3"
+            },
+            {
+                "name": "atos/ws-mev3",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
