@@ -34,7 +34,11 @@
                         "Oru\\Bundle\\AttachmentBundle\\": ""
                     }
                 },
-                "description": "Attachment Bundle"
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-attachment",
@@ -75,7 +79,11 @@
                         "Oru\\Bundle\\AttachmentBundle\\": ""
                     }
                 },
-                "description": "Attachment Bundle"
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.7.8",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-attachment",
@@ -117,7 +125,11 @@
                         "Oru\\Bundle\\AttachmentBundle\\": ""
                     }
                 },
-                "description": "Attachment Bundle"
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/2.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-attachment",
@@ -159,7 +171,11 @@
                         "Oru\\Bundle\\AttachmentBundle\\": ""
                     }
                 },
-                "description": "Attachment Bundle"
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/2.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-attachment",
@@ -189,7 +205,7 @@
                     "symfony/framework-bundle": "^5.0",
                     "xenolope/quahog": "^3.0"
                 },
-                "time": "2024-10-25T09:42:45+00:00",
+                "time": "2024-10-25T09:43:11+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -201,7 +217,11 @@
                         "Oru\\Bundle\\AttachmentBundle\\": ""
                     }
                 },
-                "description": "Attachment Bundle"
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/2.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-attachment",
@@ -243,7 +263,11 @@
                         "Oru\\Bundle\\AttachmentBundle\\": ""
                     }
                 },
-                "description": "Attachment Bundle"
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/2.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-attachment",
@@ -285,7 +309,11 @@
                         "Oru\\Bundle\\AttachmentBundle\\": ""
                     }
                 },
-                "description": "Attachment Bundle"
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-attachment",
@@ -327,7 +355,11 @@
                         "Oru\\Bundle\\AttachmentBundle\\": ""
                     }
                 },
-                "description": "Attachment Bundle"
+                "description": "Attachment Bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-attachment/tree/1.7.6",
+                    "issues": "https://github.com/grades-paca/bundle-attachment/issues"
+                }
             }
         ]
     }

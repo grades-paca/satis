@@ -33,7 +33,49 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle modèle d'exposition V3"
+                "description": "Symfony ATOS Bundle modèle d'exposition V3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsv3/tree/1.3.1",
+                    "issues": "https://github.com/grades-paca/bundle-wsv3/issues"
+                }
+            },
+            {
+                "name": "atos/ws-mev3",
+                "version": "dev-fix/lecture-vihf-trNotif",
+                "version_normalized": "dev-fix/lecture-vihf-trNotif",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-wsv3.git",
+                    "reference": "ac2c3f00c4b0055a7351e2680c28f67659142ee4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsv3/zipball/ac2c3f00c4b0055a7351e2680c28f67659142ee4",
+                    "reference": "ac2c3f00c4b0055a7351e2680c28f67659142ee4",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0",
+                    "symfony/filesystem": "~4.4 || ~5.4",
+                    "symfony/framework-bundle": "~4.4 || ~5.4"
+                },
+                "time": "2025-10-28T13:56:17+00:00",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\WsMEV3Bundle\\": "/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOS Bundle modèle d'exposition V3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsv3/tree/fix/lecture-vihf-trNotif",
+                    "issues": "https://github.com/grades-paca/bundle-wsv3/issues"
+                }
             },
             {
                 "name": "atos/ws-mev3",
@@ -42,12 +84,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-wsv3.git",
-                    "reference": "a2b6956d7c144c08332beefb5cf246b58c92ddd3"
+                    "reference": "1e49d64f76d2c8325c87bc310db741efb5892f91"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-wsv3/zipball/a2b6956d7c144c08332beefb5cf246b58c92ddd3",
-                    "reference": "a2b6956d7c144c08332beefb5cf246b58c92ddd3",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wsv3/zipball/1e49d64f76d2c8325c87bc310db741efb5892f91",
+                    "reference": "1e49d64f76d2c8325c87bc310db741efb5892f91",
                     "shasum": ""
                 },
                 "require": {
@@ -55,7 +97,7 @@
                     "symfony/filesystem": "~4.4 || ~5.4",
                     "symfony/framework-bundle": "~4.4 || ~5.4"
                 },
-                "time": "2025-02-12T12:02:33+00:00",
+                "time": "2025-06-13T08:27:20+00:00",
                 "default-branch": true,
                 "type": "symfony-bundle",
                 "autoload": {
@@ -68,7 +110,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle modèle d'exposition V3"
+                "description": "Symfony ATOS Bundle modèle d'exposition V3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wsv3/tree/main",
+                    "issues": "https://github.com/grades-paca/bundle-wsv3/issues"
+                }
             }
         ]
     }
