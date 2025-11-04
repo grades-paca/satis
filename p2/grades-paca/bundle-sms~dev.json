@@ -123,7 +123,7 @@
                 },
                 "description": "Bundle de gestion des SMS",
                 "support": {
-                    "source": "https://github.com/grades-paca/bundle-sms/tree/2.1.0",
+                    "source": "https://github.com/grades-paca/bundle-sms/tree/334194-route-security",
                     "issues": "https://github.com/grades-paca/bundle-sms/issues"
                 }
             },
@@ -135,12 +135,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-sms.git",
-                    "reference": "6f172e3cba86cefeae24ea1d786be77712de8a24"
+                    "reference": "ecd43ecf4ca1ebc33fffca90d98f260cb073b597"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-sms/zipball/6f172e3cba86cefeae24ea1d786be77712de8a24",
-                    "reference": "6f172e3cba86cefeae24ea1d786be77712de8a24",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-sms/zipball/ecd43ecf4ca1ebc33fffca90d98f260cb073b597",
+                    "reference": "ecd43ecf4ca1ebc33fffca90d98f260cb073b597",
                     "shasum": ""
                 },
                 "require": {
@@ -151,7 +151,7 @@
                     "symfony/framework-bundle": "^5.0",
                     "twig/string-extra": "^3.3"
                 },
-                "time": "2025-10-29T13:37:32+00:00",
+                "time": "2025-11-04T12:30:38+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
