@@ -33,11 +33,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.2.3",
-                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
-                }
+                "description": "Symfony ATOS Bundle synchronisation de l'offre"
             },
             {
                 "name": "atos/ws-synchro-offre",
@@ -71,11 +67,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/297014-needReloadMessenger-setting",
-                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
-                }
+                "description": "Symfony ATOS Bundle synchronisation de l'offre"
             },
             {
                 "name": "atos/ws-synchro-offre",
@@ -109,11 +101,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/fix/341890-log-api",
-                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
-                }
+                "description": "Symfony ATOS Bundle synchronisation de l'offre"
             },
             {
                 "name": "atos/ws-synchro-offre",
@@ -148,11 +136,7 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle synchronisation de l'offre",
-                "support": {
-                    "source": "https://github.com/grades-paca/bundle-wsoffre/tree/1.2.1",
-                    "issues": "https://github.com/grades-paca/bundle-wsoffre/issues"
-                }
+                "description": "Symfony ATOS Bundle synchronisation de l'offre"
             }
         ]
     }
