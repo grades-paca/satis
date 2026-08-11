@@ -97162,19 +97162,19 @@
                     "issues": "https://github.com/grades-paca/msvc-messages/issues"
                 }
             },
-            "dev-main": {
+            "1.1.1": {
                 "name": "grades-paca/msvc-messages",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/msvc-messages.git",
-                    "reference": "e276c6e667a1ab3f51a87fdb6f7a19dfb3c9dfbc"
+                    "reference": "142fb529ba6802679dca1c17f628a0991750bad8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/e276c6e667a1ab3f51a87fdb6f7a19dfb3c9dfbc",
-                    "reference": "e276c6e667a1ab3f51a87fdb6f7a19dfb3c9dfbc",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/142fb529ba6802679dca1c17f628a0991750bad8",
+                    "reference": "142fb529ba6802679dca1c17f628a0991750bad8",
                     "shasum": ""
                 },
                 "require": {
@@ -97182,14 +97182,54 @@
                     "justinrainbow/json-schema": "^6.3.1",
                     "php": ">=7.4",
                     "ramsey/uuid": "^4.7",
-                    "symfony/serializer": "^7.4",
+                    "symfony/serializer": "^7.0",
                     "wol-soft/php-json-schema-model-generator": "^0.24.0"
                 },
                 "require-dev": {
                     "friendsofphp/php-cs-fixer": "^3.59",
                     "phpunit/phpunit": "^11.3"
                 },
-                "time": "2026-08-11T12:40:27+00:00",
+                "time": "2026-08-11T15:54:18+00:00",
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Shared\\Messages\\": "src/"
+                    }
+                },
+                "description": "Message classes for microservices",
+                "support": {
+                    "source": "https://github.com/grades-paca/msvc-messages/tree/1.1.1",
+                    "issues": "https://github.com/grades-paca/msvc-messages/issues"
+                }
+            },
+            "dev-main": {
+                "name": "grades-paca/msvc-messages",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/msvc-messages.git",
+                    "reference": "142fb529ba6802679dca1c17f628a0991750bad8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/142fb529ba6802679dca1c17f628a0991750bad8",
+                    "reference": "142fb529ba6802679dca1c17f628a0991750bad8",
+                    "shasum": ""
+                },
+                "require": {
+                    "grades-paca/msvc-contracts": "dev-main",
+                    "justinrainbow/json-schema": "^6.3.1",
+                    "php": ">=7.4",
+                    "ramsey/uuid": "^4.7",
+                    "symfony/serializer": "^7.0",
+                    "wol-soft/php-json-schema-model-generator": "^0.24.0"
+                },
+                "require-dev": {
+                    "friendsofphp/php-cs-fixer": "^3.59",
+                    "phpunit/phpunit": "^11.3"
+                },
+                "time": "2026-08-11T15:54:18+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
@@ -97199,7 +97239,7 @@
                 },
                 "description": "Message classes for microservices",
                 "support": {
-                    "source": "https://github.com/grades-paca/msvc-messages/tree/1.1.0",
+                    "source": "https://github.com/grades-paca/msvc-messages/tree/1.1.1",
                     "issues": "https://github.com/grades-paca/msvc-messages/issues"
                 }
             }
