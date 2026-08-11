@@ -35,7 +35,11 @@
                         "Oru\\Bundle\\CrudBundle\\": ""
                     }
                 },
-                "description": "CRUD bundle"
+                "description": "CRUD bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-crud/tree/1.0.0",
+                    "issues": "https://github.com/grades-paca/bundle-crud/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-crud",
@@ -71,7 +75,11 @@
                         "Oru\\Bundle\\CrudBundle\\": ""
                     }
                 },
-                "description": "CRUD bundle"
+                "description": "CRUD bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-crud/tree/1.0.1",
+                    "issues": "https://github.com/grades-paca/bundle-crud/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-crud",
@@ -107,7 +115,11 @@
                         "Oru\\Bundle\\CrudBundle\\": ""
                     }
                 },
-                "description": "CRUD bundle"
+                "description": "CRUD bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-crud/tree/1.1.0",
+                    "issues": "https://github.com/grades-paca/bundle-crud/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-crud",
@@ -143,7 +155,11 @@
                         "Oru\\Bundle\\CrudBundle\\": ""
                     }
                 },
-                "description": "CRUD bundle"
+                "description": "CRUD bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-crud/tree/1.2.0",
+                    "issues": "https://github.com/grades-paca/bundle-crud/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-crud",
@@ -179,7 +195,11 @@
                         "Oru\\Bundle\\CrudBundle\\": ""
                     }
                 },
-                "description": "CRUD bundle"
+                "description": "CRUD bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-crud/tree/1.2.1",
+                    "issues": "https://github.com/grades-paca/bundle-crud/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-crud",
@@ -215,7 +235,11 @@
                         "Oru\\Bundle\\CrudBundle\\": ""
                     }
                 },
-                "description": "CRUD bundle"
+                "description": "CRUD bundle",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-crud/tree/1.2.2",
+                    "issues": "https://github.com/grades-paca/bundle-crud/issues"
+                }
             }
         ]
     }

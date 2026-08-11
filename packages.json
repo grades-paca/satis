@@ -1,13 +1,14 @@
 {
     "packages": [],
     "includes": {
-        "include/all$55037de092ce6b2147797383143dadfc24520309.json": {
-            "sha1": "55037de092ce6b2147797383143dadfc24520309"
+        "include/all$be4fd00e4a59231e1a0deaf8a3bb9f934fe05128.json": {
+            "sha1": "be4fd00e4a59231e1a0deaf8a3bb9f934fe05128"
         }
     },
     "metadata-url": "/satis/p2/%package%.json",
     "available-packages": [
         "atos/bundle-rass",
+        "atos/ws-mev3",
         "atos/ws-synchro-lits",
         "atos/ws-synchro-offre",
         "egeloen/ordered-form",
@@ -51,6 +52,9 @@
         "grades-paca/bundle-translation",
         "grades-paca/bundle-version",
         "grades-paca/bundle-web-client",
+        "grades-paca/msvc-base",
+        "grades-paca/msvc-contracts",
+        "grades-paca/msvc-messages",
         "grades-paca/ror"
     ]
 }

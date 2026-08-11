@@ -38,7 +38,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.0.13",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -78,7 +82,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.1.6",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -118,7 +126,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.3.4",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -158,36 +170,40 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.4.7",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
-                "version": "v1.8.1.x-dev",
-                "version_normalized": "1.8.1.9999999-dev",
+                "version": "1.7.x-dev",
+                "version_normalized": "1.7.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/CartoBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "5a18b4a665f8bc1a99011ce436ae3477e964a311"
+                    "reference": "8968456e33981794c5fc77dcbe82fac895a72111"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/5a18b4a665f8bc1a99011ce436ae3477e964a311",
-                    "reference": "5a18b4a665f8bc1a99011ce436ae3477e964a311",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/8968456e33981794c5fc77dcbe82fac895a72111",
+                    "reference": "8968456e33981794c5fc77dcbe82fac895a72111",
                     "shasum": ""
                 },
                 "require": {
+                    "creof/doctrine2-spatial": "^1.2",
                     "ext-gd": "*",
                     "ext-mapscript": "*",
                     "ext-pgsql": "*",
-                    "grades-paca/bundle-design": ">=1.9",
-                    "grades-paca/bundle-install": ">=1.4",
+                    "grades-paca/bundle-design": "^1.3",
+                    "grades-paca/bundle-install": ">=1.0.5",
                     "grades-paca/bundle-setting": "*",
                     "grades-paca/bundle-web-client": ">=1.1.7",
-                    "longitude-one/doctrine-spatial": "^3.0",
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
+                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2023-03-09T13:34:41+00:00",
+                "time": "2023-10-03T14:33:46+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -199,7 +215,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.7.7",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -209,12 +229,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "1060c845449058b84c52ab238901ac7fc9213b0e"
+                    "reference": "61d543e4a1be2919ef27f93fad0b9a91fce29106"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/1060c845449058b84c52ab238901ac7fc9213b0e",
-                    "reference": "1060c845449058b84c52ab238901ac7fc9213b0e",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/61d543e4a1be2919ef27f93fad0b9a91fce29106",
+                    "reference": "61d543e4a1be2919ef27f93fad0b9a91fce29106",
                     "shasum": ""
                 },
                 "require": {
@@ -229,7 +249,7 @@
                     "symfony/console": "^5.0",
                     "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2023-06-08T14:05:07+00:00",
+                "time": "2024-06-11T15:23:45+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -241,22 +261,26 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/2.x",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
-                "version": "227490.x-dev",
-                "version_normalized": "227490.9999999.9999999.9999999-dev",
+                "version": "263530.x-dev",
+                "version_normalized": "263530.9999999.9999999.9999999-dev",
                 "target-dir": "Oru/Bundle/CartoBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "bca0e9a5d969a7ac201e1ce04091242b5999147c"
+                    "reference": "9914c4220c01697c22a85e25d2e8da8071e21934"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/bca0e9a5d969a7ac201e1ce04091242b5999147c",
-                    "reference": "bca0e9a5d969a7ac201e1ce04091242b5999147c",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/9914c4220c01697c22a85e25d2e8da8071e21934",
+                    "reference": "9914c4220c01697c22a85e25d2e8da8071e21934",
                     "shasum": ""
                 },
                 "require": {
@@ -270,7 +294,7 @@
                     "grades-paca/bundle-web-client": ">=1.1.7",
                     "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
                 },
-                "time": "2022-03-29T09:06:28+00:00",
+                "time": "2023-09-19T13:41:34+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -282,7 +306,57 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.8.2",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-carto",
+                "version": "3.x-dev",
+                "version_normalized": "3.9999999.9999999.9999999-dev",
+                "target-dir": "Oru/Bundle/CartoBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-carto.git",
+                    "reference": "8ef42a1e66a8a6737403cb7ca627bcc3bb69b6aa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/8ef42a1e66a8a6737403cb7ca627bcc3bb69b6aa",
+                    "reference": "8ef42a1e66a8a6737403cb7ca627bcc3bb69b6aa",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "ext-mapscript": "*",
+                    "ext-pgsql": "*",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "longitude-one/doctrine-spatial": "^3.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2024-12-02T16:38:12+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\CartoBundle\\": ""
+                    }
+                },
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/3.x",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -323,36 +397,41 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/49745",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
-                "version": "dev-227490_b",
-                "version_normalized": "dev-227490_b",
+                "version": "dev-313549-nouvelle-api-IGN",
+                "version_normalized": "dev-313549-nouvelle-api-IGN",
                 "target-dir": "Oru/Bundle/CartoBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "3421826d810cc77e954fd57b507838e480a844ed"
+                    "reference": "5bdbdf92818acd40d8c24014939a0629640f98b6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/3421826d810cc77e954fd57b507838e480a844ed",
-                    "reference": "3421826d810cc77e954fd57b507838e480a844ed",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/5bdbdf92818acd40d8c24014939a0629640f98b6",
+                    "reference": "5bdbdf92818acd40d8c24014939a0629640f98b6",
                     "shasum": ""
                 },
                 "require": {
-                    "creof/doctrine2-spatial": "^1.2",
                     "ext-gd": "*",
                     "ext-mapscript": "*",
                     "ext-pgsql": "*",
-                    "grades-paca/bundle-design": "^1.3",
-                    "grades-paca/bundle-install": ">=1.0.5",
-                    "grades-paca/bundle-setting": "*",
-                    "grades-paca/bundle-web-client": ">=1.1.7",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "longitude-one/doctrine-spatial": "^3.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2022-03-30T15:36:15+00:00",
+                "time": "2024-08-22T09:11:24+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -364,36 +443,41 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/3.0.3",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
-                "version": "dev-227940_c",
-                "version_normalized": "dev-227940_c",
+                "version": "dev-324271-Carto-Fix-Google-A",
+                "version_normalized": "dev-324271-Carto-Fix-Google-A",
                 "target-dir": "Oru/Bundle/CartoBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "8fb9ee803a5219c6c562ca8f8c2bbf1968f5c046"
+                    "reference": "981020558d2feea678838c9be2eed94d7e952cc2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/8fb9ee803a5219c6c562ca8f8c2bbf1968f5c046",
-                    "reference": "8fb9ee803a5219c6c562ca8f8c2bbf1968f5c046",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/981020558d2feea678838c9be2eed94d7e952cc2",
+                    "reference": "981020558d2feea678838c9be2eed94d7e952cc2",
                     "shasum": ""
                 },
                 "require": {
-                    "creof/doctrine2-spatial": "^1.2",
                     "ext-gd": "*",
                     "ext-mapscript": "*",
                     "ext-pgsql": "*",
-                    "grades-paca/bundle-design": "^1.3",
-                    "grades-paca/bundle-install": ">=1.0.5",
-                    "grades-paca/bundle-setting": "*",
-                    "grades-paca/bundle-web-client": ">=1.1.7",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "longitude-one/doctrine-spatial": "^3.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2022-03-31T09:17:20+00:00",
+                "time": "2024-12-02T12:49:18+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -405,36 +489,41 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/3.0.4",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
-                "version": "dev-fix/importContainer",
-                "version_normalized": "dev-fix/importContainer",
+                "version": "dev-324271-Carto-anti-google-sync",
+                "version_normalized": "dev-324271-Carto-anti-google-sync",
                 "target-dir": "Oru/Bundle/CartoBundle",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "54b80b746404bfd92ef09552e15a0627589e4888"
+                    "reference": "20d3ddfe321d85b934be0337af98989967230928"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/54b80b746404bfd92ef09552e15a0627589e4888",
-                    "reference": "54b80b746404bfd92ef09552e15a0627589e4888",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/20d3ddfe321d85b934be0337af98989967230928",
+                    "reference": "20d3ddfe321d85b934be0337af98989967230928",
                     "shasum": ""
                 },
                 "require": {
-                    "creof/doctrine2-spatial": "^1.2",
                     "ext-gd": "*",
                     "ext-mapscript": "*",
                     "ext-pgsql": "*",
-                    "grades-paca/bundle-design": "^1.3",
-                    "grades-paca/bundle-install": ">=1.0.5",
-                    "grades-paca/bundle-setting": "*",
-                    "grades-paca/bundle-web-client": ">=1.1.7",
-                    "symfony/framework-bundle": "^2.8 || ^3.0 || ^4.0"
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "longitude-one/doctrine-spatial": "^3.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
                 },
-                "time": "2022-03-28T09:09:05+00:00",
+                "time": "2024-11-29T13:32:50+00:00",
                 "type": "bundle",
                 "extra": {
                     "branch-alias": {
@@ -446,7 +535,57 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/324271-Carto-anti-google-sync",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
+            },
+            {
+                "name": "grades-paca/bundle-carto",
+                "version": "dev-324271-fix-google",
+                "version_normalized": "dev-324271-fix-google",
+                "target-dir": "Oru/Bundle/CartoBundle",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-carto.git",
+                    "reference": "17583d8587997b58535fd517b4e66739a823bf65"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/17583d8587997b58535fd517b4e66739a823bf65",
+                    "reference": "17583d8587997b58535fd517b4e66739a823bf65",
+                    "shasum": ""
+                },
+                "require": {
+                    "ext-gd": "*",
+                    "ext-mapscript": "*",
+                    "ext-pgsql": "*",
+                    "grades-paca/bundle-design": "^3.0",
+                    "grades-paca/bundle-install": "^2.0",
+                    "grades-paca/bundle-setting": "^2.0",
+                    "grades-paca/bundle-web-client": "^2.0",
+                    "longitude-one/doctrine-spatial": "^3.0",
+                    "symfony/console": "^5.0",
+                    "symfony/framework-bundle": "^5.0"
+                },
+                "time": "2024-10-31T07:45:22+00:00",
+                "type": "bundle",
+                "extra": {
+                    "branch-alias": {
+                        "dev-master": "1.0-dev"
+                    }
+                },
+                "autoload": {
+                    "psr-0": {
+                        "Oru\\Bundle\\CartoBundle\\": ""
+                    }
+                },
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/324271-fix-google",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -488,7 +627,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/majSF5",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             },
             {
                 "name": "grades-paca/bundle-carto",
@@ -530,130 +673,11 @@
                         "Oru\\Bundle\\CartoBundle\\": ""
                     }
                 },
-                "description": "Carto du ror3"
-            },
-            {
-                "name": "grades-paca/bundle-carto",
-                "version": "dev-tempTestPush",
-                "version_normalized": "dev-tempTestPush",
-                "target-dir": "Oru/Bundle/CartoBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "aeee48ad4dad1f62f48846c2c1a8b62361fc6c4b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/aeee48ad4dad1f62f48846c2c1a8b62361fc6c4b",
-                    "reference": "aeee48ad4dad1f62f48846c2c1a8b62361fc6c4b",
-                    "shasum": ""
-                },
-                "require": {
-                    "creof/doctrine2-spatial": "~1.2.0",
-                    "ext-gd": "*",
-                    "ext-mapscript": "*",
-                    "ext-pgsql": "*",
-                    "grades-paca/bundle-design": "^1.3.0",
-                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
-                    "grades-paca/bundle-setting": "*",
-                    "grades-paca/bundle-web-client": ">=1.1.7",
-                    "symfony/framework-bundle": "^2.8 || ^3.0"
-                },
-                "time": "2019-08-06T10:17:49+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\CartoBundle\\": ""
-                    }
-                },
-                "description": "Carto du ror3"
-            },
-            {
-                "name": "grades-paca/bundle-carto",
-                "version": "dev-test",
-                "version_normalized": "dev-test",
-                "target-dir": "Oru/Bundle/CartoBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "aeee48ad4dad1f62f48846c2c1a8b62361fc6c4b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/aeee48ad4dad1f62f48846c2c1a8b62361fc6c4b",
-                    "reference": "aeee48ad4dad1f62f48846c2c1a8b62361fc6c4b",
-                    "shasum": ""
-                },
-                "require": {
-                    "creof/doctrine2-spatial": "~1.2.0",
-                    "ext-gd": "*",
-                    "ext-mapscript": "*",
-                    "ext-pgsql": "*",
-                    "grades-paca/bundle-design": "^1.3.0",
-                    "grades-paca/bundle-install": ">=1.0.5,<3.0",
-                    "grades-paca/bundle-setting": "*",
-                    "grades-paca/bundle-web-client": ">=1.1.7",
-                    "symfony/framework-bundle": "^2.8 || ^3.0"
-                },
-                "time": "2019-08-06T10:17:49+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\CartoBundle\\": ""
-                    }
-                },
-                "description": "Carto du ror3"
-            },
-            {
-                "name": "grades-paca/bundle-carto",
-                "version": "dev-updateComposer",
-                "version_normalized": "dev-updateComposer",
-                "target-dir": "Oru/Bundle/CartoBundle",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:grades-paca/bundle-carto.git",
-                    "reference": "6416d347e5700c47d51474a9f020cc0664c7b5f5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-carto/zipball/6416d347e5700c47d51474a9f020cc0664c7b5f5",
-                    "reference": "6416d347e5700c47d51474a9f020cc0664c7b5f5",
-                    "shasum": ""
-                },
-                "require": {
-                    "creof/doctrine2-spatial": "^1.2",
-                    "ext-gd": "*",
-                    "ext-mapscript": "*",
-                    "ext-pgsql": "*",
-                    "grades-paca/bundle-design": ">=1.9",
-                    "grades-paca/bundle-install": ">=1.4",
-                    "grades-paca/bundle-setting": "*",
-                    "grades-paca/bundle-web-client": ">=1.1.7",
-                    "symfony/framework-bundle": "^4.0 || ^5.0"
-                },
-                "time": "2023-01-26T10:03:25+00:00",
-                "type": "bundle",
-                "extra": {
-                    "branch-alias": {
-                        "dev-master": "1.0-dev"
-                    }
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Oru\\Bundle\\CartoBundle\\": ""
-                    }
-                },
-                "description": "Carto du ror3"
+                "description": "Carto du ror3",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-carto/tree/1.8.0",
+                    "issues": "https://github.com/grades-paca/bundle-carto/issues"
+                }
             }
         ]
     }

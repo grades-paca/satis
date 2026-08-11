@@ -3,24 +3,135 @@
         "atos/ws-synchro-lits": [
             {
                 "name": "atos/ws-synchro-lits",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "2.x-dev",
+                "version_normalized": "2.9999999.9999999.9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/bundle-wslits.git",
-                    "reference": "4b2e5b7b1e63de3d3f546ae62edcd9a6e71bae8f"
+                    "reference": "ac1d816b91ed9aa4f7b721fcc4b313ceafca2dab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/4b2e5b7b1e63de3d3f546ae62edcd9a6e71bae8f",
-                    "reference": "4b2e5b7b1e63de3d3f546ae62edcd9a6e71bae8f",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/ac1d816b91ed9aa4f7b721fcc4b313ceafca2dab",
+                    "reference": "ac1d816b91ed9aa4f7b721fcc4b313ceafca2dab",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=7.0",
                     "symfony/framework-bundle": "~4.4 || ~5.4"
                 },
-                "time": "2023-05-25T14:01:48+00:00",
+                "time": "2026-05-27T09:06:06+00:00",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\WsLitsBundle\\": "/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOS Bundle disponibilité des lits",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wslits/tree/2.4.4",
+                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
+                }
+            },
+            {
+                "name": "atos/ws-synchro-lits",
+                "version": "dev-379301-verbose",
+                "version_normalized": "dev-379301-verbose",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-wslits.git",
+                    "reference": "b72921aad55b5458a9bbaaa1ab4258e821c3b045"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/b72921aad55b5458a9bbaaa1ab4258e821c3b045",
+                    "reference": "b72921aad55b5458a9bbaaa1ab4258e821c3b045",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0",
+                    "symfony/framework-bundle": "~4.4 || ~5.4"
+                },
+                "time": "2025-11-13T07:52:52+00:00",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\WsLitsBundle\\": "/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOS Bundle disponibilité des lits",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wslits/tree/2.4.3",
+                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
+                }
+            },
+            {
+                "name": "atos/ws-synchro-lits",
+                "version": "dev-393830-id-externe",
+                "version_normalized": "dev-393830-id-externe",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-wslits.git",
+                    "reference": "dd6127e104268112e7bec0ddd43f11c548dae1ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/dd6127e104268112e7bec0ddd43f11c548dae1ab",
+                    "reference": "dd6127e104268112e7bec0ddd43f11c548dae1ab",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0",
+                    "symfony/framework-bundle": "~4.4 || ~5.4"
+                },
+                "time": "2026-04-01T14:35:13+00:00",
+                "type": "symfony-bundle",
+                "autoload": {
+                    "psr-4": {
+                        "ATOS\\WsLitsBundle\\": "/"
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "ATOS"
+                    }
+                ],
+                "description": "Symfony ATOS Bundle disponibilité des lits",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wslits/tree/393830-id-externe",
+                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
+                }
+            },
+            {
+                "name": "atos/ws-synchro-lits",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:grades-paca/bundle-wslits.git",
+                    "reference": "a3d445a3f0c76c794ca51192684d85cb67c31449"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/grades-paca/bundle-wslits/zipball/a3d445a3f0c76c794ca51192684d85cb67c31449",
+                    "reference": "a3d445a3f0c76c794ca51192684d85cb67c31449",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0",
+                    "symfony/framework-bundle": "~4.4 || ~5.4"
+                },
+                "time": "2023-11-30T15:53:15+00:00",
                 "default-branch": true,
                 "type": "symfony-bundle",
                 "autoload": {
@@ -33,7 +144,11 @@
                         "name": "ATOS"
                     }
                 ],
-                "description": "Symfony ATOS Bundle disponibilité des lits"
+                "description": "Symfony ATOS Bundle disponibilité des lits",
+                "support": {
+                    "source": "https://github.com/grades-paca/bundle-wslits/tree/main",
+                    "issues": "https://github.com/grades-paca/bundle-wslits/issues"
+                }
             }
         ]
     }
