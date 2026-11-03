@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/msvc-messages.git",
-                    "reference": "b26538dd3b22266fb38db0e85e7833e7236f00ec"
+                    "reference": "4193f877441834a8f8f6d783a5b40c7c0e20f3b0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/b26538dd3b22266fb38db0e85e7833e7236f00ec",
-                    "reference": "b26538dd3b22266fb38db0e85e7833e7236f00ec",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-messages/zipball/4193f877441834a8f8f6d783a5b40c7c0e20f3b0",
+                    "reference": "4193f877441834a8f8f6d783a5b40c7c0e20f3b0",
                     "shasum": ""
                 },
                 "require": {
@@ -28,7 +28,7 @@
                     "friendsofphp/php-cs-fixer": "^3.59",
                     "phpunit/phpunit": "^11.3"
                 },
-                "time": "2026-10-30T07:52:44+00:00",
+                "time": "2026-11-03T14:00:11+00:00",
                 "default-branch": true,
                 "type": "library",
                 "autoload": {
@@ -38,7 +38,7 @@
                 },
                 "description": "Message classes for microservices",
                 "support": {
-                    "source": "https://github.com/grades-paca/msvc-messages/tree/1.2.0",
+                    "source": "https://github.com/grades-paca/msvc-messages/tree/1.2.1",
                     "issues": "https://github.com/grades-paca/msvc-messages/issues"
                 }
             }
