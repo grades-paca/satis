@@ -11947,12 +11947,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/msvc-base.git",
-                    "reference": "155b1a1ff3b4901c0c7fe5a877b89a3dc0d5835b"
+                    "reference": "583bc45ad375a704da73c39eb00031bf9671e0ae"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/155b1a1ff3b4901c0c7fe5a877b89a3dc0d5835b",
-                    "reference": "155b1a1ff3b4901c0c7fe5a877b89a3dc0d5835b",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/583bc45ad375a704da73c39eb00031bf9671e0ae",
+                    "reference": "583bc45ad375a704da73c39eb00031bf9671e0ae",
                     "shasum": ""
                 },
                 "require": {
@@ -12052,7 +12052,7 @@
                     "symfony/web-profiler-bundle": "7.4.*",
                     "zenstruck/messenger-test": "^1.12"
                 },
-                "time": "2026-09-02T09:47:19+00:00",
+                "time": "2026-10-30T09:12:13+00:00",
                 "type": "project",
                 "extra": {
                     "symfony": {
@@ -12101,7 +12101,7 @@
                 ],
                 "description": "A minimal Symfony project recommended to create bare bones applications",
                 "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/develop",
+                    "source": "https://github.com/grades-paca/msvc-base/tree/v2.0.7",
                     "issues": "https://github.com/grades-paca/msvc-base/issues"
                 }
             },
@@ -13094,12 +13094,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:grades-paca/msvc-base.git",
-                    "reference": "168655a6d327562dac6f4112939f99da8fbacc72"
+                    "reference": "583bc45ad375a704da73c39eb00031bf9671e0ae"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/168655a6d327562dac6f4112939f99da8fbacc72",
-                    "reference": "168655a6d327562dac6f4112939f99da8fbacc72",
+                    "url": "https://api.github.com/repos/grades-paca/msvc-base/zipball/583bc45ad375a704da73c39eb00031bf9671e0ae",
+                    "reference": "583bc45ad375a704da73c39eb00031bf9671e0ae",
                     "shasum": ""
                 },
                 "require": {
@@ -13199,7 +13199,7 @@
                     "symfony/web-profiler-bundle": "7.4.*",
                     "zenstruck/messenger-test": "^1.12"
                 },
-                "time": "2026-10-19T14:36:43+00:00",
+                "time": "2026-10-30T09:12:13+00:00",
                 "default-branch": true,
                 "type": "project",
                 "extra": {
@@ -13249,7 +13249,7 @@
                 ],
                 "description": "A minimal Symfony project recommended to create bare bones applications",
                 "support": {
-                    "source": "https://github.com/grades-paca/msvc-base/tree/v2.0.6",
+                    "source": "https://github.com/grades-paca/msvc-base/tree/v2.0.7",
                     "issues": "https://github.com/grades-paca/msvc-base/issues"
                 }
             },
